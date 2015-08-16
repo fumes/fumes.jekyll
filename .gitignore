@@ -1,3 +1,6 @@
 _site/
 .sass-cache/
 uploads/*.*
+node_modules/*.*
+Icon
+.jekyll
