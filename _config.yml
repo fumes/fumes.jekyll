@@ -1,0 +1,215 @@
+# Site settings
+version: 3.3.4
+title: Fumes
+subtitle: The Camera as a Microphone
+email: fumesmag@gmail.com
+description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
+
+
+# Site owner
+owner:
+  name: Fumes
+  avatar: 
+  email: fumesmag@gmail.com
+  web: http://fumes.junglestar.org
+  disqus-shortname:
+  twitter: #username
+  facebook: fumesmagazine
+  github: fumes
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  soundcloud: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics: 
+    verify: google32e66f1a5601ec40
+    ad-client:
+    ad-slot: 
+  bing-verify:
+
+
+# Setup
+
+###>prod ( http://toybreaker.github.io/fumes/ )
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://fumes.github.io
+# destination: ./_GHpages
+
+###>dev
+# baseurl: "/fumes"
+# url: "http://fumes.dev" # the base hostname & protocol for your site
+# destination: ./_site
+
+sass:
+  sass_dir: _sass
+  # style: :compressed
+  style: :expanded
+  # line_numbers: :butt
+  # sourcemaps: :true # not working:()
+
+excerpt_separator: <!--more-->
+
+# keep consistent with old g-indexed (seo!dude...) permalink structure
+permalink: /:categories/:title/
+
+# collect for me please...
+collections:
+ - socialicons
+
+# Build settings
+markdown: kramdown
+exclude: [gulpfile.js, package.json, .DS_Store, icon, node_modules, uploads,]
+
+
+# Plugins
+gems: 
+#- jekyll-sitemap
+
+#https://github.com/merlos/jekyll-auto-image
+- jekyll-auto-image
+
+# https://github.com/danbee/jekyll-video-tag
+- jekyll_video_tag
+
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
+#this one throw error so i just use plugin.rb instead of gem!
+#- jekyll-responsive_image 
+
+#put back jekyll-tag gem here. for now use  _plugins/categories_tags_generator.rb!
+# http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+
+
+# jekyll-auto-image setup
+image: /i/fumesyousuck_thumb.svg
+
+
+## Addons / plugins /.rb
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  # [Required]
+  # Path to the image template.
+  template: _includes/responsive-image.html
+
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 70
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 960
+      quality: 50
+    - width: 1260
+
+  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
+  # The template used when generating filenames for resized images.
+  #
+  # Parameters available are:
+  #   %{basename}  Basename of the file (assets/some-file.jpg => some-file.jpg)
+  #   %{filename}  Basename without extension (assets/some-file.jpg => some-file)
+  #   %{extension} Extension of the file (assets/some-file.jpg => jpg)
+  #   %{width}     Width of the resized image
+  #   %{height}    Height of the resized image
+  #
+  output_path_format: /i/%{width}/%{basename}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# COMPLETE defaults list. 
+# --- useful to override stuff
+
+# # Where things are
+# source:      .
+# destination: ./_site
+# plugins:     ./_plugins
+# layouts:     ./_layouts
+# data_source: ./_data
+# collections: null
+
+# # Handling Reading
+# safe:         false
+# include:      [".htaccess"]
+# exclude:      []
+# keep_files:   [".git", ".svn"]
+# encoding:     "utf-8"
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# # Filtering Content
+# show_drafts: null
+# limit_posts: 0
+# future:      true
+# unpublished: false
+
+# # Plugins
+# whitelist: []
+# gems:      []
+
+# # Conversion
+# markdown:    kramdown
+# highlighter: rouge
+# lsi:         false
+# excerpt_separator: "\n\n"
+
+# # Serving
+# detach:  false
+# port:    4000
+# host:    127.0.0.1
+# baseurl: "" # does not include hostname
+
+# # Outputting
+# permalink:     date
+# paginate_path: /page:num
+# timezone:      null
+
+# quiet:    false
+# defaults: []
+
+# # Markdown Processors
+# rdiscount:
+#   extensions: []
+
+# redcarpet:
+#   extensions: []
+
+# kramdown:
+#   auto_ids:       true
+#   footnote_nr:    1
+#   entity_output:  as_char
+#   toc_levels:     1..6
+#   smart_quotes:   lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
+
+#   coderay:
+#     coderay_wrap:              div
+#     coderay_line_numbers:      inline
+#     coderay_line_number_start: 1
+#     coderay_tab_width:         4
+#     coderay_bold_every:        10
+#     coderay_css:               style

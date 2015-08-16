@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: Who am I? Think again
+curator: rokma
+wordpress_id: 2608
+wordpress_url: http://fumes.dev/?p=2608
+date: '2014-01-12 21:09:15 +0100'
+categories: inspiring
+tags:
+- art
+- fun
+- lifestyle
+- news
+- reflect
+- under-covered
+- community
+- clever
+- artist
+- performance
+- China
+thumb: hetain-patel.jpg
+---
+
+TEDtalks: Hetain Patel: Who am I? Think again - Hetain Patel / Yuyu Rau (2013) 
+
+{% video //embed.ted.com/talks/hetain_patel_who_am_i_think_again.html width=740 height=416 %}
+
+How do we decide who we are? Hetain Patel's surprising performance plays with identity, language and accent and challenges you to think deeper than surface appearances.  
+ 
+A delightful meditation on self, with performer Yuyu Rau, and inspired by Bruce Lee. 
+
+In his compelling stage works, Hetain Patel uses powerful imagery and storytelling to examine questions of identity. <a href="http://www.ted.com/speakers/hetain_patel.html" title="Hetain Patel uses powerful imagery and storytelling to examine questions of identity. Full bio " target="_blank">Full bio &raquo;</a> 
+
+Yuyu Rau's dance skills span a wide range, from ballet to contemporary to Chinese classical. <a href="http://www.ted.com/speakers/yuyu_rau.html" title="Yuyu Rau's dance skills span a wide range, from ballet to contemporary to Chinese classical. Full bio " target="_blank">Full bio &raquo;</a> 
+
+
+###More infos from interesting comments: 
+
+<div class="blockquoter">
+
+Ben Wang, Dec 5 2013 
+<blockquote> 
+The speech is great, but as a Chinese, I have to inform the audience of the irony fact that the speecher was not really talking in Chinese. His so called "Chinese" was just repeating some certain Chinese words, and it could not be well understood. And the girl was not "interpreting" at all, namely, there's not much logical connections between the "talks" of the two speechers. Actually, they were performing very well.</blockquote> 
+
+Taylor Richards Jan 1 2014  
+<blockquote> 
+No offense intended, the so-called "translator" act was just for a humorous effect. He told the audience that he wasn't actually saying all that in Chinese.</blockquote> 
+
+Fornik Tsai, Nov 24 2013 
+
+<blockquote> 
+Through my observation, analysis, recording to understand who I am, I learned to understand and explain each person's good and bad side, in my world, I was a spectator of the world.</blockquote>
+
+</div> 
+ Read more about this speaker, find other TEDTalks, and subscribe to this Podcast series, visit <a href="http://www.ted.com/" target="_blank">TED.com</a>
+
+If you are on a mobile device, you may be able to directly
+
+<a href="http://download.ted.com/talks/HetainPatel_2013G.mp4?apikey=TEDDOWNLOAD" title="Download" target="_blank">DOWNLOAD</a> to play it. 

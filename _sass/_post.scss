@@ -1,0 +1,79 @@
+
+//BEM__ELEMENTS
+.post__header {
+    margin-bottom: $spacing-unit;
+}
+
+.post__content {
+    margin-bottom: $spacing-unit;
+
+    img{ width: 100%; max-width: 100%; }
+}
+
+//BEM--MODIFIERS
+
+
+//NON BEM ELEMENTS
+.post-meta {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    @include media( "screen", ">minWidth"){
+        margin-left: 4.5rem;
+        margin-right: 4.5rem;
+    }
+    @include media( "screen", ">bp1Width"){
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
+    font-size: $base-font-size * 1.2;
+    line-height: 1.8;
+    color: $grey-color;
+    svg {
+        max-width: 36px!important;
+        height: 36px!important;
+        }
+    .ico {
+        max-width: 36px!important;
+        height: 36px!important;
+        float: left;
+        margin-right: .75rem;
+        margin-left:-3rem;
+    }
+
+}
+
+.post-title {
+    font-size: $base-font-size * 3;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media( "screen", ">maxWidth"){
+        font-size: $base-font-size * 4;
+    }
+}
+
+svg.post {
+    font-size: $base-font-size * 3;
+    line-height: 1;
+    margin-top: .75rem;
+
+    @include media( "screen", ">maxWidth"){
+        margin-top: 1.75rem;
+    }
+}
+
+svg.tag {
+    margin-top: .75rem;
+
+    @include media( "screen", ">minWidth"){
+        margin-top: 0;
+    }
+    
+}
+
+.temp{ 
+    //display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+}

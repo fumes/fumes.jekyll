@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Aqua market
+curator: rokma
+photographer: rokma
+wordpress_id: 1132
+wordpress_url: http://fumes.dev/?p=1132
+date: '2010-12-15 14:30:30 +0100'
+categories: art
+tags:
+- B&amp;W
+- personal-works
+- H2O
+- photography
+- aqua
+- Bangkok
+- Thailand
+- water
+thumb: aquamarket.jpg
+---
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6347.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6424.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6411.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6391.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6377.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6376.jpg %}
+
+{% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6375.jpg %}
+

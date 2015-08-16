@@ -1,0 +1,47 @@
+<div class="home__posts">
+  {% for post in site.posts limit:12 %}
+    <div class="home__post">
+
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> 
+
+        <h2>{{ post.title }}</h2>
+
+        <div class="thumb">
+
+          {% if post.thumb %}
+          <img src="i/t/{{ post.thumb }}" alt="{{ post.title }}">
+          {% else %}
+          <img class="nothumb" src="i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+          {% endif %}
+
+        </div>
+
+      </a>
+    
+    </div>
+  {% endfor %}
+</div>
+
+<div class="home__posts compact">
+  {% for post in site.posts limit:20 offset:12 %}
+    <div class="home__post">
+
+      <a class="post-link {{ post.categories }}" href="{{ post.url | prepend: site.baseurl }}"> 
+
+        <h2>{{ post.title | truncatewords:2 }}</h2>
+
+        <div class="thumb">
+
+          {% if post.thumb %}
+          <img src="i/t/{{ post.thumb }}" alt="{{ post.title }}">
+          {% else %}
+          <img class="nothumb" src="i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+          {% endif %}
+
+        </div>
+
+      </a>
+    
+    </div>
+  {% endfor %}
+</div>

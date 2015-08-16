@@ -1,0 +1,13 @@
+<!-- looper-posts -->
+<div class="looper" >
+  <label>posts</label>
+  <div class="looper__ico" title="posts">
+    {% include svg/use.html id="icn--posts" class="posts" %}
+  </div>
+  {% for page in site.posts offset:32 %}
+    {% if page.title %}
+    <a class="looper__link {{ page.categories }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+

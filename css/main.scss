@@ -1,0 +1,41 @@
+---
+# Only mainSassfile needs front matter (dashes enough)
+sitemap: false
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$spacing-unit:     $base-font-size * 2; //32px
+
+$alert-color:      red;
+$brand-color:      $alert-color;
+
+$text-color:       darken(white, 25%);   
+$background-color: #161616;
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$tblack50:         rgba(0,0,0,.5);
+$twhite50:         rgba(255,255,255,.5);  
+
+// Max width of the content area
+$content-width:    1400px;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "cmq",
+        "base",
+        //"flex",
+        "layout",
+        "nav",
+        "header",
+        "home", 
+        "post",       
+        "video",
+        "footer"
+;

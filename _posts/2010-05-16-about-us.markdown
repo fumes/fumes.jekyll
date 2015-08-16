@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: About Fumes
+curator: fumes
+photographer: fumes
+wordpress_id: 1
+wordpress_url: http://fumes.dev/?p=1
+date: '2010-05-16 12:28:58 +0200'
+categories: inspiring
+tags: 
+- fun
+- useful
+- reflect
+- community
+- visual
+- transparency
+- non-profit
+thumb: hello-world.jpg
+---
+
+{% responsive_image path: uploads/2010/05/100516-hello-fumes-world.jpg %}
+
+Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
+
+Fumes are influencing our lives on a subliminal level.. just like the air we breathe.
+
+Fumes slowly travel picking up and delivering the poetry within their journeys.
+
+Fumes are non commercial, do not have a plan and move with the wind, yet we carry their essence within each of us.
+
+Fumes are free, you can easily stop breathing 'em by moving past it upwind. Enjoy!
+
+Check us out as we are updating fresh Fumes on a ... uhm, volatile basis.
+
+Now that you read the all thing 'till here, please consider writing us what's fuming in your head! Use comments, we'd def like to hear from you!
+

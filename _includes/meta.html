@@ -1,0 +1,51 @@
+<div class="post-meta capitalize">
+
+  <div class="ico post">
+    {% include svg/use.html id="icn--post" class="post" %}
+  </div>
+  <h1 class="post-title">{{ page.title }}</h1>
+  
+  {% if page.categories %}
+  <div class="ico categories">
+    {% include svg/use.html id="icn--categories" class="categories" %}
+  </div>
+  <h4 class="categories">{{ page.categories }} </h4>
+  {% endif %}
+
+  
+  {% if page.photographer %}
+  <div class="ico photographer">
+    {% include svg/use.html id="icn--photographer" class="photographer" %}
+  </div>
+  <p class="photog"> {{ page.photographer }}</p>
+  {% endif %}
+
+  {% if page.curator %} 
+  <div class="ico curator">
+    {% include svg/use.html id="icn--curator" class="curator" %}
+  </div>
+  <p class="curator"> {{ page.curator }}</p>
+  {% endif %}
+
+
+  <div class="ico tag">
+    {% include svg/use.html id="icn--tag" class="tag" %}
+  </div>
+  <p class="tags">{% for tag in page.tags %}
+    <a href="{{site.baseurl}}/tags/{{tag|downcase|slugize}}/">{{tag}}</a>
+    {% unless forloop.last %}, {% endunless %} {% endfor %}
+  </p>
+
+  
+  <div class="ico date">
+    {% include svg/use.html id="icn--date" class="date" %}
+  </div>
+  <p class="date">{{ page.date | date: "%b %-d, %Y" }}</p>
+
+
+
+<!--   <p class="temp" style="text-align: right;" >
+    <a target="_blank" href="{{ page.wordpress_url}}">Fumes2.0Link</a>
+  </p> -->
+
+</div>

@@ -1,0 +1,10 @@
+---
+name: facebook
+gourl: https://www.facebook.com/fumesmagazine
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+    <g fill-rule="evenodd" clip-rule="evenodd">
+        <path d="M22 11c0-6.075-4.925-11-11-11S0 4.925 0 11s4.925 11 11 11 11-4.925 11-11zM1 11C1 5.477 5.477 1 11 1s10 4.477 10 10-4.477 10-10 10S1 16.523 1 11z"/>
+        <path d="M11.422 17.35V11h2.095l.33-2.104h-2.425V7.84c0-.548.18-1.072.968-1.072h1.575v-2.1H11.73c-1.88 0-2.394 1.238-2.394 2.954v1.273h-1.29V11h1.29v6.35h2.086z"/>
+    </g>
+</svg>

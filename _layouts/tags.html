@@ -1,0 +1,16 @@
+---
+layout: default
+source: http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+ref: http://www.minddust.com/post/tags-and-categories-on-github-pages/
+---
+<h1 class="capitalize">{{ page.tag }}</h1>
+
+<div class="taglist">
+    {% if site.tags[page.tag] %}
+        {% for post in site.tags[page.tag] %}
+           • <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endfor %}
+    {% else %}
+        <p>There are no posts for this tag.</p>
+    {% endif %}
+</div>

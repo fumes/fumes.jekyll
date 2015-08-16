@@ -1,0 +1,21 @@
+{
+  "name": "fumes",
+  "version": "3.3.4",
+  "description": "gulp + ruby-sass + smaps + brosync + jekyll = gail!",
+  "main": "gulpfile.js",
+  "private": true,
+  "author": "toybreaker",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-filter": "^2.0.2",
+    "gulp-gh-pages": "^0.5.2",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-svgmin": "^1.2.0"
+  },
+  "dependencies": {
+    "imager.js": "^0.5.0"
+  }
+}
