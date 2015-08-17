@@ -23,7 +23,7 @@
 
 ## Fumes Website Features  
 ✓ serious responsive image with [this](https://github.com/wildlyinaccurate/jekyll-responsive-image) and [imager.js](https://github.com/BBC-News/Imager.js/)  
-✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma 
+✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma  
 ✓ tag navigation  
 ✓ prev next navigation  
 
