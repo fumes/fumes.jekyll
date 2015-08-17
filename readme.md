@@ -21,16 +21,21 @@
 - install service workers
 
 
-## Fumes Features
-
-✓ serious responsive image delivery with [imager.js](https://github.com/BBC-News/Imager.js/)  
+## Fumes Features  
+✓ serious responsive image with [imager.js](https://github.com/BBC-News/Imager.js/)  
+✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma 
 ✓ tag navigation  
 ✓ prev next navigation  
-✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma 
 
-✘ Categories navitation
-✘ No plugins
-✘ print.css
-✘ service workers
-✘ open graph
+✘ Categories navitation  
+✘ No plugins  
+✘ print.css  
+✘ service workers  
+✘ open graph  
 ✘ twitter cards
+
+## Photo rights
+All photos © the authors. All photos right reserved.  
+Everything else is GPL.
+
+
