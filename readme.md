@@ -1,16 +1,19 @@
-###to do
+###structure
+the real master in <source> branch, 
+the compiled jekyll _site (yup, got plugins..) in <master> branch
 
-Urgent:
+##To do
+
+###Urgent:
 - github 
 - change domain pointer 
 - propagation
 
-Sometime soon:
+###Sometime soon:
 - open graph
 - twitter cards
 - automatic rake publish script
 
-
-One day:
+###One day:
 - https
 - install service workers
