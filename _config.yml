@@ -41,15 +41,11 @@ owner:
 baseurl: ""
 
 ###>OLD ( http://toybreaker.github.io/fumes/ )
-url: http://fumes.github.io
-
-###>dev
-# url: "http://fumes.dev"
+url: http://fumes.github.io #dev url: "http://fumes.dev"
 
 sass:
   sass_dir: _sass
-  # style: :compressed
-  style: :expanded
+  style: :expanded # To minify use :compressed
 
 excerpt_separator: <!--more-->
 
