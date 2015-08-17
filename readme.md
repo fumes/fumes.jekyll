@@ -1,6 +1,6 @@
 ## Structure
-the real master in <source> branch, 
-the compiled jekyll _site (yup, got plugins..) in <master> branch
+the real master in  ` **source** ` branch, 
+the compiled jekyll _site (yup, got plugins..) in ` master ` branch
 
 ## To do
 
@@ -17,3 +17,8 @@ the compiled jekyll _site (yup, got plugins..) in <master> branch
 ##### One day:
 - https
 - install service workers
+
+## Fumes Features
+✓ serious responsive image
+
+✘ No plugins  
