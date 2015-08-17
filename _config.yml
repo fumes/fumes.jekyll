@@ -80,7 +80,7 @@ gems:
 - jekyll-auto-image
 
 # https://github.com/danbee/jekyll-video-tag
-- jekyll-video-tag
+- jekyll_video_tag
 
 #throw error so use plugin instead!
 #- jekyll-responsive_image 

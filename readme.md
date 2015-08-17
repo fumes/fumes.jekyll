@@ -24,9 +24,10 @@
 ## Fumes Website Features  
 ✓ serious responsive image with [this](https://github.com/wildlyinaccurate/jekyll-responsive-image) and [imager.js](https://github.com/BBC-News/Imager.js/)  
 ✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma  
-✓ smart inline svg icons like []()  
-✓ tag navigation  
-✓ prev next navigation  
+✓ smart inline svg icons [like this..](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg)  
+✓ [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation  
+✓ prev-next navigation  
+
 
 ✘ Categories navitation  
 ✘ No plugins  
