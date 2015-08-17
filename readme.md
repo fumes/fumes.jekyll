@@ -21,8 +21,8 @@
 - install service workers
 
 
-## Fumes Features  
-✓ serious responsive image with [imager.js](https://github.com/BBC-News/Imager.js/)  
+## Fumes Website Features  
+✓ serious responsive image with [this](https://github.com/wildlyinaccurate/jekyll-responsive-image) and [imager.js](https://github.com/BBC-News/Imager.js/)  
 ✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma 
 ✓ tag navigation  
 ✓ prev next navigation  
@@ -35,7 +35,7 @@
 ✘ twitter cards
 
 ## Photo rights
-All photos © the authors. All photos right reserved.  
+All photos © the authors. All photos rights reserved.  
 Everything else is GPL.
 
 
