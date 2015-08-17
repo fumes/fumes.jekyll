@@ -24,17 +24,13 @@
 ## Fumes Features
 
 ✓ serious responsive image delivery with [imager.js](https://github.com/BBC-News/Imager.js/)
-
-✓ tag navigation 
-
+✓ tag navigation
 ✓ prev next navigation
-
 ✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma 
 
 ✘ Categories navitation
-
 ✘ No plugins  
-
-✘ https
-
+✘ print.css
 ✘ service workers
+✘ open graph
+✘ twitter cards
