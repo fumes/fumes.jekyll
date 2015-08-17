@@ -1,10 +1,11 @@
 # Site settings
-version: 3.3.5
 title: Fumes
 subtitle: The Camera as a Microphone
 email: fumesmag@gmail.com
 description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
 
+# The release of Fumes Project that you're using
+version: v3.3.5
 
 # Site owner
 owner:
@@ -31,23 +32,24 @@ owner:
   bing-verify:
 
 
-# Setup
+# BUILD SETTINGS
 
-###>prod ( http://toybreaker.github.io/fumes/ )
-baseurl: "" # the subpath of your site, e.g. /blog/
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+###>OLD ( http://toybreaker.github.io/fumes/ )
 url: http://fumes.github.io
 
 ###>dev
-# baseurl: "/fumes"
-# url: "http://fumes.dev" # the base hostname & protocol for your site
-# destination: ./_site
+# url: "http://fumes.dev"
 
 sass:
   sass_dir: _sass
   # style: :compressed
   style: :expanded
-  # line_numbers: :butt
-  # sourcemaps: :true # not working:()
 
 excerpt_separator: <!--more-->
 
@@ -58,35 +60,47 @@ permalink: /:categories/:title/
 collections:
  - socialicons
 
-# Build settings
-markdown: kramdown
-exclude: [gulpfile.js, package.json, .DS_Store, icon, node_modules, uploads,]
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - gulpfile.js
+  - package.json
+  - DS_Store
+  - icon
+  - node_modules
+  - uploads
 
 
-# Plugins
 gems: 
-#- jekyll-sitemap
 
-#https://github.com/merlos/jekyll-auto-image
+# Create a sitemap using the official Jekyll sitemap gem
+- jekyll-sitemap 
+
+# https://github.com/merlos/jekyll-auto-image
 - jekyll-auto-image
 
 # https://github.com/danbee/jekyll-video-tag
 - jekyll-video-tag
 
-#this one throw error so use plugin instead!
+#throw error so use plugin instead!
 #- jekyll-responsive_image 
 
-#jekyll-tag gem here? 
-# Now using _plugins/categories_tags_generator.rb!
-# http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+# jekyll-tag? Now using _plugins/categories_tags_generator.rb!
+#  http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+#- jekyll-tag
 
+
+# PLUGINS SETUP
 
 # jekyll-auto-image setup
 image: /i/fumesyousuck_thumb.svg
 
-
 ## Addons / plugins /.rb
-#https://github.com/wildlyinaccurate/jekyll-responsive-image
+# https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
   # [Required]
   # Path to the image template.
@@ -121,6 +135,8 @@ responsive_image:
 
 
 
+# URL of your avatar (you could use your GitHub profile pic)
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 
