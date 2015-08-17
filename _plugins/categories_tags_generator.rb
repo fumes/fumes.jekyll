@@ -2,7 +2,7 @@ module Jekyll
   class TagsGenerator < Generator
 
     def generate(site)
-        tags_dir = Dir.pwd + '/fumes/tags'
+        tags_dir = Dir.pwd + '/tags'
 
         if !Dir.exists?(tags_dir)
             puts "Creating tags dir"
@@ -14,7 +14,7 @@ module Jekyll
            if !File.exists?(tags_dir + '/' + i[0])
                puts "Creating tag page for: " + i[0]
                tag_file = File.new(tags_dir + '/' + i[0], "w")
-               tag_file.puts("---\nlayout: tags\ntag: " + i[0] + "\npermalink: /fumes/tags/" + i[0] + "/\n---")
+               tag_file.puts("---\nlayout: tags\ntag: " + i[0] + "\npermalink: /tags/" + i[0] + "/\n---")
                tag_file.close
 
                regenerate_flag = true
