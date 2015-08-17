@@ -73,11 +73,11 @@ gems:
 # https://github.com/danbee/jekyll-video-tag
 - jekyll-video-tag
 
-#https://github.com/wildlyinaccurate/jekyll-responsive-image
-#this one throw error so i just use plugin.rb instead of gem!
+#this one throw error so use plugin instead!
 #- jekyll-responsive_image 
 
-#put back jekyll-tag gem here. for now use  _plugins/categories_tags_generator.rb!
+#jekyll-tag gem here? 
+# Now using _plugins/categories_tags_generator.rb!
 # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
 
