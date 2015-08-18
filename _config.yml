@@ -93,7 +93,7 @@ gems:
 # PLUGINS SETUP
 
 # jekyll-auto-image setup
-image: /i/fumesyousuck_thumb.svg
+image: /i/t/fumesyousuck_thumb.svg
 
 ## Addons / plugins /.rb
 # https://github.com/wildlyinaccurate/jekyll-responsive-image

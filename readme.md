@@ -21,6 +21,7 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 - twitter cards
 - automatic rake publish script
 - improve gulp tasks
+- use authors.yml
 
 ##### One day:
 - https
