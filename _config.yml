@@ -47,7 +47,7 @@ sass:
   sass_dir: _sass
   style: :expanded # To minify use :compressed
 
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 
 # keep consistent with old g-indexed (seo!dude...) permalink structure
 permalink: /:categories/:title/
