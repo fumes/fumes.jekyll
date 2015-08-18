@@ -33,7 +33,7 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 ✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/)  
 ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg)  
 ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation  
-✓ Front-matter declared [thumbs](https://github.com/merlos/jekyll-auto-image)  
+✓ Auto post thumbs. Get first image or front-matter declared [thumbs](https://github.com/merlos/jekyll-auto-image)  
 ✓ prev-next navigation  
 
 
