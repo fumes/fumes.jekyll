@@ -42,7 +42,7 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 ✘ print.css  
 ✘ service workers  
 ✘ open graph  
-✘ twitter cards
+✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)
 ✘ disqus
 ✘ twitter setup
 ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)
