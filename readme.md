@@ -1,3 +1,7 @@
+##what?^#@
+_Fumes is an online photography magazine broadcasting human interest stories mainly from south east asia._
+
+
 ## Structure
 - Real master live in the ` source ` branch, 
 - Compiled jekyll ` _site ` (yup, it still needs plugins..) in ` master ` branch
