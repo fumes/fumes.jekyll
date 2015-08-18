@@ -74,7 +74,7 @@ exclude:
 gems: 
 
 # Create a sitemap using the official Jekyll sitemap gem
-- jekyll-sitemap 
+# - jekyll-sitemap 
 
 # https://github.com/merlos/jekyll-auto-image
 - jekyll-auto-image
