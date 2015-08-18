@@ -52,7 +52,8 @@ gulp.task('default', ['serve']);
 // https://github.com/sindresorhus/sublime-autoprefixer
 
 // howto:
-// 1. "gulp" to process stykes + new terminal window
-// 2. "jekyll s" to make jekyll do his job
+// 1. "gulp" to process styles 
+// 2. + new terminal window
+// 3. "jekyll s" to make jekyll do his job
 
 
