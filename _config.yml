@@ -10,7 +10,7 @@ version: v3.3.5
 # Site owner
 owner:
   name: Fumes
-  avatar: 
+  avatar_url: 
   email: fumesmag@gmail.com
   link: http://fumes.junglestar.org
   disqus-shortname:

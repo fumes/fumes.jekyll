@@ -1,5 +1,7 @@
 ##what?^#@
-_Fumes is an online photography magazine broadcasting human interest stories mainly from south east asia._
+_Fumes is an online photography magazine broadcasting human interest stories mainly from south east asia._ 
+_Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
+_Fumes is now refactored. Articles are structured as `photographer`/`curator`   symbiotic relationships. This hopefully will bloom greener fumes soon..._
 
 
 ## Structure
@@ -26,10 +28,11 @@ _Fumes is an online photography magazine broadcasting human interest stories mai
 
 
 ## Fumes Website Features  
-✓ serious responsive image with [this](https://github.com/wildlyinaccurate/jekyll-responsive-image) and [imager.js](https://github.com/BBC-News/Imager.js/)  
-✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) by rokma  
-✓ smart inline svg icons [like this..](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg)  
-✓ [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation  
+✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/)  
+✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/)  
+✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg)  
+✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation  
+✓ Front-matter declared [thumbs](https://github.com/merlos/jekyll-auto-image)  
 ✓ prev-next navigation  
 
 
@@ -39,11 +42,21 @@ _Fumes is an online photography magazine broadcasting human interest stories mai
 ✘ service workers  
 ✘ open graph  
 ✘ twitter cards
+✘ disqus
+✘ twitter setup
+✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)
+✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)
 
 ## Dependencies/Plugins
 - [jekyll-auto-image](https://github.com/merlos/jekyll-auto-image)
-- [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag )  
+- [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag ) 
+- [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image) 
+- [imager.js](https://github.com/BBC-News/Imager.js/)
 + *.rb in ` _plugins ` 
+
+## More credits
+- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)
+
 
 ## Photo rights
 All photos © the authors. All photos rights reserved.  

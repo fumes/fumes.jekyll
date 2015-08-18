@@ -2,6 +2,7 @@ rokma:
   name: rokma
   bio: "different but same same..."
   email: me@rokma.com
+  avatar_url:
   gravatar: 
   url: http://rokma.com
   twitter: rokma
@@ -13,6 +14,7 @@ alej:
   name: Alejandro Plesch
   bio: "The camera as a microphone..."
   email:
+  avatar_url:
   gravatar: 
   url: http://alejandroplesch.com
   twitter:
@@ -24,6 +26,7 @@ luci:
   name: Luciana Ferrero
   bio:
   email:
+  avatar_url:
   gravatar:
   url: http://luciferrero.asia
   twitter:
@@ -35,6 +38,7 @@ lance:
   name: Lance Slabbert
   bio:
   email:
+  avatar_url:
   gravatar:
   url:
   twitter:
