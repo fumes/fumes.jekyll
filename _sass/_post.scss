@@ -29,8 +29,9 @@
     line-height: 1.8;
     color: $grey-color;
     svg {
-        max-width: 36px!important;
-        height: 36px!important;
+            max-width: 36px!important;
+            height: 36px!important;
+            fill: $twhite50;
         }
     .ico {
         max-width: 36px!important;
@@ -52,13 +53,13 @@
     }
 }
 
-svg.post {
+svg.posts {
     font-size: $base-font-size * 3;
     line-height: 1;
     margin-top: .75rem;
 
     @include media( "screen", ">maxWidth"){
-        margin-top: 1.75rem;
+        margin-top: 1rem;
     }
 }
 

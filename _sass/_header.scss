@@ -26,6 +26,8 @@
 
     &,
     &:visited {color: darken(white, 15%);}
+    
+    //&:hover {color: lighten($grey-color, 15%);}
 }
 
 .header__subtitle{
@@ -47,6 +49,19 @@
     top:0;
     width:100%;
     padding: 3rem;
+
+    @include media( "screen", "<minWidth"){
+        top: 4vh;
+        line-height: 10vw;
+        font-size: 33vh;
+    }
+
+    @include media( "screen", ">maxWidth"){
+        line-height: 10vw;
+        font-size: 33vh;
+        > * { margin: 0 -5vw; } 
+    }
+
     > * {
         display: inline-block;
         padding:0;
@@ -54,63 +69,55 @@
         color: #555;
         opacity: .2;
     }
-    @include media( "screen", "<minWidth"){
-        top: 4vh;
-        font-size: 33vh;
-    }
-
-    @include media( "screen", ">maxWidth"){
-        font-size: 33vh;
-        > * { margin: 0 -5vw; } 
-    }
 }
 
 .u {
+  color: orange;
+  color: hsla(0, 100%, 100%, 0.5);
+  -webkit-transform: rotateX(180deg);
+  -moz-transform: rotateX(180deg);
+  -ms-transform: rotateX(180deg);
+  
+  -webkit-transform-origin: 50% 47%;
+  -ms-transform-origin: 50% 47%;
+  transform-origin: 50% 47%;
+    
+  -webkit-backface-visibility: visible;
+  -moz-backface-visibility:    visible;
+  -ms-backface-visibility:     visible;
+    
+  &:hover{
     color: orange;
-    color: hsla(0, 100%, 100%, 0.5);
-    -webkit-transform: rotateX(180deg);
-    -moz-transform: rotateX(180deg);
-    -ms-transform: rotateX(180deg);
-
-    -webkit-transform-origin: 50% 47%;
-    -ms-transform-origin: 50% 47%;
-    transform-origin: 50% 47%;
-
-    -webkit-backface-visibility: visible;
-    -moz-backface-visibility:    visible;
-    -ms-backface-visibility:     visible;
-        
-    &:hover{
-        color: orange;
-        color: hsla(12, 100%, 50%, 1);
-        opacity:1;
-        -webkit-transform: rotateX(0deg);
-        -moz-transform: rotateX(0deg);
-        -ms-transform: rotateX(0deg);
-    }
+    color: hsla(12, 100%, 50%, 1);
+    opacity:1;
+    -webkit-transform: rotateX(0deg);
+    -moz-transform: rotateX(0deg);
+    -ms-transform: rotateX(0deg);
+  }
 }
 
 .e {
-    color: white;
-    color: hsla(0, 100%, 100%, 0.5);
+  color: white;
+  color: hsla(0, 100%, 50%, .5);
+  color: hsla(0, 100%, 100%, 0.5);
 
-    -webkit-transform: rotateY(180deg);
-    -moz-transform: rotateY(180deg);
-    -ms-transform: rotateY(180deg);
-
-    -webkit-transform-origin: 50% 50%;
-    -ms-transform-origin: 50% 50%;
-    transform-origin: 50% 50%;
-
-    -webkit-backface-visibility: visible;
-    -moz-backface-visibility:    visible;
-    -ms-backface-visibility:     visible;
-    &:hover{
-        color:yellow;
-        color: hsla(12, 100%, 50%, 1);
-        opacity:1;
-        -webkit-transform: rotateX(0deg);
-        -moz-transform: rotateX(0deg);
-        -ms-transform: rotateX(0deg);
-    }  
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+    
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  
+  -webkit-backface-visibility: visible;
+  -moz-backface-visibility:    visible;
+  -ms-backface-visibility:     visible;
+  &:hover{
+    color:yellow;
+    color: hsla(12, 100%, 50%, 1);
+    opacity:1;
+    -webkit-transform: rotateX(0deg);
+    -moz-transform: rotateX(0deg);
+    -ms-transform: rotateX(0deg);
+  }  
 }

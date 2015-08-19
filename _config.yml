@@ -3,20 +3,19 @@ title: Fumes
 subtitle: The Camera as a Microphone
 email: fumesmag@gmail.com
 description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
-
-# The release of Fumes Project that you're using
-version: v3.3.6
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://f.dev" # the base hostname & protocol for your site
 
 # Site owner
 owner:
   name: Fumes
-  avatar_url: 
+  avatar: 
   email: fumesmag@gmail.com
-  link: http://fumes.junglestar.org
+  web: http://fumes.junglestar.org
   disqus-shortname:
   twitter: #username
   facebook: fumesmagazine
-  github: fumes
+  github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   soundcloud: #username
@@ -25,29 +24,24 @@ owner:
   tumblr: #username
   google:
     plus: #username
-    analytics: UA-16659805-1
+    analytics: 
     verify: google32e66f1a5601ec40
     ad-client:
     ad-slot: 
   bing-verify:
 
 
-# BUILD SETTINGS
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
 
-###>OLD ( http://toybreaker.github.io/fumes/ )
-url: http://fumes.github.io #dev url: "http://fumes.dev"
-
+# Setup
 sass:
   sass_dir: _sass
-  style: :expanded # To minify use :compressed
+  # style: :compressed
+  style: :expanded
+  # line_numbers: :butt
+  # sourcemaps: :true # not working:()
 
-#excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
 # keep consistent with old g-indexed (seo!dude...) permalink structure
 permalink: /:categories/:title/
@@ -56,41 +50,35 @@ permalink: /:categories/:title/
 collections:
  - socialicons
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - gulpfile.js
-  - package.json
-  - DS_Store
-  - icon
-  - node_modules
-  - uploads
+# Build settings
+markdown: kramdown
+exclude: [gulpfile.js, package.json, .DS_Store, icon, node_modules, uploads,]
 
 
+# Plugins
 gems: 
+#- jekyll-sitemap
 
-# Create a sitemap using the official Jekyll sitemap gem
-# - jekyll-sitemap 
+#https://github.com/merlos/jekyll-auto-image
+- jekyll-auto-image
 
 # https://github.com/danbee/jekyll-video-tag
-- jekyll_video_tag
+- jekyll_video_tag 
 
-# throw error....
-- jekyll-responsive_image
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
+#this one throw error so i just use plugin.rb instead of gem!
+#- jekyll-responsive_image 
 
-# jekyll-tag? Now using _plugins/categories_tags_generator.rb!
-#  http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
-#- jekyll-tag
+#put back jekyll-tag gem here. for now use  _plugins/categories_tags_generator.rb!
+# http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
 
-# PLUGINS SETUP
+# jekyll-auto-image setup
+image: /assets/i/fumesyousuck_thumb.svg
+
 
 ## Addons / plugins /.rb
-# https://github.com/wildlyinaccurate/jekyll-responsive-image
+
 responsive_image:
   # [Required]
   # Path to the image template.
@@ -120,13 +108,11 @@ responsive_image:
   #   %{width}     Width of the resized image
   #   %{height}    Height of the resized image
   #
-  output_path_format: /i/%{width}/%{basename}
+  output_path_format: assets/i/%{width}/%{basename}
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
 
 
 
-
-# URL of your avatar (you could use your GitHub profile pic)
-#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 

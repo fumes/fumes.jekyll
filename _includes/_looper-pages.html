@@ -1,0 +1,10 @@
+<!-- looper-pages -->
+<div class="looper">
+  <label>pages</label>
+  <div class="looper__ico" title="pages">{% include svg/page.svg %}</div>
+  {% for page in site.pages %}
+    {% if page.title %}
+    <a class="looper__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endif %}
+  {% endfor %}
+</div>

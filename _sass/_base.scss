@@ -81,17 +81,9 @@ a {
     color: darken($grey-color-light, 15%);
     text-decoration: none;
 
-    svg{ fill: darken($alert-color, 25%);}
-
-    &:hover {
-        color: $alert-color;
-        svg { fill: $alert-color;}
-    }
     &:visited {color: darken($grey-color-light, 25%);}
-
+    &:hover {color: $alert-color;}
     &:visited:hover {color: $alert-color;}
-
-    
 }
 
 
@@ -108,10 +100,21 @@ blockquote {
 }
 
 //SVGs
-svg{
-    width:100%;
-    fill: $twhite50;
-    path { fill: inherit;}
+svg path { 
+    fill: inherit;
+ }
+
+
+//Icons
+.icon {
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path { fill: $grey-color; }
+    }
 }
 
 
