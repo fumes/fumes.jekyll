@@ -1,16 +1,18 @@
 
 //BEM__ELEMENTS
-.post__header { margin-bottom: $spacing-unit; }
+.post__header { 
+    margin-bottom: $spacing-unit * 2; 
+}
 
 .post__content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
 
     img{ width: 100%; max-width: 100%; }
 }
 
-.license {
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
+.post__license {
+    margin-top: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 2;
     margin-left: 15%;
     position: relative;
     width: 70%;
@@ -23,10 +25,7 @@
     .ico{
         display: inline;
         position: absolute;
-        top:$spacing-unit/4;
-        @include media( "screen", ">minWidth"){
-           top: -$spacing-unit/6; 
-        }
+        top:$spacing-unit/6;
     }
     .ico.post{top: $spacing-unit;}
     svg{

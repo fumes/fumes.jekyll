@@ -1,8 +1,8 @@
-<div class="license">
+<div class="post__license">
   {% if page.photographer %}
   {% if page.license %}
     <div class="ico">
-      {% include svg/use.html id="icn--info" class="license" %}
+      {% include svg/use.html id="icn--info" class="info" %}
     </div>
 
     <h5 class="">All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. Released under {{ page.license }} license.

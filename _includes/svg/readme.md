@@ -1,3 +1,5 @@
+##SVG readme
+
 in _includes need to have:
 - use.html // here just some liquid logic
 - def.html // here you put all your grafix one per symbol!

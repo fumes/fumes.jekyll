@@ -686,7 +686,7 @@ nav.nav--posts {
   max-width: 100%;
 }
 
-.license {
+.post__license {
   margin-top: 32px;
   margin-bottom: 32px;
   margin-left: 15%;
@@ -694,25 +694,20 @@ nav.nav--posts {
   width: 70%;
   max-width: 70%;
 }
-.license h5 {
+.post__license h5 {
   margin-bottom: 0;
   float: left;
   display: inline;
 }
-.license .ico {
+.post__license .ico {
   display: inline;
   position: absolute;
-  top: 8px;
+  top: 5.33333px;
 }
-@media only screen and (min-width: 601px) {
-  .license .ico {
-    top: -5.33333px;
-  }
-}
-.license .ico.post {
+.post__license .ico.post {
   top: 32px;
 }
-.license svg {
+.post__license svg {
   height: 100%;
 }
 
