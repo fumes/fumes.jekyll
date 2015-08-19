@@ -28,7 +28,7 @@ tags:
 - unity
 - Java
 - documentary
-license:
+license: CC BY
 thumb: unity.jpg
 ---
 Indonesia's experience in pushing harmony and acceptance of differences lays his roots in the Pancasila principles.   

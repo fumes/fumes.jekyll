@@ -24,7 +24,7 @@ tags:
 - spirits
 - tradition
 - visual
-license:
+license: CC BY-NC-ND
 thumb: ogoh.jpg
 ---
 
