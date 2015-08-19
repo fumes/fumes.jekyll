@@ -20,6 +20,7 @@ tags:
 - review
 - useful
 - visual
+license:
 thumb: motivations.jpg
 ---
 

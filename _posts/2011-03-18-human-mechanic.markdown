@@ -17,6 +17,7 @@ tags:
 - healer
 - pain
 - documentary
+license:
 thumb: urut.jpg
 ---
 Pak Mat Djabin is a traditional javanese healer specializing in "Urut" massage. 

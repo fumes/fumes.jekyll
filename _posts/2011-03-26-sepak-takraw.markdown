@@ -17,6 +17,7 @@ tags:
 - Malaysia
 - sport
 - tradition
+license:
 thumb: sepak.jpg
 ---
 Sepak Takraw is a sport popular throughout South East Asia.  

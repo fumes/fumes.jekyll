@@ -19,6 +19,7 @@ tags:
 - tradition
 - celebration
 - China
+license:
 thumb: snaking.jpg
 ---
 

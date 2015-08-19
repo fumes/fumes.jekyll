@@ -22,6 +22,7 @@ tags:
 - street-art 
 - useful 
 - visual
+license:
 thumb: favela.jpg
 ---
 

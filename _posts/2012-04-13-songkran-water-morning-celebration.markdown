@@ -24,6 +24,7 @@ tags:
 - Phuket
 - celebration
 - pain
+license:
 thumb: songkran-morning.jpg
 ---
 

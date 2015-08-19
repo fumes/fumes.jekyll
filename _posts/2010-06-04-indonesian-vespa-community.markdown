@@ -28,6 +28,7 @@ tags:
 - documentary
 - celebration
 - fun
+license:
 thumb: vespa.jpg
 ---
 The Indonesian Vespa Scooterist Community is a gang of rasta commandos who ride for inter-island brotherhood.

@@ -16,6 +16,7 @@ tags:
 - Congo
 - Africa
 - pain
+license:
 thumb: congo.jpg
 ---
 

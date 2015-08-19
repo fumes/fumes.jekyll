@@ -18,6 +18,7 @@ tags:
 - review
 - sustainability
 - useful
+license:
 thumb: building-smart.jpg
 ---
 

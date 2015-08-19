@@ -22,6 +22,7 @@ tags:
 - Songkran
 - Phuket
 - celebration
+license:
 thumb: songkran-festival.jpg
 ---
 

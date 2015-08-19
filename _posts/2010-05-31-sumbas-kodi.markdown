@@ -21,6 +21,7 @@ tags:
 - Sumba
 - indonesian-heroes
 - documentary
+license:
 thumb: sumba.jpg
 ---
 For 350 years, the Dutch colonized the vast archipelago of Indonesia but never even managed to set up an administrative post on the island of Sumba.

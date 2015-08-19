@@ -22,6 +22,7 @@ tags:
 - solar-panels
 - water
 - design
+license:
 thumb: plantas-nomadas.jpg
 ---
 

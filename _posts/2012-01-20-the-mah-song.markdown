@@ -24,6 +24,7 @@ tags:
 - Gods
 - pain
 - documentary
+license:
 thumb: mah.jpg
 ---
 Marionettes of Spirits, The Mah Song. 

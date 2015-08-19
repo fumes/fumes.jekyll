@@ -18,6 +18,7 @@ tags:
 - lombok
 - San-Francisco
 - Hongkong
+license:
 thumb: timelapse.jpg
 ---
 

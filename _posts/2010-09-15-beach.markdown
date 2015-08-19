@@ -18,6 +18,7 @@ tags:
 - glamour
 - editorial
 - water
+license:
 thumb: beach.jpg
 ---
 

@@ -258,11 +258,17 @@ a {
   color: #c2c2c2;
   text-decoration: none;
 }
-a:visited {
-  color: #a8a8a8;
+a svg {
+  fill: maroon;
 }
 a:hover {
   color: red;
+}
+a:hover svg {
+  fill: red;
+}
+a:visited {
+  color: #a8a8a8;
 }
 a:visited:hover {
   color: red;
@@ -280,18 +286,12 @@ blockquote > :last-child {
   margin-bottom: 0;
 }
 
+svg {
+  width: 100%;
+  fill: rgba(255, 255, 255, 0.5);
+}
 svg path {
   fill: inherit;
-}
-
-.icon > svg {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  vertical-align: middle;
-}
-.icon > svg path {
-  fill: #828282;
 }
 
 pre,
@@ -390,7 +390,7 @@ nav.nav--tags {
   position: relative;
   left: calc(50% - 2rem);
   margin: 0 auto;
-  fill: white;
+  fill: rgba(255, 255, 255, 0.5);
 }
 
 .looper__link {
@@ -408,23 +408,29 @@ nav.nav--tags {
 
 .nav__link {
   width: 5vw;
+  height: 5vw;
   min-width: 60px;
+  min-height: 60px;
   position: absolute;
-  opacity: .5;
+  top: 0;
+  display: block;
 }
 @media only screen and (min-width: 601px) and (max-width: 1260px) {
   .nav__link {
     min-width: 70px;
+    min-height: 70px;
   }
 }
 @media only screen and (min-width: 1261px) {
   .nav__link {
     position: fixed;
     max-width: 60px;
+    max-height: 60px;
   }
 }
-.nav__link:hover {
-  opacity: 1;
+.nav__link svg {
+  position: absolute;
+  top: -35px;
 }
 
 .nav__link--left {

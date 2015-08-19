@@ -18,6 +18,7 @@ tags:
 - under-covered
 - clever
 - technology
+license:
 thumb: seeds.jpg
 ---
 

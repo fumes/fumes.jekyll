@@ -17,6 +17,7 @@ tags:
 - reflect
 - community
 - clever
+license:
 thumb: numbeo.jpg
 ---
 
