@@ -5,11 +5,7 @@ email: fumesmag@gmail.com
 description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
 
 # The release of Fumes Project that you're using
-version: v3.3.6
-
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://f.dev" # the base hostname & protocol for your site
+version: v3.4.1
 
 # Site owner
 owner:
@@ -79,7 +75,7 @@ gems:
 #- jekyll-sitemap
 
 #https://github.com/merlos/jekyll-auto-image
-- jekyll-auto-image
+# - jekyll-auto-image
 
 # https://github.com/danbee/jekyll-video-tag
 - jekyll_video_tag 
@@ -93,7 +89,7 @@ gems:
 
 
 # jekyll-auto-image setup
-image: /assets/i/fumesyousuck_thumb.svg
+# image: /assets/i/fumesyousuck_thumb.svg
 
 
 ## Addons / plugins /.rb
