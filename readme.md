@@ -62,4 +62,3 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 All photos © the authors. All photos rights reserved.  
 Everything else is GPL.
 
-
