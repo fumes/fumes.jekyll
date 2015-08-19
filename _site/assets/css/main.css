@@ -383,15 +383,21 @@ nav.nav--tags {
   text-align: center;
   line-height: 1.2;
 }
+nav.nav--posts {
+  text-align: center;
+}
 
 .looper__ico {
+  position: relative;
   width: 100%;
+  height: 2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 .looper__ico svg {
+  position: absolute;
   width: 4rem;
-  position: relative;
+  top: -5rem;
   left: calc(50% - 2rem);
   margin: 0 auto;
   fill: rgba(255, 255, 255, 0.5);
@@ -683,8 +689,10 @@ nav.nav--tags {
 .post__license {
   margin-top: 32px;
   margin-bottom: 32px;
-  margin-left: 6rem;
+  margin-left: 10%;
   position: relative;
+  width: 80%;
+  max-width: 80%;
 }
 .post__license h5 {
   margin-bottom: 0;
@@ -700,6 +708,9 @@ nav.nav--tags {
   .post__license .ico {
     top: -5.33333px;
   }
+}
+.post__license .ico.post {
+  top: 5.33333px;
 }
 .post__license svg {
   height: 100%;
@@ -738,26 +749,6 @@ nav.nav--tags {
 @media only screen and (min-width: 1261px) {
   .post-title {
     font-size: 64px;
-  }
-}
-
-svg.posts {
-  font-size: 48px;
-  line-height: 1;
-  margin-top: .75rem;
-}
-@media only screen and (min-width: 1261px) {
-  svg.posts {
-    margin-top: 1rem;
-  }
-}
-
-svg.tag {
-  margin-top: .75rem;
-}
-@media only screen and (min-width: 601px) {
-  svg.tag {
-    margin-top: 0;
   }
 }
 

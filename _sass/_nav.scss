@@ -19,22 +19,23 @@ nav {
     text-align: center;
     line-height: 1.2;
   }
+  &.nav--posts {    
+    text-align: center;
+  }
 }
-
-.looper {
-
-}
-
 
 //BEM__ELEMENTS
 .looper__ico{ 
+  position: relative;
   width: 100%;
+  height: 2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-
+  
   svg{
+    position: absolute;
     width:4rem;
-    position: relative;
+    top: -5rem;
     left: calc(50% - 2rem);
     margin: 0 auto;
     fill: $twhite50;
