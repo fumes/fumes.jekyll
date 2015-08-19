@@ -29,12 +29,12 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 
 
 ## Fumes Website Features  
-✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/)  
-✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/)  
-✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg)  
-✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation  
-✓ Auto post thumbs. Get first image or front-matter declared [thumbs](https://github.com/merlos/jekyll-auto-image)  
-✓ prev-next navigation  
+✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/)  .
+✓ simple [responsive logo](http://codepen.io/rokma/full/pJBXbg/) . 
+✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  
+✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.
+✓ Post thumbs. Front-matter declared.
+✓ prev-next navigation .
 
 
 ✘ Categories navitation  
@@ -49,7 +49,6 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)
 
 ## Dependencies/Plugins
-- [jekyll-auto-image](https://github.com/merlos/jekyll-auto-image)
 - [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag ) 
 - [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image) 
 - [imager.js](https://github.com/BBC-News/Imager.js/)
