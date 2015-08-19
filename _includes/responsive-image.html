@@ -12,7 +12,7 @@
 
 <script>    
   new Imager('.responsive-image__delayed', {
-      availableWidths: [{{ resized | map: 'width' | join: ', ' }}],
+      availableWidths: [{{ resized | map: 'width' | join: ', ' }}]
       onImagesReplaced: function() {
          $('.responsive-image__placeholder').hide();
       }
