@@ -686,33 +686,33 @@ nav.nav--posts {
   max-width: 100%;
 }
 
-.post__license {
+.license {
   margin-top: 32px;
   margin-bottom: 32px;
-  margin-left: 10%;
+  margin-left: 15%;
   position: relative;
-  width: 80%;
-  max-width: 80%;
+  width: 70%;
+  max-width: 70%;
 }
-.post__license h5 {
+.license h5 {
   margin-bottom: 0;
   float: left;
   display: inline;
 }
-.post__license .ico {
+.license .ico {
   display: inline;
   position: absolute;
   top: 8px;
 }
 @media only screen and (min-width: 601px) {
-  .post__license .ico {
+  .license .ico {
     top: -5.33333px;
   }
 }
-.post__license .ico.post {
-  top: 5.33333px;
+.license .ico.post {
+  top: 32px;
 }
-.post__license svg {
+.license svg {
   height: 100%;
 }
 

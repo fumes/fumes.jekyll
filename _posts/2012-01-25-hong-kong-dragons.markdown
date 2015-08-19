@@ -24,7 +24,7 @@ tags:
 - China
 - tradition
 - fun
-license:
+license: CC BY
 thumb: dragons.jpg
 ---
 
