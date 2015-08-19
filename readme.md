@@ -36,13 +36,13 @@ _Fumes is now refactored. Articles are structured as `photographer`/`curator`   
 ✘ Categories navitation  
 ✘ No plugins  
 ✘ print.css  
-✘ service workers  
 ✘ open graph  
-✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)
-✘ disqus  
-✘ twitter setup  
+✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)  
+✘ disqus comments
+✘ twitter account and cards setup  
 ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  
-✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)
+✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  
+✘ service workers
 
 ## Dependencies/Plugins
 - [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag ) 
