@@ -70,17 +70,13 @@ exclude:
   - node_modules
   - uploads
 
-# Plugins
+
 gems: 
 #- jekyll-sitemap
-
-#https://github.com/merlos/jekyll-auto-image
-# - jekyll-auto-image
 
 # https://github.com/danbee/jekyll-video-tag
 - jekyll_video_tag 
 
-#https://github.com/wildlyinaccurate/jekyll-responsive-image
 #this one throw error so i just use plugin.rb instead of gem!
 #- jekyll-responsive_image 
 
@@ -88,12 +84,10 @@ gems:
 # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
 
-# jekyll-auto-image setup
-# image: /assets/i/fumesyousuck_thumb.svg
+## ADDONS / PLUGINS /.rb
 
-
-## Addons / plugins /.rb
-
+#------------RESPONSIVE IMAGE
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
   # [Required]
   # Path to the image template.
@@ -142,13 +136,7 @@ responsive_image:
 
 
 
-
-
-
-
-
-
-# COMPLETE defaults list. 
+#### ------------ COMPLETE defaults list. ------------ ####
 # --- useful to override stuff
 
 # # Where things are
