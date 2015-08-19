@@ -21,7 +21,9 @@ nav {
   }
 }
 
-.looper {text-align: justify;}
+.looper {
+
+}
 
 
 //BEM__ELEMENTS
@@ -40,10 +42,15 @@ nav {
 }
 
 .looper__link {
-  white-space:nowrap;
-  border-radius: 3px;
   padding: .75rem;
   border: 1px solid transparent;
+  border-radius: 3px;
+
+  @include media( "screen", ">bp1Width"){
+    text-align: justify;
+    white-space:nowrap;
+    .looper & {overflow-x:hidden;}
+  }
 
   &:hover{ border: 1px solid $alert-color;}
 

@@ -9,6 +9,29 @@
 
     img{ width: 100%; max-width: 100%; }
 }
+.post__license {
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    margin-left: 6rem;
+    position: relative;
+    h5{
+        //margin-top: $spacing-unit/2;
+        margin-bottom: 0;
+        float:left; 
+        display: inline;
+    }
+    .ico{
+        display: inline;
+        position: absolute;
+        top:$spacing-unit/4;
+        @include media( "screen", ">minWidth"){
+           top: -$spacing-unit/6; 
+        }
+    }
+    svg{
+        height:100%;
+    }
+}
 
 //BEM--MODIFIERS
 
@@ -33,14 +56,6 @@
             height: 36px!important;
             fill: $twhite50;
         }
-    .ico {
-        max-width: 36px!important;
-        height: 36px!important;
-        float: left;
-        margin-right: .75rem;
-        margin-left:-3rem;
-    }
-
 }
 
 .post-title {
@@ -69,12 +84,6 @@ svg.tag {
     @include media( "screen", ">minWidth"){
         margin-top: 0;
     }
-    
 }
 
-.temp{ 
-    //display: none;
-    position: fixed;
-    top: 0;
-    right: 0;
-}
+

@@ -133,7 +133,15 @@
 </header>
 
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none; ">
-	
+  <symbol id="icn--info" viewBox="0 0 22 22">
+    <title>info</title> 	
+    <g fill-rule="evenodd" clip-rule="evenodd">
+        <circle cx="11.25" cy="6.25" r="1.25"/>
+        <path d="M14 16.5h-1.5v-8h-4v1H10v7H8.5v1H14"/>
+        <path d="M22 11c0-6.075-4.925-11-11-11S0 4.925 0 11s4.925 11 11 11 11-4.925 11-11zM1 11C1 5.477 5.477 1 11 1s10 4.477 10 10-4.477 10-10 10S1 16.523 1 11z"/>
+    </g>
+  </symbol> 
+
 	<symbol id="icn--next" viewBox="0 0 800 800">
 		<title>next</title>	
 		<g class="arrowcircle right" >
@@ -141,7 +149,6 @@
       <path d="M400,800c220.9,0,400-179.1,400-400S620.9,0,400,0S0,179.1,0,400S179.1,800,400,800z M400,36.4
         c200.8,0,363.6,162.8,363.6,363.6c0,200.8-162.8,363.6-363.6,363.6S36.4,600.8,36.4,400C36.4,199.2,199.2,36.4,400,36.4z"/>
     </g>
-
   </symbol>	
 
 	<symbol id="icn--previous" viewBox="0 0 800 800">
@@ -297,8 +304,7 @@
   <div class="wrapper">
     <div class="post">
 
-  <header class="post__header">
-    <div class="post-meta capitalize">
+  <header class="post__header"> <div class="post-meta">
 
   <div class="ico post">
     <svg  class="post">
@@ -315,7 +321,7 @@
 </svg>
 
   </div>
-  <h4 class="categories">art </h4>
+  <h4 class="categories">["art"] </h4>
   
 
   
@@ -378,15 +384,8 @@
   </div>
   <p class="date">May 27, 2010</p>
 
-
-
-<!--   <p class="temp" style="text-align: right;" >
-    <a target="_blank" href="http://fumes.dev/?p=984">Fumes2.0Link</a>
-  </p> -->
-
 </div>
-
-  </header>
+ </header>
 
   <nav class="nav--horizontal">
   <div class="wrapper">
@@ -408,11 +407,10 @@
       </a>
     
   </div>
+
 </nav>
 
-
-  <article class="post__content">
-    
+  <article class="post__content"> 
 <div class="responsive-image">
   <img class="responsive-image__placeholder" src="/assets/i/480/100527-photographer-rokma-aquaisland-01.jpg" />
   <div class="responsive-image__delayed" data-src="/assets/i/{width}/100527-photographer-rokma-aquaisland-01.jpg" data-alt="Fumes - the Camera as a Microphone"></div>
@@ -483,27 +481,26 @@
   });
 </script>
 
+ </article>
 
-  </article>
-
-  <section>
-    
+  <section class="post__license"> 
   
-    <div class="ico license">
+    <div class="ico">
       <svg  class="license">
-	<use xlink:href="#icn--photographer"></use>
+	<use xlink:href="#icn--info"></use>
 </svg>
 
     </div>
 
-    <h5 class="license">All images © rokma. Released under CC BY license.</h5>
+    <h5 class="">All images copyright &#169; 2010 - 2015 rokma. Released under CC BY license.
 
-    <p class="license"> More infos about <a href="https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#Who_gives_permission_to_use_material_offered_under_Creative_Commons_licenses.3F" target="_blank" class="license_info" alt="copyright and license" title="copyright and license">copyright and license</a>. Watch a <a href="http://creativecommons.org/videos/a-shared-culture" target="_blank" class="license_moreinfo" alt="How to use CC license" title="How to use CC license" >video</a> and understand sharing and CC licensing.</p>
+      <small class=""> More infos about <a href="https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#Who_gives_permission_to_use_material_offered_under_Creative_Commons_licenses.3F" target="_blank" class="license_info" alt="copyright and license" title="copyright and license">copyright, licenses</a> and <a href="http://creativecommons.org/videos/a-shared-culture" target="_blank" class="license_moreinfo" alt="How to use creativecommons.org CC license" title="How to use CC license"> Creative Commons</a></small>
+      
+    </h5>
   
 
   
-
-  </section>
+ </section>
 
 </div>
 

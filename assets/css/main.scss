@@ -14,11 +14,11 @@ $spacing-unit:     $base-font-size * 2; //32px
 $alert-color:      red;
 $brand-color:      $alert-color;
 
-$text-color:       darken(white, 25%);   
+$text-color:       darken(white, 15%);   
 $background-color: #161616;
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: darken(white, 25%);
+$grey-color:       darken(white, 35%);  
+$grey-color-dark:  darken(white, 45%); 
 
 $tblack50:         rgba(0,0,0,.5);
 $twhite50:         rgba(255,255,255,.5);  

@@ -1,4 +1,4 @@
-<div class="post-meta capitalize">
+<div class="post-meta">
 
   <div class="ico post">
     {% include svg/use.html id="icn--post" class="post" %}
@@ -9,7 +9,7 @@
   <div class="ico categories">
     {% include svg/use.html id="icn--categories" class="categories" %}
   </div>
-  <h4 class="categories">{{ page.categories }} </h4>
+  <h4 class="categories">{{ page.categories | capitalize }} </h4>
   {% endif %}
 
   
@@ -41,11 +41,5 @@
     {% include svg/use.html id="icn--date" class="date" %}
   </div>
   <p class="date">{{ page.date | date: "%b %-d, %Y" }}</p>
-
-
-
-<!--   <p class="temp" style="text-align: right;" >
-    <a target="_blank" href="{{ page.wordpress_url}}">Fumes2.0Link</a>
-  </p> -->
 
 </div>
