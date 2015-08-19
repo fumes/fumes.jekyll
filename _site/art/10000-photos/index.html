@@ -11,8 +11,8 @@
   <meta name="description" content="    10,000 photos. A Time Lapse Journey from USA to Hong Kong to Indonesia. HD.Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play • ...">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="http://f.dev/art/10000-photos/">
-  <link rel="alternate" type="application/rss+xml" title="Fumes" href="http://f.dev/feed.xml" />
+  <link rel="canonical" href="http://fumes.github.io/art/10000-photos/">
+  <link rel="alternate" type="application/rss+xml" title="Fumes" href="http://fumes.github.io/feed.xml" />
 
   <!-- Twitter Cards -->
 	<meta name="twitter:title" content="10,000 Photos..."> 
@@ -33,13 +33,13 @@ Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play 
 "> 
 	 
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:image:src" content="http://f.dev/i/">
+	<meta name="twitter:image:src" content="http://fumes.github.io/i/">
 
 <!-- Open Graph -->
 	<meta property="og:locale" content="">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="10,000 Photos...">
-	<meta property="og:image" content="http://f.dev/i/"><meta property="og:description" content="
+	<meta property="og:image" content="http://fumes.github.io/i/"><meta property="og:description" content="
 
   
   
@@ -54,7 +54,7 @@ Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play 
 Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play • iTunes)
 
 ">
-	<meta property="og:url" content="http://f.dev/art/10000-photos/">
+	<meta property="og:url" content="http://fumes.github.io/art/10000-photos/">
 	<meta property="og:site_name" content="Fumes">
 
 
@@ -181,10 +181,10 @@ Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play 
   <p class="date">Aug 14, 2010</p>
 
 
-
+<!-- 
   <p class="temp" style="text-align: right;" >
     <a target="_blank" href="http://fumes.dev/?p=315">Fumes2.0Link</a>
-  </p>
+  </p> -->
 
 </div>
 
@@ -1354,6 +1354,22 @@ Music: “Sometimes (Remastered Version)” by My Bloody Valentine (Google Play 
 
 
     <!--[ Ah.. vanilla style, no JQuery bloat. ]-->
+
+  <script>
+  //Asynchronous Google Analytics snippet
+    var _gaq = _gaq || [];
+    var pluginUrl = 
+   '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-16659805-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 
 
 
