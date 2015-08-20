@@ -5,7 +5,7 @@ email: fumesmag@gmail.com
 description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
 
 # The release of Fumes Project that you're using
-version: v3.4.1
+version: v3.5.0
 
 # Site owner
 owner:
@@ -77,10 +77,10 @@ gems:
 # https://github.com/danbee/jekyll-video-tag
 - jekyll_video_tag 
 
-#this one throw error so i just use plugin.rb instead of gem!
+# this one throw error so i just use plugin.rb instead of gem!
 #- jekyll-responsive_image 
 
-#put back jekyll-tag gem here. for now use  _plugins/categories_tags_generator.rb!
+# put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
 # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
 
@@ -118,7 +118,6 @@ responsive_image:
   #   %{height}    Height of the resized image
   #
   output_path_format: assets/i/%{width}/%{basename}
-#https://github.com/wildlyinaccurate/jekyll-responsive-image
 
 
 
