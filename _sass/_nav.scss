@@ -1,6 +1,6 @@
 //BEM__BLOCKS
 nav {
-  padding: 2rem 0;
+  padding: $spacing-unit*2 0;
   background-color: $background-color;
   line-height: $base-line-height * 2;
 
@@ -8,6 +8,7 @@ nav {
 
   //BEM--MODIFIERS
   &.nav--horizontal{
+    padding: $spacing-unit/2 0;
     width: 100%;
     border-top: 0 none;
     .wrapper{
@@ -19,20 +20,23 @@ nav {
     text-align: center;
     line-height: 1.2;
   }
+  &.nav--posts {    
+    text-align: center;
+  }
 }
-
-.looper {text-align: justify;}
-
 
 //BEM__ELEMENTS
 .looper__ico{ 
+  position: relative;
   width: 100%;
+  height: 2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-
+  
   svg{
+    position: absolute;
     width:4rem;
-    position: relative;
+    top: -5rem;
     left: calc(50% - 2rem);
     margin: 0 auto;
     fill: $twhite50;
@@ -40,10 +44,15 @@ nav {
 }
 
 .looper__link {
-  white-space:nowrap;
-  border-radius: 3px;
   padding: .75rem;
   border: 1px solid transparent;
+  border-radius: 3px;
+
+  @include media( "screen", ">bp1Width"){
+    text-align: justify;
+    white-space:nowrap;
+    .looper & {overflow-x:hidden;}
+  }
 
   &:hover{ border: 1px solid $alert-color;}
 

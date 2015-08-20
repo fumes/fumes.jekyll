@@ -1,0 +1,19 @@
+<div class="post__license">
+  {% if page.photographer %}
+  {% if page.license %}
+    <div class="ico">
+      {% include svg/use.html id="icn--info" class="info" %}
+    </div>
+
+    <h5 class="">All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. Released under {{ page.license }} license.
+
+      <small class=""> More infos about <a href="https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#Who_gives_permission_to_use_material_offered_under_Creative_Commons_licenses.3F" target="_blank" class="license_info" alt="copyright and license" title="copyright and license">copyright, licenses</a> and <a href="http://creativecommons.org/videos/a-shared-culture" target="_blank" class="license_moreinfo" alt="How to use creativecommons.org CC license" title="How to use CC license"> Creative Commons</a></small>
+
+    </h5>
+  {% endif %}
+
+  {% else %}
+
+  <h5 class="">All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. All rights reserved.</h5>
+{% endif %}
+</div>

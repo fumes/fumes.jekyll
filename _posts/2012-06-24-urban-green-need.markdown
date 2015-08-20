@@ -27,6 +27,7 @@ tags:
 - design
 - sustainability
 - simplicity
+license: CC BY
 thumb: urban-green.jpg
 ---
 The urban need for improved life quality is a driving energy in every big metropolis. Check how good are Bangkok people in painting their everyday life lively green. 

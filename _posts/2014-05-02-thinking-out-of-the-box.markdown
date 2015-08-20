@@ -23,6 +23,7 @@ tags:
 - design
 - open-source
 - technology
+license:
 thumb: thinking.jpg
 ---
 

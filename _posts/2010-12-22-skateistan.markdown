@@ -19,6 +19,7 @@ tags:
 - documentary
 - community
 - Afghanistan
+license:
 thumb: skateistan.jpg
 ---
 Skateistan, a documentary film by Orlando Einsiedel on a skatepark project for the kids of Kabul, Afghanistan. 

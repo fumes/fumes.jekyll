@@ -21,6 +21,7 @@ tags:
 - Christian
 - Italy
 - expat
+license: CC BY
 thumb: nigeria.jpg
 ---
 

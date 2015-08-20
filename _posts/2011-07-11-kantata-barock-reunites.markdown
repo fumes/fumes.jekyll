@@ -20,6 +20,7 @@ tags:
 - celebration
 - documentary
 - indonesian-heroes
+license:
 thumb: kantata.jpg
 ---
  

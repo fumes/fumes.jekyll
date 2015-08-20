@@ -19,6 +19,7 @@ tags:
 - visual
 - design
 - simplicity
+license:
 thumb: Aakash-Nihilani.jpg
 ---
 ### Aakash Nihilani 

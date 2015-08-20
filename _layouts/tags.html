@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<h1 class="capitalize">{{ page.tag }}</h1>
+<h1 class="tagpage">{{ page.tag | capitalize }}</h1>
 
-<div class="taglist">
-    {% if site.tags[page.tag] %}
-        {% for post in site.tags[page.tag] %}
-           • <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {% endfor %}
-    {% else %}
-        <p>There are no posts for this tag.</p>
-    {% endif %}
+<div class="tagpage taglist home__posts">
+  {% if site.tags[page.tag] %}
+    {% for post in site.tags[page.tag] %}
+     <div class="home__post" >
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </div>
+    {% endfor %}
+  {% else %}
+    <p>There are no posts for this tag.</p>
+  {% endif %}
 </div>

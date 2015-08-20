@@ -21,6 +21,7 @@ tags:
 - visual
 - vote
 - Phuket
+license: CC BY
 thumb: thai-elections.jpg
 ---
 

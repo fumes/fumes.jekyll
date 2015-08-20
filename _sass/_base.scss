@@ -87,7 +87,7 @@ a {
         color: $alert-color;
         svg { fill: $alert-color;}
     }
-    &:visited {color: darken($grey-color-light, 25%);}
+    &:visited {color: darken($grey-color-light, 30%);}
 
     &:visited:hover {color: $alert-color;}
 
@@ -136,7 +136,6 @@ pre {
         padding-left: 0;
     }
 }
-
 
 .capitalize,
 .capitalize > *{text-transform: capitalize; }

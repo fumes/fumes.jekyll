@@ -17,6 +17,7 @@ tags:
 - visual
 - transparency
 - non-profit
+license:
 thumb: hello-world.jpg
 ---
 

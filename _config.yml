@@ -3,9 +3,10 @@ title: Fumes
 subtitle: The Camera as a Microphone
 email: fumesmag@gmail.com
 description: Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.
+projectimage: assets/i/t/fumesyousuck_thumb.png
 
 # The release of Fumes Project that you're using
-version: v3.3.6
+version: v3.5.1
 
 # Site owner
 owner:
@@ -47,7 +48,7 @@ sass:
   sass_dir: _sass
   style: :expanded # To minify use :compressed
 
-#excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
 # keep consistent with old g-indexed (seo!dude...) permalink structure
 permalink: /:categories/:title/
@@ -72,25 +73,22 @@ exclude:
 
 
 gems: 
-
-# Create a sitemap using the official Jekyll sitemap gem
-# - jekyll-sitemap 
+- jekyll-sitemap
 
 # https://github.com/danbee/jekyll-video-tag
-- jekyll_video_tag
+- jekyll_video_tag 
 
-# throw error....
-- jekyll-responsive_image
+# this one throw error so i just use plugin.rb instead of gem!
+#- jekyll-responsive_image 
 
-# jekyll-tag? Now using _plugins/categories_tags_generator.rb!
-#  http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
-#- jekyll-tag
+# put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
+# http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
 
-# PLUGINS SETUP
+## ADDONS / PLUGINS /.rb
 
-## Addons / plugins /.rb
-# https://github.com/wildlyinaccurate/jekyll-responsive-image
+#------------RESPONSIVE IMAGE
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
   # [Required]
   # Path to the image template.
@@ -120,13 +118,7 @@ responsive_image:
   #   %{width}     Width of the resized image
   #   %{height}    Height of the resized image
   #
-  output_path_format: /i/%{width}/%{basename}
-
-
-
-
-# URL of your avatar (you could use your GitHub profile pic)
-#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+  output_path_format: assets/i/%{width}/%{basename}
 
 
 
@@ -144,10 +136,7 @@ responsive_image:
 
 
 
-
-
-
-# COMPLETE defaults list. 
+#### ------------ COMPLETE defaults list. ------------ ####
 # --- useful to override stuff
 
 # # Where things are

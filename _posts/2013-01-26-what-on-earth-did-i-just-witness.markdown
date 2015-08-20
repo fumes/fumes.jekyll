@@ -24,6 +24,7 @@ tags:
 - animation
 - illustrations
 - drawings
+license:
 thumb: big-hands.jpg
 ---
 Chinese animation artist <a href="http://vimeo.com/user1260672" title="He's on Vimeo with 16 videos" target="_blank">Ray Lei</a>, 26-year-old, has already hit International Animation Festival shows few times with his interesting multimedia works.  

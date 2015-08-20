@@ -3,16 +3,13 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post__header">
-    <!-- <h1 class="post-title ">{{ page.title }}</h1> -->
-    {% include meta.html %}
-  </header>
+  <header class="post__header"> {% include meta.html %} </header>
 
-  {% include nav--horizzo.html %}
+  <nav class="nav--horizontal">{% include nav--horizzo.html %}</nav>
 
-  <article class="post__content">
-    {{ content }}
-  </article>
+  <article class="post__content"> {{ content }} </article>
+
+  <section class="post__license"> {% include license.html %} </section>
 
 </div>
 

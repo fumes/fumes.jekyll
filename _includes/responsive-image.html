@@ -2,17 +2,17 @@
 
 {%comment%}
 - img src needs no baseurl. it's set in _config.yml
-- div data.src does need it hardcoded here! (ex:/fumes)
+- div data.src does need it! [ {{site.baseurl}} or hardcoded here! (ex:/fumes) ]
 {%endcomment%}
 
 <div class="responsive-image">
   <img class="responsive-image__placeholder" src="/{{ smallest.path }}">
-  <div class="responsive-image__delayed" data-src="/i/{width}/{{ original.basename }}" data-alt="Fumes - the Camera as a Microphone"></div>
+  <div class="responsive-image__delayed" data-src="/{{site.baseurl}}assets/i/{width}/{{ original.basename }}" data-alt="Fumes - the Camera as a Microphone"></div>
 </div>
 
 <script>    
   new Imager('.responsive-image__delayed', {
-      availableWidths: [{{ resized | map: 'width' | join: ', ' }}]
+      availableWidths: [{{ resized | map: 'width' | join: ', ' }}],
       onImagesReplaced: function() {
          $('.responsive-image__placeholder').hide();
       }

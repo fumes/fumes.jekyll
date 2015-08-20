@@ -20,6 +20,7 @@ tags:
 - artist
 - performance
 - China
+license:
 thumb: hetain-patel.jpg
 ---
 

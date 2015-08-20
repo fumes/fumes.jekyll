@@ -18,6 +18,7 @@ tags:
 - Bangkok
 - Thailand
 - water
+license: CC BY
 thumb: aquamarket.jpg
 ---
 

@@ -30,6 +30,8 @@
     @include media( "screen", ">minWidth"){max-width: 75%;}
     @include media( "screen", ">bp1Width"){max-width: 50%;}
     
+    svg{ fill: darken($alert-color, 25%);}
+    
     a {
         -webkit-flex-basis: 200px;
         -ms-flex-preferred-size: 200px;
@@ -37,6 +39,7 @@
         display: block;
         margin:1rem 0;
         padding: 0 1rem;
+        &:hover svg { fill: $alert-color;}
     }
 }
 

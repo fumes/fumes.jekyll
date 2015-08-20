@@ -24,6 +24,7 @@ tags:
 - eruption
 - animism
 - stunts
+license:
 thumb: yogya.jpg
 ---
 

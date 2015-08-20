@@ -17,6 +17,7 @@ tags:
 - preventable
 - Africa
 - hiv-aids
+license:
 thumb: lazzarus.jpg
 ---
 On May 24th, <a traget="_blank" title="see The Lazarus Effect movie on youtube" href="https://www.youtube.com/embed/l16YH6xCN4c?rel=0?autoplay=1">"The Lazarus Effect" by director Lance Bangs and executive producer Spike Jonze </a> premieres on HBO, YouTube and Channel 4 (UK).

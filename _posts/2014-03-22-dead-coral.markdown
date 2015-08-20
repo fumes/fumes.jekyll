@@ -15,6 +15,7 @@ tags:
 - nature
 - photography
 - balance
+license: CC BY
 thumb: dead-coral.jpg
 ---
 

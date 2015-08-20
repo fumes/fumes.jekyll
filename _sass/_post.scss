@@ -1,13 +1,33 @@
 
 //BEM__ELEMENTS
-.post__header {
-    margin-bottom: $spacing-unit;
+.post__header { 
+    margin-bottom: $spacing-unit; 
 }
 
 .post__content {
     margin-bottom: $spacing-unit;
 
     img{ width: 100%; max-width: 100%; }
+}
+
+.post__license {
+    margin-top: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 2;
+    margin-left: 15%;
+    position: relative;
+    width: 70%;
+    max-width: 70%;
+    h5{
+        margin-bottom: 0;
+        float:left; 
+        display: inline;
+    }
+    .ico{
+        display: inline;
+        position: absolute;
+        top:$spacing-unit/6;
+    }
+    svg{height:100%;}
 }
 
 //BEM--MODIFIERS
@@ -28,18 +48,17 @@
     font-size: $base-font-size * 1.2;
     line-height: 1.8;
     color: $grey-color;
+
     svg {
         max-width: 36px!important;
         height: 36px!important;
-        }
-    .ico {
-        max-width: 36px!important;
-        height: 36px!important;
-        float: left;
-        margin-right: .75rem;
-        margin-left:-3rem;
+        fill: $twhite50;
     }
+}
 
+.ico{
+    &.post{ padding-top: $spacing-unit/4; }
+    &.tag{ padding-top: $spacing-unit/4; }
 }
 
 .post-title {
@@ -52,28 +71,4 @@
     }
 }
 
-svg.post {
-    font-size: $base-font-size * 3;
-    line-height: 1;
-    margin-top: .75rem;
 
-    @include media( "screen", ">maxWidth"){
-        margin-top: 1.75rem;
-    }
-}
-
-svg.tag {
-    margin-top: .75rem;
-
-    @include media( "screen", ">minWidth"){
-        margin-top: 0;
-    }
-    
-}
-
-.temp{ 
-    //display: none;
-    position: fixed;
-    top: 0;
-    right: 0;
-}

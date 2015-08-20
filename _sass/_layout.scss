@@ -29,4 +29,11 @@
     padding: $spacing-unit 0;
 }
 
-
+//Universal components
+.ico {
+    max-width: 36px!important;
+    height: 36px!important;
+    float: left;
+    margin-right: .75rem;
+    margin-left:-3rem;
+}

@@ -20,6 +20,7 @@ tags:
 - women
 - rural
 - visual
+license:
 thumb: jr.jpg
 ---
 "Women are Heroes" is a photography project by french photographer JR. 
