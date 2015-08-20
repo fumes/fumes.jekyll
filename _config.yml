@@ -6,7 +6,7 @@ description: Fumes project was started by two photographers. A metaphor to play 
 projectimage: assets/i/t/fumesyousuck_thumb.png
 
 # The release of Fumes Project that you're using
-version: v3.5.0
+version: v3.5.1
 
 # Site owner
 owner:
@@ -73,7 +73,7 @@ exclude:
 
 
 gems: 
-#- jekyll-sitemap
+- jekyll-sitemap
 
 # https://github.com/danbee/jekyll-video-tag
 - jekyll_video_tag 
