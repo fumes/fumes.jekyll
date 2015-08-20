@@ -1,18 +1,18 @@
 <!-- Twitter Cards -->
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"> 
-	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% endif %} 
+	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt |strip_html|strip_newlines|truncatewords:15 }}">{% endif %} 
 	{% if site.owner.twitter %}
 	<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %} 
-	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}{% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image:src" content="{{ site.url }}/i/{{ page.categories }}/{{ page.title }}/{{ page.image.feature }}">
+	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}{% if page.thumb %}<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image:src" content="{{ site.url }}/assets/i/t/{{ page.thumb }}">
 	{% else %}<meta name="twitter:card" content="summary">
-	<meta name="twitter:image:src" content="{{ site.url }}/i/{{ site.logo }}">{% endif %}
+	<meta name="twitter:image:src" content="{{ site.url }}/assets/i/t/fumesyousuck_thumb.png">{% endif %}
 
 <!-- Open Graph -->
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.image.feature %}<meta property="og:image" content="{{ site.url }}/i/{{ page.categories }}/{{ page.title }}/{{ page.image.feature }}">
-	{% else %}<meta property="og:image" content="{{ site.url }}/i/{{ site.logo }}">{% endif %}{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+	{% if page.thumb %}<meta property="og:image" content="{{ site.url }}/assets/i/t/{{ page.thumb }}">
+	{% else %}<meta property="og:image" content="{{ site.url }}/assets/i/t/fumesyousuck_thumb.png">{% endif %}{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt|strip_html|strip_newlines|truncatewords:33 }}">{% endif %}
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">

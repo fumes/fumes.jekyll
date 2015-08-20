@@ -1,6 +1,6 @@
 //BEM__BLOCKS
 nav {
-  padding: 2rem 0;
+  padding: $spacing-unit*2 0;
   background-color: $background-color;
   line-height: $base-line-height * 2;
 
@@ -8,6 +8,7 @@ nav {
 
   //BEM--MODIFIERS
   &.nav--horizontal{
+    padding: $spacing-unit/2 0;
     width: 100%;
     border-top: 0 none;
     .wrapper{

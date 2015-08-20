@@ -360,7 +360,7 @@ pre > code {
 }
 
 nav {
-  padding: 2rem 0;
+  padding: 64px 0;
   background-color: #161616;
   line-height: 3;
 }
@@ -368,6 +368,7 @@ nav label {
   display: none;
 }
 nav.nav--horizontal {
+  padding: 16px 0;
   width: 100%;
   border-top: 0 none;
 }
@@ -687,8 +688,8 @@ nav.nav--posts {
 }
 
 .post__license {
-  margin-top: 32px;
-  margin-bottom: 32px;
+  margin-top: 64px;
+  margin-bottom: 64px;
   margin-left: 15%;
   position: relative;
   width: 70%;
@@ -703,9 +704,6 @@ nav.nav--posts {
   display: inline;
   position: absolute;
   top: 5.33333px;
-}
-.post__license .ico.post {
-  top: 32px;
 }
 .post__license svg {
   height: 100%;
@@ -734,6 +732,13 @@ nav.nav--posts {
   max-width: 36px !important;
   height: 36px !important;
   fill: rgba(255, 255, 255, 0.5);
+}
+
+.ico.post {
+  padding-top: 8px;
+}
+.ico.tag {
+  padding-top: 16px;
 }
 
 .post-title {
