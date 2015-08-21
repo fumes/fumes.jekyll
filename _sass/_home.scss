@@ -78,3 +78,35 @@
   }
 }
 
+.index{
+  h1.page__title{
+    display: inline-block;
+    font-size: 2rem;
+    @include media( "screen", ">minWidth"){
+      font-size: 3rem;
+    }
+  }
+}
+.tagpage__title{
+  width:100%;
+  text-align: center;
+}
+
+.tagpage__ico{ 
+  position: relative;
+  top: 0;
+  left: -.5rem;
+  margin-top: 3.5rem;
+  margin-bottom: 1rem;
+  
+  svg{
+    height: 1.25rem;
+    width: 1.25rem;
+    margin: 0 auto;
+    fill: $twhite50;
+    @include media( "screen", ">minWidth"){
+      height: 2rem;
+      width: 2rem;
+    }
+  } 
+}

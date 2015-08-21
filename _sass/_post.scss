@@ -46,7 +46,6 @@
         margin-right: 6rem;
     }
     font-size: $base-font-size * 1.2;
-    line-height: 1.8;
     color: $grey-color;
 
     svg {
@@ -57,18 +56,23 @@
 }
 
 .ico{
-    &.post{ padding-top: $spacing-unit/4; }
+    padding-bottom: $spacing-unit/4;
+    // &.post{ padding-top: $spacing-unit/4; }
     &.tag{ padding-top: $spacing-unit/4; }
 }
 
 .post-title {
     font-size: $base-font-size * 1.5;
     letter-spacing: -1px;
-    line-height: 1;
 
     @include media( "screen", ">maxWidth"){
         font-size: $base-font-size * 2;
     }
 }
 
-
+.curator,
+.categories,
+.tags,
+.date{
+    line-height: 1.5;
+}
