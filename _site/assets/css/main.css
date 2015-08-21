@@ -242,6 +242,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
+h1 {
+  font-size: 22.4px;
+}
+
 h2 {
   font-size: 21.6px;
 }
@@ -388,11 +392,16 @@ nav.nav--posts {
   text-align: center;
 }
 
+.looper {
+  overflow-x: hidden;
+  font-size: 90%;
+}
+
 .looper__ico {
   position: relative;
   width: 100%;
   height: 2rem;
-  margin-top: 1rem;
+  margin-top: 3.5rem;
   margin-bottom: 1rem;
 }
 .looper__ico svg {
@@ -697,8 +706,6 @@ nav.nav--posts {
 }
 .post__license h5 {
   margin-bottom: 0;
-  float: left;
-  display: inline;
 }
 .post__license .ico {
   display: inline;
@@ -742,13 +749,13 @@ nav.nav--posts {
 }
 
 .post-title {
-  font-size: 48px;
+  font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;
 }
 @media only screen and (min-width: 1261px) {
   .post-title {
-    font-size: 64px;
+    font-size: 32px;
   }
 }
 

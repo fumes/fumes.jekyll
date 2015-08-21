@@ -24,7 +24,7 @@ gulp.task('svg', function () {
 gulp.task('serve', ['sass'], function() {
 
     browserSync({
-        proxy: "f.dev"
+        proxy: "http://0.0.0.0:4000/"
     });
 
     gulp.watch("_sass/*.scss", ['sass']);

@@ -54,7 +54,6 @@ Here people sometimes use big chunk of coral to build walls. Its a free locally 
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5889.jpg %}
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5896.jpg %}
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5899.jpg %}
-{% responsive_image path: uploads/2014/03/140322-photographer-rokma-5899.jpg %}
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5909.jpg %}
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5912.jpg %}
 {% responsive_image path: uploads/2014/03/140322-photographer-rokma-5917.jpg %}

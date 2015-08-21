@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Unity in Diversity
 curator: rokma
-photgrapher: rokma
+photographer: rokma
 wordpress_id: 701
 wordpress_url: http://fumes.dev/?p=701
 date: '2010-08-17 03:53:23 +0200'
