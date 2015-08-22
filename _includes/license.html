@@ -4,13 +4,13 @@
   
     <div class="ico {{page.licence}}">{% include svg/use.html id="icn--info" class="info" %}</div>
 
-    <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. Released under {{ page.license }} license. <small><a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos about copyright, licenses and Creative Commons</a></small></h5>
+    <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer | capitalize }}. Released under {{ page.license }} license. <small><a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos about copyright, licenses and Creative Commons</a></small></h5>
 
   {% elsif page.license == null and page.photographer != null %}
 
     <div class="ico {{page.licence}}">{% include svg/use.html id="icn--info" class="info" %}</div>
 
-    <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. All rights reserved.</h5><small><a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos about copyright, licenses and Creative Commons</a></small></h5>
+    <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer | capitalize }}. All rights reserved.</h5><small><a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos about copyright, licenses and Creative Commons</a></small></h5>
   
   {% elsif page.license == null and page.photographer == null %}
 

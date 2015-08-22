@@ -3,8 +3,8 @@ layout: post
 status: publish
 published: true
 title: Thailand's Sex Tourism
-curator: alejandro plesch
-photographer: alejandro plesch
+curator: Alejandro Plesch
+photographer: Alejandro Plesch
 wordpress_id: 1473
 wordpress_url: http://fumes.dev/?p=1473
 date: '2011-05-02 18:32:32 +0200'

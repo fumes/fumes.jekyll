@@ -8,7 +8,10 @@
 - print.css
 - mailchimp## Fumes Website Features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ Post thumbs. Front-matter declared.  ✓ open graph  ✓ handy prev-next articles navigation.
 ✘ No plugins dependencies.  ✘ print.css.  ✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)  ✘ disqus comments.  ✘ twitter account and cards setup.  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.## Gems dependencies:
-- jekyll-sitemap- [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag ) ## Plugins dependencies:
+- github-pages
+- rmagick
+- jekyll-sitemap
+- [jekyll-responsive_image](https://github.com/wildlyinaccurate/jekyll-responsive-image)- [jekyll-video-tag](https://github.com/danbee/jekyll-video-tag ) ## Plugins dependencies:
 - [categories_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [tags_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [responsive_image.rb](https://github.com/wildlyinaccurate/jekyll-responsive-image)

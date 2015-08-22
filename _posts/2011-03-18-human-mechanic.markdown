@@ -3,8 +3,8 @@ layout: post
 status: publish
 published: true
 title: Human Mechanic
-curator: alejandro plesch
-photographer: alejandro plesch
+curator: Alejandro Plesch
+photographer: Alejandro Plesch
 wordpress_id: 1222
 wordpress_url: http://fumes.dev/?p=1222
 date: '2011-03-18 16:40:38 +0100'

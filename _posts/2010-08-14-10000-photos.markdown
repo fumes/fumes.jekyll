@@ -3,8 +3,8 @@ layout: post
 status: publish
 published: true
 title: 10,000 Photos...
-curator: alejandro plesch
-photographer: alejandro plesch
+curator: Alejandro Plesch
+photographer: Alejandro Plesch
 wordpress_id: 315
 wordpress_url: http://fumes.dev/?p=315
 date: '2010-08-14 08:14:14 +0200'
