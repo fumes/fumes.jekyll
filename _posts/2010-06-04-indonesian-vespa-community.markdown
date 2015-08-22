@@ -8,7 +8,7 @@ photographer: alejandro plesch
 wordpress_id: 216
 wordpress_url: http://fumes.dev/?p=216
 date: '2010-06-04 15:42:35 +0200'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - lifestyle
 - B&amp;W

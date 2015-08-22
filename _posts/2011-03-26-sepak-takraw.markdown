@@ -8,7 +8,7 @@ photographer: alejandro plesch
 wordpress_id: 1291
 wordpress_url: http://fumes.dev/?p=1291
 date: '2011-03-26 10:34:44 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - fun
 - photography

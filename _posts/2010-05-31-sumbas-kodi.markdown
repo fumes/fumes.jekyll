@@ -8,7 +8,7 @@ photographer: alejandro plesch
 wordpress_id: 157
 wordpress_url: http://fumes.dev/?p=157
 date: '2010-05-31 09:07:36 +0200'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - Indonesia
 - personal-works

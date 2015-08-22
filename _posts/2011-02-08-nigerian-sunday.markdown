@@ -8,7 +8,7 @@ photographer: rokma
 wordpress_id: 1168
 wordpress_url: http://fumes.dev/?p=1168
 date: '2011-02-08 21:02:25 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - lifestyle
 - city

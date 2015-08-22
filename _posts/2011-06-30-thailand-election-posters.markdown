@@ -10,7 +10,7 @@ wordpress_url: http://fumes.dev/?p=1528
 date: '2011-06-30 16:25:11 +0200'
 
 
-categories: photojournalism
+categories: photo-journalism
 tags:
 - lifestyle
 - documentary

@@ -8,7 +8,7 @@ curator: alejandro plesch
 wordpress_id: 1090
 wordpress_url: http://fumes.dev/?p=1090
 date: '2011-01-10 18:48:31 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - B&amp;W
 - city

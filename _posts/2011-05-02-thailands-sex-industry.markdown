@@ -8,7 +8,7 @@ photographer: alejandro plesch
 wordpress_id: 1473
 wordpress_url: http://fumes.dev/?p=1473
 date: '2011-05-02 18:32:32 +0200'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - photography
 - Thailand

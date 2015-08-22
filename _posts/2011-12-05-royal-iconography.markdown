@@ -9,7 +9,7 @@ excerpt: Many Thai people sincerely love their King. Most houses or shops displa
 wordpress_id: 1752
 wordpress_url: http://fumes.dev/?p=1752
 date: '2011-12-05 15:03:52 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - news
 - photography

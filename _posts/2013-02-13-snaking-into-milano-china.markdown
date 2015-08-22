@@ -9,7 +9,7 @@ excerpt: 2013 Snake year celebration parade is being held in Milano Chinatown.
 wordpress_id: 2418
 wordpress_url: http://fumes.dev/?p=2418
 date: '2013-02-13 01:59:27 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - city
 - Milano

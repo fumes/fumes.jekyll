@@ -8,7 +8,7 @@ photographer: rokma
 wordpress_id: 1373
 wordpress_url: http://fumes.dev/?p=1373
 date: '2011-04-24 01:29:37 +0200'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - fun
 - lifestyle

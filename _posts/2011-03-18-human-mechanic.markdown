@@ -8,7 +8,7 @@ photographer: alejandro plesch
 wordpress_id: 1222
 wordpress_url: http://fumes.dev/?p=1222
 date: '2011-03-18 16:40:38 +0100'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - photography
 - Java

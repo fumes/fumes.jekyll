@@ -8,7 +8,7 @@ photographer: rokma
 wordpress_id: 2036
 wordpress_url: http://fumes.dev/?p=2036
 date: '2012-04-13 23:59:41 +0200'
-categories: photojournalism
+categories: photo-journalism
 tags:
 - fun
 - Songkran
