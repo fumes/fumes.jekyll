@@ -9,7 +9,7 @@ wordpress_url: http://fumes.dev/?p=1025
 date: '2010-10-25 22:17:29 +0200'
 categories: inspiring
 tags:
-- B&amp;W
+- black-and-white
 - review
 - under-covered
 - photography

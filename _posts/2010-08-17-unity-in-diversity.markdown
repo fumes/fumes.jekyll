@@ -11,7 +11,7 @@ date: '2010-08-17 03:53:23 +0200'
 categories: photo-journalism
 tags:
 - lifestyle
-- B&amp;W
+- black-and-white
 - Indonesia
 - Bali
 - under-covered

@@ -785,7 +785,7 @@ nav.nav--posts {
 
 .wrapper .tagpage {
   max-width: 80%;
-  margin: 0 auto;
+  margin: 0 auto 3rem auto;
 }
 
 .index h1.page__title {
@@ -799,6 +799,7 @@ nav.nav--posts {
 }
 
 .tagpage__title {
+  margin-bottom: 3rem;
   width: 100%;
   text-align: center;
 }

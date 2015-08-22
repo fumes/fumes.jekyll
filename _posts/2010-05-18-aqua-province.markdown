@@ -10,7 +10,7 @@ wordpress_url: http://fumes.dev/?p=2235
 date: '2010-05-18 05:01:32 +0200'
 categories: art
 tags:
-- B&amp;W
+- black-and-white
 - personal-works
 - H2O
 - reflect

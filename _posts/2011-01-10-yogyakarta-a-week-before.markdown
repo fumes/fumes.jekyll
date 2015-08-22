@@ -10,7 +10,7 @@ wordpress_url: http://fumes.dev/?p=1090
 date: '2011-01-10 18:48:31 +0100'
 categories: photo-journalism
 tags:
-- B&amp;W
+- black-and-white
 - city
 - documentary
 - Indonesia

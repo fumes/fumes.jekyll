@@ -11,7 +11,7 @@ date: '2010-06-04 15:42:35 +0200'
 categories: photo-journalism
 tags:
 - lifestyle
-- B&amp;W
+- black-and-white
 - Indonesia
 - personal-works
 - Bali

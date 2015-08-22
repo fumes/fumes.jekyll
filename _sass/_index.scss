@@ -74,7 +74,7 @@
 .tagpage{
   .wrapper & {
     max-width:80%;
-    margin: 0 auto;
+    margin: 0 auto 3rem auto;
   }
 }
 
@@ -88,6 +88,7 @@
   }
 }
 .tagpage__title{
+  margin-bottom:3rem;
   width:100%;
   text-align: center;
 }

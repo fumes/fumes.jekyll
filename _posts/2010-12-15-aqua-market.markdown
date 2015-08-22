@@ -10,7 +10,7 @@ wordpress_url: http://fumes.dev/?p=1132
 date: '2010-12-15 14:30:30 +0100'
 categories: art
 tags:
-- B&amp;W
+- black-and-white
 - personal-works
 - H2O
 - photography
