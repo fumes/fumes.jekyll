@@ -1,33 +1,33 @@
 //Wrapper
 .wrapper {
     background-color: transparent;
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    max-width: -webkit-calc(#{$content_width} - (#{$spacing_unit}));
+    max-width:         calc(#{$content_width} - (#{$spacing_unit}));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: $spacing_unit / 2;
+    padding-left: $spacing_unit / 2;
     @extend %clearfix;
 
     @include media( "screen", ">bp1Width", "<maxWidth"){
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-        padding-right: $spacing-unit;
-        padding-left: $spacing-unit;
+        max-width: -webkit-calc(#{$content_width} - (#{$spacing_unit} * 2));
+        max-width:         calc(#{$content_width} - (#{$spacing_unit} * 2));
+        padding-right: $spacing_unit;
+        padding-left: $spacing_unit;
     }
 
     @include media( "screen", ">maxWidth"){
-        max-width: -webkit-calc(#{$content-width} + (#{$spacing-unit} * 4));
-        max-width:         calc(#{$content-width} + (#{$spacing-unit} * 4));
-        padding-right: $spacing-unit * 3.3;
-        padding-left: $spacing-unit * 3.3;
+        max-width: -webkit-calc(#{$content_width} + (#{$spacing_unit} * 4));
+        max-width:         calc(#{$content_width} + (#{$spacing_unit} * 4));
+        padding-right: $spacing_unit * 3.3;
+        padding-left: $spacing_unit * 3.3;
     }
 }
 
 //Page content
 .content {
-    background-color: $background-color;
-    padding: $spacing-unit 0;
+    background-color: $background_color;
+    padding: $spacing_unit 0;
 }
 
 //Universal components

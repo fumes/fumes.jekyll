@@ -6,35 +6,36 @@ sitemap: false
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-$spacing-unit:     $base-font-size * 2; //32px
+$base_font_size:   16px;
+$small_font_size:  $base_font_size * 0.875;
+$base_line_height: 1.5;
+$spacing_unit:     $base_font_size * 2; //32px
 
-$alert-color:      red;
-$brand-color:      $alert-color;
+$alert_color:      white;
+$brand_color:      #555; //logo base color, ++ _logo.scss
 
-$text-color:       darken(white, 15%);   
-$background-color: #161616;
-$grey-color-light: darken(white, 25%);
-$grey-color:       darken(white, 35%);  
-$grey-color-dark:  darken(white, 45%); 
+$text_color:       darken(white, 15%);   
+$background_color: #161616;
+$grey_color_light: darken(white, 25%);
+$grey_color:       darken(white, 35%);  
+$grey_color-dark:  darken(white, 45%); 
 
 $tblack50:         rgba(0,0,0,.5);
 $twhite50:         rgba(255,255,255,.5);
 $black:            #000;
-
+$white:            #FFF;
 // Max width of the content area
-$content-width:    1400px;
+$content_width:    1400px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "cmq",
         "base",
         "layout",
+        "logo",
         "nav",
         "header",
-        "home", 
+        "index", 
         "post",       
         "video",
         "footer"

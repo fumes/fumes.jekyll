@@ -1,5 +1,5 @@
 .home__heading {
-    font-size: $base-font-size * 1.5;
+    font-size: $base_font_size * 1.5;
 }
 
 .home__posts {
@@ -54,7 +54,7 @@
     margin-bottom: 0;
     position: absolute;
     z-index: 3;
-    background-color: $background-color;
+    background-color: $background_color;
     .compact & {
       font-size: 1.1rem;
       background-color: $tblack50!important;
@@ -66,7 +66,7 @@
 .post-link {
   position: relative;
   display: block;
-  font-size: $base-font-size * 2; 
+  font-size: $base_font_size * 2; 
 
   img{width: 100%;}
 }

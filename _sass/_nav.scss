@@ -1,14 +1,14 @@
 //BEM__BLOCKS
 nav {
-  padding: $spacing-unit*2 0;
-  background-color: $background-color;
-  line-height: $base-line-height * 2;
+  padding: $spacing_unit*2 0;
+  background-color: $background_color;
+  line-height: $base_line_height * 2;
 
   label {display: none;}
 
   //BEM--MODIFIERS
   &.nav--horizontal{
-    padding: $spacing-unit/2 0;
+    padding: $spacing_unit/2 0;
     width: 100%;
     border-top: 0 none;
     .wrapper{
@@ -64,7 +64,7 @@ nav {
     .looper & {overflow-x:hidden;}
   }
 
-  &:hover{ border: 1px solid $alert-color;}
+  &:hover{ border: 1px solid $alert_color;}
 
   .nav--tags & {border: 0 none;}
 }

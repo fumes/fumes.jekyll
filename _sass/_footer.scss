@@ -1,9 +1,9 @@
 //footer block
 .footer {
-    background-color: $background-color;
-    border-top: 1px solid $grey-color-dark;
-    padding: $spacing-unit 0;
-    color:$grey-color;
+    background-color: $background_color;
+    border-top: 1px solid $grey_color-dark;
+    padding: $spacing_unit 0;
+    color:$grey_color;
 }
 
 .footer__description{
@@ -30,7 +30,7 @@
     @include media( "screen", ">minWidth"){max-width: 75%;}
     @include media( "screen", ">bp1Width"){max-width: 50%;}
     
-    svg{ fill: darken($alert-color, 25%);}
+    svg{ fill: darken($alert_color, 25%);}
     
     a {
         -webkit-flex-basis: 200px;
@@ -39,7 +39,7 @@
         display: block;
         margin:1rem 0;
         padding: 0 1rem;
-        &:hover svg { fill: $alert-color;}
+        &:hover svg { fill: $alert_color;}
     }
 }
 

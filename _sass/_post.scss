@@ -1,33 +1,32 @@
 
 //BEM__ELEMENTS
 .post__header { 
-    margin-bottom: $spacing-unit; 
+    margin-bottom: $spacing_unit; 
 }
 
 .post__content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing_unit;
 
     img{ width: 100%; max-width: 100%; }
 }
 
 .post__license {
-    margin-top: $spacing-unit * 2;
-    margin-bottom: $spacing-unit * 2;
+    margin-top: $spacing_unit * 2;
+    margin-bottom: $spacing_unit * 2;
     margin-left: 15%;
     position: relative;
     width: 70%;
     max-width: 70%;
     h5{
         margin-bottom: 0;
-        // float:left; 
-        // display: inline;
     }
     .ico{
         display: inline;
         position: absolute;
-        top:$spacing-unit/6;
+        top:$spacing_unit/6;
     }
     svg{height:100%;}
+    small{line-height:1;}
 }
 
 //BEM--MODIFIERS
@@ -45,8 +44,8 @@
         margin-left: 6rem;
         margin-right: 6rem;
     }
-    font-size: $base-font-size * 1.2;
-    color: $text-color;
+    font-size: $base_font_size * 1.2;
+    color: $text_color;
 
     svg {
         max-width: 36px!important;
@@ -56,17 +55,17 @@
 }
 
 .ico{
-    padding-bottom: $spacing-unit/4;
-    // &.post{ padding-top: $spacing-unit/4; }
-    // &.tag{ padding-top: $spacing-unit/4; }
+    padding-bottom: $spacing_unit/4;
+    // &.post{ padding-top: $spacing_unit/4; }
+    // &.tag{ padding-top: $spacing_unit/4; }
 }
 
 .post-title {
-    font-size: $base-font-size * 1.5;
+    font-size: $base_font_size * 1.5;
     letter-spacing: -1px;
 
     @include media( "screen", ">maxWidth"){
-        font-size: $base-font-size * 2;
+        font-size: $base_font_size * 2;
     }
 }
 
