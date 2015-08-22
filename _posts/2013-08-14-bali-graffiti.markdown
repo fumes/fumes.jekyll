@@ -60,4 +60,4 @@ Stop and read your message, it is wiser.
 {% responsive_image path: uploads/2013/08/130814-bali-grafiti-by-luci-ferrero-02.jpg %}
 Beware stranger... this ain't your home!
 
-Like it?! Check other Luci Ferrero's works on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!" target="_blank">luciferrero.asia</a> 
+Like it?! Check other works from Luci Ferrero on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!" target="_blank">luciferrero.asia</a> 
