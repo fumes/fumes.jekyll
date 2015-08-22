@@ -13,6 +13,7 @@ categories: art
 tags:
 - Indonesia
 - personal-works
+- clever
 - surf
 - H2O
 - reflect
@@ -23,6 +24,7 @@ tags:
 - water
 - waves
 - underwater
+- hardcore
 license:
 thumb: consider.jpg
 ---

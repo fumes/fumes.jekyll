@@ -16,6 +16,7 @@ tags:
 - Congo
 - Africa
 - pain
+- hardcore
 license:
 thumb: congo.jpg
 ---

@@ -12,6 +12,7 @@ categories: photojournalism
 tags:
 - B&amp;W
 - city
+- documentary
 - Indonesia
 - photography
 - motorcycles

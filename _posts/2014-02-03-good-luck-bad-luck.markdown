@@ -18,7 +18,7 @@ tags:
 - festival
 - celebration
 - China
-- documentary
+- report
 license:
 thumb: good-luck.jpg
 ---

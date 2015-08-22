@@ -20,10 +20,9 @@ tags:
 - visual
 - design
 - semplicity
-- amination
+- animation
 - illustration
 - drawings
-
 license:
 thumb: the-line.jpg
 ---

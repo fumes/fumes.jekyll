@@ -14,13 +14,14 @@ tags:
 - personal-works
 - under-covered
 - photography
+- documentary
 - ritual-warfare
 - hardcore
 - archipelago
 - warriors
 - Sumba
 - indonesian-heroes
-- documentary
+
 license:
 thumb: sumba.jpg
 ---

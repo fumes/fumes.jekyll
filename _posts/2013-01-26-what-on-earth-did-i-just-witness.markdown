@@ -22,8 +22,8 @@ tags:
 - design
 - art
 - animation
-- illustrations
-- drawings
+- illustration
+- drawing
 license:
 thumb: big-hands.jpg
 ---

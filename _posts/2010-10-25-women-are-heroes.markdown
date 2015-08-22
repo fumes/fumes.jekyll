@@ -12,7 +12,6 @@ tags:
 - B&amp;W
 - review
 - under-covered
-- documentary
 - photography
 - community
 - artist
@@ -20,6 +19,7 @@ tags:
 - women
 - rural
 - visual
+- simplicity
 license:
 thumb: jr.jpg
 ---

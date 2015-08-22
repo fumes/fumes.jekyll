@@ -12,7 +12,7 @@ categories: photojournalism
 tags:
 - lifestyle
 - city
-- documentary
+- report
 - photography
 - community
 - religion

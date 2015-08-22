@@ -20,6 +20,8 @@ tags:
 - street-art
 - visual
 - pain
+- report
+- water-problems
 license:
 thumb: bali-graffiti.jpg
 ---

@@ -389,6 +389,9 @@ nav.nav--tags {
   text-align: center;
   line-height: 1.2;
 }
+nav.nav--tags [style="font-size: 86%"] {
+  display: none;
+}
 nav.nav--posts {
   text-align: center;
 }

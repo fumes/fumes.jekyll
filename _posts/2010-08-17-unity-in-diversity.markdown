@@ -16,6 +16,7 @@ tags:
 - Bali
 - under-covered
 - photography
+- documentary
 - community
 - Lombok
 - archipelago
@@ -27,7 +28,7 @@ tags:
 - tradition
 - unity
 - Java
-- documentary
+
 license: CC BY
 thumb: unity.jpg
 ---

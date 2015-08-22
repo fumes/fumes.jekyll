@@ -13,6 +13,7 @@ tags:
 - fun
 - lifestyle
 - photography
+- documentary
 - motorcycles
 - community
 - tradition

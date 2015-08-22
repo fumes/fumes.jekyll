@@ -17,6 +17,7 @@ tags:
 - Bali
 - under-covered
 - photography
+- documentary
 - vespa
 - slankers
 - movement
@@ -25,7 +26,6 @@ tags:
 - community
 - rasta
 - hardcore
-- documentary
 - celebration
 - fun
 license:

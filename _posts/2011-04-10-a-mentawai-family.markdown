@@ -12,6 +12,7 @@ categories: photojournalism
 tags:
 - Indonesia
 - photography
+- documentary
 - Mentawai
 - alaia
 - Shaman

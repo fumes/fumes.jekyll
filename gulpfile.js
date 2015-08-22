@@ -24,15 +24,15 @@ gulp.task('svg', function () {
 gulp.task('serve', ['sass'], function() {
 
     browserSync({
+        // "jekyll serve" uses "0.0.0.0:4000" so lets use it also for brosync
         proxy: "http://0.0.0.0:4000/"
     });
 
     gulp.watch("_sass/*.scss", ['sass']);
 
-    gulp.watch("*.css").on('change', reload);
-    gulp.watch("_site/*.*").on('change', reload);
-    //gulp.watch("_posts/*.*", ['jekyll']);
-
+    gulp.watch("_site/assets/css/main.css").on('change', reload);
+    // gulp.watch("_site/*.*").on('change', reload);
+    // gulp.watch("_posts/*.*", ['jekyll']);
     // gulp.watch("css/main.*").on('change', reload);
     // gulp.watch("_site/css/main.*").on('change', reload);
     // gulp.watch("_site/*.html").on('change', reload);
@@ -53,6 +53,6 @@ gulp.task('default', ['serve']);
 
 // howto:
 // 1. "gulp" to process stykes + new terminal window
-// 2. "jekyll s" to make jekyll do his job
+// 2. "jekyll serve" to make jekyll do his job (cos git uses jekyll 2.4.0)
 
 

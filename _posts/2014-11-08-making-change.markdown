@@ -22,11 +22,12 @@ tags:
 - street-art 
 - useful 
 - visual
+- water-problems
 license:
 thumb: favela.jpg
 ---
 
-{% video //embed.ted.com/talks/haas_hahn_how_painting_can_transform_communities.html width=740 height=416 %}
+{% video https://embed.ted.com/talks/haas_hahn_how_painting_can_transform_communities.html width=740 height=416 %}
 
 Artists Jeroen Koolhaas and Dre Urhahn create community art by painting entire neighborhoods, and involving those who live there — from the favelas of Rio to the streets of North Philadelphia. 
 

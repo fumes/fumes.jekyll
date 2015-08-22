@@ -14,11 +14,12 @@ tags:
 - city
 - Milano
 - news
-- documentary
 - photography
 - tradition
 - celebration
 - China
+- report
+- performance
 license: CC BY
 thumb: snaking.jpg
 ---

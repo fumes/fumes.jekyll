@@ -12,7 +12,7 @@ date: '2012-01-25 16:17:12 +0100'
 categories: photojournalism
 tags:
 - news
-- documentary
+- report
 - photography
 - community
 - advertising
@@ -23,7 +23,9 @@ tags:
 - SAR
 - China
 - tradition
+- performance
 - fun
+- Gods
 license: CC BY
 thumb: dragons.jpg
 ---

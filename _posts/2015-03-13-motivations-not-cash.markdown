@@ -11,15 +11,15 @@ categories: studies
 tags: 
 - clever
 - design
-- documentary
 - drawings
 - fun
-- illustrations
+- illustration
 - news
 - reflect
 - review
 - useful
 - visual
+- animation
 license:
 thumb: motivations.jpg
 ---

@@ -12,7 +12,7 @@ categories: photojournalism
 tags:
 - artist
 - Bali
-- celebrations
+- celebration
 - documentary
 - fun
 - Hindu

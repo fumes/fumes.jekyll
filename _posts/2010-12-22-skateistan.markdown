@@ -16,9 +16,9 @@ tags:
 - review
 - news
 - under-covered
-- documentary
 - community
 - Afghanistan
+- hardcore
 license:
 thumb: skateistan.jpg
 ---

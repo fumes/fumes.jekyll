@@ -5,8 +5,8 @@
     <description>Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.</description>
     <link>http://fumes.github.io/</link>
     <atom:link href="http://fumes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2015 19:36:34 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2015 19:36:34 +0200</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2015 03:20:37 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2015 03:20:37 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;For more goods check &lt;a target=&quot;_blank&quot; href=&quot;https://www.thersa.org/discover/videos/rsa-animate/&quot;&gt;rsa animate&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Mar 2015 16:55:51 +0200</pubDate>
+        <pubDate>Fri, 13 Mar 2015 15:55:51 +0100</pubDate>
         <link>http://fumes.github.io/studies/motivations-not-cash/</link>
         <guid isPermaLink="true">http://fumes.github.io/studies/motivations-not-cash/</guid>
         
@@ -27,13 +27,11 @@
         
         <category>design</category>
         
-        <category>documentary</category>
-        
         <category>drawings</category>
         
         <category>fun</category>
         
-        <category>illustrations</category>
+        <category>illustration</category>
         
         <category>news</category>
         
@@ -45,6 +43,8 @@
         
         <category>visual</category>
         
+        <category>animation</category>
+        
         
         <category>studies</category>
         
@@ -52,7 +52,7 @@
     
       <item>
         <title>Making a change</title>
-        <description>&lt;div class=&quot;video-container&quot; style=&quot;padding-bottom: 56.21621621621622%&quot;&gt;&lt;iframe src=&quot;//embed.ted.com/talks/haas_hahn_how_painting_can_transform_communities.html&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+        <description>&lt;div class=&quot;video-container&quot; style=&quot;padding-bottom: 56.21621621621622%&quot;&gt;&lt;iframe src=&quot;https://embed.ted.com/talks/haas_hahn_how_painting_can_transform_communities.html&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;Artists Jeroen Koolhaas and Dre Urhahn create community art by painting entire neighborhoods, and involving those who live there — from the favelas of Rio to the streets of North Philadelphia. &lt;/p&gt;
 
@@ -64,7 +64,7 @@
 &lt;a target=&quot;_blank&quot; href=&quot;http://www.favelapainting.com&quot;&gt;favelapainting.com&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 08 Nov 2014 16:55:51 +0200</pubDate>
+        <pubDate>Sat, 08 Nov 2014 15:55:51 +0100</pubDate>
         <link>http://fumes.github.io/inspiring/making-change/</link>
         <guid isPermaLink="true">http://fumes.github.io/inspiring/making-change/</guid>
         
@@ -93,6 +93,8 @@
         <category>useful</category>
         
         <category>visual</category>
+        
+        <category>water-problems</category>
         
         
         <category>inspiring</category>
@@ -141,6 +143,8 @@
         <category>lifestyle</category>
         
         <category>useful</category>
+        
+        <category>sustainability</category>
         
         <category>review</category>
         
@@ -638,6 +642,12 @@
         
         <category>balance</category>
         
+        <category>documentary</category>
+        
+        <category>sustainability</category>
+        
+        <category>water-problems</category>
+        
         
         <category>studies</category>
         
@@ -805,7 +815,7 @@ Diébédo Francis Kéré grew up in Gando, a small village in Burkina Faso. He s
 &lt;p&gt;Read more about &lt;a href=&quot;http://www.ted.com/talks/diebedo_francis_kere_how_to_build_with_clay_and_community&quot; target=&quot;_blank&quot;&gt;this talk&lt;/a&gt;, find related TEDTalks, and subscribe to this Podcast series…&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 10 Mar 2014 16:55:51 +0200</pubDate>
+        <pubDate>Mon, 10 Mar 2014 15:55:51 +0100</pubDate>
         <link>http://fumes.github.io/inspiring/building-smart/</link>
         <guid isPermaLink="true">http://fumes.github.io/inspiring/building-smart/</guid>
         
@@ -826,6 +836,8 @@ Diébédo Francis Kéré grew up in Gando, a small village in Burkina Faso. He s
         <category>sustainability</category>
         
         <category>useful</category>
+        
+        <category>technology</category>
         
         
         <category>inspiring</category>
@@ -1151,7 +1163,7 @@ Diébédo Francis Kéré grew up in Gando, a small village in Burkina Faso. He s
         
         <category>China</category>
         
-        <category>documentary</category>
+        <category>report</category>
         
         
         <category>photojournalism</category>
@@ -1393,6 +1405,10 @@ Stop and read your message, it is wiser.&lt;/p&gt;
         
         <category>pain</category>
         
+        <category>report</category>
+        
+        <category>water-problems</category>
+        
         
         <category>art</category>
         
@@ -1474,6 +1490,8 @@ Stop and read your message, it is wiser.&lt;/p&gt;
         <category>community</category>
         
         <category>clever</category>
+        
+        <category>technology</category>
         
         
         <category>studies</category>

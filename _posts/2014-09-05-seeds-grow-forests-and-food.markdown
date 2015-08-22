@@ -12,6 +12,7 @@ tags:
 - balance
 - lifestyle
 - useful
+- sustainability
 - review
 - news
 - reflect

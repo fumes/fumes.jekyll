@@ -15,6 +15,9 @@ tags:
 - nature
 - photography
 - balance
+- documentary
+- sustainability
+- water-problems
 license: CC BY
 thumb: dead-coral.jpg
 ---
