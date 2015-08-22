@@ -28,8 +28,11 @@ nav {
 
 //BEM__ELEMENTS
 .looper{
-  overflow-x:hidden;
-  font-size:90%;
+  overflow:hidden;
+  font-size:85%;
+  @include media( "screen", ">minWidth"){
+    font-size:95%;
+  }
 }
 
 .looper__ico{ 
