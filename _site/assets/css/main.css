@@ -238,47 +238,6 @@ li > ol {
   margin-bottom: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
-  line-height: 1;
-}
-
-h1 {
-  font-size: 22.4px;
-}
-
-h2 {
-  font-size: 21.6px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18.4px;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-}
-a svg {
-  fill: #d9d9d9;
-}
-a:hover {
-  color: #e6e6e6;
-}
-a:hover svg {
-  fill: white;
-}
-a:visited {
-  color: #cccccc;
-}
-a:visited:hover {
-  color: #b3b3b3;
-}
-
 blockquote {
   color: #a6a6a6;
   border-left: 4px solid #bfbfbf;
@@ -324,6 +283,47 @@ pre > code {
 .capitalize,
 .capitalize > * {
   text-transform: capitalize;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 22.4px;
+}
+
+h2 {
+  font-size: 21.6px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18.4px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a svg {
+  fill: #d9d9d9;
+}
+a:hover {
+  color: #d9d9d9;
+}
+a:hover svg {
+  fill: white;
+}
+a:visited {
+  color: #cccccc;
+}
+a:visited:hover {
+  color: #b3b3b3;
 }
 
 .wrapper {

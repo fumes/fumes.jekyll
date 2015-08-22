@@ -1,0 +1,19 @@
+//Links
+a {
+  color: $alert_color;
+  text-decoration: none;
+
+  svg{fill: darken($alert_color, 15%);}
+
+  &:hover {
+    color: darken($alert_color, 15%);
+    svg {fill: $alert_color;}
+  }
+  &:visited {
+    color: darken($alert_color, 20%);
+  }
+
+  &:visited:hover {
+    color: darken($alert_color, 30%);
+  }    
+}
