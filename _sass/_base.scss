@@ -6,37 +6,37 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 //Mixins
 
 //Clearfix
 %clearfix {
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 
 
 // Basic styling
 html{
-    font-size: $base-font-size;
-    background-color: $alert-color;
+  font-size: $base-font-size;
+  background-color: $alert-color;
 }
 
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size * 1.2;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: transparent;
-    -webkit-text-size-adjust: 100%;
+  font-family: $base-font-family;
+  font-size: $base-font-size * 1.2;
+  line-height: $base-line-height;
+  font-weight: 300;
+  color: $grey-color-light;
+  background-color: transparent;
+  -webkit-text-size-adjust: 100%;
 }
 
 //Set `margin-bottom` to maintain vertical rhythm
@@ -50,9 +50,9 @@ ul, ol, dl, figure,
 
 //Images
 img {
-    vertical-align: middle;
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit / 2;
+  vertical-align: middle;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -65,8 +65,8 @@ figcaption {font-size: $small-font-size;}
 ul, ol {margin-left: $spacing-unit;}
 
 li {
-    > ul,
-    > ol {margin-bottom: 0;}
+  > ul,
+  > ol {margin-bottom: 0;}
 }
 
 
@@ -82,61 +82,61 @@ h4 {font-size: $base-font-size * 1.15;}
 
 //Links
 a {
-    color: darken($grey-color-light, 15%);
-    text-decoration: none;
+  color: darken($grey-color-light, 15%);
+  text-decoration: none;
 
-    svg{ fill: darken($alert-color, 25%);}
+  svg{ fill: darken($alert-color, 25%);}
 
-    &:hover {
-        color: $alert-color;
-        svg { fill: $alert-color;}
-    }
-    &:visited {color: darken($grey-color-light, 30%);}
+  &:hover {
+      color: $alert-color;
+      svg { fill: $alert-color;}
+  }
+  &:visited {color: darken($grey-color-light, 30%);}
 
-    &:visited:hover {color: $alert-color;}    
+  &:visited:hover {color: $alert-color;}    
 }
 
 
 //Blockquotes
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: $base-font-size * 1.5;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-size: $base-font-size * 1.5;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child { margin-bottom: 0; }
+  > :last-child { margin-bottom: 0; }
 }
 
 //SVGs
 svg{
-    width:100%;
-    fill: $twhite50;
-    path { fill: inherit;}
+  width:100%;
+  fill: $twhite50;
+  path { fill: inherit;}
 }
 
 
 //Code formatting
 pre,
 code {
-    font-size: $base-font-size * 1.1;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+  font-size: $base-font-size * 1.1;
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: $black;
 }
 
 code { padding: 1px 5px; }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+  padding: 8px 12px;
+  overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+      border: 0;
+      padding-right: 0;
+      padding-left: 0;
+  }
 }
 
 .capitalize,

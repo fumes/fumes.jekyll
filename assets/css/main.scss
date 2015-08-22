@@ -21,7 +21,8 @@ $grey-color:       darken(white, 35%);
 $grey-color-dark:  darken(white, 45%); 
 
 $tblack50:         rgba(0,0,0,.5);
-$twhite50:         rgba(255,255,255,.5);  
+$twhite50:         rgba(255,255,255,.5);
+$black:            #000;
 
 // Max width of the content area
 $content-width:    1400px;
@@ -30,7 +31,6 @@ $content-width:    1400px;
 @import
         "cmq",
         "base",
-        //"flex",
         "layout",
         "nav",
         "header",

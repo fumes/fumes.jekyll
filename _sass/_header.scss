@@ -39,36 +39,37 @@
 
 
 .fumes{ 
-    font-family: "Open-sans", Helvetica;
-    text-align: center;
-    line-height: 10vw;
-    font-size: 400px;//fallback
-    font-size: 43vh;
-    font-weight: 600;
-    position: absolute;
-    top:0;
-    width:100%;
-    padding: 3rem;
+  background-color: transparent;
+  font-family: "Open-sans", Helvetica;
+  text-align: center;
+  line-height: 10vw;
+  font-size: 400px;//fallback
+  font-size: 43vh;
+  font-weight: 600;
+  position: absolute;
+  top:0;
+  width:100%;
+  padding: 3rem;
 
-    @include media( "screen", "<minWidth"){
-        top: 4vh;
-        line-height: 10vw;
-        font-size: 33vh;
-    }
+  @include media( "screen", "<minWidth"){
+      top: 4vh;
+      line-height: 10vw;
+      font-size: 33vh;
+  }
 
-    @include media( "screen", ">maxWidth"){
-        line-height: 10vw;
-        font-size: 33vh;
-        > * { margin: 0 -5vw; } 
-    }
+  @include media( "screen", ">maxWidth"){
+      line-height: 10vw;
+      font-size: 33vh;
+      > * { margin: 0 -5vw; } 
+  }
 
-    > * {
-        display: inline-block;
-        padding:0;
-        margin: 0 -4vw;
-        color: #555;
-        opacity: .2;
-    }
+  > * {
+      display: inline-block;
+      padding:0;
+      margin: 0 -4vw;
+      color: #555;
+      opacity: .2;
+  }
 }
 
 .u {

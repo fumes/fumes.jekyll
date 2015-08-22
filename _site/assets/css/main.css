@@ -204,7 +204,7 @@ body {
   font-size: 19.2px;
   line-height: 1.5;
   font-weight: 300;
-  color: #d9d9d9;
+  color: #bfbfbf;
   background-color: transparent;
   -webkit-text-size-adjust: 100%;
 }
@@ -304,7 +304,7 @@ code {
   font-size: 17.6px;
   border: 1px solid #bfbfbf;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #000;
 }
 
 code {
@@ -327,6 +327,7 @@ pre > code {
 }
 
 .wrapper {
+  background-color: transparent;
   max-width: -webkit-calc(1400px - (32px));
   max-width: calc(1400px - (32px));
   margin-right: auto;
@@ -423,6 +424,7 @@ nav.nav--posts {
 }
 
 .looper__link {
+  background-color: transparent;
   padding: .75rem;
   border: 1px solid transparent;
   border-radius: 3px;
@@ -528,6 +530,7 @@ nav.nav--posts {
 }
 
 .fumes {
+  background-color: transparent;
   font-family: "Open-sans", Helvetica;
   text-align: center;
   line-height: 10vw;
@@ -764,7 +767,7 @@ nav.nav--posts {
   margin-left: 3rem;
   margin-right: 3rem;
   font-size: 19.2px;
-  color: #a6a6a6;
+  color: #d9d9d9;
 }
 @media only screen and (min-width: 601px) {
   .post-meta {

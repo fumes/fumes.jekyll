@@ -1,5 +1,6 @@
 //Wrapper
 .wrapper {
+    background-color: transparent;
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     margin-right: auto;
