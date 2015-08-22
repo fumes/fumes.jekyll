@@ -13,6 +13,7 @@ tags:
 - news
 - nerd
 - geek
+- clever
 - internet-services
 license:
 thumb: search.jpg

@@ -93,7 +93,7 @@ gems:
 responsive_image:
   # [Required]
   # Path to the image template.
-  template: _includes/responsive-image.html
+  template: _includes/responsive_image.html
 
   # [Optional, Default: 85]
   # Quality to use when resizing images.
