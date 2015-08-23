@@ -24,9 +24,14 @@
         display: inline;
         position: absolute;
         top:$spacing_unit/6;
+        left:-1.5rem;
     }
-    svg{height:100%;}
-    small{line-height:1;}
+    svg{
+        width:$icon_size;
+        height: $icon_size;
+        //height:100%;
+    }
+    small a {line-height:.75;}
 }
 
 //BEM--MODIFIERS
@@ -48,8 +53,8 @@
     color: $text_color;
 
     svg {
-        max-width: 36px!important;
-        height: 36px!important;
+        max-width: $icon_size!important;
+        height: $icon_size!important;
         fill: $twhite50;
     }
 }

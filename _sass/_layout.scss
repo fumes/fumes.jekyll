@@ -32,8 +32,8 @@
 
 //Universal components
 .ico {
-    max-width: 36px!important;
-    height: 36px!important;
+    max-width: $icon_size!important;
+    height: $icon_size!important;
     float: left;
     margin-right: .75rem;
     margin-left:-3rem;
