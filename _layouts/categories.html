@@ -1,18 +1,35 @@
 ---
 layout: default
 ---
-<h1 class="page__title">{{ page.categories | capitalize }}</h1>
+<div class="tagpage tagpage__title">
+  <span class="tagpage__ico" title="tag">{% include svg/use.html id="icn--categories" %}</span>
+  <h1 class="page__title">{{ page.category | capitalize }}</h1>
+</div>
 
 <div class="tagpage home__posts">
-    {% if site.categories[page.category] %}
-        {% for post in site.categories[page.category] %}
-            <div class="home__post" >
-              <a  class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                <h2>{{ post.title }}</h2>
-              </a>
-            </div>
-        {% endfor %}
-    {% else %}
-        <p>There are no posts for this category.</p>
-    {% endif %}
+  {% if site.categories[page.category] %}
+    {% for post in site.categories[page.category] %}
+     <div class="home__post" >
+      
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> 
+
+        <h2>{{ post.title }}</h2>
+
+        <div class="thumb">
+
+          {% if post.thumb %}
+          <img src="{{ site.baseurl }}/assets/i/t/{{ post.thumb }}" alt="{{ post.title }}">
+          {% else %}
+          <img class="nothumb" src="{{ site.baseurl }}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+          {% endif %}
+
+        </div>
+
+      </a>
+
+    </div>
+    {% endfor %}
+  {% else %}
+    <p>There are no posts for this category.</p>
+  {% endif %}
 </div>
