@@ -3,10 +3,8 @@
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** live in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:- UX tests
 - speed-up Jekyll Regeneration (w/ gulp | jekyll -pre?)
 - open graph tests
-- twitter cards tests- check domain pointer (cname stuff)- footer add icons + flex to column on mobiles:
-	- github ico
-	- twitter ico- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
-- figure out [github](https://help.github.com/) ##### Sometime soon:- automatic rake publish script- chrome web app- improve + maybe move gulp tasks up the tree- use authors.yml##### One day:- https and install service workers
+- twitter cards tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
+- figure out [github](https://help.github.com/) ##### Sometime soon:- automatic rake publish script- chrome web app- improve + maybe move gulp tasks up the tree- use authors.yml##### One day:- https and install service workers
 - diquss
 - print.css
 - mailchimp## Fumes Website Features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ Post thumbs. Front-matter declared.  ✓ open graph  ✓ handy prev-next articles navigation.

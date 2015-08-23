@@ -996,13 +996,13 @@ nav.nav--posts {
   flex-basis: auto;
   display: block;
   margin: 1rem 0;
-  padding: 0 1rem;
+  padding: 0 1vw;
 }
 @media only screen and (min-width: 601px) {
   .footer__socialicons a {
-    -webkit-flex-basis: 150px;
-    -ms-flex-preferred-size: 150px;
-    flex-basis: 150px;
+    -webkit-flex-basis: 130px;
+    -ms-flex-preferred-size: 130px;
+    flex-basis: 130px;
   }
 }
 .footer__socialicons a:hover svg {
