@@ -287,7 +287,7 @@ pre > code {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  line-height: 1;
+  line-height: 1.2;
 }
 
 h1 {
@@ -599,7 +599,7 @@ nav.nav--posts {
   font-size: 64px;
   text-transform: uppercase;
   font-weight: 100;
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: -1px;
   color: #FFF;
   display: block;
@@ -827,7 +827,18 @@ nav.nav--posts {
 }
 
 .post__content {
+  margin-top: 48px;
   margin-bottom: 32px;
+}
+.post__content p {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+@media only screen and (min-width: 601px) {
+  .post__content p {
+    margin-left: 30%;
+    margin-right: 10%;
+  }
 }
 .post__content img {
   width: 100%;
@@ -839,11 +850,24 @@ nav.nav--posts {
   margin-bottom: 64px;
   margin-left: 15%;
   position: relative;
-  width: 70%;
-  max-width: 70%;
+  width: 85%;
+  max-width: 85%;
+}
+@media only screen and (min-width: 601px) {
+  .post__license {
+    margin-left: 15%;
+    width: 70%;
+    max-width: 70%;
+  }
 }
 .post__license h5 {
   margin-bottom: 0;
+  line-height: 1.5;
+}
+.post__license a {
+  display: block;
+  font-size: 16px;
+  line-height: 1.2;
 }
 .post__license .ico {
   display: inline;
@@ -851,12 +875,14 @@ nav.nav--posts {
   top: 5.33333px;
   left: -1.5rem;
 }
+@media only screen and (min-width: 1261px) {
+  .post__license .ico {
+    top: -8px;
+  }
+}
 .post__license svg {
   width: 4rem;
   height: 4rem;
-}
-.post__license small a {
-  line-height: .75;
 }
 
 .post-meta {
@@ -878,8 +904,8 @@ nav.nav--posts {
   }
 }
 .post-meta svg {
-  max-width: 4rem !important;
-  height: 4rem !important;
+  max-width: 2rem;
+  height: 2rem;
   fill: rgba(255, 255, 255, 0.5);
 }
 
@@ -960,21 +986,23 @@ nav.nav--posts {
   }
 }
 .footer__socialicons svg {
+  width: 4rem;
+  height: 4rem;
   fill: #bfbfbf;
 }
 .footer__socialicons a {
-  -webkit-flex-basis: 100px;
-  -ms-flex-preferred-size: 100px;
-  flex-basis: 100px;
+  -webkit-flex-basis: auto;
+  -ms-flex-preferred-size: auto;
+  flex-basis: auto;
   display: block;
   margin: 1rem 0;
   padding: 0 1rem;
 }
 @media only screen and (min-width: 601px) {
   .footer__socialicons a {
-    -webkit-flex-basis: 200px;
-    -ms-flex-preferred-size: 200px;
-    flex-basis: 200px;
+    -webkit-flex-basis: 150px;
+    -ms-flex-preferred-size: 150px;
+    flex-basis: 150px;
   }
 }
 .footer__socialicons a:hover svg {

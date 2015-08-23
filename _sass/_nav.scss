@@ -18,7 +18,7 @@ nav {
   }
   &.nav--tags {    
     text-align: center;
-    line-height: 1.2;
+    line-height: $small_line_height;
     [style="font-size: 86%"]{display:none;}
   }
   &.nav--posts {    

@@ -28,7 +28,7 @@ Today most shops are closed and quiet celebrations are held countrywide. Restaur
 
 People love to go snap their shots using the Royal Advertising as background. Posing with joined hands or popping their best smile and a peace hand sign. Those photos should be up on FB by now, showing love for the King Rama Nine. 
 
-####Here is a visual voyage about the present Thai Royal soft power.
+_Here is a visual voyage about the present Thai Royal soft power._
 
 
 {% responsive_image path: uploads/2011/12/111205-photographer-rokma-royal-iconography-3774.jpg %}

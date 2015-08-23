@@ -1,37 +1,61 @@
 
 //BEM__ELEMENTS
 .post__header { 
-    margin-bottom: $spacing_unit; 
+  margin-bottom: $spacing_unit; 
 }
 
 .post__content {
-    margin-bottom: $spacing_unit;
-
-    img{ width: 100%; max-width: 100%; }
+  margin-top: $spacing_unit*1.5;
+  margin-bottom: $spacing_unit;
+  p {
+    margin-left:10%;
+    margin-right:10%;
+    @include media( "screen", ">minWidth"){
+      margin-left:30%;
+      margin-right:10%;
+    }
+  }
+  img{ width: 100%; max-width: 100%; }
 }
 
 .post__license {
-    margin-top: $spacing_unit * 2;
-    margin-bottom: $spacing_unit * 2;
+  margin-top: $spacing_unit * 2;
+  margin-bottom: $spacing_unit * 2;
+  margin-left: 15%;
+  position: relative;
+  width: 85%;
+  max-width: 85%;
+  @include media( "screen", ">minWidth"){
     margin-left: 15%;
-    position: relative;
-    width: 70%;
+    width: 70%; 
     max-width: 70%;
-    h5{
-        margin-bottom: 0;
+  }
+
+  h5{ 
+    margin-bottom: 0;
+    line-height: $base_line_height;
+  }
+
+  a {
+    display: block;
+    font-size: $base_font_size;
+    line-height: $small_line_height;
+  }
+
+  .ico{
+    display: inline;
+    position: absolute;
+    top:$spacing_unit/6;
+    left:-1.5rem;
+    @include media( "screen", ">maxWidth"){
+      top:-$spacing_unit/4;
     }
-    .ico{
-        display: inline;
-        position: absolute;
-        top:$spacing_unit/6;
-        left:-1.5rem;
-    }
-    svg{
-        width:$icon_size;
-        height: $icon_size;
-        //height:100%;
-    }
-    small a {line-height:.75;}
+  }
+
+  svg{
+    width:$icon_size;
+    height: $icon_size;
+  }
 }
 
 //BEM--MODIFIERS
@@ -39,44 +63,40 @@
 
 //NON BEM ELEMENTS
 .post-meta {
-    margin-left: 3rem;
-    margin-right: 3rem;
-    @include media( "screen", ">minWidth"){
-        margin-left: 4.5rem;
-        margin-right: 4.5rem;
-    }
-    @include media( "screen", ">bp1Width"){
-        margin-left: 6rem;
-        margin-right: 6rem;
-    }
-    font-size: $base_font_size * 1.2;
-    color: $text_color;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  @include media( "screen", ">minWidth"){
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
+  }
+  @include media( "screen", ">bp1Width"){
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+  font-size: $base_font_size * 1.2;
+  color: $text_color;
 
-    svg {
-        max-width: $icon_size!important;
-        height: $icon_size!important;
-        fill: $twhite50;
-    }
+  svg {
+    max-width: $icon_size/2;
+    height: $icon_size/2;
+    fill: $twhite50;
+  }
 }
 
-.ico{
-    padding-bottom: $spacing_unit/4;
-    // &.post{ padding-top: $spacing_unit/4; }
-    // &.tag{ padding-top: $spacing_unit/4; }
-}
+.ico{ padding-bottom: $spacing_unit/4; }
 
 .post-title {
-    font-size: $base_font_size * 1.5;
-    letter-spacing: -1px;
+  font-size: $base_font_size * 1.5;
+  letter-spacing: -1px;
 
-    @include media( "screen", ">maxWidth"){
-        font-size: $base_font_size * 2;
-    }
+  @include media( "screen", ">maxWidth"){
+    font-size: $base_font_size * 2;
+  }
 }
 
 .curator,
 .categories,
 .tags,
 .date{
-    line-height: 1.5;
+  line-height: 1.5;
 }

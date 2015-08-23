@@ -5,10 +5,11 @@ sitemap: false
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base_font_family: Helvetica, Arial, sans-serif;
 $base_font_size:   16px;
 $small_font_size:  $base_font_size * 0.875;
 $base_line_height: 1.5;
+$small_line_height: 1.2;
 $spacing_unit:     $base_font_size * 2; //32px
 
 $alert_color:      white;
