@@ -15,7 +15,7 @@
 ## Fumes Production Technologies 
 Jekyll, Git, Github pages, Sass, Ruby, Nmp, Gulp, Bundler, Normalize, svgs, plus various code clips & techniques taken here and there...  
 
-## Getting Started
+## Prerequisites, getting started:
 
 #### 1. Get started with bundler. Install it globally! 
 ```sh
