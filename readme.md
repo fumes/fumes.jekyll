@@ -14,31 +14,32 @@ Jekyll, Git, Github pages, Sass, Ruby, Nmp, Gulp, Bundler, Normalize, svgs, plus
 
 ## Getting Started
 
-#### 1. Install gulp globally, at your terminal prompt:
+#### 1. Get started with bundler. Install it globally! 
+```sh
+gem install bundler```
+
+#### 2. Install gems in project local dir:
+```sh
+bundle install
+```
+
+#### 3. Install gulp globally, at your terminal prompt:
 ```sh
 npm install --global gulp
 ```
 
-#### 2. Install gulp in project local dir:
+#### 4. Install gulp in project local dir:
 ```sh
 npm install --save-dev gulp
 ```
 
-#### 3. Run gulp:
+#### 5. Run gulp:
 ```sh
 gulp
 ```
-The default task will take care of Sass and BrowserSync.
+The default gulp task will take care of Sass and BrowserSync.
 Your run this on his own terminal window.
 
-#### 4. Get started with bundler. Install it globally! 
-```sh
-gem install bundler```
-
-#### 5. Install gems in project local dir:
-```sh
-bundle install
-```
 ## Gems dependencies:
 - github-pages
 - rmagick
