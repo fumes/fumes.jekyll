@@ -2,7 +2,10 @@
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This hopefully will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** live in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:- UX tests
 - speed-up Jekyll Regeneration (w/ gulp | jekyll -pre?)
-- open graph tests- check domain pointer (cname stuff)- twitter account- twitter cards tests- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
+- open graph tests
+- twitter cards tests- check domain pointer (cname stuff)- footer add icons + flex to column on mobiles:
+	- github ico
+	- twitter ico- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - figure out [github](https://help.github.com/) ##### Sometime soon:- automatic rake publish script- chrome web app- improve + maybe move gulp tasks up the tree- use authors.yml##### One day:- https and install service workers
 - diquss
 - print.css
