@@ -7,7 +7,39 @@
 - diquss
 - print.css
 - mailchimp## Fumes Website Features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ Post thumbs. Front-matter declared.  ✓ open graph  ✓ handy prev-next articles navigation.
-✘ No plugins dependencies.  ✘ print.css.  ✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)  ✘ disqus comments.  ✘ twitter account and cards setup.  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.## Gems dependencies:
+✘ No plugins dependencies.  ✘ print.css.  ✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)  ✘ disqus comments.  ✘ twitter account and cards setup.  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
+
+## Fumes Production Technologies 
+Jekyll, Git, Github pages, Sass, Ruby, Nmp, Gulp, Bundler, Normalize, svgs, plus various code clips & techniques taken here and there...  
+
+## Getting Started
+
+#### 1. Install gulp globally, at your terminal prompt:
+```sh
+npm install --global gulp
+```
+
+#### 2. Install gulp in project local dir:
+```sh
+npm install --save-dev gulp
+```
+
+#### 3. Run gulp:
+```sh
+gulp
+```
+The default task will take care of Sass and BrowserSync.
+Your run this on his own terminal window.
+
+#### 4. Get started with bundler. Install it globally! 
+```sh
+gem install bundler```
+
+#### 5. Install gems in project local dir:
+```sh
+bundle install
+```
+## Gems dependencies:
 - github-pages
 - rmagick
 - jekyll-sitemap

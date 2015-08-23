@@ -8,7 +8,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^1.7.2",
-    "gulp": "^3.8.10",
+    "gulp": "^3.9.0",
     "gulp-autoprefixer": "^1.0.1",
     "gulp-filter": "^2.0.2",
     "gulp-ruby-sass": "^0.7.1",
