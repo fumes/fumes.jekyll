@@ -13,6 +13,7 @@ tags:
 - news
 - reflect
 - review
+- simplicity
 - useful
 - sustainability
 license:
