@@ -5,9 +5,65 @@
     <description>Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.</description>
     <link>http://fumes.github.io/</link>
     <atom:link href="http://fumes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Aug 2015 23:23:47 +0200</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2015 23:23:47 +0200</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2015 18:35:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2015 18:35:00 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>How to grow fresh air!</title>
+        <description>&lt;p&gt;Researcher Kamal Meattle shows how an arrangement of three common houseplants, used in specific spots in a home or office building, can result in measurably cleaner indoor air.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot; style=&quot;padding-bottom: 56.21621621621622%&quot;&gt;&lt;iframe src=&quot;https://embed-ssl.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air.html&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;kamal-meattle&quot;&gt;Kamal Meattle&lt;/h3&gt;
+&lt;p&gt;Business owner and activist
+With its air-filtering plants and sustainable architecture, Kamal Meattle’s office park in New Delhi is a model of green business. Meattle himself is a longtime activist for cleaning up India’s air.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-listen&quot;&gt;Why listen&lt;/h3&gt;
+&lt;p&gt;Kamal Meattle has a vision to reshape commercial building in India using principles of green architecture and sustainable upkeep (including an air-cleaning system that involves massive banks of plants instead of massive banks of HVAC equipment). He started the Paharpur Business Centre and Software Technology Incubator Park (PBC-STIP), in New Delhi, in 1990 to provide “instant office” space to technology companies. PBC-STIP’s website publishes its air quality index every day, and tracks its compliance to the 10 principles of the UN Global Compact, a corporate-citizenship initiative.&lt;/p&gt;
+
+&lt;p&gt;Meattle has long been a environmental activist in India. In the 1980s he helped India’s apple industry develop less-wasteful packaging to help save acres of trees. He then began a campaign to help India’s millions of scooter drivers use less oil. His next plan is to develop a larger version of PBC-STIP, making a green office accessible to more businesses in New Delhi and serving as an example of low-cost, low-energy office life.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Know more about the author:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ted.com/speakers/kamal_meattle&quot;&gt;Full bio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.usgbc.org/leed&quot;&gt;LEED certified buildings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://greenspaces.in/greenbuilding.php&quot;&gt;Certified Green Building&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Know more about these life saving plants:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Areca Palm &lt;a href=&quot;http://www.plantsrescue.com/chrysalidocarpus-lutescens/&quot;&gt;Chrysalidocarpus Lutescens&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mother-in-law Tongue &lt;a href=&quot;http://www.plantsrescue.com/sansevieria-trifasciata-laurentii/&quot;&gt;Sansevieria Trifasciata&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Money Plant &lt;a href=&quot;https://en.wikipedia.org/wiki/Epipremnum_aureum&quot;&gt;Epipremnum_aureum&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Aug 2015 13:37:55 +0200</pubDate>
+        <link>http://fumes.github.io/balance/grow-fresh-air/</link>
+        <guid isPermaLink="true">http://fumes.github.io/balance/grow-fresh-air/</guid>
+        
+        <category>clever</category>
+        
+        <category>design</category>
+        
+        <category>balance</category>
+        
+        <category>news</category>
+        
+        <category>reflect</category>
+        
+        <category>review</category>
+        
+        <category>useful</category>
+        
+        <category>sustainability</category>
+        
+        
+        <category>balance</category>
+        
+      </item>
     
       <item>
         <title>Motivations not cash!</title>
@@ -1411,90 +1467,6 @@ Stop and read your message, it is wiser.&lt;/p&gt;
         
         
         <category>art</category>
-        
-      </item>
-    
-      <item>
-        <title>Numbeo: Numbers for all</title>
-        <description>
-&lt;div class=&quot;responsive-image&quot;&gt;
-  &lt;img class=&quot;responsive-image__placeholder&quot; src=&quot;/assets/i/480/130225-numbeo-review-00.jpg&quot; /&gt;
-  &lt;div class=&quot;responsive-image__delayed&quot; data-src=&quot;/assets/i/{width}/130225-numbeo-review-00.jpg&quot; data-alt=&quot;Fumes - the Camera as a Microphone&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;    
-  new Imager(&#39;.responsive-image__delayed&#39;, {
-      availableWidths: [480, 960, 1260],
-      onImagesReplaced: function() {
-         $(&#39;.responsive-image__placeholder&#39;).hide();
-      }
-  });
-&lt;/script&gt;
-
-&lt;p&gt;Numbeo is the world’s largest database providing current and timely information on world living conditions. &lt;/p&gt;
-
-&lt;p&gt;Launched in April 2009, made by of user contributed data, &lt;a href=&quot;http://www.numbeo.com/common/about.jsp&quot; title=&quot;about numbeo&quot; target=&quot;_blank&quot;&gt;Mladen Adamovic&lt;/a&gt; brainchild Numbeo.com is not influenced by any governemental organization. &lt;/p&gt;
-
-&lt;div class=&quot;responsive-image&quot;&gt;
-  &lt;img class=&quot;responsive-image__placeholder&quot; src=&quot;/assets/i/480/130225-numbeo-review-01.jpg&quot; /&gt;
-  &lt;div class=&quot;responsive-image__delayed&quot; data-src=&quot;/assets/i/{width}/130225-numbeo-review-01.jpg&quot; data-alt=&quot;Fumes - the Camera as a Microphone&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;    
-  new Imager(&#39;.responsive-image__delayed&#39;, {
-      availableWidths: [480, 960, 1260],
-      onImagesReplaced: function() {
-         $(&#39;.responsive-image__placeholder&#39;).hide();
-      }
-  });
-&lt;/script&gt;
-
-&lt;p&gt;Organized geographically offer infos on cost of living, housing, health care, traffic, crime and pollution. &lt;/p&gt;
-
-&lt;div class=&quot;responsive-image&quot;&gt;
-  &lt;img class=&quot;responsive-image__placeholder&quot; src=&quot;/assets/i/480/130225-numbeo-review-02.jpg&quot; /&gt;
-  &lt;div class=&quot;responsive-image__delayed&quot; data-src=&quot;/assets/i/{width}/130225-numbeo-review-02.jpg&quot; data-alt=&quot;Fumes - the Camera as a Microphone&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;    
-  new Imager(&#39;.responsive-image__delayed&#39;, {
-      availableWidths: [480, 960, 1260],
-      onImagesReplaced: function() {
-         $(&#39;.responsive-image__placeholder&#39;).hide();
-      }
-  });
-&lt;/script&gt;
-
-&lt;p&gt;Check it out for your self, and if you find it incorrect or incomplete consider posting some updated prices from your area, we are one world! &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://munbeo.com&quot; title=&quot;munbeo - wisdom of the crowd &quot; target=&quot;_blank&quot;&gt;Numbeo&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.numbeo.com/quality-of-life/rankings_by_country.jsp&quot; title=&quot;Quality of Life Index for Country for 2013&quot; target=&quot;_blank&quot;&gt;Quality of life Index&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.numbeo.com/cost-of-living/comparison.jsp&quot; title=&quot;Using this tool you can compare cost of living and it&#39;s indicators&quot; target=&quot;_blank&quot;&gt;Cost of living comparison tool&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.numbeo.com/cost-of-living/rankings_by_country.jsp&quot; title=&quot;Cost of living rankings by country for 2013&quot; target=&quot;_blank&quot;&gt;Cost of living rankings by country for 2013&lt;/a&gt; &lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Feb 2013 05:24:39 +0100</pubDate>
-        <link>http://fumes.github.io/studies/numbeo-numbers-for-all/</link>
-        <guid isPermaLink="true">http://fumes.github.io/studies/numbeo-numbers-for-all/</guid>
-        
-        <category>useful</category>
-        
-        <category>review</category>
-        
-        <category>news</category>
-        
-        <category>reflect</category>
-        
-        <category>community</category>
-        
-        <category>clever</category>
-        
-        <category>technology</category>
-        
-        
-        <category>studies</category>
         
       </item>
     
