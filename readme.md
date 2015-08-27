@@ -1,16 +1,15 @@
 ## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from south east asia._ _Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This hopefully will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
-- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** live in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:- UX tests
+- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:- UX tests
 - speed-up Jekyll Regeneration (w/ gulp | jekyll -pre?)
-- open graph tests
-- twitter cards tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
+- open graph tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - figure out [github](https://help.github.com/) ##### Sometime soon:- automatic rake publish script- chrome web app- improve + maybe move gulp tasks up the tree- use authors.yml##### One day:- https and install service workers
 - diquss
 - print.css
-- mailchimp## Fumes Website Features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ Post thumbs. Front-matter declared.  ✓ open graph  ✓ handy prev-next articles navigation.
-✘ No plugins dependencies.  ✘ print.css.  ✘ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards)  ✘ disqus comments.  ✘ twitter account and cards setup.  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
+- mailchimp## Fumes website features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ post thumbs. Front-matter declared.  ✓ open graph.  ✓ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator))  ✓ handy prev-next articles navigation.
+✘ No plugins dependencies.  ✘ print.css.  ✘ disqus comments  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
 
-## Fumes Production Technologies 
+## Fumes production technologies 
 Jekyll, Git, Github pages, Sass, Ruby, Nmp, Gulp, Bundler, Normalize, svgs, plus various code clips & techniques taken here and there...  
 
 ## Prerequisites, getting started:
@@ -24,7 +23,7 @@ gem install bundler```
 bundle install
 ```
 
-#### 3. Install gulp globally, at your terminal prompt:
+#### 3. Install gulp globally:
 ```sh
 npm install --global gulp
 ```
