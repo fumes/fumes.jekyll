@@ -31,7 +31,7 @@
 
 
   <div class="ico tag">
-    {% include svg/use.html id="icn--tag" class="tag" %}
+    {% include svg/use.html id="icn--tags" class="tag" %}
   </div>
   <p class="tags">{% for tag in page.tags %}
     <a href="{{site.baseurl}}/{{tag|downcase|slugize}}/">{{tag}}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}

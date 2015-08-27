@@ -830,12 +830,24 @@ nav.nav--posts {
   margin-top: 48px;
   margin-bottom: 32px;
 }
-.post__content p {
+.post__content p,
+.post__content blockquote,
+.post__content h2,
+.post__content h3,
+.post__content h4,
+.post__content h5,
+.post__content h6 {
   margin-left: 10%;
   margin-right: 10%;
 }
 @media only screen and (min-width: 601px) {
-  .post__content p {
+  .post__content p,
+  .post__content blockquote,
+  .post__content h2,
+  .post__content h3,
+  .post__content h4,
+  .post__content h5,
+  .post__content h6 {
     margin-left: 30%;
     margin-right: 10%;
   }
@@ -877,7 +889,7 @@ nav.nav--posts {
 }
 @media only screen and (min-width: 1261px) {
   .post__license .ico {
-    top: -8px;
+    top: 2.66667px;
   }
 }
 .post__license svg {
@@ -911,6 +923,9 @@ nav.nav--posts {
 
 .ico {
   padding-bottom: 8px;
+}
+.ico.tag {
+  margin-top: .5rem;
 }
 
 .post-title {

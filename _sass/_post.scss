@@ -7,7 +7,13 @@
 .post__content {
   margin-top: $spacing_unit*1.5;
   margin-bottom: $spacing_unit;
-  p {
+  p,
+  blockquote,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-left:10%;
     margin-right:10%;
     @include media( "screen", ">minWidth"){
@@ -48,7 +54,7 @@
     top:$spacing_unit/6;
     left:-1.5rem;
     @include media( "screen", ">maxWidth"){
-      top:-$spacing_unit/4;
+      top:$spacing_unit/12;
     }
   }
 
@@ -83,7 +89,10 @@
   }
 }
 
-.ico{ padding-bottom: $spacing_unit/4; }
+.ico{ 
+  padding-bottom: $spacing_unit/4;
+  &.tag{margin-top:.5rem;}
+}
 
 .post-title {
   font-size: $base_font_size * 1.5;
