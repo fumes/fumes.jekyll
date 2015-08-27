@@ -1,6 +1,6 @@
 {
   "name": "fumes",
-  "version": "3.4.4",
+  "version": "3.4.5",
   "description": "gulp + ruby-sass + smaps + brosync + jekyll = gail!",
   "main": "gulpfile.js",
   "devDependencies": {
