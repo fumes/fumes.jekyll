@@ -22,8 +22,10 @@ tags:
 - design
 - art
 - animation
-- illustration
-- drawing
+- illustrations
+- drawings
+- sustainability
+- awareness
 license:
 thumb: big-hands.jpg
 ---

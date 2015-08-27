@@ -7,11 +7,11 @@
     <div class="footer__socialicons">
     {% for svg in site.socialicons %}
 
-      <a target="_blank" href="{{ svg.gourl }}" title="connect using {{ svg.name }}" alt="connect using {{ svg.name }}">{{ svg.content }} </a>
+      <a target="_blank" href="{{ svg.gourl }}" title="{{ svg.name }}" alt="{{ svg.name }}">{{ svg.content }} </a>
 
     {% endfor %}
     
-      <a href="#top" title="to top" alt="to-page-top" >
+      <a href="#top" title="back to page top" alt="back to page top" >
         
         {% include svg/use.html id="icn--top" class="top" %}
 

@@ -13,13 +13,16 @@ tags:
 - design
 - drawings
 - fun
-- illustration
+- illustrations
 - news
 - reflect
 - review
 - useful
 - visual
 - animation
+- lifestyle
+- awareness
+- technology
 license:
 thumb: motivations.jpg
 ---

@@ -5,8 +5,8 @@
     <description>Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.</description>
     <link>http://fumes.github.io/</link>
     <atom:link href="http://fumes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Aug 2015 18:35:38 +0200</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2015 18:35:38 +0200</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2015 11:41:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2015 11:41:00 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -60,7 +60,17 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>useful</category>
         
+        <category>technology</category>
+        
         <category>sustainability</category>
+        
+        <category>plants</category>
+        
+        <category>lifestyle</category>
+        
+        <category>city</category>
+        
+        <category>awareness</category>
         
         
         <category>balance</category>
@@ -89,7 +99,7 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>fun</category>
         
-        <category>illustration</category>
+        <category>illustrations</category>
         
         <category>news</category>
         
@@ -102,6 +112,12 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         <category>visual</category>
         
         <category>animation</category>
+        
+        <category>lifestyle</category>
+        
+        <category>awareness</category>
+        
+        <category>technology</category>
         
         
         <category>studies</category>
@@ -152,7 +168,11 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>visual</category>
         
-        <category>water-problems</category>
+        <category>awareness</category>
+        
+        <category>drawings</category>
+        
+        <category>city</category>
         
         
         <category>inspiring</category>
@@ -216,6 +236,10 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>technology</category>
         
+        <category>plants</category>
+        
+        <category>awareness</category>
+        
         
         <category>balance</category>
         
@@ -272,8 +296,6 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>fun</category>
         
-        <category>lifestyle</category>
-        
         <category>useful</category>
         
         <category>review</category>
@@ -297,6 +319,10 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         <category>open-source</category>
         
         <category>technology</category>
+        
+        <category>awareness</category>
+        
+        <category>opensource</category>
         
         
         <category>inspiring</category>
@@ -706,6 +732,12 @@ With its air-filtering plants and sustainable architecture, Kamal Meattle’s of
         
         <category>water-problems</category>
         
+        <category>awareness</category>
+        
+        <category>Bali</category>
+        
+        <category>Indonesia</category>
+        
         
         <category>studies</category>
         
@@ -896,6 +928,10 @@ Diébédo Francis Kéré grew up in Gando, a small village in Burkina Faso. He s
         <category>useful</category>
         
         <category>technology</category>
+        
+        <category>awareness</category>
+        
+        <category>rural</category>
         
         
         <category>inspiring</category>
@@ -1274,8 +1310,6 @@ Through my observation, analysis, recording to understand who I am, I learned to
         
         <category>fun</category>
         
-        <category>lifestyle</category>
-        
         <category>news</category>
         
         <category>reflect</category>
@@ -1291,6 +1325,8 @@ Through my observation, analysis, recording to understand who I am, I learned to
         <category>performance</category>
         
         <category>China</category>
+        
+        <category>review</category>
         
         
         <category>inspiring</category>
@@ -1466,6 +1502,8 @@ Stop and read your message, it is wiser.&lt;/p&gt;
         <category>report</category>
         
         <category>water-problems</category>
+        
+        <category>city</category>
         
         
         <category>art</category>

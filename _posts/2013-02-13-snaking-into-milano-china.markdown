@@ -16,6 +16,7 @@ tags:
 - news
 - photography
 - tradition
+- ritual
 - celebration
 - China
 - report

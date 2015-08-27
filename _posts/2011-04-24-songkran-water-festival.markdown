@@ -11,18 +11,19 @@ date: '2011-04-24 01:29:37 +0200'
 categories: photo-journalism
 tags:
 - fun
-- lifestyle
 - photography
 - documentary
 - motorcycles
 - community
 - tradition
+- ritual
+- celebration
 - Thailand
 - water
 - festival
 - Songkran
 - Phuket
-- celebration
+- report
 license: CC BY
 thumb: songkran-festival.jpg
 ---

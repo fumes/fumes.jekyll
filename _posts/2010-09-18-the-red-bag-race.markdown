@@ -23,6 +23,7 @@ tags:
 - educational
 - report
 - non-profit
+- sustainability
 license: CC BY
 thumb: red-bag.jpg
 ---

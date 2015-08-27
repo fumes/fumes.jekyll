@@ -22,7 +22,9 @@ tags:
 - street-art 
 - useful 
 - visual
-- water-problems
+- awareness
+- drawings
+- city
 license:
 thumb: favela.jpg
 ---

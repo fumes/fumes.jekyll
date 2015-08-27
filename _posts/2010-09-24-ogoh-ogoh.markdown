@@ -18,12 +18,14 @@ tags:
 - Hindu
 - Indonesia
 - lifestyle
-- lombok
-- Nyepi
+- Lombok
+- nyepi
 - photography
 - spirits
 - tradition
 - visual
+- ritual
+- report
 license: CC BY-NC-ND
 thumb: ogoh.jpg
 ---

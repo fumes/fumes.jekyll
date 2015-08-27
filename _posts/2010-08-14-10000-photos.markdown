@@ -15,7 +15,7 @@ tags:
 - documentary
 - time-lapse
 - Washington-DC
-- lombok
+- Lombok
 - San-Francisco
 - Hongkong
 license:

@@ -15,12 +15,14 @@ tags:
 - news
 - reflect
 - plants
+- trash
 - clever
 - rivers
 - artist
 - water-problems
 - solar-panels
 - water
+- sustainability
 - design
 license:
 thumb: plantas-nomadas.jpg

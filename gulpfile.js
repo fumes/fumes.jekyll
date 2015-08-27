@@ -1,6 +1,6 @@
 'use strict';
 // This GULP process sass and give you browsersync
-// It's set up for standard Jekyll saas structure
+// It's set up for standard Jekyll sass structure
 // w/ svgo command to clean SVGs...
 var gulp         = require('gulp'),
     sass         = require('gulp-ruby-sass'),
@@ -10,22 +10,22 @@ var gulp         = require('gulp'),
     reload       = browserSync.reload;
 
 //SVGO
-gulp.task('svg', function () {
-    return gulp.src('_svg-pre-opt/*.svg')
-        .pipe(svgmin({
-            js2svg: {
-                pretty: true
-            }
-        }))
-        .pipe(gulp.dest('_svg-optimized'))
-});    
+// gulp.task('svg', function () {
+//     return gulp.src('_svg-pre-opt/*.svg')
+//         .pipe(svgmin({
+//             js2svg: {
+//                 pretty: true
+//             }
+//         }))
+//         .pipe(gulp.dest('_svg-optimized'))
+// });    
 
 // Static Server + watching scss/html files
 gulp.task('serve', ['sass'], function() {
 
     browserSync({
         // "jekyll serve" uses "0.0.0.0:4000" so lets use it also for brosync
-        proxy: "http://0.0.0.0:4000/"
+        proxy: "http://fumes.dev"
     });
 
     gulp.watch("_sass/*.scss", ['sass']);
@@ -39,9 +39,8 @@ gulp.task('serve', ['sass'], function() {
 });
 
 gulp.task('sass', function () {
-    return gulp.src('_sass/*.scss')
-        .pipe(sass())
-        .pipe(gulp.dest('css'))// Write the CSS & Source maps
+    return sass('_sass/')
+        .pipe(gulp.dest('assets/css'))// Write the CSS & Source maps
         .pipe(filter('**/*.css')) // Filtering stream to only css files
         .pipe(browserSync.reload({stream:true}));
 });
@@ -52,7 +51,7 @@ gulp.task('default', ['serve']);
 // https://github.com/sindresorhus/sublime-autoprefixer
 
 // howto:
-// 1. "gulp" to process stykes + new terminal window
+// 1. "gulp" to process styles + new terminal window
 // 2. "jekyll serve" to make jekyll do his job (cos git uses jekyll 2.4.0)
 
 

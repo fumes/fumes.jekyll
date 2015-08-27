@@ -27,6 +27,7 @@ tags:
 - design
 - sustainability
 - simplicity
+- plants
 license: CC BY
 thumb: urban-green.jpg
 ---

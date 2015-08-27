@@ -8,11 +8,8 @@ photographer: rokma
 wordpress_id: 1528
 wordpress_url: http://fumes.dev/?p=1528
 date: '2011-06-30 16:25:11 +0200'
-
-
 categories: photo-journalism
 tags:
-- lifestyle
 - documentary
 - photography
 - Bangkok
@@ -21,6 +18,8 @@ tags:
 - visual
 - vote
 - Phuket
+- city
+- report
 license: CC BY
 thumb: thai-elections.jpg
 ---

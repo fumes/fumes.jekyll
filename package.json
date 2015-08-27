@@ -1,20 +1,26 @@
 {
   "name": "fumes",
-  "version": "3.4.0",
+  "version": "3.4.4",
   "description": "gulp + ruby-sass + smaps + brosync + jekyll = gail!",
   "main": "gulpfile.js",
-  "private": true,
-  "author": "rokma",
-  "license": "ISC",
   "devDependencies": {
     "browser-sync": "^1.7.2",
     "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^1.0.1",
-    "gulp-filter": "^2.0.2",
-    "gulp-ruby-sass": "^0.7.1",
+    "gulp-filter": "^3.0.1",
+    "gulp-ruby-sass": "^1.3.0",
     "gulp-svgmin": "^1.2.0"
   },
   "dependencies": {
     "imager.js": "^0.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumes/fumes.github.io.git"
+  },
+  "author": "rokma",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fumes/fumes.github.io/issues"
+  },
+  "homepage": "https://github.com/fumes/fumes.github.io#readme"
 }

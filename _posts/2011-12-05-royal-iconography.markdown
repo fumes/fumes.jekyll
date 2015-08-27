@@ -19,6 +19,7 @@ tags:
 - soft-power
 - celebration
 - documentary
+- report
 license: CC BY
 thumb: royal.jpg
 ---

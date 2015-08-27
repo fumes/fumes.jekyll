@@ -19,6 +19,8 @@ tags:
 - sustainability
 - useful
 - technology
+- awareness
+- rural
 license:
 thumb: building-smart.jpg
 ---

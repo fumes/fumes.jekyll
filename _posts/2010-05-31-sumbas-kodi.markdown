@@ -19,9 +19,11 @@ tags:
 - hardcore
 - archipelago
 - warriors
-- Sumba
-- indonesian-heroes
-
+- sumba
+- Indonesian-heroes
+- lifestyle
+- ritual
+- report
 license:
 thumb: sumba.jpg
 ---

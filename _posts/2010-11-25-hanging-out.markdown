@@ -11,7 +11,6 @@ date: '2010-11-25 14:35:04 +0100'
 categories: photo-journalism
 tags:
 - fun
-- lifestyle
 - Indonesia
 - photography
 - community

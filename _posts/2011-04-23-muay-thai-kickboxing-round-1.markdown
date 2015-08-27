@@ -16,6 +16,7 @@ tags:
 - show
 - pain
 - hardcore
+- Thailand
 license:
 thumb: muaythai.jpg
 ---

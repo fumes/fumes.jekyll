@@ -15,7 +15,12 @@ tags:
 - review
 - simplicity
 - useful
+- technology
 - sustainability
+- plants
+- lifestyle
+- city
+- awareness
 license:
 thumb: growfreshair.jpg
 ---

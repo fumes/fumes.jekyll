@@ -15,11 +15,13 @@ tags:
 - documentary
 - Mentawai
 - alaia
-- Shaman
-- Aman
+- shaman
 - Sumatra
 - water
 - hardcore
+- lifestyle
+- rural
+- report
 license:
 thumb: mentawaii.jpg
 ---

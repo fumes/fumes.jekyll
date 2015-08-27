@@ -15,6 +15,8 @@ tags:
 - geek
 - clever
 - internet-services
+- awareness
+- technology
 license:
 thumb: search.jpg
 ---

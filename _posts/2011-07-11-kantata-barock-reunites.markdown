@@ -19,7 +19,8 @@ tags:
 - legends
 - celebration
 - documentary
-- indonesian-heroes
+- Indonesian-heroes
+- report
 license:
 thumb: kantata.jpg
 ---

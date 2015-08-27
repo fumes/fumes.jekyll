@@ -18,6 +18,8 @@ tags:
 - plastic-surgery
 - Phuket
 - hardcore
+- lifestyle
+- expat
 license:
 thumb: thai-sex.jpg
 ---

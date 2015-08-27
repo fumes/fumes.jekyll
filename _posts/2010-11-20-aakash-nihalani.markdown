@@ -19,7 +19,7 @@ tags:
 - visual
 - design
 - simplicity
-- illustration
+- illustrations
 license:
 thumb: Aakash-Nihilani.jpg
 ---

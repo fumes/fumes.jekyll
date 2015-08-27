@@ -19,6 +19,7 @@ tags:
 - Africa
 - gospel
 - Christian
+- ritual
 - Italy
 - expat
 license: CC BY

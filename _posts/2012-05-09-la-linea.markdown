@@ -11,7 +11,6 @@ categories: inspiring
 tags:
 - art
 - fun
-- lifestyle
 - review
 - news
 - reflect
@@ -19,9 +18,9 @@ tags:
 - artist
 - visual
 - design
-- semplicity
+- simplicity
 - animation
-- illustration
+- illustrations
 - drawings
 license:
 thumb: the-line.jpg

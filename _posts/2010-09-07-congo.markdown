@@ -17,6 +17,7 @@ tags:
 - Africa
 - pain
 - hardcore
+- awareness
 license:
 thumb: congo.jpg
 ---

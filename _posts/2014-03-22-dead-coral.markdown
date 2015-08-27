@@ -18,6 +18,9 @@ tags:
 - documentary
 - sustainability
 - water-problems
+- awareness
+- Bali
+- Indonesia
 license: CC BY
 thumb: dead-coral.jpg
 ---

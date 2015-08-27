@@ -22,6 +22,7 @@ tags:
 - pain
 - report
 - water-problems
+- city
 license:
 thumb: bali-graffiti.jpg
 ---

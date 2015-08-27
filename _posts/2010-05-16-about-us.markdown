@@ -17,6 +17,8 @@ tags:
 - visual
 - transparency
 - non-profit
+- awareness
+- opensource
 license:
 thumb: hello-world.jpg
 ---

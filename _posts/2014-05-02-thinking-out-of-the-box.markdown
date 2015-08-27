@@ -10,7 +10,6 @@ date: '2014-05-02 16:55:51 +0200'
 categories: inspiring
 tags: 
 - fun
-- lifestyle
 - useful
 - review
 - news
@@ -23,6 +22,8 @@ tags:
 - design
 - open-source
 - technology
+- awareness
+- opensource
 license:
 thumb: thinking.jpg
 ---

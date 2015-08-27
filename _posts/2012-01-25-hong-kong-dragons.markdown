@@ -17,15 +17,19 @@ tags:
 - community
 - advertising
 - visual
-- celebration
-- Hongkong
-- dragon
-- SAR
-- China
 - tradition
 - performance
+- celebration
+- ritual
+- hongkong
+- dragons
+- SAR
+- China
 - fun
-- Gods
+- gods
+- lifestyle
+- city
+
 license: CC BY
 thumb: dragons.jpg
 ---

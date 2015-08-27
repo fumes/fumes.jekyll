@@ -17,6 +17,7 @@ tags:
 - community
 - aqua
 - religion
+- ritual
 - tradition
 - Thailand
 - water
@@ -24,6 +25,8 @@ tags:
 - Phuket
 - celebration
 - pain
+- lifestyle
+- report
 license: CC BY
 thumb: songkran-morning.jpg
 ---

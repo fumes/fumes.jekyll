@@ -14,16 +14,18 @@ tags:
 - piercing
 - Thailand
 - festival
+- ritual
 - vegetarian
 - trance
 - Phuket
-- Chinese
+- chinese
 - possession
 - altered-consciousness
 - hardcore
-- Gods
+- gods
 - pain
 - documentary
+- report
 license:
 thumb: mah.jpg
 ---

@@ -19,7 +19,7 @@ tags:
 - photography
 - documentary
 - vespa
-- slankers
+- Slankers
 - movement
 - motorcycles
 - scooter
@@ -28,6 +28,7 @@ tags:
 - hardcore
 - celebration
 - fun
+- report
 license:
 thumb: vespa.jpg
 ---
