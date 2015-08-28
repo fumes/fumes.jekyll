@@ -13,7 +13,7 @@ a {
     color: darken($alert_color, 50%);
   }
 
-  // &:visited:hover {
-  //   color: darken($alert_color, 20%);
-  // }    
+  &:visited:hover {
+    color: darken($alert_color, 20%);
+  }    
 }

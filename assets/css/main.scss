@@ -6,11 +6,11 @@ sitemap: false
 
 // Our variables
 $base_font_family: Helvetica, Arial, sans-serif;
-$base_font_size:   16px;
+$base_font_size:   19px;
 $small_font_size:  $base_font_size * 0.875;
 $base_line_height: 1.5;
-$small_line_height: 1.2;
-$spacing_unit:     $base_font_size * 2; //32px
+$small_line_height: 1.15;
+$spacing_unit:     $base_font_size * 2; //38px
 
 $alert_color:      white;
 $brand_color:      #555; //logo base color, ++ _logo.scss

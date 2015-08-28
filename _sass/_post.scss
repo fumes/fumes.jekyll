@@ -27,14 +27,19 @@
 .post__license {
   margin-top: $spacing_unit * 2;
   margin-bottom: $spacing_unit * 2;
-  margin-left: 15%;
+  margin-left: 10%;
   position: relative;
   width: 85%;
   max-width: 85%;
   @include media( "screen", ">minWidth"){
     margin-left: 15%;
-    width: 70%; 
-    max-width: 70%;
+    width: 75%; 
+    max-width: 75%;
+  }
+  @include media( "screen", ">bp1Width"){
+    margin-left: 15%;
+    width: 80%; 
+    max-width: 80%;
   }
 
   h5{ 
@@ -44,23 +49,24 @@
 
   a {
     display: block;
-    font-size: $base_font_size;
+    font-size: $base_font_size * 0.9;
     line-height: $small_line_height;
+    padding-top: $spacing_unit/6;
   }
 
   .ico{
     display: inline;
     position: absolute;
     top:$spacing_unit/6;
-    left:-1.5rem;
+    left: .5rem;
     @include media( "screen", ">maxWidth"){
       top:$spacing_unit/12;
     }
   }
 
   svg{
-    width:$icon_size;
-    height: $icon_size;
+    width: $icon_size/2;
+    height: $icon_size/2;
   }
 }
 

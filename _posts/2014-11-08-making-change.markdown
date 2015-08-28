@@ -38,7 +38,7 @@ What's made their projects succeed? In this funny and inspiring talk, the artist
 Check out the <a target="_blank" href="http://www.ted.com/talks/haas_hahn_how_painting_can_transform_communities/transcript?language=en">transcript of this talk</a>, available in several languages.
 
 
-_more infos:_
+• _more infos:_
 <a target="_blank" href="http://www.favelapainting.com">favelapainting.com</a>
 
 

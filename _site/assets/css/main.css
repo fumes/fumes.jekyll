@@ -195,13 +195,13 @@ dl, dd, ol, ul, figure {
 }
 
 html {
-  font-size: 16px;
+  font-size: 19px;
   background-color: white;
 }
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 19.2px;
+  font-size: 19px;
   line-height: 1.5;
   font-weight: 300;
   color: #cccccc;
@@ -212,13 +212,13 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
-  margin-bottom: 16px;
+  margin-bottom: 19px;
 }
 
 img {
   vertical-align: middle;
-  margin-top: 32px;
-  margin-bottom: 16px;
+  margin-top: 38px;
+  margin-bottom: 19px;
 }
 
 figure > img {
@@ -226,11 +226,11 @@ figure > img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: 16.625px;
 }
 
 ul, ol {
-  margin-left: 32px;
+  margin-left: 38px;
 }
 
 li > ul,
@@ -240,8 +240,8 @@ li > ol {
 
 blockquote {
   border-left: 3px solid gray;
-  padding-left: 16px;
-  font-size: 20.8px;
+  padding-left: 19px;
+  font-size: 24.7px;
   letter-spacing: -1px;
   font-style: italic;
 }
@@ -259,7 +259,7 @@ svg path {
 
 pre,
 code {
-  font-size: 17.6px;
+  font-size: 20.9px;
   border: 1px solid #b3b3b3;
   border-radius: 3px;
   background-color: #000;
@@ -286,23 +286,31 @@ pre > code {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.15;
 }
 
 h1 {
-  font-size: 22.4px;
+  font-size: 26.6px;
 }
 
 h2 {
-  font-size: 21.6px;
+  font-size: 25.65px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 23.75px;
 }
 
 h4 {
-  font-size: 18.4px;
+  font-size: 21.85px;
+}
+
+h5 {
+  font-size: 19.95px;
+}
+
+h6 {
+  font-size: 19px;
 }
 
 a {
@@ -321,36 +329,39 @@ a:hover svg {
 a:visited {
   color: gray;
 }
+a:visited:hover {
+  color: #cccccc;
+}
 
 .wrapper {
   background-color: transparent;
-  max-width: -webkit-calc(1400px - (32px));
-  max-width: calc(1400px - (32px));
+  max-width: -webkit-calc(1400px - (38px));
+  max-width: calc(1400px - (38px));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 16px;
-  padding-left: 16px;
+  padding-right: 19px;
+  padding-left: 19px;
 }
 @media only screen and (min-width: 961px) and (max-width: 1260px) {
   .wrapper {
-    max-width: -webkit-calc(1400px - (32px * 2));
-    max-width: calc(1400px - (32px * 2));
-    padding-right: 32px;
-    padding-left: 32px;
+    max-width: -webkit-calc(1400px - (38px * 2));
+    max-width: calc(1400px - (38px * 2));
+    padding-right: 38px;
+    padding-left: 38px;
   }
 }
 @media only screen and (min-width: 1261px) {
   .wrapper {
-    max-width: -webkit-calc(1400px + (32px * 4));
-    max-width: calc(1400px + (32px * 4));
-    padding-right: 105.6px;
-    padding-left: 105.6px;
+    max-width: -webkit-calc(1400px + (38px * 4));
+    max-width: calc(1400px + (38px * 4));
+    padding-right: 125.4px;
+    padding-left: 125.4px;
   }
 }
 
 .content {
   background-color: #161616;
-  padding: 32px 0;
+  padding: 38px 0;
 }
 
 .ico {
@@ -453,7 +464,7 @@ a:visited {
 }
 
 nav {
-  padding: 64px 0;
+  padding: 76px 0;
   background-color: #161616;
   line-height: 3;
 }
@@ -461,7 +472,7 @@ nav label {
   display: none;
 }
 nav.nav--horizontal {
-  padding: 16px 0;
+  padding: 19px 0;
   width: 100%;
   border-top: 0 none;
 }
@@ -475,7 +486,7 @@ nav.nav--horizontal .wrapper {
 }
 nav.nav--tags {
   text-align: center;
-  line-height: 1.2;
+  line-height: 1.15;
 }
 nav.nav--tags [style="font-size: 86%"] {
   display: none;
@@ -486,10 +497,12 @@ nav.nav--posts {
 
 .looper {
   overflow: hidden;
+}
+.nav--tags .looper {
   font-size: 85%;
 }
 @media only screen and (min-width: 601px) {
-  .looper {
+  .nav--tags .looper {
     font-size: 95%;
   }
 }
@@ -592,10 +605,10 @@ nav.nav--posts {
 }
 
 .header__title {
-  font-size: 64px;
+  font-size: 76px;
   text-transform: uppercase;
   font-weight: 100;
-  line-height: 1.2;
+  line-height: 1.15;
   letter-spacing: -1px;
   color: #FFF;
   display: block;
@@ -611,7 +624,7 @@ nav.nav--posts {
 }
 
 .header__subtitle {
-  font-size: 19.2px;
+  font-size: 22.8px;
   line-height: 1.5;
   text-align: center;
   width: 100%;
@@ -700,7 +713,7 @@ nav.nav--posts {
 }
 
 .home__heading {
-  font-size: 24px;
+  font-size: 28.5px;
 }
 
 .home__posts {
@@ -773,7 +786,7 @@ nav.nav--posts {
 .post-link {
   position: relative;
   display: block;
-  font-size: 32px;
+  font-size: 38px;
 }
 .post-link img {
   width: 100%;
@@ -819,12 +832,12 @@ nav.nav--posts {
 }
 
 .post__header {
-  margin-bottom: 32px;
+  margin-bottom: 38px;
 }
 
 .post__content {
-  margin-top: 48px;
-  margin-bottom: 32px;
+  margin-top: 57px;
+  margin-bottom: 38px;
 }
 .post__content p,
 .post__content blockquote,
@@ -854,9 +867,9 @@ nav.nav--posts {
 }
 
 .post__license {
-  margin-top: 64px;
-  margin-bottom: 64px;
-  margin-left: 15%;
+  margin-top: 76px;
+  margin-bottom: 76px;
+  margin-left: 10%;
   position: relative;
   width: 85%;
   max-width: 85%;
@@ -864,8 +877,15 @@ nav.nav--posts {
 @media only screen and (min-width: 601px) {
   .post__license {
     margin-left: 15%;
-    width: 70%;
-    max-width: 70%;
+    width: 75%;
+    max-width: 75%;
+  }
+}
+@media only screen and (min-width: 961px) {
+  .post__license {
+    margin-left: 15%;
+    width: 80%;
+    max-width: 80%;
   }
 }
 .post__license h5 {
@@ -874,29 +894,30 @@ nav.nav--posts {
 }
 .post__license a {
   display: block;
-  font-size: 16px;
-  line-height: 1.2;
+  font-size: 17.1px;
+  line-height: 1.15;
+  padding-top: 6.33333px;
 }
 .post__license .ico {
   display: inline;
   position: absolute;
-  top: 5.33333px;
-  left: -1.5rem;
+  top: 6.33333px;
+  left: .5rem;
 }
 @media only screen and (min-width: 1261px) {
   .post__license .ico {
-    top: 2.66667px;
+    top: 3.16667px;
   }
 }
 .post__license svg {
-  width: 4rem;
-  height: 4rem;
+  width: 2rem;
+  height: 2rem;
 }
 
 .post-meta {
   margin-left: 3rem;
   margin-right: 3rem;
-  font-size: 19.2px;
+  font-size: 22.8px;
   color: #cccccc;
 }
 @media only screen and (min-width: 601px) {
@@ -918,19 +939,19 @@ nav.nav--posts {
 }
 
 .ico {
-  padding-bottom: 8px;
+  padding-bottom: 9.5px;
 }
 .ico.tag {
   margin-top: .5rem;
 }
 
 .post-title {
-  font-size: 24px;
+  font-size: 28.5px;
   letter-spacing: -1px;
 }
 @media only screen and (min-width: 1261px) {
   .post-title {
-    font-size: 32px;
+    font-size: 38px;
   }
 }
 
@@ -957,7 +978,7 @@ nav.nav--posts {
 .footer {
   background-color: #161616;
   border-top: 1px solid gray;
-  padding: 32px 0;
+  padding: 38px 0;
   color: #999999;
 }
 

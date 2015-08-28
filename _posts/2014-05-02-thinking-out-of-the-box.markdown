@@ -36,7 +36,8 @@ Inventor of SixthSense, Pranav Mistry, here at TedIndia demos several tools that
 {% video //embed.ted.com/talks/lang/id/pranav_mistry_the_thrilling_potential_of_sixthsense_technology.html width=740 height=416 %}
 
 Subtitles available in 41 languages, start the video and change language in the bottom right corner. 
- More
+
+• _Know more_
 
 <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">Interactive transcript (41 languages)</a>
 
@@ -46,13 +47,13 @@ Subtitles available in 41 languages, start the video and change language in the 
 
 <a title="read more on Pranav Mistry " href="http://en.wikipedia.org/wiki/Pranav_Mistry" target="_blank">Pranav Mistry on Wikipedia</a> 
 
-_Why you should listen_
+• _Why you should listen_
 
 Pranav Mistry is a PhD student in the Fluid Interfaces Group at MIT's Media Lab. Before his studies at MIT, he worked with Microsoft as a UX researcher; he's a graduate of IIT. Mistry is passionate about integrating the digital informational experience with our real-world interactions. 
  
 Some previous projects from Mistry's work at MIT includes intelligent sticky notes, Quickies, that can be searched and can send reminders; a pen that draws in 3D; and TaPuMa, a tangible public map that can act as Google of physical world. His research interests also include Gestural and Tangible Interaction, Ubiquitous Computing, AI, Machine Vision, Collective Intelligence and Robotics. 
 
-_Excerpt from Ted's transcript_
+• _Excerpt from Ted's transcript_
 
  Chris Anderson 
 <blockquote> So, Pranav, first of all, you're a genius. This is incredible, really. What are you doing with this? Is there a company being planned? Or is this research forever, or what?</blockquote> 

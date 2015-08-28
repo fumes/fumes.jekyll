@@ -29,8 +29,6 @@ Researcher Kamal Meattle shows how an arrangement of three common houseplants, u
 
 {% video https://embed-ssl.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air.html width=740 height=416 %}
 
-###Kamal Meattle
-Business owner and activist
 With its air-filtering plants and sustainable architecture, Kamal Meattle's office park in New Delhi is a model of green business. Meattle himself is a longtime activist for cleaning up India's air.
 
 ###Why listen
@@ -38,7 +36,7 @@ Kamal Meattle has a vision to reshape commercial building in India using princip
 
 Meattle has long been a environmental activist in India. In the 1980s he helped India's apple industry develop less-wasteful packaging to help save acres of trees. He then began a campaign to help India's millions of scooter drivers use less oil. His next plan is to develop a larger version of PBC-STIP, making a green office accessible to more businesses in New Delhi and serving as an example of low-cost, low-energy office life.
 
-_Know more about the author:_
+• _Know more about the author:_
 
 [Full bio](http://www.ted.com/speakers/kamal_meattle)
 
@@ -47,10 +45,10 @@ _Know more about the author:_
 [Certified Green Building](http://greenspaces.in/greenbuilding.php)
 
 
-_Know more about these life saving plants:_
+• _Know more about these life saving plants:_
 
-Areca Palm [Chrysalidocarpus Lutescens](http://www.plantsrescue.com/chrysalidocarpus-lutescens/)
+Areca Palm [Chrysalidocarpus Lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens)
 
-Mother-in-law Tongue [Sansevieria Trifasciata](http://www.plantsrescue.com/sansevieria-trifasciata-laurentii/)
+Mother-in-law Tongue [Sansevieria Trifasciata](https://en.wikipedia.org/wiki/Sansevieria_trifasciata)
 
-Money Plant [Epipremnum_aureum](https://en.wikipedia.org/wiki/Epipremnum_aureum)
+Money Plant [Epipremnum Aureum](https://en.wikipedia.org/wiki/Epipremnum_aureum)
