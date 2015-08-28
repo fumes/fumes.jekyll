@@ -33,7 +33,7 @@
 }
 
 .u {
-  color: orange;
+  color: orange;//fallback
   color: hsla(0, 100%, 100%, 0.5);
   -webkit-transform: rotateX(180deg);
   -moz-transform: rotateX(180deg);
@@ -48,7 +48,7 @@
   -ms-backface-visibility:     visible;
     
   &:hover{
-    color: orange;
+    color: orange;//fallback
     color: hsla(12, 100%, 50%, 1);
     opacity:1;
     -webkit-transform: rotateX(0deg);
@@ -58,9 +58,8 @@
 }
 
 .e {
-  color: $white;
-  color: hsla(0, 100%, 50%, .5);
-  color: hsla(0, 100%, 100%, 0.5);
+  color: $white;//fallback
+  color: hsla(0, 100%, 100%, .5);
 
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
@@ -74,7 +73,7 @@
   -moz-backface-visibility:    visible;
   -ms-backface-visibility:     visible;
   &:hover{
-    color:yellow;
+    color:yellow;//fallback
     color: hsla(12, 100%, 50%, 1);
     opacity:1;
     -webkit-transform: rotateX(0deg);

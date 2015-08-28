@@ -1,7 +1,7 @@
 //footer block
 .footer {
   background-color: $background_color;
-  border-top: 1px solid $grey_color-dark;
+  border-top: 1px solid $grey_color_dark;
   padding: $spacing_unit 0;
   color:$grey_color;
 }
@@ -40,7 +40,6 @@
   svg{
     width: $icon_size;
     height: $icon_size;
-    fill: darken($alert_color, 25%);
   }
   
   a {
@@ -58,7 +57,7 @@
     margin:1rem 0;
     padding: 0 1vw;
 
-    &:hover svg { fill: $alert_color;}
+    //&:hover svg { fill: $alert_color;}
 
   }
 }

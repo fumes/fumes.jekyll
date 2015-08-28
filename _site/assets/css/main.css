@@ -204,7 +204,7 @@ body {
   font-size: 19.2px;
   line-height: 1.5;
   font-weight: 300;
-  color: #bfbfbf;
+  color: #cccccc;
   background-color: transparent;
   -webkit-text-size-adjust: 100%;
 }
@@ -239,10 +239,9 @@ li > ol {
 }
 
 blockquote {
-  color: #a6a6a6;
-  border-left: 4px solid #bfbfbf;
+  border-left: 3px solid gray;
   padding-left: 16px;
-  font-size: 24px;
+  font-size: 20.8px;
   letter-spacing: -1px;
   font-style: italic;
 }
@@ -252,7 +251,7 @@ blockquote > :last-child {
 
 svg {
   width: 100%;
-  fill: rgba(255, 255, 255, 0.5);
+  fill: #595959;
 }
 svg path {
   fill: inherit;
@@ -261,7 +260,7 @@ svg path {
 pre,
 code {
   font-size: 17.6px;
-  border: 1px solid #bfbfbf;
+  border: 1px solid #b3b3b3;
   border-radius: 3px;
   background-color: #000;
 }
@@ -311,19 +310,16 @@ a {
   text-decoration: none;
 }
 a svg {
-  fill: #d9d9d9;
+  fill: #b3b3b3;
 }
 a:hover {
-  color: #d9d9d9;
+  color: #cccccc;
 }
 a:hover svg {
   fill: white;
 }
 a:visited {
-  color: #cccccc;
-}
-a:visited:hover {
-  color: #b3b3b3;
+  color: gray;
 }
 
 .wrapper {
@@ -426,7 +422,6 @@ a:visited:hover {
 
 .e {
   color: #FFF;
-  color: rgba(255, 0, 0, 0.5);
   color: rgba(255, 255, 255, 0.5);
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
@@ -512,7 +507,7 @@ nav.nav--posts {
   height: 4rem;
   left: calc(50% - 2rem);
   margin: 0 auto;
-  fill: rgba(255, 255, 255, 0.5);
+  fill: #595959;
 }
 
 .looper__link {
@@ -520,6 +515,7 @@ nav.nav--posts {
   padding: .75rem;
   border: 1px solid transparent;
   border-radius: 3px;
+  line-height: 48px;
 }
 @media only screen and (min-width: 961px) {
   .looper__link {
@@ -588,7 +584,7 @@ nav.nav--posts {
 
 .header {
   background-color: #161616;
-  border-bottom: 1px solid #8c8c8c;
+  border-bottom: 1px solid gray;
   min-height: 56px;
   position: relative;
   padding-top: 1rem;
@@ -901,7 +897,7 @@ nav.nav--posts {
   margin-left: 3rem;
   margin-right: 3rem;
   font-size: 19.2px;
-  color: #d9d9d9;
+  color: #cccccc;
 }
 @media only screen and (min-width: 601px) {
   .post-meta {
@@ -918,7 +914,7 @@ nav.nav--posts {
 .post-meta svg {
   max-width: 2rem;
   height: 2rem;
-  fill: rgba(255, 255, 255, 0.5);
+  fill: #595959;
 }
 
 .ico {
@@ -960,9 +956,9 @@ nav.nav--posts {
 
 .footer {
   background-color: #161616;
-  border-top: 1px solid #8c8c8c;
+  border-top: 1px solid gray;
   padding: 32px 0;
-  color: #a6a6a6;
+  color: #999999;
 }
 
 .footer__description {
@@ -1003,7 +999,6 @@ nav.nav--posts {
 .footer__socialicons svg {
   width: 4rem;
   height: 4rem;
-  fill: #bfbfbf;
 }
 .footer__socialicons a {
   -webkit-flex-basis: auto;
@@ -1019,7 +1014,4 @@ nav.nav--posts {
     -ms-flex-preferred-size: 130px;
     flex-basis: 130px;
   }
-}
-.footer__socialicons a:hover svg {
-  fill: white;
 }

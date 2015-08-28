@@ -34,7 +34,7 @@ body {
   font-size: $base_font_size * 1.2;
   line-height: $base_line_height;
   font-weight: 300;
-  color: $grey_color_light;
+  color: $text_color;
   background-color: transparent;
   -webkit-text-size-adjust: 100%;
 }
@@ -72,10 +72,9 @@ li {
 
 //Blockquotes
 blockquote {
-  color: $grey_color;
-  border-left: 4px solid $grey_color_light;
+  border-left: 3px solid $grey_color_dark;
   padding-left: $spacing_unit / 2;
-  font-size: $base_font_size * 1.5;
+  font-size: $base_font_size * 1.3;
   letter-spacing: -1px;
   font-style: italic;
 
@@ -85,7 +84,7 @@ blockquote {
 //SVGs
 svg{
   width:100%;
-  fill: $twhite50;
+  fill: $icon_color;
   path { fill: inherit;}
 }
 
