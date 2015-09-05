@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Best of "La Linea"
+title: Best of La Linea
 curator: rokma
 wordpress_id: 2321
 wordpress_url: http://fumes.dev/?p=2321

@@ -6,7 +6,7 @@
 
     <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. Released under {{ page.license }} license.</h5>
 
-    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
+    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
 
   {% elsif page.license == null and page.photographer != null %}
 
@@ -14,7 +14,7 @@
 
     <h5>All images copyright &#169; {{ page.date | date: "%Y" }} - {{ site.time | date: '%Y' }} {{ page.photographer }}. All rights reserved.</h5> 
     
-    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
+    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
   
   {% elsif page.license == null and page.photographer == null %}
 
@@ -22,7 +22,7 @@
 
     <h5>This Fumes article is released under {{ site.license }} license. Reviewed material might have different copyright policy.</h5> 
 
-    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" alt="More infos about copyright and licenses" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
+    <a href="http://creativecommons.org/licenses/" target="_blank" class="license_info" title="More infos about copyright and licenses">More infos on copyright, licenses, Creative Commons</a>
 
   {% endif %}
 
