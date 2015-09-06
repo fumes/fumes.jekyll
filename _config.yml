@@ -7,7 +7,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The release of Fumes Project that you're using
-version: v3.7.0
+version: v3.7.1
 
 # Site owner
 owner:
@@ -63,7 +63,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - readme.md
   - CNAME
   - gulpfile.js
   - package.json
