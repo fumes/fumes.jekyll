@@ -3,17 +3,19 @@
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
 
 - open graph more tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
-- figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks- setup and use authors.yml##### One day:
+- figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks with postCSS- setup and use authors.yml##### One day:
 - https and install service workers
-- diquss
+- disqus
 - print.css
 - mailchimp## Fumes website features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ post thumbs. Front-matter declared.  ✓ chrome standalone web app functionality (android only :().  ✓ open graph.  ✓ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator))  ✓ handy prev-next articles navigation.
-✘ No plugins dependencies.  ✘ print.css.  ✘ disqus comments  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
+✘ print.css  ✘ disqus comments (importing old ones from wp...)✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
+✘ No plugins dependencies.
 
 ## Fumes dev tech
 Stuff for development in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
-- automatic [rake publish script](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) just terminal $`rake publish`
+- [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. Enter ``` rake publish ``` in terminal and it will get the _site dir and it will 
+`git push origin master --force` 
 - gem 'jekyll', '~> 3.0.0.pre.beta8' to speed-up Jekyll Regeneration
 - Nmp
 - Gulp
@@ -22,33 +24,48 @@ Stuff for development in [Source branch](https://github.com/fumes/fumes.github.i
 
 ## Prerequisites, getting started:
 
-#### 1. Get started with bundler. Install it globally! 
+#### - 4. Get started with bundler. Install it globally! 
 ```sh
 gem install bundler```
 
-#### 2. Install gems in project local dir:
+#### - 3. Install gems in project local dir
 ```sh
 bundle install
 ```
 
-#### 3. Install gulp globally:
+#### - 2. Install gulp globally
 ```sh
 npm install --global gulp
 ```
 
-#### 4. Install gulp in project local dir:
+#### - 1. Install gulp in project local dir
 ```sh
 npm install --save-dev gulp
 ```
 
-#### 5. Run gulp:
+## Dev time:
+
+#### 0. cd in local project dir 
+```sh
+cdf
+
+```
+
+#### 1. Run Jekyll
+```sh
+jekyll s
+```
+
+#### 2. Run gulp
+Open new terminal window and
+
 ```sh
 gulp
 ```
-The default gulp task will take care of Sass and BrowserSync.
-Your run this on his own terminal window.
+Feel Awesome and ♡ the new partial regeneration with jekyll 3.0.0.beta, dude...
 
 ## Gems dependencies:
+- gem 'rake'
 - gem 'rmagick'
 - gem 'jekyll', '~> 3.0.0.pre.beta8'
 - gem 'jekyll-sitemap'

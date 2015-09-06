@@ -1,6 +1,9 @@
-# this will go to master banch and so > online #
+# _site will go to master branch via rake so ignore here
 ######################
-_site
+_site/*.*
+**/_site/*.*
+**/_site/
+**/_site
 
 # IMAGES SOURCES files, well lets store 'em online anyway...#
 ######################
