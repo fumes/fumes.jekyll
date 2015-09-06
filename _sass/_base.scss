@@ -115,14 +115,17 @@ pre {
 .capitalize > *{text-transform: capitalize; }
 
 //http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/
-.padding_hack{
-  width: 50%;
-  height: 0;
-  padding-top: 48%;
-  position: relative;
-  svg {
-    position: absolute;
-    top: 0;
-    left: 0;
-  }  
-}
+// one year later not necessary anymore ... well maybe
+// fact is that it break some svg placements and no point of using it
+// at least 'till i can test on IE'... lets keep it here...
+// .padding_hack{
+//   width: 50%;
+//   height: 0;
+//   padding-top: 48%;
+//   position: relative;
+//   svg {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//   }  
+// }
