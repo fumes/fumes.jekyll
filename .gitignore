@@ -13,6 +13,7 @@ _site
 logs
 *.log
 npm-debug.log*
+.jekyll-metadata
 
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
