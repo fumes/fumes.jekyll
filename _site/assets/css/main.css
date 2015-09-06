@@ -424,7 +424,7 @@ a:visited:hover {
 }
 .u:hover {
   color: orange;
-  color: #ff3300;
+  color: rgba(255, 51, 0, 0.9);
   opacity: 1;
   -webkit-transform: rotateX(0deg);
   -moz-transform: rotateX(0deg);
@@ -446,7 +446,7 @@ a:visited:hover {
 }
 .e:hover {
   color: yellow;
-  color: #ff3300;
+  color: rgba(255, 51, 0, 0.9);
   opacity: 1;
   -webkit-transform: rotateX(0deg);
   -moz-transform: rotateX(0deg);
@@ -815,14 +815,14 @@ nav.nav--posts {
 
 .tagpage__ico {
   position: relative;
-  top: 1rem;
+  top: 0rem;
   left: -.5rem;
 }
 .tagpage__ico svg {
   height: 4rem;
   width: 4rem;
   margin: 0 auto;
-  fill: rgba(255, 255, 255, 0.5);
+  fill: #595959;
 }
 @media only screen and (min-width: 601px) {
   .tagpage__ico svg {

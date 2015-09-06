@@ -49,7 +49,7 @@
     
   &:hover{
     color: orange;//fallback
-    color: hsla(12, 100%, 50%, 1);
+    color: hsla(12, 100%, 50%, .9);
     opacity:1;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
@@ -74,7 +74,7 @@
   -ms-backface-visibility:     visible;
   &:hover{
     color:yellow;//fallback
-    color: hsla(12, 100%, 50%, 1);
+    color: hsla(12, 100%, 50%, .9);
     opacity:1;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);

@@ -95,14 +95,14 @@
 
 .tagpage__ico{ 
   position: relative;
-  top: 1rem;
+  top: 0rem;
   left: -.5rem;
   
   svg{
     height: $icon_size;
     width: $icon_size;
     margin: 0 auto;
-    fill: $twhite50;
+    fill: $icon_color;
     @include media( "screen", ">minWidth"){
       height: 4rem;
       width: 4rem;
