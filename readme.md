@@ -1,7 +1,7 @@
 ## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from south east asia._ _Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This hopefully will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
-- automatic [rake publish script](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)
+
 - open graph more tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks- setup and use authors.yml##### One day:
 - https and install service workers
@@ -13,6 +13,7 @@
 ## Fumes dev tech
 Stuff for development in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
+- automatic [rake publish script](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) just terminal $`rake publish`
 - gem 'jekyll', '~> 3.0.0.pre.beta8' to speed-up Jekyll Regeneration
 - Nmp
 - Gulp
