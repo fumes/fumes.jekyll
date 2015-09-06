@@ -63,14 +63,15 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
+  - readme.md
   - CNAME
   - gulpfile.js
   - package.json
   - DS_Store
-  - icon
+  - Icon
   - node_modules
   - uploads
+  - rakefile
 
 
 gems: 
