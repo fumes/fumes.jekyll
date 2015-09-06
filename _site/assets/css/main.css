@@ -284,6 +284,18 @@ pre > code {
   text-transform: capitalize;
 }
 
+.padding_hack {
+  width: 50%;
+  height: 0;
+  padding-top: 48%;
+  position: relative;
+}
+.padding_hack svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   line-height: 1.15;
@@ -933,7 +945,7 @@ nav.nav--posts {
   }
 }
 .post-meta svg {
-  max-width: 2rem;
+  width: 2rem;
   height: 2rem;
   fill: #595959;
 }

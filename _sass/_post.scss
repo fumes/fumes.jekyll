@@ -89,7 +89,7 @@
   color: $text_color;
 
   svg {
-    max-width: $icon_size/2;
+    width:$icon_size/2;
     height: $icon_size/2;
     fill: $icon_color;
   }

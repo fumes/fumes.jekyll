@@ -25,7 +25,7 @@ gulp.task('serve', ['sass'], function() {
 
     browserSync({
         // "jekyll serve" uses "0.0.0.0:4000" so lets use it also for brosync
-        proxy: "http://fumes.dev"
+        proxy: "http://0.0.0.0:4000"
     });
 
     gulp.watch("_sass/*.scss", ['sass']);
