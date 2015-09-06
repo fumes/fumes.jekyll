@@ -62,7 +62,7 @@ Open new terminal window and
 ```sh
 gulp
 ```
-Feel Awesome and ♡ the new partial regeneration with jekyll 3.0.0.beta, dude...
+Dude, now feel Awesome + ♡ the new partial regeneration with jekyll 3.0.0.beta...
 
 ## Gems dependencies:
 - gem 'rake'
