@@ -2,7 +2,7 @@
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This hopefully will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
 
-- tags index icon not showing...
+- fix tag icon not showing in tag indexes...
 - open graph more tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks with postCSS- setup and use authors.yml##### One day:
 - https and install service workers
