@@ -835,6 +835,11 @@ nav.nav--posts {
   }
 }
 
+.photographer__meta a {
+  display: block;
+  text-align: left;
+}
+
 .post__header {
   margin-bottom: 38px;
 }

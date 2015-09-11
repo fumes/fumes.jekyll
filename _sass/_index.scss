@@ -109,3 +109,14 @@
     }
   } 
 }
+
+// in the future with js toogle will be prefixed by
+// call something like this ".photographer_info_showing".
+//...
+.photographer__meta{
+  //position: relative;
+  a{
+    display: block;
+    text-align: left;
+  }
+}

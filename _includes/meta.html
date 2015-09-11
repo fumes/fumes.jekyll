@@ -18,31 +18,14 @@
 
 {% if page.photographer %}
 
-  {% assign photographer = site.data.photographers[page.photographer] %}
-
   <div class="ico photographer">
     {% include svg/use.html id="icn--photographer" class="photographer" %}
   </div>
 
   <p class="photog">
-    <span>{{ photographer.name }}</span>
+    {% assign photographer = site.data.photographers[page.photographer] %}
 
-    {% if photographer.web %}<a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">{{ photographer.web }}</a>{% endif %}
-      
-    {% if photographer.twitter %}<a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">titter: {{ photographer.twitter }} </a>{% endif %}
-      
-    {% if photographer.fb_page %}<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">fb-page: {{ photographer.fb_page }} </a>{% endif %}
-
-    {% if photographer.fb_profile %}<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">fb: {{ photographer.fb_profile}} </a>{% endif %}
-
-    {% if photographer.tumblr %}<a href="http://{{ photographer.tumblr }}.tumblr.com/" title="tumblr" target="_blank">tumblr: {{ photographer.tumblr}} </a>{% endif %}
-
-
-    {% if photographer.gplus %}<a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank">g+: {{ photographer.gplus}} </a>{% endif %}
-      
-    {% if photographer.github %}
-    <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">github: {{ photographer.github }} </a>
-    {% endif %}
+    <a href="{{site.baseurl}}/photographers/{{ photographer.name | downcase | replace: ' ', '-' }}/">{{ photographer.name }}</a>
 
   </p>
 
