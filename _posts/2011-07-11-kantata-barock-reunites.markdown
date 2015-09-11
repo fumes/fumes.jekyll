@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 'Music for a Peace: Kantata Barock'
 curator: Alejandro Plesch
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 1607
 wordpress_url: http://fumes.dev/?p=1607
 date: '2011-07-11 18:57:45 +0200'

@@ -24,7 +24,14 @@ var gulp         = require('gulp'),
 gulp.task('serve', ['sass'], function() {
 
     browserSync({
-        // "jekyll serve" uses "0.0.0.0:4000" so lets use it also for brosync
+        // • jekyll github user|organization pages
+        // "jekyll s" uses "0.0.0.0:4000" so lets use it also for brosync
+        // using jekyll (3.0.0.pre.beta8) w/ Incremental build!
+        // otherwise 
+        // • jekyll github project pages
+        // "bundle exec jekyll serve --baseurl ''"
+        // uses "0.0.0.0:4000/baseurl" 
+        // using jekyll (2.4.0)
         proxy: "http://0.0.0.0:4000"
     });
 

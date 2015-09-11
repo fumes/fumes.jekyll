@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Yogyakarta, a Week Before the Eruption
-photographer: Alejandro Plesch
+photographer: alejandro
 curator: Alejandro Plesch
 wordpress_id: 1090
 wordpress_url: http://fumes.dev/?p=1090

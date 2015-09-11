@@ -28,6 +28,9 @@ html{
   font-size: $base_font_size;
   background-color: $alert_color;
 }
+html:active {
+  background: red;   
+}
 
 body {
   font-family: $base_font_family;

@@ -1,5 +1,6 @@
 <div class="post-meta">
 
+
   <div class="ico post">
     {% include svg/use.html id="icn--post" class="post" %}
   </div>
@@ -10,23 +11,49 @@
     {% include svg/use.html id="icn--categories" class="categories" %}
   </div>
   <p class="categories">{% for cat in page.categories %}
-    <a href="{{site.baseurl}}/{{cat|downcase|slugize}}/">{{cat}}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}
+    <a href="{{site.baseurl}}/{{cat|downcase|slugize}}/">{{ cat | titlecase }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}
   </p>
   {% endif %}
 
-  
-  {% if page.photographer %}
+
+{% if page.photographer %}
+
+  {% assign photographer = site.data.photographers[page.photographer] %}
+
   <div class="ico photographer">
     {% include svg/use.html id="icn--photographer" class="photographer" %}
   </div>
-  <p class="photog"> {{ page.photographer|capitalize }}</p>
-  {% endif %}
+
+  <p class="photog">
+    <span>{{ photographer.name }}</span>
+
+    {% if photographer.web %}<a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">{{ photographer.web }}</a>{% endif %}
+      
+    {% if photographer.twitter %}<a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">titter: {{ photographer.twitter }} </a>{% endif %}
+      
+    {% if photographer.fb_page %}<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">fb-page: {{ photographer.fb_page }} </a>{% endif %}
+
+    {% if photographer.fb_profile %}<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">fb: {{ photographer.fb_profile}} </a>{% endif %}
+
+    {% if photographer.tumblr %}<a href="http://{{ photographer.tumblr }}.tumblr.com/" title="tumblr" target="_blank">tumblr: {{ photographer.tumblr}} </a>{% endif %}
+
+
+    {% if photographer.gplus %}<a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank">g+: {{ photographer.gplus}} </a>{% endif %}
+      
+    {% if photographer.github %}
+    <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">github: {{ photographer.github }} </a>
+    {% endif %}
+
+  </p>
+
+{% endif %}
+  
 
   {% if page.curator %} 
   <div class="ico curator">
     {% include svg/use.html id="icn--curator" class="curator" %}
   </div>
-  <p class="curator"> {{ page.curator|capitalize }}</p>
+  <p class="curator"> {{ page.curator | titlecase }}</p>
   {% endif %}
 
 

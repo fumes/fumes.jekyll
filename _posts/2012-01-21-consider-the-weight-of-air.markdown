@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Consider the Weight of air
 curator: Lance Slabbert
-photographer: Lance Slabbert
+photographer: lance 
 excerpt: 'Consider the sea and oceans of the world as a jelly, and the surface of this jelly medium as a skin and lets think of this as our idealized world where we can make generalizations. '
 wordpress_id: 1895
 wordpress_url: http://fumes.dev/?p=1895

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Slank and Slankers
 curator: Alejandro Plesch
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 186
 wordpress_url: http://fumes.dev/?p=186
 date: '2010-09-28 09:47:30 +0200'

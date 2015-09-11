@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Sepak Takraw
 curator: Alejandro Plesch
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 1291
 wordpress_url: http://fumes.dev/?p=1291
 date: '2011-03-26 10:34:44 +0100'

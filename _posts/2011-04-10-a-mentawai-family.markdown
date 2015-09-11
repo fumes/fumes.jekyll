@@ -4,7 +4,7 @@ status: publish
 published: true
 title: A Shaman, His Family and his First Alaia Surfboard
 curator: rokma
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 1337
 wordpress_url: http://fumes.dev/?p=1337
 date: '2011-04-10 19:14:19 +0200'

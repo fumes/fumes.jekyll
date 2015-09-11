@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Indo Vespa Community
 curator: rokma
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 216
 wordpress_url: http://fumes.dev/?p=216
 date: '2010-06-04 15:42:35 +0200'

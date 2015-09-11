@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Hanging out
 curator: Alejandro Plesch
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 1068
 wordpress_url: http://fumes.dev/?p=1068
 date: '2010-11-25 14:35:04 +0100'

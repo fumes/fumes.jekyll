@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Sumba&rsquo;s Kodi
 curator: rokma
-photographer: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 157
 wordpress_url: http://fumes.dev/?p=157
 date: '2010-05-31 09:07:36 +0200'

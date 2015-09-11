@@ -4,8 +4,7 @@ status: publish
 published: true
 title: Bali graffiti
 curator: rokma
-photographer: Luci Ferrero
-photographer_url: luciferrero.asia
+photographer: luci
 wordpress_url: http://fumes.dev/?p=2516
 date: '2013-08-14 15:25:55 +0200'
 categories: art
