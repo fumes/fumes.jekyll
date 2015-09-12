@@ -87,10 +87,15 @@ blockquote {
 //SVGs
 svg{
   width:100%;
+  height: auto;
   fill: $icon_color;
   path { fill: inherit;}
 }
 
+
+html|* > svg {
+  transform-origin: 0 0 0px;
+}
 
 //Code formatting
 pre,

@@ -255,10 +255,15 @@ blockquote > :last-child {
 
 svg {
   width: 100%;
+  height: auto;
   fill: #595959;
 }
 svg path {
   fill: inherit;
+}
+
+html|* > svg {
+  transform-origin: 0 0 0px;
 }
 
 pre,
@@ -369,7 +374,7 @@ a:visited:hover {
 }
 
 .ico {
-  max-width: 4rem !important;
+  width: 4rem !important;
   height: 4rem !important;
   float: left;
   margin-right: .75rem;
@@ -838,6 +843,18 @@ nav.nav--posts {
 .photographer__meta a {
   display: block;
   text-align: left;
+  margin-left: 2rem;
+}
+.photographer__meta .ico {
+  float: none;
+  padding-top: 0;
+  padding-bottom: 0;
+  position: relative;
+}
+.photographer__meta .ico svg {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .post__header {
