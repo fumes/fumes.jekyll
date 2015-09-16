@@ -2,17 +2,19 @@
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This hopefully will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
 
-- fix tag icon not showing in tag indexes...
-- open graph more tests- check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
-- figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks with postCSS- setup and use authors.yml##### One day:
+- open graph more tests
+- authors pages - check domain pointer (cname stuff)- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
+- figure out [github](https://help.github.com/) ##### Sometime soon:- improve gulp tasks with postCSS
+- ##### One day:
 - https and install service workers
 - disqus
 - print.css
-- mailchimp## Fumes website features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ post thumbs. Front-matter declared.  ✓ chrome standalone web app functionality (android only :().  ✓ open graph.  ✓ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator))  ✓ handy prev-next articles navigation.
-✘ print.css  ✘ disqus comments (importing old ones from wp...)✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.
-✘ No plugins dependencies.
+- mailchimp
+- merchandise
+- PDF | ebook## Fumes website features   ✓ serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  ✓ ultra simple [codepen-nerd](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  ✓ smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  ✓ auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  ✓ post thumbs. Front-matter declared.  ✓ chrome standalone web app functionality (android only :().  ✓ open graph.  ✓ twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator))  ✓ handy prev-next articles navigation.
+✘ print.css  ✘ disqus comments (importing old ones from wp...)  ✘ [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  ✘ [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  ✘ service workers.  ✘ No plugins dependencies.
 
-## Fumes dev tech
+## Fumes development technologies
 Stuff for development in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
 - [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. Enter ``` rake publish ``` in terminal and it will get the _site dir and it will 
