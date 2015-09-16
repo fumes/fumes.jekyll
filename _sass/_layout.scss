@@ -32,9 +32,12 @@
 
 //Universal components
 .ico {
-    width: $icon_size!important;
-    height: $icon_size!important;
-    float: left;
-    margin-right: .75rem;
-    margin-left:-3rem;
+    width: $icon_size;
+    height: $icon_size;
+    position: relative;
+    svg{
+        position: absolute;
+        top:0;
+        left:0;
+    }
 }

@@ -26,7 +26,7 @@ dl, dd, ol, ul, figure {
 // Basic styling
 html{
   font-size: $base_font_size;
-  background-color: $alert_color;
+  background-color: red;
 }
 html:active {
   background: red;   
@@ -87,15 +87,12 @@ blockquote {
 //SVGs
 svg{
   width:100%;
-  height: auto;
+  height:100%;
   fill: $icon_color;
   path { fill: inherit;}
 }
 
 
-html|* > svg {
-  transform-origin: 0 0 0px;
-}
 
 //Code formatting
 pre,
