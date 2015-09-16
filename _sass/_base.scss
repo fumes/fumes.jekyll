@@ -21,16 +21,12 @@ dl, dd, ol, ul, figure {
   }
 }
 
-
-
 // Basic styling
 html{
   font-size: $base_font_size;
   background-color: red;
 }
-html:active {
-  background: red;   
-}
+
 
 body {
   font-family: $base_font_family;
@@ -40,6 +36,9 @@ body {
   color: $text_color;
   background-color: transparent;
   -webkit-text-size-adjust: 100%;
+}
+body:active {
+  background: red;   
 }
 
 //Set `margin-bottom` to maintain vertical rhythm

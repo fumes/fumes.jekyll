@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Muay Thai Round 1
 curator: Alejandro Plesch
-photgrapher: Alejandro Plesch
+photographer: alejandro
 wordpress_id: 1376
 wordpress_url: http://fumes.dev/?p=1376
 date: '2011-04-23 17:21:43 +0200'

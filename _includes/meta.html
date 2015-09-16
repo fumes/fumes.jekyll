@@ -16,14 +16,15 @@
 
   {% if page.photographer %}
   <div class="post-meta photographer">
+    
     <div class="ico">{% include svg/use.html id="icn--photographer" class="photographer" %}</div>
 
     <p class="photog">
       {% assign photographer = site.data.photographers[page.photographer] %}
 
       <a href="{{site.baseurl}}/photographers/{{ photographer.name | downcase | replace: ' ', '-' }}/">{{ photographer.name }}</a>
-
     </p>
+
   </div>
   {% endif %}
   
