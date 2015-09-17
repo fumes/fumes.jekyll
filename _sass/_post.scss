@@ -122,8 +122,8 @@
   -ms-flex-align:center;
   align-items:center;
 
-  padding-top:.25rem;
-  padding-bottom:.25rem;  
+  padding-top: $spacing_unit / 6;//.25rem;
+  padding-bottom: $spacing_unit / 6;//.25rem;  
   
   p, h1{margin:0;}
 }
