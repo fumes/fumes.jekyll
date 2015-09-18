@@ -63,34 +63,45 @@ layout: default
     </div>
     {% endif %}
   </div>
-
-
 </div>
 
-<div class="tagpage home__posts">
-  {% if site.data.photographers[page.photographer] %}
-    {% for post in site.photographers[page.photographer] %}
-     <div class="home__post" >
-      
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> 
 
-        <h2>{{ post.title }}</h2>
+{% if page.photographer == 'rokma' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'rokma' %}
+      {% include index_post_block.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
 
-        <div class="thumb">
+{% if page.photographer == 'alejandro' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'alejandro' %}
+      {% include index_post_block.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
 
-          {% if post.thumb %}
-          <img src="{{ site.baseurl }}/assets/i/t/{{ post.thumb }}" alt="{{post.title}}">
-          {% else %}
-          <img class="nothumb" src="{{ site.baseurl }}/assets/i/t/fumesyousuck_thumb_{{photographer.name}}.svg" alt="{{ post.title }}">
-          {% endif %}
+{% if page.photographer == 'luci' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'luci' %}
+      {% include index_post_block.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
 
-        </div>
-
-      </a>
-
-    </div>
-    {% endfor %}
-  {% else %}
-    <p>There are no posts for this photographer.</p>
-  {% endif %}
-</div> 
+{% if page.photographer == 'lance' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'lance' %}
+      {% include index_post_block.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}

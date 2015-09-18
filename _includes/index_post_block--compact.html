@@ -1,0 +1,19 @@
+<div class="home__post">
+
+  <a class="post-link {{ post.categories }}" href="{{ post.url | prepend: site.baseurl }}"> 
+
+    <h2>{{ post.title | truncatewords:2 }}</h2>
+
+    <div class="thumb">
+
+      {% if post.thumb %}
+      <img src="assets/i/t/{{ post.thumb }}" alt="{{ post.title }}">
+      {% else %}
+      <img class="nothumb" src="assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+      {% endif %}
+
+    </div>
+
+  </a>
+
+</div>
