@@ -3,7 +3,7 @@
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
 
 - photographer pages contact links only icon and on row + show what on :hover maybe
-- {:class="readmore"} scss  - improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
+- {:class="readmore"} scss or move the front matter maybe cleaner... - improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - figure out [github](https://help.github.com/)
 - study kramdown##### Sometime soon:- open graph more tests- check domain pointer (cname stuff)- improve gulp tasks with postCSS
  ##### One day:
