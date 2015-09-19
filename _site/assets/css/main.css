@@ -864,13 +864,13 @@ nav.nav--posts {
 .post__content {
   margin-top: 54px;
   margin-bottom: 36px;
-  /* Gradient transparent - color - transparent */
 }
 .post__content hr {
   margin: 2rem auto;
   border: 0;
   height: 2px;
-  width: 70%;
+  width: 7%;
+  background-color: #161616;
   background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.25), transparent);
 }
 .post__content p,
@@ -1039,6 +1039,7 @@ nav.nav--posts {
   text-transform: uppercase;
 }
 
+/* Gradient transparent - color - transparent */
 .video-container {
   position: relative;
   width: 100%;

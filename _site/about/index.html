@@ -9,7 +9,7 @@
   <title>About - Fumes</title>
   
   <meta name="description" content="Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images.">
-  <meta name="version" content="v3.7.2">
+  <meta name="version" content="v3.8.0">
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="canonical" href="http://fumes.github.io/about/">
   <link rel="alternate" type="application/rss+xml" title="Fumes" href="http://fumes.github.io/feed.xml" />
@@ -65,7 +65,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-  <script src="/assets/j/imager.min.js"></script>
+  <script src="/assets/j/global.js"></script>
 </head>
 
 
@@ -361,7 +361,8 @@ the original focuses are still there:</p>
 </div>
 
 
-    <nav class="nav--posts">
+    
+<nav class="nav--posts">
   <div class="wrapper">
     <!-- looper-posts -->
 <div class="looper" >
@@ -586,7 +587,8 @@ the original focuses are still there:</p>
 </nav>
 
 
-    <nav class="nav--tags">
+    
+<nav class="nav--tags">
   <div class="wrapper">
     <!-- looper-tags -->
 <div class="looper" >
@@ -1639,7 +1641,28 @@ the original focuses are still there:</p>
 </footer>
 
 
-    
+    <script>
+  //APPEND to copy action
+  function addLink() {
+    var body_element = document.getElementsByTagName('body')[0];
+    var selection;
+    selection = window.getSelection();
+    var pagelink = "<br /><br />&#9733; YO! this is an extract from Fumes: <a href='"+document.location.href+"'>"+document.location.href+"</a><br />&#9733; Fumes Project is open source and licensed under a Creative Commons Attribution 4.0 International License.";
+    var copytext = selection + pagelink;
+    var newdiv = document.createElement('div');
+    newdiv.style.position='absolute';
+    newdiv.style.left='-99999px';
+    body_element.appendChild(newdiv);
+    newdiv.innerHTML = copytext;
+    selection.selectAllChildren(newdiv);
+    window.setTimeout(function() {
+      body_element.removeChild(newdiv);
+    },0);
+  }
+  document.oncopy = addLink;
+
+</script>
+
 
   <script>
   //Asynchronous Google Analytics snippet

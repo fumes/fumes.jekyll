@@ -67,7 +67,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-  <script src="/assets/j/imager.min.js"></script>
+  <script src="/assets/j/global.js"></script>
 </head>
 
 
@@ -616,7 +616,8 @@ Stop and read your message, it is wiser.</p>
 </div>
 
 
-    <nav class="nav--posts">
+    
+<nav class="nav--posts">
   <div class="wrapper">
     <!-- looper-posts -->
 <div class="looper" >
@@ -841,7 +842,8 @@ Stop and read your message, it is wiser.</p>
 </nav>
 
 
-    <nav class="nav--tags">
+    
+<nav class="nav--tags">
   <div class="wrapper">
     <!-- looper-tags -->
 <div class="looper" >
@@ -1894,7 +1896,28 @@ Stop and read your message, it is wiser.</p>
 </footer>
 
 
-    
+    <script>
+  //APPEND to copy action
+  function addLink() {
+    var body_element = document.getElementsByTagName('body')[0];
+    var selection;
+    selection = window.getSelection();
+    var pagelink = "<br /><br />&#9733; YO! this is an extract from Fumes: <a href='"+document.location.href+"'>"+document.location.href+"</a><br />&#9733; Fumes Project is open source and licensed under a Creative Commons Attribution 4.0 International License.";
+    var copytext = selection + pagelink;
+    var newdiv = document.createElement('div');
+    newdiv.style.position='absolute';
+    newdiv.style.left='-99999px';
+    body_element.appendChild(newdiv);
+    newdiv.innerHTML = copytext;
+    selection.selectAllChildren(newdiv);
+    window.setTimeout(function() {
+      body_element.removeChild(newdiv);
+    },0);
+  }
+  document.oncopy = addLink;
+
+</script>
+
 
   <script>
   //Asynchronous Google Analytics snippet
