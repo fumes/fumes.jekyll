@@ -1,5 +1,5 @@
 'use strict';
-// This GULP process sass and give you browsersync
+// This GULP process sass + give you browsersync
 // It's set up for standard Jekyll sass structure
 // w/ svgo command to clean SVGs...
 var gulp         = require('gulp'),
@@ -10,39 +10,36 @@ var gulp         = require('gulp'),
     reload       = browserSync.reload;
 
 //SVGO
-// gulp.task('svg', function () {
-//     return gulp.src('_svg-pre-opt/*.svg')
-//         .pipe(svgmin({
-//             js2svg: {
-//                 pretty: true
-//             }
-//         }))
-//         .pipe(gulp.dest('_svg-optimized'))
-// });    
+gulp.task('svg', function () {
+    return gulp.src('_svg/sources/*.svg')
+        .pipe(svgmin({
+            js2svg: {
+                pretty: true
+            }
+        }))
+        .pipe(gulp.dest('_svg/optimized'))
+});    
 
 // Static Server + watching scss/html files
 gulp.task('serve', ['sass'], function() {
 
     browserSync({
-        // • jekyll github user|organization pages
-        // "jekyll s" uses "0.0.0.0:4000" so lets use it also for brosync
+        // • JEKYLL GITHUB USER|ORGANIZATION PAGES (user.github.io)
+        // ```jekyll s``` uses "0.0.0.0:4000" so use it 4 brosync too.
         // using jekyll (3.0.0.pre.beta8) w/ Incremental build!
-        // otherwise 
-        // • jekyll github project pages
-        // "bundle exec jekyll serve --baseurl ''"
+        proxy: "http://0.0.0.0:4000"
+
+        // • JEKYLL GITHUB PROJECT PAGES (user.github.io/user)
+        // ```bundle exec jekyll serve --baseurl ''```
         // uses "0.0.0.0:4000/baseurl" 
         // using jekyll (2.4.0)
-        proxy: "http://0.0.0.0:4000"
+        // proxy: "0.0.0.0:4000/baseurl"
     });
 
     gulp.watch("_sass/*.scss", ['sass']);
 
     gulp.watch("_site/assets/css/main.css").on('change', reload);
-    // gulp.watch("_site/*.*").on('change', reload);
-    // gulp.watch("_posts/*.*", ['jekyll']);
-    // gulp.watch("css/main.*").on('change', reload);
-    // gulp.watch("_site/css/main.*").on('change', reload);
-    // gulp.watch("_site/*.html").on('change', reload);
+
 });
 
 gulp.task('sass', function () {
@@ -57,8 +54,10 @@ gulp.task('default', ['serve']);
 // to autoprefix use sublime (alt+super+p) > autoprefixer 
 // https://github.com/sindresorhus/sublime-autoprefixer
 
-// howto:
-// 1. "gulp" to process styles + new terminal window
-// 2. "jekyll serve" to make jekyll do his job (cos git uses jekyll 2.4.0)
-
+// QUICKSTART:
+// 0. open 2 terminal windows:
+// 1. ```jekyll s --trace``` to run jekyll (cos this repo uses jekyll 3.0.0.pre.beta8)
+// 2. ```gulp``` to process styles + new terminal window
+// optional
+// A. ```gulp svg``` to clean SVGs...
 
