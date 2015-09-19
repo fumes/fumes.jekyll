@@ -1,29 +1,25 @@
-
+_site/
+.sass-cache/
+.jekyll-metadata
+.sass-cache/
+# *.css.map
 
 # IMAGES SOURCES files, well lets store 'em online anyway...#
-######################
 # uploads/*.*
 
-
-# DEV files #
-######################
-.sass-cache/
+# more DEV files #
 logs
 *.log
 npm-debug.log*
-.jekyll-metadata
 
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 **/node_modules
 
-
 # ROK files #
-######################
 .jekyll
 
 # OS generated files #
-######################
 **/.Trashes
 **/Icon
 **/.DS_Store
@@ -35,7 +31,6 @@ npm-debug.log*
 **/Thumbs.db
 
 # Packages #
-############
 # it's better to unpack these files and commit the raw source
 # git has its own built in compression methods
 *.7z
@@ -48,67 +43,4 @@ npm-debug.log*
 *.zip
 
 
-# _site will go to master branch via rake so ignore here
-######################
-_site/*.*
-_site/
-_site/*
-**/_site/*.*
-**/_site/
-**/_site
-.jekyll-metadata
-_site/**.html
-_site/*.html
 
-
-_site/art/consider-the-weight-of-air/index.html
-
-_site/assets/j/Imager.min.js
-
-_site/balance/plantas-nomadas/index.html
-
-_site/balance/seeds-grow-forests-and-food/index.html
-
-_site/balance/the-red-bag-race/index.html
-
-_site/balance/urban-green-need/index.html
-
-_site/inspiring/skateistan/index.html
-
-_site/inspiring/spike-jonze-new-film/index.html
-
-_site/inspiring/thinking-out-of-the-box/index.html
-
-_site/inspiring/what-on-earth-did-i-just-witness/index.html
-
-_site/inspiring/who-i-am/index.html
-
-_site/inspiring/women-are-heroes/index.html
-
-_site/studies/beach/index.html
-
-_site/studies/dead-coral/index.html
-
-_site/studies/motivations-not-cash/index.html
-
-*.html
-
-_site/studies/numbeo-numbers-for-all/index.html
-
-_site/studies/new-safer-search-from-google/index.html
-
-_site/inspiring/making-change/index.html
-
-_site/inspiring/la-linea/index.html
-
-_site/inspiring/building-smart/index.html
-
-_site/inspiring/about-us/index.html
-
-_site/inspiring/aakash-nihalani/index.html
-
-_site/index.html
-
-_site/feed.xml
-
-_site/assets/j/Imager.min.js
