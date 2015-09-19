@@ -7,20 +7,24 @@
 .post__content {
   margin-top: $spacing_unit*1.5;
   margin-bottom: $spacing_unit;
+
   p,
   blockquote,
   h2,
   h3,
   h4,
   h5,
-  h6 {
+  h6,
+  ul {
     margin-left:10%;
     margin-right:10%;
+    li{ margin-left:1rem;}
     @include media( "screen", ">minWidth"){
       margin-left:30%;
       margin-right:10%;
     }
   }
+  p::first-line{font-size: 120%;}
   img{ width: 100%; max-width: 100%; }
 }
 

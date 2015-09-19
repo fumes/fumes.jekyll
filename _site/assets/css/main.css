@@ -871,9 +871,20 @@ nav.nav--posts {
 .post__content h3,
 .post__content h4,
 .post__content h5,
-.post__content h6 {
+.post__content h6,
+.post__content ul {
   margin-left: 10%;
   margin-right: 10%;
+}
+.post__content p li,
+.post__content blockquote li,
+.post__content h2 li,
+.post__content h3 li,
+.post__content h4 li,
+.post__content h5 li,
+.post__content h6 li,
+.post__content ul li {
+  margin-left: 1rem;
 }
 @media only screen and (min-width: 601px) {
   .post__content p,
@@ -882,10 +893,14 @@ nav.nav--posts {
   .post__content h3,
   .post__content h4,
   .post__content h5,
-  .post__content h6 {
+  .post__content h6,
+  .post__content ul {
     margin-left: 30%;
     margin-right: 10%;
   }
+}
+.post__content p::first-line {
+  font-size: 120%;
 }
 .post__content img {
   width: 100%;

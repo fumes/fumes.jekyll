@@ -100,3 +100,9 @@ Delirium can only be released when the jelly crashes into itself and shatters.
 Delirium is almost as rare as Unobtainium, and is the stoniest version of a natural high. 
 
 <strong>It's the release that kicks everything in.</strong> 
+
+
+_read more:_
+
+- [about "consider the weight of air"](http://es.worldphoto.org/profile/lanceslabbert/)
+- [surfersjournal](http://www.surfersjournal.com/pdf_article/jelly-theory)
