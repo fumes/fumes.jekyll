@@ -103,7 +103,7 @@ It's the release that kicks everything in.
 
 * * *
 
-_read more:_
+_read more:_{:class="readmore"}
 
 - [about "consider the weight of air"](http://es.worldphoto.org/profile/lanceslabbert/){:target="_blank"}
 - [surfersjournal](http://www.surfersjournal.com/pdf_article/jelly-theory){:target="_blank"}
