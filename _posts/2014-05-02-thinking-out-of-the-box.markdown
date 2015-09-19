@@ -37,15 +37,6 @@ Inventor of SixthSense, Pranav Mistry, here at TedIndia demos several tools that
 
 Subtitles available in 41 languages, start the video and change language in the bottom right corner. 
 
-• _Know more_
-
-<a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">Interactive transcript (41 languages)</a>
-
-<a title="pranav mistry website" href="http://www.pranavmistry.com/" target="_blank">Pranav Mistry website</a>
-
-<a title="code sixthsense" href="https://code.google.com/p/sixthsense/" target="_blank">SixthSense code</a>
-
-<a title="read more on Pranav Mistry " href="http://en.wikipedia.org/wiki/Pranav_Mistry" target="_blank">Pranav Mistry on Wikipedia</a> 
 
 • _Why you should listen_
 
@@ -73,3 +64,13 @@ Some previous projects from Mistry's work at MIT includes intelligent sticky not
 <blockquote>  There is a lot of energy here. Lots of learning. All of this work that you have seen is all about my learning in India. And now, if you see, it's more about the cost-effectiveness: this system costs you $300 compared to the $20,000 surface tables, or anything like that. Or maybe even the $2 mouse gesture system at that time was costing around $5,000? So, we actually -- I showed that, at a conference, to President Abdul Kalam, at that time, and then he said, "OK, we should use this in Bhabha Atomic Research Centre for some use of that." So I'm excited about how I can bring the technology to the masses rather than just keeping that technology in the lab environment.</blockquote> 
 
 
+
+_read more:_{:class="readmore"}
+
+- Interactive transcript <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">of this speech (41 languages)</a>
+
+- <a title="pranav mistry website" href="http://www.pranavmistry.com/" target="_blank">Pranav Mistry website</a>
+
+- <a title="code sixthsense" href="https://code.google.com/p/sixthsense/" target="_blank">SixthSense code</a>
+
+- <a title="read more on Pranav Mistry " href="http://en.wikipedia.org/wiki/Pranav_Mistry" target="_blank">Pranav Mistry on Wikipedia</a> 

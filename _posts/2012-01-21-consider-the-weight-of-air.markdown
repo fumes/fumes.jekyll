@@ -101,7 +101,9 @@ Delirium is almost as rare as Unobtainium, and is the stoniest version of a natu
 
 It's the release that kicks everything in.
 
-* * *
+
+
+
 
 _read more:_{:class="readmore"}
 

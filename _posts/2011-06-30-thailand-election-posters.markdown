@@ -86,10 +86,11 @@ Extreme poverty is still rife, especially in big cities like Bangkok.
 {% responsive_image path: uploads/2011/06/110630-photographer-rokma-thai-election-1590.jpg %}
 "People should go to work", "We need more prosperity again"
 
-###.
 
-Want to know more about Thailand's general election?
 
-Bbc <a href="http://www.bbc.co.uk/news/world-asia-pacific-14000629" target="_blank">"Thailand election: Final rallies ahead of Sunday vote"</a>
 
-The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html" target="_blank">"Thailand braces for uncertain future"</a> 
+_read more about Thailand's general election:_{:class="readmore"}
+
+- Bbc <a href="http://www.bbc.co.uk/news/world-asia-pacific-14000629" target="_blank">"Thailand election: Final rallies ahead of Sunday vote"</a>
+
+- The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html" target="_blank">"Thailand braces for uncertain future"</a> 

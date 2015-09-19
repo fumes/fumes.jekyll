@@ -36,19 +36,20 @@ Kamal Meattle has a vision to reshape commercial building in India using princip
 
 Meattle has long been a environmental activist in India. In the 1980s he helped India's apple industry develop less-wasteful packaging to help save acres of trees. He then began a campaign to help India's millions of scooter drivers use less oil. His next plan is to develop a larger version of PBC-STIP, making a green office accessible to more businesses in New Delhi and serving as an example of low-cost, low-energy office life.
 
-• _Know more about the author:_
 
-[Full bio](http://www.ted.com/speakers/kamal_meattle)
+_know more:_{:class="readmore"}
 
-[LEED certified buildings](http://www.usgbc.org/leed)
+- about the author: [Kamal Meattle Full bio](http://www.ted.com/speakers/kamal_meattle)
 
-[Certified Green Building](http://greenspaces.in/greenbuilding.php)
+- [LEED certified buildings](http://www.usgbc.org/leed)
+
+- [Certified Green Building](http://greenspaces.in/greenbuilding.php)
 
 
-• _Know more about these life saving plants:_
+_...more about these life saving plants:_{:class="readmore"}
 
-Areca Palm [Chrysalidocarpus Lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens)
+- Areca Palm [Chrysalidocarpus Lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens)
 
-Mother-in-law Tongue [Sansevieria Trifasciata](https://en.wikipedia.org/wiki/Sansevieria_trifasciata)
+- Mother-in-law Tongue [Sansevieria Trifasciata](https://en.wikipedia.org/wiki/Sansevieria_trifasciata)
 
-Money Plant [Epipremnum Aureum](https://en.wikipedia.org/wiki/Epipremnum_aureum)
+- Money Plant [Epipremnum Aureum](https://en.wikipedia.org/wiki/Epipremnum_aureum)

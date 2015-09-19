@@ -41,23 +41,24 @@ JR reaches a huge impact by combining ultra tight cuts with huge prints of his h
 Definitely undercover, photographer JR likes to keep his real name invisible and be known by his work.
 
 
-_More infos:_
+_read more:_{:class="readmore"}
 
-<a href="http://www.youtube.com/watch?v=R_PGHS9PS2Y" target="_blank">Working in Favela Providencia, Brasil 2009</a> 
+- <a href="http://www.youtube.com/watch?v=R_PGHS9PS2Y" target="_blank">Working in Favela Providencia, Brasil 2009</a> 
 
-<a href="http://www.womenareheroes.be/?en" target="_blank">More "Women are Heroes"</a> 
+- <a href="http://www.womenareheroes.be/?en" target="_blank">More "Women are Heroes"</a> 
 
-<a href="http://www.womenareheroes-paris.net/" target="_blank">"Women are Heroes" Paris expo 2009</a> 
+- <a href="http://www.womenareheroes-paris.net/" target="_blank">"Women are Heroes" Paris expo 2009</a> 
 
-<a href="http://www.youtube.com/watch?v=Hxg2Agf9XrA" target="_blank">"Women are Heroes" Paris</a> 
-<a href="http://face2faceproject.com/" target="_blank">face 2 face project</a> 
+- <a href="http://www.youtube.com/watch?v=Hxg2Agf9XrA" target="_blank">"Women are Heroes" Paris</a> 
 
-<a href="http://www.youtube.com/watch?v=lCWRq5ZtdPY" target="_blank">Reportage on JR in Kibera, Kenya 2009</a> 
+- <a href="http://face2faceproject.com/" target="_blank">face 2 face project</a> 
 
-<a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR in Arles 2009 talks about his work in the Middle East</a> 
+- <a href="http://www.youtube.com/watch?v=lCWRq5ZtdPY" target="_blank">Reportage on JR in Kibera, Kenya 2009</a> 
 
-<a href="http://jr.crakedz.com/livres/livre-women-are-heroes-poster-jr.html" target="_blank">buy JR's book & poster: here</a> 
+- <a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR in Arles 2009 talks about his work in the Middle East</a> 
 
-<a href="http://jr-art.net" target="_blank">JR personal website</a> 
+- <a href="http://jr.crakedz.com/livres/livre-women-are-heroes-poster-jr.html" target="_blank">buy JR's book & poster: here</a> 
+
+- <a href="http://jr-art.net" target="_blank">JR personal website</a> 
 
 
