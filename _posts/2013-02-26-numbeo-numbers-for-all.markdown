@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 'Numbeo: Numbers for all'
 curator: rokma
-photographer: review
+photographer: 
 wordpress_id: 2471
 wordpress_url: http://fumes.dev/?p=2471
 date: '2013-02-26 05:24:39 +0100'

@@ -27,7 +27,6 @@
   max-width:100%;
 
   @include media( "screen", ">minWidth"){
-    // max-width:47%;
     -webkit-flex-basis:47%;
     -ms-flex-preferred-size:47%;
     flex-basis:47%;
@@ -39,19 +38,24 @@
     flex-basis:32%;
     margin-right: 1.333%;
   }
-  // .compact & {
-  //   width:47%;
-  //   max-width:100%;
-  //   margin-right: 1.666%;
-  //   @include media( "screen", ">minWidth"){
-  //     max-width:32%;
-  //     margin-right: 1.333%;
-  //   }
-  //   @include media( "screen", ">bp1Width"){
-  //     max-width:19%;
-  //     margin-right: 1%;
-  //   }
-  // }
+  .compact & {
+    -webkit-flex-basis:47%;
+    -ms-flex-preferred-size:47%;
+    flex-basis:47%;
+    margin-right: 1.666%;
+    @include media( "screen", ">minWidth"){
+      -webkit-flex-basis:32%;
+      -ms-flex-preferred-size:32%;
+      flex-basis:32%;
+      margin-right: 1.333%;
+    }
+    @include media( "screen", ">bp1Width"){
+      -webkit-flex-basis:19%;
+      -ms-flex-preferred-size:19%;
+      flex-basis:19%;
+      margin-right: 1%;
+    }
+  }
 
   .thumb{
     margin-top: 0;
