@@ -55,6 +55,10 @@ nav {
 }
 
 .looper__link {
+  -webkit-user-select: 
+  none;-moz-user-select: 
+  none;-ms-user-select: 
+  none;user-select: none;
   background-color: transparent;
   padding: .75rem;
   border: 1px solid transparent;
