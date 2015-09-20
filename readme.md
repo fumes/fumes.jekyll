@@ -31,7 +31,7 @@ Stuff for development in [Source branch](https://github.com/fumes/fumes.github.i
     ```sh
     rake publish 
     ```
-    The script get `_site dir` and `git push origin master --force` 
+    The script get `_site` and `git push origin master --force` 
 
 ## Prerequisites, getting started:
 
