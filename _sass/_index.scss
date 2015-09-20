@@ -5,10 +5,19 @@
 .home__posts {
   margin-left: 0;
   list-style: none;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content:center;
+  -ms-flex-pack:center;
+  justify-content:center;
 }
 
-
 .home__post{
+
   position: relative; 
   float: left;
   margin: 0 0 1.5rem 0;
