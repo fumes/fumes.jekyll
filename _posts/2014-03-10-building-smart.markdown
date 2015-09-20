@@ -21,6 +21,7 @@ tags:
 - technology
 - awareness
 - rural
+- global-warming
 license:
 thumb: building-smart.jpg
 ---

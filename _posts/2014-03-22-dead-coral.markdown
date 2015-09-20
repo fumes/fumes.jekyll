@@ -21,6 +21,7 @@ tags:
 - awareness
 - Bali
 - Indonesia
+- global-warming
 license: CC BY
 thumb: dead-coral.jpg
 ---

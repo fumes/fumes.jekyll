@@ -18,6 +18,7 @@ tags:
 - community
 - clever
 - technology
+- global-warming
 license:
 thumb: numbeo.jpg
 ---

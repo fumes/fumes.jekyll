@@ -21,6 +21,7 @@ tags:
 - lifestyle
 - city
 - awareness
+- global-warming
 license:
 thumb: growfreshair.jpg
 ---

@@ -28,6 +28,7 @@ tags:
 - sustainability
 - simplicity
 - plants
+- global-warming
 license: CC BY
 thumb: urban-green.jpg
 ---
