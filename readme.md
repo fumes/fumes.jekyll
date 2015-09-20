@@ -20,13 +20,18 @@
 ## Fumes development technologies
 Stuff for development in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
-- [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. Enter ``` rake publish ``` in terminal and it will get the _site dir and it will 
-`git push origin master --force` 
+
 - gem 'jekyll', '~> 3.0.0.pre.beta8' to speed-up Jekyll Regeneration
 - Nmp
 - Gulp
 - Bundler
 - plus various code clips & techniques taken here and there...  
+- [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. From project local root, enter:
+
+    ```sh
+    rake publish 
+    ```
+    The script get `_site dir` and `git push origin master --force` 
 
 ## Prerequisites, getting started:
 

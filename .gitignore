@@ -9,6 +9,7 @@ _site/
 
 # more DEV files #
 logs
+_svg/
 *.log
 npm-debug.log*
 
