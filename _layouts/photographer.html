@@ -13,57 +13,83 @@ layout: default
   <h1 class="page__title">{{ photographer.name | titlecase }}</h1>
 
   <div class="photographer__metas">
-
-    {% if photographer.web %}
-    <div class="photographer__meta">
-      <div class="ico link">{% include svg/use.html id="icn--link" class="link" %}</div>
-      <a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">{{ photographer.web }}</a>
-    </div>
-    {% endif %}
         
     {% if photographer.twitter %}
     <div class="photographer__meta">
-      <div class="ico photographer">{% include svg/use.html id="icn--twitter" class="twitter" %}</div>
-      <a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">{{ photographer.twitter }}</a>
+      <a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">
+        <div class="ico photographer">{% include svg/use.html id="icn--twitter" class="twitter" %}</div>
+        <span class="destination">{{ photographer.twitter }}</span>
+      </a>
     </div>
     {% endif %}
       
     {% if photographer.fb_page %}
     <div class="photographer__meta">
-      <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
-      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">{{ photographer.fb_page }}</a>
+      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">
+        <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
+        <span class="destination">{{ photographer.fb_page }}</span>
+      </a>
     </div>
     {% endif %}
 
     {% if photographer.fb_profile %}
     <div class="photographer__meta">
-      <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
-      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">{{ photographer.fb_profile}}</a>
+      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">
+        <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
+        <span class="destination">{{ photographer.fb_profile}}</span>
+      </a>
     </div> 
     {% endif %}
 
     {% if photographer.tumblr %}
     <div class="photographer__meta">
-      <div class="ico tumblr">{% include svg/use.html id="icn--tumblr" class="tumblr" %}</div>
-      <a href="http://{{ photographer.tumblr }}.tumblr.com/" title="tumblr" target="_blank">{{ photographer.tumblr}}</a>
+      <a href="http://{{ photographer.tumblr }}.tumblr.com/" title="tumblr" target="_blank">
+        <div class="ico tumblr">{% include svg/use.html id="icn--tumblr" class="tumblr" %}</div>
+        <span class="destination">{{ photographer.tumblr}}</span>
+      </a>
     </div>
     {% endif %}
 
     {% if photographer.gplus %}
     <div class="photographer__meta">
-      <div class="ico gplus">{% include svg/use.html id="icn--gplus" class="gplus" %}</div>
-      <a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank">{{ photographer.gplus}}</a>
+      <a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank">
+        <div class="ico gplus">{% include svg/use.html id="icn--gplus" class="gplus" %}</div>
+        <span class="destination">{{ photographer.gplus}}</span>
+      </a>
+    </div>
+    {% endif %}
+
+    {% if photographer.ink361 %}
+    <div class="photographer__meta">
+      <a href="{{ photographer.ink361 }}" title="ink361" target="_blank">
+        <div class="ico ink361">{% include svg/use.html id="icn--ink361" class="ink361" %}</div>
+        <span class="destination">{{ photographer.name }}</span>
+      </a>
     </div>
     {% endif %}
       
     {% if photographer.github %}
     <div class="photographer__meta">
-      <div class="ico github">{% include svg/use.html id="icn--github" class="github" %}</div>
-      <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">{{ photographer.github }}</a>
+      <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">
+        <div class="ico github">{% include svg/use.html id="icn--github" class="github" %}</div>
+        <span class="destination">{{ photographer.github }}</span>
+      </a>
+    </div>
+    {% endif %}
+
+    {% if photographer.web %}
+    <div class="photographer__meta">
+      <a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">
+        <div class="ico link">{% include svg/use.html id="icn--link" class="link" %}</div>
+        <span class="destination">{{ photographer.web }}</span>
+      </a>
     </div>
     {% endif %}
   </div>
 </div>
+
+
+
 
 
 {% if page.photographer == 'rokma' %}
