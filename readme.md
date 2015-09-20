@@ -5,7 +5,7 @@
 - external_links {:class="readmore"} move to front matter
 - improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills
 - ☻ figure out [github](https://help.github.com/)
-- ☻ study kramdown##### Sometime soon:- open graph more tests- check domain pointer (cname stuff)- improve gulp tasks with postCSS
+- ☻ study [Github Flavoured Markdown.](https://help.github.com/articles/github-flavored-markdown) Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).##### Sometime soon:- open graph more tests- check domain pointer (cname stuff)- improve gulp tasks with postCSS
  ##### One day:
 - install service workers
 - disqus
