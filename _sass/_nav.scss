@@ -29,6 +29,10 @@ nav {
 //BEM__ELEMENTS
 .looper{
   overflow:hidden;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
   .nav--tags &{
     font-size:85%;
     @include media( "screen", ">minWidth"){
@@ -55,10 +59,10 @@ nav {
 }
 
 .looper__link {
-  -webkit-user-select: 
-  none;-moz-user-select: 
-  none;-ms-user-select: 
-  none;user-select: none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
   background-color: transparent;
   padding: .75rem;
   border: 1px solid transparent;

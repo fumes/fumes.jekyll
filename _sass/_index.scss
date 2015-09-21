@@ -58,12 +58,24 @@
   }
 
   .thumb{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
     margin-top: 0;
     margin-bottom: 1rem;
     position: relative;
     top: 2.15rem;
     z-index: 1;    
-    img{ margin-top: 0;}
+    img{ 
+      margin-top: 0;
+      -webkit-user-select:none;
+      -moz-user-select:none;
+      -ms-user-select:none;
+      user-select:none;
+      pointer-events: none;
+    }
+  
     .compact & {
       top: 2.15rem;
       left: 0;

@@ -27,7 +27,7 @@ tags:
 license:
 thumb: sumba.jpg
 ---
-For 350 years, the Dutch colonized the vast archipelago of Indonesia but never even managed to set up an administrative post on the island of Sumba.
+For 350 years, the Dutch colonised the vast archipelago of Indonesia but never even managed to set up an administrative post on the island of Sumba.
 
 {% responsive_image path: uploads/2010/05/100531-photographer-alejandro-plesch-sumba-01.jpg %}
 The Sumbanese, led by General Wonokaka, have the distinction of having led the only successful resistance to Dutch colonialism. What is not well known is that General Soekarno later led Indonesia to independence inspired tactically by Wonokaka's insurgency.
