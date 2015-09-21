@@ -28,6 +28,7 @@ html{
 }
 
 
+
 body {
   font-family: $base_font_family;
   font-size: $base_font_size;
@@ -36,10 +37,11 @@ body {
   color: $text_color;
   background-color: transparent;
   -webkit-text-size-adjust: 100%;
+
 }
-body:active {
-  background: red;   
-}
+
+::selection{ color: red;}
+a::selection{ color: orange;}
 
 //Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
