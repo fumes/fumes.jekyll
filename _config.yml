@@ -64,7 +64,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - CNAME
   - gulpfile.js
   - package.json
   - DS_Store
