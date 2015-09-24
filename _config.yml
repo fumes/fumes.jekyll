@@ -7,7 +7,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The current release of Fumes Project website
-version: v3.9.1
+version: v3.9.2
 
 # Site owner
 owner:
@@ -42,8 +42,9 @@ owner:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-###>OLD ( http://toybreaker.github.io/fumes/ )
-url: http://fumes.github.io #dev url: "http://fumes.dev"
+###>OLDer ( http://toybreaker.github.io/fumes/ )
+###>OLD url: http://fumes.github.io #dev url: "http://fumes.dev"
+url: http://fumes.junglestar.org
 
 sass:
   sass_dir: _sass
