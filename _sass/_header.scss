@@ -24,10 +24,10 @@
     padding-top: 2rem;
     margin-bottom: 0;
 
-    &,
     &:visited {color: darken($white, 15%);}
     
-    //&:hover {color: lighten($grey_color, 15%);}
+    &:hover,
+    &:visited:hover {color: lighten($grey_color, 15%);}
 }
 
 .header__subtitle{

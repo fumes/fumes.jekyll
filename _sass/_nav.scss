@@ -1,5 +1,6 @@
 //BEM__BLOCKS
 nav {
+  @extend %no_select;
   padding: $spacing_unit 0;
   background-color: $background_color;
   line-height: $base_line_height * 2;
@@ -16,23 +17,22 @@ nav {
       @include media( "screen", "<maxWidth"){height: 80px;}
     } 
   }
-  &.nav--tags {    
+  &.nav--tags { 
+    @extend %no_select;   
     text-align: center;
     line-height: $small_line_height;
     [style="font-size: 86%"]{display:none;}
   }
-  &.nav--posts {    
+  &.nav--posts {
+    @extend %no_select;
     text-align: center;
   }
 }
 
 //BEM__ELEMENTS
 .looper{
+  @extend %no_select;
   overflow:hidden;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
   .nav--tags &{
     font-size:85%;
     @include media( "screen", ">minWidth"){
@@ -59,10 +59,7 @@ nav {
 }
 
 .looper__link {
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
+  @extend %no_select;
   background-color: transparent;
   padding: .75rem;
   border: 1px solid transparent;
@@ -83,6 +80,7 @@ nav {
 
 
 .nav__link{
+  @extend %no_select;
   width:5vw;
   height:5vw;
   min-width:60px;
@@ -129,6 +127,7 @@ nav {
 
   
 progress {
+  @extend %no_select;
   /* Positioning */
   position: fixed;
   left: 0;

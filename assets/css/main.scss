@@ -32,6 +32,7 @@ $icon_size:    4rem;
 $icon_color:  darken(white, 65%); 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "normalize",
         "cmq",
         "base",
         "headings",
