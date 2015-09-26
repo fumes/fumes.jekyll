@@ -85,7 +85,13 @@ Dude, now feel Awesome + ♡ the new partial regeneration with jekyll 3.0.0.beta
 - [categories_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [tags_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [responsive_image.rb](https://github.com/wildlyinaccurate/jekyll-responsive-image)
-- [imager.js](https://github.com/BBC-News/Imager.js/)## More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)## Photo rightsAll photos © the authors. All photos rights reserved. Except as indicated on a per article basis.  
+- [imager.js](https://github.com/BBC-News/Imager.js/)## More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)## warning:
+
+Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them.
+
+Please, ask for permission first by contacting us through _info@junglestar.org_
+
+Thanks, Junglestar team## Photo rightsAll photos © the authors. All photos rights reserved. Except as indicated on a per article basis.  
 
 In some fumes articles, photos are released under CC-BY Creative Commons license. 
 Some other fumes photos are CC0.
