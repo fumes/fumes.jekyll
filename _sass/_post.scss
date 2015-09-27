@@ -7,7 +7,7 @@
 .post__content {
   margin-top: $spacing_unit*1.5;
   margin-bottom: $spacing_unit;
-
+  ul{ list-style-type: none;}
   hr{
     margin: 2rem auto;
     border: 0;
@@ -29,7 +29,7 @@
     margin-right:10%;
     li{ margin-left:1rem;}
     @include media( "screen", ">minWidth"){
-      margin-left:30%;
+      margin-left:20%;
       margin-right:10%;
     }
   }

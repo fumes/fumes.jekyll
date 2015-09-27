@@ -25,10 +25,10 @@
 }
 
 //prevent select + copy action?
-[alt],
-[title],
-*[alt],
-*[title]{
-  @extend %kill_mouse_touch;
-  @extend %no_select;
-}
+// [alt],
+// [title],
+// *[alt],
+// *[title]{
+//   @extend %kill_mouse_touch;
+//   @extend %no_select;
+// }
