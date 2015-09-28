@@ -68,7 +68,7 @@ Some previous projects from Mistry's work at MIT includes intelligent sticky not
 
 _read more:_{:class="readmore"}
 
-- Interactive transcript <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">of this speech (41 languages)</a>
+- <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">Interactive transcript of this speech (41 languages)</a>
 
 - <a title="pranav mistry website" href="http://www.pranavmistry.com/" target="_blank">Pranav Mistry website</a>
 

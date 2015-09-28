@@ -33,5 +33,8 @@ Adapted from Dan Pink's talk at the RSA, this video illustrates some hidden trut
 
 {% video //www.youtube.com/embed/u6XAPnuFjJc width=740 height=416 %}
 
+_know more:_{:class="readmore"}
 
-• _For more goods check_ <a target="_blank" href="https://www.thersa.org/discover/videos/rsa-animate/">rsa animate</a>
+- <a target="_blank" href="https://www.thersa.org/discover/videos/rsa-animate/">RSA animate</a>
+
+- &nbsp;

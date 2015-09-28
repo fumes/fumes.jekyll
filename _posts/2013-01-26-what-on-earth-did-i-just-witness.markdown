@@ -56,11 +56,11 @@ Apples turn into Gummy Bears
 Nice and swift 
 This is made by &ldquo;Big Hands&rdquo;  
 
-_Also check out_
+_know more:_{:class="readmore"}
 
-Lei Lei new 2014 animation: <a target="_blank" href="https://vimeo.com/93575669">This is not a time to lie</a>
+- <a target="_blank" href="https://vimeo.com/93575669">This is not a time to lie</a> new 2014 animation from Lei Lei.
 
-The artist<a target="_blank" href="https://vimeo.com/62831069"> speech in TED@Shanghai 2012</a>
+- <a target="_blank" href="https://vimeo.com/62831069">The artist  speech in TED@Shanghai 2012</a>
 
 
 

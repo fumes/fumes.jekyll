@@ -44,5 +44,11 @@ I selectively place these graphics around New york to highlight the unexpected c
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-06.jpg %}
 "Others need to see that they can create too, connecting their own dots, in their own places."
 
-<a href="http://aakashnihalani.com/" target="_blank">Aakash Nihilani personal website</a> 
+
+
+_know more:_{:class="readmore"}
+
+- <a target="_blank" href="http://aakashnihalani.com/">Aakash Nihilani personal website</a>
+
+- &nbsp;
 

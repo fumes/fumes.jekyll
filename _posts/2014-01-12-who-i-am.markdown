@@ -53,6 +53,6 @@ Fornik Tsai, Nov 24 2013
 
 _read more:_{:class="readmore"}
 
-- about this speaker, find other TEDTalks, and subscribe to this Podcast series, visit <a href="http://www.ted.com/" target="_blank">TED.com</a>_
+- <a href="http://www.ted.com/" target="_blank">about this speaker, find other TEDTalks</a>
 
-- Form mobile devices, you may be able to directly <a href="http://download.ted.com/talks/HetainPatel_2013G.mp4?apikey=TEDDOWNLOAD" title="Download" target="_blank">DOWNLOAD</a> to play it. 
+- <a href="http://download.ted.com/talks/HetainPatel_2013G.mp4?apikey=TEDDOWNLOAD" title="Download" target="_blank">Or download this video.</a>

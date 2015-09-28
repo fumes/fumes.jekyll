@@ -38,16 +38,27 @@ thumb: aquacity.jpg
 {% responsive_image path: uploads/2010/05/100517-photographer-rokma-aquacity-7.jpg %}
 
 
+
+_latin_
+
 Mediolanum ipsum est.
 
 Quod a nobis factum est.
 
 Sic ne ullus verbum neque ullus imago satis est. 
+
+
+_translation_
+
 mediolanum (milano) ipsum (itself) est (is).
 
 Quod (which) a (a) nobis (noble) factum (fact) est (is).
 
 Sic (so) ne (not) ullus (any) verbum (word) neque (nor) ullus (any) imago (image)  satis (enough) est (is). 
+
+
+_english_
+
 Milano itself is.
 
 Which is a noble fact.
