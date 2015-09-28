@@ -55,7 +55,7 @@ _read more:_{:class="readmore"}
 
 - <a href="http://www.youtube.com/watch?v=lCWRq5ZtdPY" target="_blank">Reportage on JR in Kibera, Kenya 2009</a> 
 
-- <a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR in Arles 2009 talks about his work in the Middle East</a> 
+- <a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR talks about workin in Middle East, 2009</a> 
 
 - <a href="http://jr.crakedz.com/livres/livre-women-are-heroes-poster-jr.html" target="_blank">buy JR's book & poster: here</a> 
 
