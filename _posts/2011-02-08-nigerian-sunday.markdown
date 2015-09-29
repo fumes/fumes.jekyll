@@ -22,7 +22,7 @@ tags:
 - ritual
 - Italy
 - expat
-license: CC BY
+license: CC-BY
 thumb: nigeria.jpg
 ---
 

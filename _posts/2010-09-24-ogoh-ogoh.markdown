@@ -26,7 +26,7 @@ tags:
 - visual
 - ritual
 - report
-license: CC BY-NC-ND
+license:CC-BY-NC-ND
 thumb: ogoh.jpg
 ---
 

@@ -17,7 +17,7 @@ tags:
 - photography
 - aqua
 - water
-license: CC BY
+license: CC-BY
 thumb: aquaprovince.jpg
 ---
 

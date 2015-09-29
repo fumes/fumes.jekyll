@@ -20,7 +20,7 @@ tags:
 - Phuket
 - city
 - report
-license: CC BY
+license: CC-BY
 thumb: thai-elections.jpg
 ---
 

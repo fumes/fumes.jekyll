@@ -22,7 +22,7 @@ tags:
 - Bali
 - Indonesia
 - global-warming
-license: CC BY
+license: CC-BY
 thumb: dead-coral.jpg
 ---
 
