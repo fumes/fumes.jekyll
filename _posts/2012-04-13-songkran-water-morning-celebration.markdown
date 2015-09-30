@@ -27,7 +27,7 @@ tags:
 - pain
 - lifestyle
 - report
-license: CC-BY
+license: CC_BY
 thumb: songkran-morning.jpg
 ---
 

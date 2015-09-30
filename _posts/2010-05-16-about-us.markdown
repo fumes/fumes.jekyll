@@ -19,7 +19,7 @@ tags:
 - non-profit
 - awareness
 - opensource
-license: CC-BY
+license: CC_BY
 thumb: hello-world.jpg
 ---
 

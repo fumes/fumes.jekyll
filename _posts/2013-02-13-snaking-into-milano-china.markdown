@@ -21,7 +21,7 @@ tags:
 - China
 - report
 - performance
-license:CC-BY
+license: CC_BY
 thumb: snaking.jpg
 ---
 

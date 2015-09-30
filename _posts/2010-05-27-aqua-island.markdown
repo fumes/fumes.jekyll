@@ -20,7 +20,7 @@ tags:
 - archipelago
 - aqua
 - water
-license: CC-BY
+license: CC_BY
 thumb: aquaisland.jpg
 ---
 

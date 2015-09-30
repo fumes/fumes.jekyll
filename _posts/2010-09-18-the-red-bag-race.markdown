@@ -24,7 +24,7 @@ tags:
 - report
 - non-profit
 - sustainability
-license: CC-BY
+license: CC_BY
 thumb: red-bag.jpg
 ---
 The red bag race is a competition to collect trash. 

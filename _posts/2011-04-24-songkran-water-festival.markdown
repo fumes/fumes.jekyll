@@ -24,7 +24,7 @@ tags:
 - Songkran
 - Phuket
 - report
-license: CC-BY
+license: CC_BY
 thumb: songkran-festival.jpg
 ---
 

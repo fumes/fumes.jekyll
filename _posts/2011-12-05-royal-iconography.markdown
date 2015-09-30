@@ -20,7 +20,7 @@ tags:
 - celebration
 - documentary
 - report
-license: CC-BY
+license: CC_BY
 thumb: royal.jpg
 ---
 Many Thai people sincerely love their King. Most houses or shops display at least one photo of His Majesty. Is it in a inexpensive calendar, inside a well framed photo or in the form of a watercolor portrait, King Bhumibol Adulyadej is there in the everyday life. The Royal celebration peaks on Father's day. December 5th, the King's birthday (currently 84 years old). 

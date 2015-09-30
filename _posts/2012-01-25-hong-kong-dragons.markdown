@@ -30,7 +30,7 @@ tags:
 - lifestyle
 - city
 
-license: CC-BY
+license: CC_BY
 thumb: dragons.jpg
 ---
 

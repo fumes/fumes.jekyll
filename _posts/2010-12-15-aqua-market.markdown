@@ -19,7 +19,7 @@ tags:
 - Thailand
 - water
 - city
-license: CC-BY
+license: CC_BY
 thumb: aquamarket.jpg
 ---
 

@@ -29,7 +29,7 @@ tags:
 - unity
 - Java
 
-license: CC-BY
+license: CC_BY
 thumb: unity.jpg
 ---
 Indonesia's experience in pushing harmony and acceptance of differences lays his roots in the Pancasila principles.   
