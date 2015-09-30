@@ -17,7 +17,10 @@
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0));
   }
 
-  ul{ list-style-type: none;}
+  ul{ 
+    margin-left: 1rem;
+    list-style-type: none;
+  }
 
   p,
   blockquote,
@@ -28,7 +31,7 @@
   h6 {
     margin-left:10%;
     margin-right:10%;
-    li{ margin-left:1rem;}
+    li &{ margin-left:0;}
     @include media( "screen", ">minWidth"){
       margin-left:20%;
       margin-right:10%;

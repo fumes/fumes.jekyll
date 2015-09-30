@@ -119,14 +119,14 @@ pre {
 
 
 //all external links inside content block, not the footer ones!
-.content a[target="_blank"]:before{
+.content  a[target="_blank"]:before{
   content: "";
   position: relative;  
   width:1.5rem; 
   height:1.5rem;
-  top: .4rem;
+  top: .5rem;
   left: 0;
-  margin-right: .15rem;
+  margin-right: .5rem;
   //opacity: .25;
   display: inline-block;
   //base64 not recommended!
@@ -137,6 +137,7 @@ pre {
   background-repeat: no-repeat;
 }
 
+.photographer__metas a[target="_blank"]:before{ display: none;}
 
 
 //http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/
