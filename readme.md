@@ -96,4 +96,4 @@ Thanks, Junglestar team## Photo rightsAll photos © the authors. All photos ri
 In some fumes articles, photos are released under CC-BY Creative Commons license. 
 Some other fumes photos are CC0.
 
-Everything else is GPL.
+Everything else is GPL.[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fumes/fumes.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
