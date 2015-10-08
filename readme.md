@@ -4,7 +4,7 @@
 
 - external_links {:class="readmore"} move to front matter
 - icons re-work
-- https##### Sometime soon:- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills- ☻ figure out [github](https://help.github.com/)
+- https##### Sometime soon:- compress html- improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills- ☻ figure out [github](https://help.github.com/)
 - ☻ study [Github Flavoured Markdown.](https://help.github.com/articles/github-flavored-markdown) Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).- open graph more tests- check domain pointer (cname stuff)- improve gulp tasks with postCSS
  ##### One day:
 - install service workers
@@ -33,25 +33,30 @@ Stuff for development in [Source branch](https://github.com/fumes/fumes.github.i
     ```
     The script get `_site` and `git push origin master --force` 
 
-## Prerequisites, getting started:
+## Prerequisites, first setup:
 
-#### - 4. Get started with bundler. Install it globally! 
+#### - A. Get started with bundler. Install it globally! 
 ```sh
 gem install bundler```
 
-#### - 3. Install gems in project local dir
-```sh
-bundle install
-```
-
-#### - 2. Install gulp globally
+#### - B. Install gulp globally
 ```sh
 npm install --global gulp
 ```
 
-#### - 1. Install gulp in project local dir
+## Dev time prerequisites:
+
+#### - 3. cd into local project's dir 
 ```sh
-npm install --save-dev gulp
+cdf
+```
+#### - 2. Install gems dependencies into project's local dir
+```sh
+bundle install
+```
+#### - 1. Install node dependencies into project's local dir
+```sh
+npm install
 ```
 
 ## Dev time:
@@ -68,7 +73,7 @@ jekyll s
 ```
 
 #### 2. Run gulp
-Open new terminal window and
+Open a new terminal window and
 
 ```sh
 gulp

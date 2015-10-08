@@ -1,7 +1,7 @@
 {
   "name": "fumes",
-  "version": "3.4.5",
-  "description": "gulp + ruby-sass + smaps + brosync + jekyll = gail!",
+  "version": "3.9.2",
+  "description": "gulp + ruby-sass + brosync + jekyll = gail!",
   "main": "gulpfile.js",
   "devDependencies": {
     "browser-sync": "^1.7.2",
