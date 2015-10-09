@@ -1,6 +1,6 @@
 ## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia._ _Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
-- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master) - Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source)- More **working branches** maybe present at times...## To do##### Urgent:
+- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master). Compiled locally and synced via rake script.- Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) and its basically used for development and source.- More **working branches** maybe present at times...## To do##### Urgent:
 
 - [ ] licenses management: use licenses.yml
 - [ ] icons slim diet
@@ -21,7 +21,7 @@ not yet:
 - [ ] print.css  - [ ] disqus comments (importing old ones from wp...)  - [ ] [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  - [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  - [ ] service workers.  - [ ] No plugins dependencies.
 
 ## Fumes development technologies
-Stuff for development in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
+Stuff for development. Its happens in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
 
 - gem 'jekyll', '~> 3.0.0.pre.beta8' to speed-up Jekyll Regeneration
@@ -31,10 +31,10 @@ Stuff for development in [Source branch](https://github.com/fumes/fumes.github.i
 - plus various code clips & techniques taken here and there...  
 - [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. From project local root, enter:
 
-    ```sh
-    rake publish 
-    ```
-    The script get `_site` and `git push origin master --force` 
+```sh
+rake publish 
+```
+The script get `_site` and `git push origin master --force` 
 
 ## Prerequisites, first setup:
 
