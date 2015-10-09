@@ -1,4 +1,5 @@
 <!-- Twitter Cards -->
+
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"> 
 
 	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncatewords:15 }}">
@@ -7,7 +8,10 @@
 
 	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %} 
 
-	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
+	{% if page.photographer %}
+	{% assign photographer = site.data.photographers[page.photographer] %}
+	<meta name="twitter:creator" content="@{{ photographer.twitter }}">
+	{% endif %}
 
 	{% if page.thumb %}
 	<meta name="twitter:card" content="summary_large_image">
