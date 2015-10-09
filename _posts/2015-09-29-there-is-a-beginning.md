@@ -24,3 +24,20 @@ thumb: there-is-a-beginning.jpg
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 
+Zhuang Zhou, often written Chuang Tzu, known for Zhuangzi ("Master Zhuang")[1] was an influential Chinese philosopher who lived around the 4th century BC.
+
+He is credited with writing the Zhuangzi book, which expresses a philosophy of skepticism.
+
+He made "The Old Fisherman," "The Robber Chih," and "The Cutting open Satchels," to satirize and expose the disciples of Confucius, and clearly exhibit the sentiments of Lao. 
+
+_know more:_{:class="readmore"}
+
+- [Master Zhuang](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+
+- [bibliography](http://nothingistic.org/library/chuangtzu/)
+
+- [Chuang Tzu - the butterfly philosopher](http://www.pantheism.net/paul/history/chuang-tzu.htm)
+
+- [Zhuangzi book](https://en.wikipedia.org/wiki/Zhuangzi_(book))
+
+- [more quotes](https://www.goodreads.com/author/quotes/149093.Zhuangzi)
