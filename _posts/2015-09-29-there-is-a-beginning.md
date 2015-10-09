@@ -16,7 +16,7 @@ tags:
 - sustainability
 - lifestyle
 - awareness
-license: MIT 
+license:
 thumb: there-is-a-beginning.jpg
 ---
 
