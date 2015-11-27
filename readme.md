@@ -20,11 +20,11 @@
 not yet:
 - [ ] print.css  - [ ] disqus comments (importing old ones from wp...)  - [ ] [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  - [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  - [ ] service workers.  - [ ] No plugins dependencies.
 
-## Fumes development technologies
+### Fumes development technologies
 Stuff for development. Its happens in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
 
-- gem 'jekyll', '~> 3.0.0.pre.beta8' to speed-up Jekyll Regeneration
+- gem 'jekyll', '~> 3.0' to speed-up Jekyll Regeneration
 - Nmp
 - Gulp
 - Bundler
@@ -34,9 +34,9 @@ Stuff for development. Its happens in [Source branch](https://github.com/fumes/f
 ```sh
 rake publish 
 ```
-The script get `_site` and `git push origin master --force` 
+The script get the content of `_site` folder and `git push origin master --force` 
 
-## Prerequisites, first setup:
+### Prerequisites, first setup:
 
 #### - A. Get started with bundler. Install it globally! 
 ```sh
@@ -47,7 +47,7 @@ gem install bundler```
 npm install --global gulp
 ```
 
-## Dev time prerequisites:
+### Dev time prerequisites:
 
 #### - 3. cd into local project's dir 
 ```sh
@@ -62,7 +62,7 @@ bundle install
 npm install
 ```
 
-## Dev time:
+### Dev time:
 
 #### 0. cd in local project dir 
 ```sh
@@ -81,27 +81,47 @@ Open a new terminal window and
 ```sh
 gulp
 ```
-Dude, now feel Awesome + ♡ the new partial regeneration with jekyll 3.0.0.beta...
+Now ♡ the new partial regeneration with jekyll 3.0
+#### Gems dependencies:
 
-## Gems dependencies:
 - gem 'rake'
 - gem 'rmagick'
-- gem 'jekyll', '~> 3.0.0.pre.beta8'
+- gem 'jekyll', '~> 3.0'
 - gem 'jekyll-sitemap'
 - gem ['jekyll-video-tag'](https://github.com/danbee/jekyll-video-tag ) , '~> 0.1.0'
-- gem ['jekyll-responsive_image'](https://github.com/wildlyinaccurate/jekyll-responsive-image)## Plugins dependencies:
+- gem ['jekyll-responsive_image'](https://github.com/wildlyinaccurate/jekyll-responsive-image)### Plugins dependencies:
 - [categories_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [tags_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [responsive_image.rb](https://github.com/wildlyinaccurate/jekyll-responsive-image)
-- [imager.js](https://github.com/BBC-News/Imager.js/)## More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)## warning:
+- [imager.js](https://github.com/BBC-News/Imager.js/)### More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)
+
+## Purpose of open sourcing this project
+
+Having the source files of the Fumes project website, the core of the project, out in the open will allow other people or organizations that want to produce journalism to get a head-start on their own sites and see some practices and methods that have worked well for Fumes.
+
+## Reasons for using Jekyll (or any other static site generator)
+
+This project creates static HTML files using [Jekyll](http://jekyllrb.com/). There are many main reasons for using a static site generator this way:
+
+1. The site will hold up to **high load** without requiring any special caching techniques. It's just HTML.
+2. Since the site is just static files without a CMS it **can sit for years without needing any software updates or security patches**, which is important for reference websites like Fumes that will sit without content changes for a long time.
+3. Since it's all text files controlled by a Git repository, **collaboration is made easy.**
+4. **Stories can be produced extremely quickly.** To produce the stories, just edit text files. A huge speed-up. With a little Markdown learning, everybody can quickly achieve full proficiency. Jekyll allows for include files, which separate content from presentation thus allows for changing already placed elements —like side images, interactives, etc.— without changing the story page. Huge speed-up during crunch time.
+5. **Fast and Secure.** All static files so drastically reduced vulnerabilities compared to popular php CMS like WP.
+6. Hosted on github pages. World class hosting on cdn for sharing.
+
+
+## Warning:
 
 Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them.
 
 Please, ask for permission first by contacting us through _info@junglestar.org_
 
-Thanks, Junglestar team## Photo rightsAll photos © the authors. All photos rights reserved. Except as indicated on a per article basis.  
+Thanks, Junglestar team
 
-In some fumes articles, photos are released under CC-BY Creative Commons license. 
+## Photo rightsAll photos © the Authors. All photos rights reserved. Except as indicated on a per article basis.  
+
+In some Fumes Articles, photos are released under CC-BY Creative Commons license. 
 Some other fumes photos are CC0.
 
 Everything else is GPL.
