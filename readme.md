@@ -36,46 +36,46 @@ rake publish
 ```
 The script get the content of `_site` folder and `git push origin master --force` 
 
-### Prerequisites, first setup:
+#### Prerequisites, first setup:
 
-#### - A. Get started with bundler. Install it globally! 
+##### A. Get started with bundler. Install it globally! 
 ```sh
 gem install bundler```
 
-#### - B. Install gulp globally
+##### B. Install gulp globally
 ```sh
 npm install --global gulp
 ```
 
-### Dev time prerequisites:
+#### Dev time prerequisites:
 
-#### - 3. cd into local project's dir 
+##### 3. cd into local project's dir 
 ```sh
 cdf
 ```
-#### - 2. Install gems dependencies into project's local dir
+##### 2. Install gems dependencies into project's local dir
 ```sh
 bundle install
 ```
-#### - 1. Install node dependencies into project's local dir
+##### 1. Install node dependencies into project's local dir
 ```sh
 npm install
 ```
 
-### Dev time:
+#### Dev time:
 
-#### 0. cd in local project dir 
+##### 0. cd in local project dir 
 ```sh
 cdf
 
 ```
 
-#### 1. Run Jekyll
+##### 1. Run Jekyll
 ```sh
 jekyll s
 ```
 
-#### 2. Run gulp
+##### 2. Run gulp
 Open a new terminal window and
 
 ```sh
