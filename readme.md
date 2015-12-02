@@ -24,11 +24,11 @@ not yet:
 Stuff for development. Its happens in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
 
 
-- gem 'jekyll', '~> 3.0' to speed-up Jekyll Regeneration
 - Nmp
 - Gulp
 - Bundler
 - plus various code clips & techniques taken here and there...  
+- incremental Jekyll Regeneration
 - [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. From project local root, enter:
 
 ```sh
