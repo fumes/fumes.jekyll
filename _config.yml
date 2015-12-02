@@ -12,7 +12,7 @@ version: v3.9.2
 # Site owner
 owner:
   name: Fumes
-  avatar_url: 
+  avatar_url:
   email: fumesmag@gmail.com
   link: http://fumes.junglestar.org
   disqus-shortname:
@@ -30,7 +30,7 @@ owner:
     analytics: UA-16659805-1
     verify: google32e66f1a5601ec40
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
 
 
@@ -73,17 +73,25 @@ exclude:
   - rakefile
 
 
-gems: 
-- jekyll-sitemap
+gems:
+  # http://jekyllrb.com/docs/pagination/
+  - jekyll-paginate
 
-# https://github.com/danbee/jekyll-video-tag
-- jekyll_video_tag 
+  - jekyll-sitemap
 
-# this one throw error so i just use plugin.rb instead of gem!
-#- jekyll-responsive_image 
+  # https://github.com/danbee/jekyll-video-tag
+  - jekyll_video_tag
 
-# put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
-# http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+  # this one throw error so i just use plugin.rb instead of gem!
+  #- jekyll-responsive_image
+
+  # put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
+  # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
+
+
+## CONFIG
+paginate: 5
+#paginate_path: "/blog/page:num/"
 
 
 ## ADDONS / PLUGINS /.rb

@@ -19,6 +19,7 @@ npm-debug.log*
 
 # ROK files #
 .jekyll
+.imagerJS
 
 # OS generated files #
 **/.Trashes

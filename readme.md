@@ -1,4 +1,4 @@
-## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia._ _Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
+## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia.__Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
 ♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
 - Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master). Compiled locally and synced via rake script.- Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) and its basically used for development and source.- More **working branches** maybe present at times...## To do##### Urgent:
 
@@ -7,7 +7,7 @@
 - [ ] https##### Sometime soon:- [ ] compress html
 - [ ] external_links {:class="readmore"} move to front matter- [ ] improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills- [ ] ☻ figure out [github](https://help.github.com/)
 - [ ] ☻ study [Github Flavoured Markdown.](https://help.github.com/articles/github-flavored-markdown) Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).- [ ] open graph more tests- [ ] improve gulp tasks with postCSS
- ##### One day:
+##### One day:
 - [ ] install service workers
 - [ ] disqus
 - [ ] print.css
@@ -32,13 +32,13 @@ Stuff for development. Its happens in [Source branch](https://github.com/fumes/f
 - [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. From project local root, enter:
 
 ```sh
-rake publish 
+rake publish
 ```
-The script get the content of `_site` folder and `git push origin master --force` 
+The script get the content of `_site` folder and `git push origin master --force`
 
 #### Prerequisites, first setup:
 
-##### A. Get started with bundler. Install it globally! 
+##### A. Get started with bundler. Install it globally!
 ```sh
 gem install bundler```
 
@@ -49,7 +49,7 @@ npm install --global gulp
 
 #### Dev time prerequisites:
 
-##### 3. cd into local project's dir 
+##### 3. cd into local project's dir
 ```sh
 cdf
 ```
@@ -64,7 +64,7 @@ npm install
 
 #### Dev time:
 
-##### 0. cd in local project dir 
+##### 0. cd in local project dir
 ```sh
 cdf
 
@@ -72,7 +72,7 @@ cdf
 
 ##### 1. Run Jekyll
 ```sh
-jekyll s
+jekyll serve --incremental
 ```
 
 ##### 2. Run gulp
@@ -121,7 +121,7 @@ Thanks, Junglestar team
 
 ## Photo rightsAll photos © the Authors. All photos rights reserved. Except as indicated on a per article basis.  
 
-In some Fumes Articles, photos are released under CC-BY Creative Commons license. 
+In some Fumes Articles, photos are released under CC-BY Creative Commons license.
 Some other fumes photos are CC0.
 
 Everything else is GPL.
