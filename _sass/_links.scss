@@ -15,5 +15,10 @@ a {
 
   &:visited:hover {
     color: darken($alert_color, 20%);
-  }    
+  }
+}
+
+
+svg .tblack{
+  fill: rgba(22,22,22,.75);
 }

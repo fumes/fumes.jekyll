@@ -15,11 +15,11 @@ $spacing_unit:     $base_font_size * 2; //36px
 $alert_color:      white;
 $brand_color:      #555; //logo base color, ++ _logo.scss
 
-$text_color:       darken(white, 20%);   
-$background_color: #161616;
+$text_color:       darken(white, 20%);
+$background_color: #161616; // = rgba(22,22,22,1) or hsla(0, 0%, 9%, 1)
 $grey_color_light: darken(white, 30%);
-$grey_color:       darken(white, 40%);  
-$grey_color_dark:  darken(white, 50%); 
+$grey_color:       darken(white, 40%);
+$grey_color_dark:  darken(white, 50%);
 
 $tblack50:         rgba(0,0,0,.5);
 $twhite50:         rgba(255,255,255,.5);
@@ -29,7 +29,7 @@ $white:            #FFF;
 $content_width:    1400px;
 // lets have uniform icons
 $icon_size:    4rem;
-$icon_color:  darken(white, 75%); 
+$icon_color:  darken(white, 75%);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "normalize",
@@ -42,8 +42,8 @@ $icon_color:  darken(white, 75%);
         "logo",
         "nav",
         "header",
-        "index", 
-        "post",       
+        "index",
+        "post",
         "video",
         "progress",
         "footer"

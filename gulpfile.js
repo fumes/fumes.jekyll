@@ -18,7 +18,7 @@ gulp.task('svg', function () {
             }
         }))
         .pipe(gulp.dest('_svg/optimized'))
-});    
+});
 
 // Static Server + watching scss/html files
 gulp.task('serve', ['sass'], function() {
@@ -31,7 +31,7 @@ gulp.task('serve', ['sass'], function() {
 
         // • JEKYLL GITHUB PROJECT PAGES (user.github.io/user)
         // ```bundle exec jekyll serve --baseurl ''```
-        // uses "0.0.0.0:4000/baseurl" 
+        // uses "0.0.0.0:4000/baseurl"
         // using jekyll (2.4.0)
         // proxy: "0.0.0.0:4000/baseurl"
     });
@@ -51,13 +51,12 @@ gulp.task('sass', function () {
 
 gulp.task('default', ['serve']);
 
-// to autoprefix use sublime (alt+super+p) > autoprefixer 
+// to autoprefix use sublime (alt+super+p) > autoprefixer
 // https://github.com/sindresorhus/sublime-autoprefixer
 
 // QUICKSTART:
 // 0. open 2 terminal windows:
-// 1. ```jekyll s --trace``` to run jekyll (cos this repo uses jekyll 3.0.0.pre.beta8)
+// 1. ```jekyll serve --incremental --trace``` to run jekyll (cos this repo uses jekyll >3.0.0)
 // 2. ```gulp``` to process styles + new terminal window
 // optional
 // A. ```gulp svg``` to clean SVGs...
-
