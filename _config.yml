@@ -74,6 +74,8 @@ exclude:
 
 
 gems:
+  - jekyll-feed
+  
   # http://jekyllrb.com/docs/pagination/
   - jekyll-paginate
 
