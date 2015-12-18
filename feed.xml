@@ -56,33 +56,13 @@ layout: null
 
       {% if post.photographer %}
         <author>
-          {% if post.photographer.name %}
-            <name>{{ post.photographer.name | xml_escape }}</name>
-          {% else %}
-            <name>{{ post.photographer | xml_escape }}</name>
-          {% endif %}
-          {% if post.photographer.email %}
-            <email>{{ post.photographer.email | xml_escape }}</email>
-          {% endif %}
-          {% if post.photographer.uri %}
-            <uri>{{ post.photographer.uri | xml_escape }}</uri>
-          {% endif %}
+          <name>{{ post.photographer | xml_escape }}</name>
         </author>
       {% endif %}
 
       {% if post.curator %}
         <curator>
-          {% if post.curator.name %}
-            <name>{{ post.curator.name | xml_escape }}</name>
-          {% else %}
-            <name>{{ post.curator | xml_escape }}</name>
-          {% endif %}
-          {% if post.curator.email %}
-            <email>{{ post.curator.email | xml_escape }}</email>
-          {% endif %}
-          {% if post.curator.uri %}
-            <uri>{{ post.curator.uri | xml_escape }}</uri>
-          {% endif %}
+          {{ post.curator | xml_escape }}
         </curator>
       {% endif %}
 
