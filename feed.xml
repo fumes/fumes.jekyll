@@ -54,18 +54,18 @@ layout: null
       <id>{{ post.id | prepend: url_base | xml_escape }}</id>
       <content type="html" xml:base="{{ post.url | prepend: url_base | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
 
-      {% if post.author %}
+      {% if post.photographer %}
         <author>
-          {% if post.author.name %}
-            <name>{{ post.author.name | xml_escape }}</name>
+          {% if post.photographer.name %}
+            <name>{{ post.photographer.name | xml_escape }}</name>
           {% else %}
-            <name>{{ post.author | xml_escape }}</name>
+            <name>{{ post.photographer | xml_escape }}</name>
           {% endif %}
-          {% if post.author.email %}
-            <email>{{ post.author.email | xml_escape }}</email>
+          {% if post.photographer.email %}
+            <email>{{ post.photographer.email | xml_escape }}</email>
           {% endif %}
-          {% if post.author.uri %}
-            <uri>{{ post.author.uri | xml_escape }}</uri>
+          {% if post.photographer.uri %}
+            <uri>{{ post.photographer.uri | xml_escape }}</uri>
           {% endif %}
         </author>
       {% endif %}
