@@ -7,7 +7,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The current release of Fumes Project website
-version: v3.9.2
+version: v3.9.3
 
 # Site owner
 owner:
@@ -75,7 +75,7 @@ exclude:
 
 gems:
   - jekyll-feed
-  
+
   # http://jekyllrb.com/docs/pagination/
   - jekyll-paginate
 
@@ -85,7 +85,7 @@ gems:
   - jekyll_video_tag
 
   # this one throw error so i just use plugin.rb instead of gem!
-  #- jekyll-responsive_image
+  # - jekyll-responsive_image
 
   # put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
   # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html

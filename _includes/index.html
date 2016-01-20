@@ -1,11 +1,11 @@
 <div class="home__posts">
-  {% for post in site.posts limit:12 %}
+  {% for post in site.posts limit:15 %}
     {% include index_post_block.html %}
   {% endfor %}
 </div>
 
-<div class="home__posts compact">
+<!-- <div class="home__posts compact">
   {% for post in site.posts limit:20 offset:12 %}
     {% include index_post_block--compact.html %}
   {% endfor %}
-</div>
+</div> -->
