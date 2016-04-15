@@ -1,12 +1,12 @@
 <!-- Twitter Cards -->
 
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"> 
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
 	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncatewords:15 }}">
 	{% else %}
 	<meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncatewords:15 }}">{% endif %}
 
-	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %} 
+	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
 
 	{% if page.photographer %}
 	{% assign photographer = site.data.photographers[page.photographer] %}
@@ -21,7 +21,7 @@
 	<meta name="twitter:image:src" content="{{ site.url }}/assets/i/t/fumesyousuck_thumb.png">{% endif %}
 
 <!-- Open Graph -->
-	<meta property="og:locale" content="{{ site.locale }}">
+	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	{% if page.thumb %}
