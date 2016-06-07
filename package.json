@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fumes/fumes.github.io.git"
+    "url": "https://github.com/fumes/fumes.github.io.git"
   },
   "author": "rokma",
   "license": "GPL-3.0",
