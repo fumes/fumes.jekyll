@@ -4,9 +4,8 @@
 
 - [ ] licenses management: use licenses.yml
 - [ ] icons slim diet
-- [ ] https##### Sometime soon:- [ ] compress html
-- [ ] external_links {:class="readmore"} move to front matter- [ ] improve [liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) and [liquid programming](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers) skills- [ ] ☻ figure out [github](https://help.github.com/)
-- [ ] ☻ study [Github Flavoured Markdown.](https://help.github.com/articles/github-flavored-markdown) Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).- [ ] open graph more tests- [ ] improve gulp tasks with un  CSS
+- [ ] https- [ ] publish some content!##### Sometime soon:- [ ] compress html
+- [ ] external_links {:class="readmore"} move to front matter- [ ] open graph more tests- [ ] improve gulp tasks with un  CSS
 ##### One day:
 - [ ] install service workers
 - [ ] disqus
