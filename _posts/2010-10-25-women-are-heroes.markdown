@@ -23,11 +23,11 @@ tags:
 license:
 thumb: jr.jpg
 ---
-"Women are Heroes" is a photography project by french photographer JR. 
+"Women are Heroes" is a photography project by french photographer JR.
 
 This work, which got viral, is about pictures made into huge posters and glued to public spaces.
 
-{% responsive_image path: uploads/2010/10/101025-JR-kenja.jpg %} 
+{% responsive_image path: uploads/2010/10/101025-JR-kenja.jpg %}
 Exposed in outdoor galleries on the streets and buildings "Women are Heroes" subjects are rural african women, framed in strong black and white close-ups.
 
 
@@ -40,25 +40,28 @@ JR reaches a huge impact by combining ultra tight cuts with huge prints of his h
 
 Definitely undercover, photographer JR likes to keep his real name invisible and be known by his work.
 
+<br>
+<br>
+
+>"Art is not supposed to change the world, to change practical things, but to change perceptions. Art can change the way we see the world. Art can create an analogy."
+-JR
+
+<br>
+<br>
+<br>
 
 _read more:_{:class="readmore"}
 
-- <a href="http://www.youtube.com/watch?v=R_PGHS9PS2Y" target="_blank">Working in Favela Providencia, Brasil 2009</a> 
+- [Artsy’s JR page](https://www.artsy.net/artist/jr) has JR's bio, over 70 works, articles, as well as up-to-date JR exhibition listings.
 
-- <a href="http://www.womenareheroes.be/?en" target="_blank">More "Women are Heroes"</a> 
+- <a href="http://www.youtube.com/watch?v=R_PGHS9PS2Y" target="_blank">Working in Favela Providencia, Brasil 2009</a>
 
-- <a href="http://www.womenareheroes-paris.net/" target="_blank">"Women are Heroes" Paris expo 2009</a> 
+- <a href="http://www.youtube.com/watch?v=Hxg2Agf9XrA" target="_blank">"Women are Heroes" Paris</a>
 
-- <a href="http://www.youtube.com/watch?v=Hxg2Agf9XrA" target="_blank">"Women are Heroes" Paris</a> 
+- <a href="http://www.youtube.com/watch?v=lCWRq5ZtdPY" target="_blank">Reportage on JR in Kibera, Kenya 2009</a>
 
-- <a href="http://face2faceproject.com/" target="_blank">face 2 face project</a> 
+- <a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR talks about workin in Middle East, 2009</a>
 
-- <a href="http://www.youtube.com/watch?v=lCWRq5ZtdPY" target="_blank">Reportage on JR in Kibera, Kenya 2009</a> 
+- <a href="http://jr.crakedz.com/livres/livre-women-are-heroes-poster-jr.html" target="_blank">buy JR's book & poster</a>
 
-- <a href="http://www.youtube.com/watch?v=64t1or8RETQ" target="_blank">JR talks about workin in Middle East, 2009</a> 
-
-- <a href="http://jr.crakedz.com/livres/livre-women-are-heroes-poster-jr.html" target="_blank">buy JR's book & poster: here</a> 
-
-- <a href="http://jr-art.net" target="_blank">JR personal website</a> 
-
-
+- <a href="http://jr-art.net" target="_blank">JR personal website</a>
