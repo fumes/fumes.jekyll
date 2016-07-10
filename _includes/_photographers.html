@@ -6,7 +6,8 @@
     <p>{{ photographer.web }}</p>
     <p>{{ photographer.twitter }}</p>
     <p>{{ photographer.github }}</p>
-    <p>{{ photographer.fb_page }}</p>
+    <p>{{ photographer.fbPage }}</p>
+    <p>{{ photographer.fbProfile }}</p>
 </a>
 
 
@@ -17,9 +18,9 @@
     <p>{{ photographer.name }}</p>
     <a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">{{ photographer.web }} </a>
     <a href="https://twitter.com/@{{ photographer.twitter }}" target="_blank">{{ photographer.twitter }} </a>
-    <a href="https://facebook.com/{{ photographer.fb_page }}" target="_blank">{{ photographer.fb_page }} </a>
+    <a href="https://facebook.com/{{ photographer.fbPage }}" target="_blank">{{ photographer.fbPage }} </a>
+    <a href="https://facebook.com/{{ photographer.fbProfile }}" target="_blank">{{ photographer.fbProfile }} </a>
     <a href="https://github.com/{{ photographer.github }}" target="_blank">{{ photographer.github }} </a>
   </li>
 {% endfor %}
 </ul>
-

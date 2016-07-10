@@ -5,15 +5,15 @@ layout: default
 {% assign photographer = site.data.photographers[page.photographer] %}
 
 <div class="tagpage tagpage__title">
-  
+
   <span class="tagpage__ico" title="photographer">
     {% include svg/use.html id="icn--photographer" %}
   </span>
-  
+
   <h1 class="page__title">{{ photographer.name | titlecase }}</h1>
 
   <div class="photographer__metas">
-        
+
     {% if photographer.twitter %}
     <div class="photographer__meta">
       <a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">
@@ -22,23 +22,23 @@ layout: default
       </a>
     </div>
     {% endif %}
-      
-    {% if photographer.fb_page %}
+
+    {% if photographer.fbPage %}
     <div class="photographer__meta">
-      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">
+      <a href="https://facebook.com/{{ photographer.fbPage }}" title="facebook page" target="_blank">
         <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
-        <span class="destination">{{ photographer.fb_page }}</span>
+        <span class="destination">{{ photographer.fbPage }}</span>
       </a>
     </div>
     {% endif %}
 
-    {% if photographer.fb_profile %}
+    {% if photographer.fbProfile %}
     <div class="photographer__meta">
-      <a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">
+      <a href="https://facebook.com/{{ photographer.fbProfile }}" title="facebook profile" target="_blank">
         <div class="ico photographer">{% include svg/use.html id="icn--facebook" class="facebook" %}</div>
-        <span class="destination">{{ photographer.fb_profile}}</span>
+        <span class="destination">{{ photographer.fbProfile}}</span>
       </a>
-    </div> 
+    </div>
     {% endif %}
 
     {% if photographer.tumblr %}
@@ -67,7 +67,7 @@ layout: default
       </a>
     </div>
     {% endif %}
-      
+
     {% if photographer.github %}
     <div class="photographer__meta">
       <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">

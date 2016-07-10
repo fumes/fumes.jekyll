@@ -3,17 +3,17 @@
 {% if photographer.web %}
 <a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank">{{ photographer.web }}</a>
 {% endif %}
-    
+
 {% if photographer.twitter %}
 <a href="https://twitter.com/{{ photographer.twitter }}" title="twitter" target="_blank">titter: {{ photographer.twitter }} </a>
 {% endif %}
-  
-{% if photographer.fb_page %}
-<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook page" target="_blank">fb-page: {{ photographer.fb_page }} </a>
+
+{% if photographer.fbPage %}
+<a href="https://facebook.com/{{ photographer.fbPage }}" title="facebook page" target="_blank">fb-page: {{ photographer.fbPage }} </a>
 {% endif %}
 
-{% if photographer.fb_profile %}
-<a href="https://facebook.com/{{ photographer.fb_page }}" title="facebook" target="_blank">fb: {{ photographer.fb_profile}} </a>
+{% if photographer.fbProfile %}
+<a href="https://facebook.com/{{ photographer.fbProfile }}" title="facebook" target="_blank">fb: {{ photographer.fbProfile}} </a>
 {% endif %}
 
 {% if photographer.tumblr %}
@@ -23,7 +23,7 @@
 {% if photographer.gplus %}
 <a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank">g+: {{ photographer.gplus}} </a>
 {% endif %}
-  
+
 {% if photographer.github %}
 <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank">github: {{ photographer.github }} </a>
 {% endif %}

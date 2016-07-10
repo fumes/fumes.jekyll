@@ -51,8 +51,6 @@ gulp.task('sass', function () {
 
 gulp.task('default', ['serve']);
 
-// to autoprefix use sublime (alt+super+p) > autoprefixer
-// https://github.com/sindresorhus/sublime-autoprefixer
 
 // QUICKSTART:
 // 0. open 2 terminal windows:

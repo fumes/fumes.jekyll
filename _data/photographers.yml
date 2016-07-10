@@ -1,20 +1,23 @@
 alejandro:
   name: Alejandro Plesch
-  gplus: 
+  gplus:
   twitter: alejandroplesch
-  fb_profile: 
+  fbProfile:
   tumblr: alejandroplesch
   ink361: 'http://ink361.com/app/users/ig-672621436/alejandro_plesch/photos'
 
 luci:
   name: Luci Ferrero
   web: luciferrero.asia
-  fb_profile: #
+  fbProfile: # not public > luciana.ferrero.58/
+  fbPage: LFFL01
+
+francesco:
+  name: Francesco Mancini
+  fbProfile: francesco.mancini1/
 
 lance:
   name: Lance Slabbert
-  web: #
-  fb_profile: #
   tumblr: lanceslabbert
 
 rokma:
@@ -22,5 +25,5 @@ rokma:
   web: rokma.com
   gplus: rokma
   twitter: rokmatwit
-  fb_page: rokmaphotography
+  fbPage: rokmaphotography
   github: toybreaker
