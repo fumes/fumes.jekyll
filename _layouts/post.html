@@ -1,16 +1,14 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post" itemscope itemtype="http://schema.org/Article">
 
   <header class="post__header"> {% include meta.html %} </header>
 
-  <article class="post__content"> {{ content }} </article>
+  <article itemprop="description" class="post__content"> {{ content }} </article>
 
   <section class="post__license" role="license"> {% include license.html %} </section>
 
   <nav class="nav--horizontal">{% include nav--horizzo.html %}</nav>
-  
+
 </div>
-
-
