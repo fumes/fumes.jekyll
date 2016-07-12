@@ -14,7 +14,11 @@
 	{% endif %}
 
 	{% comment %} use link[href] to define image url for microdata{% endcomment %}
+	{% if page.thumb %}
   <link itemprop="image" href="{{ site.url }}/assets/i/t/{{ page.thumb }}">
+	{% else %}
+	<link itemprop="image" href="{{ site.url }}/assets/i/t/fumesyousuck_thumb.png">
+	{% endif %}
 
 	{% if page.excerpt %}
 	<meta property="og:description" itemprop="description" content="{%if page.excerpt%}{{page.excerpt|strip_html|strip_newlines|truncate:120}}{%else%}{{site.description}}{% endif%}">

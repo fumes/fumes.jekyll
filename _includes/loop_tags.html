@@ -1,4 +1,4 @@
-<!-- looper-tags -->
+<!-- tag-looper -->
 <div class="looper" >
   <label>tags</label>
   <div class="looper__ico" title="tags">
@@ -9,6 +9,6 @@
     <a class="looper__link" style="font-size: {{tag|last|size|times: 1000|divided_by: site.tags.size|plus: 80}}%" href="{{site.baseurl}}/{{tag|first|slugize|downcase}}">
       {{ tag | first }}
     </a>
-    
+
   {% endfor %}
 </div>

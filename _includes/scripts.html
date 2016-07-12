@@ -1,10 +1,9 @@
 <script>
-//open external link in new window
+/* open external link in new window */
 (function() {
   var links = document.links;
   for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-    // can also be
-    //  links[i].hostname != 'subdomain.example.com'
+    /* can also be: links[i].hostname != 'subdomain.example.com' */
     if (links[i].hostname != window.location.hostname) {
       links[i].target = '_blank';
       links[i].className += ' externalLink';
@@ -14,36 +13,33 @@
 </script>
 
 <script>
-  //APPEND to copy action
-  //https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/
+  /*
+  APPEND to copy action
+  https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/
+  */
   function addLink() {
 
-    if (typeof window.getSelection == "undefined") return; //IE8 or earlier...
-    
+    if (typeof window.getSelection == "undefined") return;
+
     var body_element = document.getElementsByTagName('body')[0];
     var selection = window.getSelection();
-    
-    //if the selection is short let's not annoy our users
+
     if (("" + selection).length < 30) return;
 
-    //create a div outside of the visible area
-    //and fill it with the selected text
     var newdiv = document.createElement('div');
     newdiv.style.position = 'absolute';
     newdiv.style.left = '-99999px';
     body_element.appendChild(newdiv);
     newdiv.appendChild(selection.getRangeAt(0).cloneContents());
-    
-    //we need a <pre> tag workaround
-    //otherwise the text inside "pre" loses all the line breaks!
+
     if (selection.getRangeAt(0).commonAncestorContainer.nodeName == "PRE") {
       newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
     }
-    
+
     newdiv.innerHTML += "<br /><br />&#9786; YO! this is an extract from Fumes: <a href='"
     + document.location.href + "'>"
     + document.location.href + "</a><br />&#9775; 2015 &copy; Fumes project. Licensed under a Creative Commons Attribution 4.0 International License.<br />&#9775; Photos articles have own license policy, please check.";
-        
+
     selection.selectAllChildren(newdiv);
     window.setTimeout(function () { body_element.removeChild(newdiv); }, 200);
   }
@@ -53,9 +49,9 @@
 
 {% if site.owner.google.analytics %}
   <script>
-  //Asynchronous Google Analytics snippet
+
     var _gaq = _gaq || [];
-    var pluginUrl = 
+    var pluginUrl =
    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
     _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
     _gaq.push(['_setAccount', '{{ site.owner.google.analytics }}']);
