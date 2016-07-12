@@ -17,7 +17,8 @@
       <span class="hide">Photography: </span>
       {% assign photographer = site.data.photographers[page.photographer] %}
 
-      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/">{{ photographer.name }}</a>
+      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">{{ photographer.name }}</span></span></a>
     </p>
 
   </div>
@@ -28,7 +29,9 @@
     <div class="ico">
       {% include svg/use.html id="icn--date" class="date" alt="published" %}
     </div>
-    <p class="date"><span class="hide">Published: </span>{{ page.date | date: "%B %d, %Y" }}</p>
+    <p class="date">
+      <meta itemprop="datePublished" content="{{ page.date| date: "%F"}}">
+      <span class="hide">Published: </span>{{ page.date | date: "%B %d, %Y" }}</p>
   </div>
 
   {% if page.categories %}

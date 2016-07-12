@@ -4,7 +4,7 @@
 	<meta property="og:type" content="website">
 	{% if page.photographer %}
 	{% assign photographer = site.data.photographers[page.photographer] %}
-	<meta property="og:title" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" itemprop="name" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% else %}{{ site.title }}{% endif %}">
 	{% endif %}
 
 	{% if page.thumb %}
@@ -21,7 +21,7 @@
 	{% endif %}
 
 	{% if page.excerpt %}
-	<meta property="og:description" content="{%if page.excerpt%}{{page.excerpt|strip_html|strip_newlines|truncate:120}}{%else%}{{site.description}}{% endif%}">
+	<meta property="og:description" itemprop="description" content="{%if page.excerpt%}{{page.excerpt|strip_html|strip_newlines|truncate:120}}{%else%}{{site.description}}{% endif%}">
 	{% endif %}
 
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
