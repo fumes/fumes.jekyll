@@ -109,6 +109,14 @@ pre {
 //hide stuff
 .hide{display: none;}
 
+.hidden_for_itemprop {
+  display: block;
+  position: relative;
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+}
+
 //future print styles
 .qrcode{display: none;}
 // when toggled and print
@@ -121,8 +129,8 @@ pre {
 //all external links inside content block, not the footer ones!
 .content  a[target="_blank"]:before{
   content: "";
-  position: relative;  
-  width:1.5rem; 
+  position: relative;
+  width:1.5rem;
   height:1.5rem;
   top: .3rem;
   left: 0;
@@ -150,5 +158,5 @@ pre {
 //     position: absolute;
 //     top: 0;
 //     left: 0;
-//   }  
+//   }
 // }

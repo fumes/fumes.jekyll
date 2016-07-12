@@ -6,6 +6,7 @@
   </div>
 
 
+  <img class="hidden_for_itemprop" itemprop="image" src="{{ site.url }}/assets/i/t/{{ page.thumb }}">
 
 
   {% if page.photographer %}
@@ -17,8 +18,11 @@
       <span class="hide">Photography: </span>
       {% assign photographer = site.data.photographers[page.photographer] %}
 
-      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
-<span itemprop="name">{{ photographer.name }}</span></span></a>
+      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/">
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">{{ photographer.name }}</span>
+        </span>
+      </a>
     </p>
 
   </div>
