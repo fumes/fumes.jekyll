@@ -5,19 +5,18 @@
 
   <body class="has_default_license">
 
-    <span itemscope itemtype="http://schema.org/Article">
+    {% include header.html %}
 
-      {% include header.html %}
-
-      {% include belly.html %}
-
-    </span>
+    {% include belly.html %}
 
     {% include nav--postsALL.html %}
 
     {% include nav--tags.html %}
 
     {% include footer.html %}
+
+
+    {% include scripts_microdata.html %}
 
     {% include scripts.html %}
 

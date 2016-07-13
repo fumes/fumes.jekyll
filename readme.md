@@ -4,15 +4,17 @@
 
 - [ ] licenses management: use licenses.yml
 - [ ] icons slim diet
-- [ ] https- [ ] publish some content!##### Sometime soon:- [ ] compress html
-- [ ] external_links {:class="readmore"} move to front matter- [ ] open graph more tests- [ ] improve gulp tasks with un  CSS
+- [ ] https- [ ] publish some content!##### Sometime soon:- [ ] get rid of jquery
+- [ ] refactor using Imager.js + gulp grinder, drop responsive_image.rb
+- [ ] compress html
+- [ ] improve gulp tasks with un  CSS
 ##### One day:
 - [ ] install service workers
 - [ ] disqus
 - [ ] print.css
 - [ ] mailchimp
 - [ ] merchandise
-- [ ] PDF | ebook## Fumes website features   - [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  - [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  - [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] post thumbs. Front-matter declared.  - [x] chrome standalone web app functionality (android only :().  - [x] photographer indexes and navigation.   - [x] open graph.  
+- [ ] PDF | ebook## Fumes website features- [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  - [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  - [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] post thumbs. Front-matter declared.  - [x] chrome standalone web app functionality (android only :().  - [x] photographer indexes and navigation.   - [x] open graph.  
 - [x] attribution footnotes ["APPEND to copy action"](https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/) via inlined vanilla js.  
 - [x] twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator)).  - [x] CNAME.  - [x] handy prev-next articles navigation.
 
@@ -80,7 +82,7 @@ Open a new terminal window and
 ```sh
 gulp
 ```
-Now ♡ the new partial regeneration with jekyll 3.0
+
 #### Gems dependencies:
 
 - gem 'rake'

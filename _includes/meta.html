@@ -2,11 +2,8 @@
 
   <div class="post-meta posta">
     <div class="ico">{% include svg/use.html id="icn--post" class="posta" alt="Fumes title" %}</div>
-    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
   </div>
-
-
-  <img class="hidden_for_itemprop" itemprop="image" src="{{ site.url }}/assets/i/t/{{ page.thumb }}">
 
 
   {% if page.photographer %}
@@ -18,11 +15,7 @@
       <span class="hide">Photography: </span>
       {% assign photographer = site.data.photographers[page.photographer] %}
 
-      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/">
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span itemprop="name">{{ photographer.name }}</span>
-        </span>
-      </a>
+      <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/">{{ photographer.name }}</a>
     </p>
 
   </div>
