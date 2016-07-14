@@ -26,10 +26,9 @@ tags:
 - SAR
 - China
 - fun
-- gods
+- Gods
 - lifestyle
 - city
-
 license: CC_BY
 thumb: dragons.jpg
 ---
@@ -73,4 +72,3 @@ thumb: dragons.jpg
 {% responsive_image path: uploads/2012/02/120105-photo-rokma-hongkong__MG_8165.jpg %}
 
 {% responsive_image path: uploads/2012/02/120105-photo-rokma-hongkong__MG_8584.jpg %}
-

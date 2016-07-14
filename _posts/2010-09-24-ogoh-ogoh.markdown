@@ -26,6 +26,7 @@ tags:
 - visual
 - ritual
 - report
+- Gods
 license: CC_BY_NC_ND
 thumb: ogoh.jpg
 ---
@@ -60,7 +61,7 @@ The main purpose of the making of Ogoh-ogoh is the purification of the natural e
 <a href="http://books.google.com/books?id=Lw_pNuHejjAC&lpg=PA49&dq=ogoh%20ogoh&pg=PA49#v=onepage&q=ogoh%20ogoh&f=false" target="_blank">&lt;God is Great&gt;</a>&gt; from &lt;The Mother of Mohammed: An Australian Woman's Extraordinary Journey Into Jihad&gt; by Sally Neighbour
 
 <a href="http://books.google.com/books?id=j7YosVd8wEMC&lpg=PA62&dq=ogoh%20ogoh&pg=PA62#v=onepage&q=ogoh%20ogoh&f=false" target="_blank">&lt;Bali calls on the world to play dead&gt;</a> from &lt;Bali &amp; Lombok&gt; by Ryan Ver Berkmoes, Adam Skolnick, Marian Carroll
- 
+
 
 
 _Read on Nyepi day:_
@@ -72,6 +73,4 @@ _Read on Nyepi day:_
 <a target="_blank" href="http://books.google.com/books?id=RzUPfuQ1GO0C&pg=PP93&dq=ogoh+ogoh&hl=en&ei=7Nx6TqG8KITJrQeFh_3CDw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEAQ6AEwBA#v=onepage&q=ogoh%20ogoh&f=false">&lt;New Year Monsters&gt;</a> from &lt;The natural guide to Bali&gt;  by Anne Gouyon, Yayasan Bumi Kita
 
 
-<a target="_blank" href="http://books.google.com/books?id=ktv0_me9x2UC&lpg=PA321&dq=ogoh%20ogoh&pg=PA321#v=onepage&q=ogoh%20ogoh&f=false">&lt;Bali Holidays and Festivals&gt;</a> from &lt;Indonesia handbook, Volume 3&gt; by Joshua Eliot, Liz Capaldi, Jane Bickersteth 
-
-
+<a target="_blank" href="http://books.google.com/books?id=ktv0_me9x2UC&lpg=PA321&dq=ogoh%20ogoh&pg=PA321#v=onepage&q=ogoh%20ogoh&f=false">&lt;Bali Holidays and Festivals&gt;</a> from &lt;Indonesia handbook, Volume 3&gt; by Joshua Eliot, Liz Capaldi, Jane Bickersteth

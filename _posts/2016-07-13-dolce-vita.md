@@ -5,17 +5,19 @@ published: true
 title: Dolce Vita
 curator: rokma
 photographer: francesco
-wordpress_id: 2340
-wordpress_url: http://fumes.dev/?p=2340
 date: '2016-07-13 14:19:37 +0100'
 categories: studies
 tags:
 - people
-- life
+- lifestyle
 - nature
 - photography
 - city
 - awareness
+- community
+- documentary
+- Italy
+- reflect
 license: CC_BY
 thumb: dolcevita.jpg
 ---
