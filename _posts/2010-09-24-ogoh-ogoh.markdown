@@ -19,7 +19,7 @@ tags:
 - Indonesia
 - lifestyle
 - Lombok
-- nyepi
+- Nyepi
 - photography
 - spirits
 - tradition
