@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: About Fumes
-curator: 
-photographer: 
+curator:
+photographer:
 wordpress_id: 1
 wordpress_url: http://fumes.dev/?p=1
 date: '2010-05-16 12:28:58 +0200'
 categories: inspiring
-tags: 
+tags:
 - fun
 - useful
 - reflect
@@ -35,7 +35,6 @@ Fumes are non commercial, do not have a plan and move with the wind, yet we carr
 
 Fumes are free, you can easily stop breathing 'em by moving past it upwind. Enjoy!
 
-Check us out as we are updating fresh Fumes on a ... uhm, volatile basis.
+Check us out as we are updating fresh Fumes on a ... hum, volatile basis.
 
 Now that you read the all thing 'till here, please consider writing us what's fuming in your head! Use comments, we'd def like to hear from you!
-
