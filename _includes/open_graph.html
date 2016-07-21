@@ -26,6 +26,8 @@
 	{% if page.photographer %}
 	{% assign photographer = site.data.photographers[page.photographer] %}
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} by {{ photographer.name }}{% else %}{{ site.title }}{% endif %}">
+	{% else %}
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - review{% else %}{{ site.title }}{% endif %}">
 	{% endif %}
 
 	{% if page.excerpt %}
