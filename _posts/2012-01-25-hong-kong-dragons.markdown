@@ -6,8 +6,6 @@ title: Hong Kong Dragons
 curator: rokma
 photographer: rokma
 excerpt: 2012 year of the dragon. Celebrations in Hongkong.
-wordpress_id: 1949
-wordpress_url: http://fumes.dev/?p=1949
 date: '2012-01-25 16:17:12 +0100'
 categories: photo-journalism
 tags:

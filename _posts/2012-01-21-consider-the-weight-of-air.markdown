@@ -106,7 +106,7 @@ It's the release that kicks everything in.
 
 
 
-_read more:_{:class="readmore"}
+_Read more:_{:class="readmore"}
 
 - [about "consider the weight of air"](http://es.worldphoto.org/profile/lanceslabbert/){:target="_blank"}
 

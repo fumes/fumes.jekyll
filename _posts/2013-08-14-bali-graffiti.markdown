@@ -5,7 +5,6 @@ published: true
 title: Bali graffiti
 curator: rokma
 photographer: luci
-wordpress_url: http://fumes.dev/?p=2516
 date: '2013-08-14 15:25:55 +0200'
 categories: art
 tags:
@@ -25,11 +24,11 @@ tags:
 license:
 thumb: bali-graffiti.jpg
 ---
-There are several issues in Bali but lately people have been concerned about land being sold to foreigners and non-Balinese. The argument is that the gods entrusted the people of Bali with a beautiful, fertile land to be taken care of so that the people will always be nourished by that land and they in turn would praise the gods by offering them the produce of the land. 
+There are several issues in Bali but lately people have been concerned about land being sold to foreigners and non-Balinese. The argument is that the gods entrusted the people of Bali with a beautiful, fertile land to be taken care of so that the people will always be nourished by that land and they in turn would praise the gods by offering them the produce of the land.
 
-Some people are very strongly against all this selling of Bali land and fear that some terrible catastrophe will befall the island. The graffitis are a way of expressing that concern. 
+Some people are very strongly against all this selling of Bali land and fear that some terrible catastrophe will befall the island. The graffitis are a way of expressing that concern.
 
-Another issue is the increasing amount of road accidents caused by idiots texting on their phone while they drive a car or a motorcycle. When accident occur they involve innocent people . 
+Another issue is the increasing amount of road accidents caused by idiots texting on their phone while they drive a car or a motorcycle. When accident occur they involve innocent people .
 
 
 {% responsive_image path: uploads/2013/08/130814-bali-grafiti-by-luci-ferrero-00.jpg %}
@@ -60,5 +59,5 @@ Stop and read your message, it is wiser.
 {% responsive_image path: uploads/2013/08/130814-bali-grafiti-by-luci-ferrero-02.jpg %}
 Beware stranger... this ain't your home!
 
-Like it?! 
-Check other works from Luci Ferrero on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!" target="_blank">luciferrero.asia</a> 
+Like it?!
+Check other works from Luci Ferrero on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!" target="_blank">luciferrero.asia</a>

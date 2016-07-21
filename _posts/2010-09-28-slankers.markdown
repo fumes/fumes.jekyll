@@ -5,8 +5,6 @@ published: true
 title: Slank and Slankers
 curator: Alejandro Plesch
 photographer: alejandro
-wordpress_id: 186
-wordpress_url: http://fumes.dev/?p=186
 date: '2010-09-28 09:47:30 +0200'
 categories: photo-journalism
 tags:
@@ -31,37 +29,37 @@ thumb: slank.jpg
 
 Formed in 1983, Slank is an Indonesian superband. By numbers, they are the biggest indie band in the world. Known for their socio-politically driven music, they were censored from TV and Radio during the Suharto years.
 
-{% responsive_image path: uploads/2010/09/100928-slankers-01-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-01-photo-alejandro-plesch.jpg %}
 Slank's loyal following are known as "Slankers". Considering that over 50% of Indonesia's population is under the age of 25, and that the arrival of democracy and overthrow of Suhatro's dictatorship fell at the hands of a student led youth campaign, Slank is a powerful force in the Indonesian socio-political landscape.  
 
 
-{% responsive_image path: uploads/2010/09/100928-slankers-02-photo-alejandro-plesch.jpg %} 
-Slank  concerts have a feeling of a grassroots jam session combined with a passionate political demonstration. 
+{% responsive_image path: uploads/2010/09/100928-slankers-02-photo-alejandro-plesch.jpg %}
+Slank  concerts have a feeling of a grassroots jam session combined with a passionate political demonstration.
 
 {% responsive_image path: uploads/2010/09/100928-slankers-13-photo-alejandro-plesch.jpg %}  Slankers often lobby for their regional causes, from corruption to human injustices, at Slank shows. Riot police are often on standby.
 
 
-{% responsive_image path: uploads/2010/09/100928-slankers-14-photo-alejandro-plesch.jpg %} 
-Fumes photographer Alejandro Plesch was invited to tag along with Slank in 2010.  Some of the following shots are from their show in Jakarta.  It was the first time Slank was allowed to play in the capital, their hometown. 
+{% responsive_image path: uploads/2010/09/100928-slankers-14-photo-alejandro-plesch.jpg %}
+Fumes photographer Alejandro Plesch was invited to tag along with Slank in 2010.  Some of the following shots are from their show in Jakarta.  It was the first time Slank was allowed to play in the capital, their hometown.
 
 
-{% responsive_image path: uploads/2010/09/100928-slankers-04-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-04-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-06-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-06-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-07-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-07-photo-alejandro-plesch.jpg %}
 
 {% responsive_image path: uploads/2010/09/100928-slankers-08-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-09-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-09-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-10-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-10-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-03-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-03-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-11-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-11-photo-alejandro-plesch.jpg %}
 
-{% responsive_image path: uploads/2010/09/100928-slankers-12-photo-alejandro-plesch.jpg %} 
+{% responsive_image path: uploads/2010/09/100928-slankers-12-photo-alejandro-plesch.jpg %}
 
 
 

@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Spike Jonze Lazarus Effect film
 curator: rokma
-wordpress_id: 128
-wordpress_url: http://fumes.dev/?p=128
 date: '2010-05-25 17:05:39 +0200'
 categories: inspiring
 tags:
@@ -30,13 +28,12 @@ HIV/AIDS is a preventable and treatable disease yet it has killed more than 20 m
 
 Today, thanks to reduced costs and increased access, more than 3 million people in Africa are now receiving treatment. Still, 3,800 people die every day in sub-Saharan Africa from AIDS. &ldquo;The Lazarus Effect&rdquo; film shows that this needn't be the case.
 
-_The director in an interview (<a href="http://www.hbo.com/documentaries/the-lazarus-effect/interview/lance-bangs.html" target="_blank">here</a>) tell us:_ 
+_The director in an interview (<a href="http://www.hbo.com/documentaries/the-lazarus-effect/interview/lance-bangs.html" target="_blank">here</a>) tell us:_
 
 <blockquote>"After all the relief efforts around the world that have had problems with mismanagement, corruption, graft, or ineffectiveness over the years it is tremendous to see something that works" </blockquote>
 
 <blockquote>"The Lazarus Effect focuses on the dramatic successes that many people are experiencing as a result of the progress made the past few years distributing ARV medication across several countries in Africa. You meet people while they are ill, but then watch them regain straight, health, and vitality over the course of the film." </blockquote>
 
-As a result the film is less grim, and perhaps more startlingly vibrant than what the viewer might have seen in earlier films that were highlighting the massive losses that the pandemic has wrought. 
+As a result the film is less grim, and perhaps more startlingly vibrant than what the viewer might have seen in earlier films that were highlighting the massive losses that the pandemic has wrought.
 
-Additionally, the film is structured to present patients speaking for themselves rather than being commented on by outside overseers or narrators." 
-
+Additionally, the film is structured to present patients speaking for themselves rather than being commented on by outside overseers or narrators."

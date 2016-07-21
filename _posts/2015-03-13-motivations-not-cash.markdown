@@ -2,13 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Motivations not cash! 
+title: Motivations not cash!
 curator: rokma
-wordpress_id: 2787
-wordpress_url: http://fumes.dev/?p=2787
 date: '2015-03-13 16:55:51 +0200'
 categories: studies
-tags: 
+tags:
 - clever
 - design
 - drawings
@@ -27,7 +25,7 @@ license:
 thumb: motivations.jpg
 ---
 
-What motivate us? This inspiring illustrated talk inquiries how motivations drive our everyday actions and work. 
+What motivate us? This inspiring illustrated talk inquiries how motivations drive our everyday actions and work.
 
 Adapted from Dan Pink's talk at the RSA, this video illustrates some hidden truths behind what really motivates us at home and in the workplace. Animation by Cognitive Media. Produced by RSA Animate.
 

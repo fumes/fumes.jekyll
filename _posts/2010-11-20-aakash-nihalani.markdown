@@ -4,8 +4,6 @@ status: publish
 published: true
 title: The art of Aakash Nihalani
 curator: rokma
-wordpress_id: 993
-wordpress_url: http://fumes.dev/?p=993
 date: '2010-11-20 06:52:02 +0100'
 categories: inspiring
 tags:
@@ -23,17 +21,17 @@ tags:
 license:
 thumb: Aakash-Nihilani.jpg
 ---
-### Aakash Nihilani 
+### Aakash Nihilani
 
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-04.jpg %}
 "My street work consists mostly of isometric rectangles and squares.
-I selectively place these graphics around New york to highlight the unexpected counters and elegant geometry of the city itself." 
+I selectively place these graphics around New york to highlight the unexpected counters and elegant geometry of the city itself."
 
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-02.jpg %}
 "All executions of a piece is done on site with little to no planning."
 
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-03.jpg %}
-"People need to understand that hows it is, isn&rsquo;t how it has to be." 
+"People need to understand that hows it is, isn&rsquo;t how it has to be."
 
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-05.jpg %}
 "My work is created in reaction to what we readily encounter in our lives."
@@ -51,4 +49,3 @@ _know more:_{:class="readmore"}
 - <a target="_blank" href="http://aakashnihalani.com/">Aakash Nihilani personal website</a>
 
 - &nbsp;
-

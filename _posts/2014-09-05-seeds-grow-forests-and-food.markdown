@@ -2,13 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Seeds, grow forests & food 
+title: Seeds, grow forests & food
 curator: rokma
-wordpress_id: 2771
-wordpress_url: http://fumes.dev/?p=2771
 date: '2014-09-05 16:55:51 +0200'
 categories: balance
-tags: 
+tags:
 - balance
 - lifestyle
 - useful
@@ -26,13 +24,13 @@ license:
 thumb: seeds.jpg
 ---
 
-How big is yourself? In these 3 projects the concept of togetherness and self is fully blended. 
+How big is yourself? In these 3 projects the concept of togetherness and self is fully blended.
 
-The following 3 examples, on food and the ecosystem topic, show a new social math! Which is that 1+1=3! 
+The following 3 examples, on food and the ecosystem topic, show a new social math! Which is that 1+1=3!
 
 _Check it out:_
 
-####1. Accessible Forests
+## 1. Accessible Forests
 
 Shubhendu Sharma: How to grow a tiny forest anywhere
 
@@ -42,7 +40,7 @@ Shubhendu Sharma: How to grow a tiny forest anywhere
 A forest planted by humans, then left to nature’s own devices, typically takes at least 100 years to mature. But what if we could make the process happen ten times faster? In this short talk, eco-entrepreneur (and TED Fellow) Shubhendu Sharma explains how to create a mini-forest ecosystem anywhere.
 
 
-####2. Grow Your Food
+## 2. Grow Your Food
 
 Britta Riley: A garden in my apartment
 
@@ -51,12 +49,10 @@ Britta Riley: A garden in my apartment
 Britta Riley wanted to grow her own food (in her tiny apartment). So she and her friends developed a system for growing plants in discarded plastic bottles — researching, testing and tweaking the system using social media, trying many variations at once and quickly arriving at the optimal system. Call it distributed DIY. And the results? Delicious.
 
 
-
-####3. Seed Backup Bank
+## 3. Seed Backup Bank
 
 Cary Fowler: One seed at a time, protecting the future of food
 
 {% video https://embed-ssl.ted.com/talks/cary_fowler_one_seed_at_a_time_protecting_the_future_of_food.html width=740 height=416 %}
 
 The varieties of wheat, corn and rice we grow today may not thrive in a future threatened by climate change. Cary Fowler takes us inside a vast global seed bank, buried within a frozen mountain in Norway, that stores a diverse group of food-crop for whatever tomorrow may bring.
-

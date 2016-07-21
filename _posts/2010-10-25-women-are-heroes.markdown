@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Women are Heroes
 curator: rokma
-wordpress_id: 1025
-wordpress_url: http://fumes.dev/?p=1025
 date: '2010-10-25 22:17:29 +0200'
 categories: inspiring
 tags:
@@ -50,7 +48,7 @@ Definitely undercover, photographer JR likes to keep his real name invisible and
 <br>
 <br>
 
-_read more:_{:class="readmore"}
+_Read more:_{:class="readmore"}
 
 - [Artsy’s JR page](https://www.artsy.net/artist/jr) has JR's bio, over 70 works, articles, as well as up-to-date JR exhibition listings.
 

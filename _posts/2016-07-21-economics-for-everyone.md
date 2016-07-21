@@ -20,29 +20,30 @@ thumb: economics.jpg
 
 Illustrated here by Andrew Park, **Ha-Joon Chang** explains why every single person can and should get their head around basic economics.
 
+
+
+{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-01.jpg %}
+
+
+
+{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-02.jpg %}
+
+
+
 He pulls back the curtain on the often mystifying language of derivatives and quantitative easing, and explains how easily.
 
+
+{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-03.jpg %}
 
 
 _Why you should watch_
 
 The illustrated talk is a good way for visual minds to get a high understanding of what economist [Ha-Joon Chang](http://hajoonchang.net/) is telling us.
 
-<br>
+
+_More frames from the video_
 
 
-
-{% video //www.youtube.com/embed/NdbbcO35arw?rel=fumes?autoplay=0 width=740 height=480 %}
-
-
-_Frames from the video_
-
-
-{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-01.jpg %}
-
-{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-02.jpg %}
-
-{% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-03.jpg %}
 
 {% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-04.jpg %}
 
@@ -57,6 +58,18 @@ _Frames from the video_
 {% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-09.jpg %}
 
 {% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-10.jpg %}
+
+
+
+<br>
+
+## Wanna see the talk now?
+
+<br>
+
+{% video //www.youtube.com/embed/NdbbcO35arw?rel=fumes?autoplay=0 width=740 height=480 %}
+
+<br>
 
 
 ## Wanna know more about RSA Animates?
@@ -76,7 +89,7 @@ _more links:_{:class="readmore"}
 
 - [Ha-Joon_Chang website](http://hajoonchang.net/)
 
-- [this illustrated talk](https://www.thersa.org/discover/videos/rsa-animate/2016/economics-is-for-everyone) 
+- [this illustrated talk](https://www.thersa.org/discover/videos/rsa-animate/2016/economics-is-for-everyone)
 
 - [RSA animated talks](https://www.thersa.org/discover/videos/rsa-animate/)
 

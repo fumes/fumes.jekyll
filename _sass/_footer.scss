@@ -8,49 +8,53 @@
 
 .footer__description{
   text-align:center;
-  width:100%; 
+  width:100%;
   display:block;
 }
 
 .footer__socialicons{
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
   margin: 0 auto;
   max-width: 25%;
-  @include media( "screen", ">minWidth"){
-    -webkit-flex-direction: row;
+  @include media( "screen", ">minWidth") {
+    -webkit-box-orient: horizontal;    -webkit-box-direction: normal;    -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
     max-width: 75%;
   }
-  @include media( "screen", ">bp1Width"){
+  @include media( "screen", ">bp1Width") {
     max-width: 50%;
   }
-  
+
   svg{
     width: $icon_size;
     height: $icon_size;
   }
-  
+
   a {
-    -webkit-flex-basis: auto;
-    -ms-flex-preferred-size: auto;
+    -webkit-flex-basis: auto;    -ms-flex-preferred-size: auto;
     flex-basis: auto;
-    
-    @include media( "screen", ">minWidth"){
+
+    @include media( "screen", ">minWidth") {
       -webkit-flex-basis: 130px;
       -ms-flex-preferred-size: 130px;
-      flex-basis: 130px;  
+      flex-basis: 130px;
     }
 
     display: block;
@@ -61,4 +65,3 @@
 
   }
 }
-

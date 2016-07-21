@@ -5,8 +5,6 @@ published: true
 title: Urban green need
 curator: rokma
 photographer: rokma
-wordpress_id: 2353
-wordpress_url: http://fumes.dev/?p=2353
 date: '2012-06-24 00:08:39 +0200'
 categories: balance
 tags:
@@ -32,7 +30,7 @@ tags:
 license: CC_BY
 thumb: urban-green.jpg
 ---
-The urban need for improved life quality is a driving energy in every big metropolis. Check how good are Bangkok people in painting their everyday life lively green. 
+The urban need for improved life quality is a driving energy in every big metropolis. Check how good are Bangkok people in painting their everyday life lively green.
 
 {% responsive_image path: uploads/2011/08/110806-rokma-photo-3349.jpg %}
 The need for live plants for his moveable shop has being well satisfied by his unique fruit and shakes stall design.

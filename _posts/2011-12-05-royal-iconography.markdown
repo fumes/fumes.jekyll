@@ -6,8 +6,6 @@ title: Royal Iconography
 curator: rokma
 photographer: rokma
 excerpt: Many Thai people sincerely love their King. Most houses or shops display at least one photo of King Bhumibol Adulyadej.
-wordpress_id: 1752
-wordpress_url: http://fumes.dev/?p=1752
 date: '2011-12-05 15:03:52 +0100'
 categories: photo-journalism
 tags:
@@ -23,11 +21,11 @@ tags:
 license: CC_BY
 thumb: royal.jpg
 ---
-Many Thai people sincerely love their King. Most houses or shops display at least one photo of His Majesty. Is it in a inexpensive calendar, inside a well framed photo or in the form of a watercolor portrait, King Bhumibol Adulyadej is there in the everyday life. The Royal celebration peaks on Father's day. December 5th, the King's birthday (currently 84 years old). 
+Many Thai people sincerely love their King. Most houses or shops display at least one photo of His Majesty. Is it in a inexpensive calendar, inside a well framed photo or in the form of a watercolor portrait, King Bhumibol Adulyadej is there in the everyday life. The Royal celebration peaks on Father's day. December 5th, the King's birthday (currently 84 years old).
 
 Today most shops are closed and quiet celebrations are held countrywide. Restaurants, bars and events won't sell alcoholic drinks, that&rsquo;s why many stay closed. Centers, parks, hotels, and malls are adorned with all kinds of Royal images. Teaching about significant moments in the life of the Monarch or providing iconic examples.
 
-People love to go snap their shots using the Royal Advertising as background. Posing with joined hands or popping their best smile and a peace hand sign. Those photos should be up on FB by now, showing love for the King Rama Nine. 
+People love to go snap their shots using the Royal Advertising as background. Posing with joined hands or popping their best smile and a peace hand sign. Those photos should be up on FB by now, showing love for the King Rama Nine.
 
 _Here is a visual voyage about the present Thai Royal soft power._
 
@@ -115,4 +113,4 @@ Portaits of the King when young are very popular in Thailand. He&#39;s 84 now an
 
 Thanks for watching!
 
-If you want to keep in touch, just click the social icons down here. 
+If you want to keep in touch, just click the social icons down here.

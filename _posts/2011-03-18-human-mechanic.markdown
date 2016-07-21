@@ -5,8 +5,6 @@ published: true
 title: Human Mechanic
 curator: Alejandro Plesch
 photographer: alejandro
-wordpress_id: 1222
-wordpress_url: http://fumes.dev/?p=1222
 date: '2011-03-18 16:40:38 +0100'
 categories: photo-journalism
 tags:
@@ -20,13 +18,13 @@ tags:
 license:
 thumb: urut.jpg
 ---
-Pak Mat Djabin is a traditional javanese healer specializing in "Urut" massage. 
+Pak Mat Djabin is a traditional javanese healer specializing in "Urut" massage.
 
-Urut massage is perhaps the most sophisticated of all the Indonesian healing arts and can only be found in Bali and in Java, where the Majapahit Kingdom flourished and was influenced from Arab, Chinese and Indian traders. 
+Urut massage is perhaps the most sophisticated of all the Indonesian healing arts and can only be found in Bali and in Java, where the Majapahit Kingdom flourished and was influenced from Arab, Chinese and Indian traders.
 
-It is certainly the most painful as it focuses on nerve pathways, pressure points and physically realigning and manipulating the anatomy. 
+It is certainly the most painful as it focuses on nerve pathways, pressure points and physically realigning and manipulating the anatomy.
 
-Urut can be used to treat everything from soft tissue damage to even bone fractures. 
+Urut can be used to treat everything from soft tissue damage to even bone fractures.
 
 {% responsive_image path: uploads/2011/03/110318-alejandro-plesch-urut-01.jpg %}
 Pressure point healing along the knee cap.

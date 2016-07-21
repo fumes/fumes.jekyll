@@ -6,14 +6,14 @@
   //margin-left: 0;
   list-style: none;
 
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-
+  -webkit-box-pack:center;
   -webkit-justify-content:center;
   -ms-flex-pack:center;
   justify-content:center;
@@ -21,26 +21,25 @@
 
 .home__post{
 
-  position: relative; 
+  position: relative;
   float: left;
   margin: 0 0 1.5rem 0;
   max-width:100%;
 
-  @include media( "screen", ">minWidth"){
+  @include media( "screen", ">minWidth") {
     -webkit-flex-basis:47%;
     -ms-flex-preferred-size:47%;
     flex-basis:47%;
     margin-right: 1.666%;
   }
-  @include media( "screen", ">bp1Width"){
+  @include media( "screen", ">bp1Width") {
     -webkit-flex-basis:32%;
     -ms-flex-preferred-size:32%;
     flex-basis:32%;
     margin-right: 1.333%;
   }
   .compact & {
-    -webkit-flex-basis:47%;
-    -ms-flex-preferred-size:47%;
+    -webkit-flex-basis:47%;    -ms-flex-preferred-size:47%;
     flex-basis:47%;
     margin-right: 1.666%;
     @include media( "screen", ">minWidth"){
@@ -66,8 +65,8 @@
     margin-bottom: 1rem;
     position: relative;
     top: 2.15rem;
-    z-index: 1;    
-    img{ 
+    z-index: 1;
+    img{
       margin-top: 0;
       -webkit-user-select:none;
       -moz-user-select:none;
@@ -75,7 +74,7 @@
       user-select:none;
       pointer-events: none;
     }
-  
+
     .compact & {
       top: 2.15rem;
       left: 0;
@@ -99,7 +98,7 @@
 .post-link {
   position: relative;
   display: block;
-  font-size: $base_font_size * 2; 
+  font-size: $base_font_size * 2;
 
   img{width: 100%;}
 }
@@ -115,7 +114,7 @@
   h1.page__title{
     display: inline-block;
     font-size: 2rem;
-    @include media( "screen", ">minWidth"){
+    @include media( "screen", ">minWidth") {
       font-size: 3rem;
     }
   }
@@ -126,69 +125,67 @@
   text-align: center;
 }
 
-.tagpage__ico{ 
+.tagpage__ico{
   position: relative;
   top: 0;
   left: -.5rem;
-  
+
   svg{
     height: $icon_size;
     width: $icon_size;
     margin: 0 auto;
     fill: $icon_color;
-    @include media( "screen", ">minWidth"){
+    @include media( "screen", ">minWidth") {
       height: 4rem;
       width: 4rem;
     }
-  } 
+  }
 }
 
 // in the future with js toogle will be prefixed by
 // call something like this ".photographer_info_showing".
 //...
 .photographer__metas{
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  
+  -webkit-box-pack:center;
   -webkit-justify-content:center;
   -ms-flex-pack:center;
   justify-content:center;
-
+  -webkit-box-align:center;
   -webkit-align-items:center;
   -ms-flex-align:center;
   align-items:center;
-  
+
   .destination{
     display: none;
-    @include media( "screen", ">maxWidth"){display: inline;}
+    @include media( "screen", ">maxWidth") {display: inline;}
   }
 
   a:hover{
-    .destination{display: inline;}
+    .destination {display: inline;}
   }
 
   .ico{float:left;}
 }
 .photographer__meta a{
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-
+  -webkit-box-align:center;
   -webkit-align-items:center;
   -ms-flex-align:center;
   align-items:center;
-
+  -webkit-box-pack:center;
   -webkit-justify-content:center;
   -ms-flex-pack:center;
   justify-content:center;
-
 }
-
-
-
-

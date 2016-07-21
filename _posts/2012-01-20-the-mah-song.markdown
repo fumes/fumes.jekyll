@@ -5,8 +5,6 @@ published: true
 title: The Mah Song
 curator: Alejandro Plesch
 photographer: alejandro
-wordpress_id: 1810
-wordpress_url: http://fumes.dev/?p=1810
 date: '2012-01-20 18:29:44 +0100'
 categories: photo-journalism
 tags:

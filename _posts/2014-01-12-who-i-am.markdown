@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Who am I? Think again
 curator: rokma
-wordpress_id: 2608
-wordpress_url: http://fumes.dev/?p=2608
 date: '2014-01-12 21:09:15 +0100'
 categories: inspiring
 tags:
@@ -50,7 +48,7 @@ Fornik Tsai, Nov 24 2013
 
 
 
-_read more:_{:class="readmore"}
+_Read more:_{:class="readmore"}
 
 - <a href="http://www.ted.com/" target="_blank">about this speaker, find other TEDTalks</a>
 

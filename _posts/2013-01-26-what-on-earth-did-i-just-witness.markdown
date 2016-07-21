@@ -4,8 +4,6 @@ status: publish
 published: true
 title: "what on earth did I just witness?"
 curator: rokma
-wordpress_id: 2388
-wordpress_url: http://fumes.dev/?p=2388
 date: '2013-01-26 06:16:42 +0100'
 categories: inspiring
 tags:

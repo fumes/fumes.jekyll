@@ -5,8 +5,6 @@ published: true
 title: Good luck, bad luck...
 curator: rokma
 photographer: rokma
-wordpress_id: 2611
-wordpress_url: http://fumes.dev/?p=2611
 date: '2014-02-03 12:49:00 +0100'
 categories: photo-journalism
 tags:
@@ -24,15 +22,15 @@ thumb: good-luck.jpg
 ---
 
 
-Welcoming the Year of the Horse 2014 the Lunar New Year celebration in Singapore is a whole array of events. In Chinatown 88 illuminated lantern sculptures of horses galloping towards prosperity and countless gold coins suspended along the street. This year light-up, blending traditions and modern design, was conceptualised by Singapore University of Technology and Design. 
+Welcoming the Year of the Horse 2014 the Lunar New Year celebration in Singapore is a whole array of events. In Chinatown 88 illuminated lantern sculptures of horses galloping towards prosperity and countless gold coins suspended along the street. This year light-up, blending traditions and modern design, was conceptualised by Singapore University of Technology and Design.
 
-The vibrant street market offered a rich variety of wonderful items like dragon candles, street opera masks, traditional clothing and Chinese calligraphy. A stroll into another age with items from the past, contemporary street fashion and modern jewellery packed up in more than 200 market stalls, live performances such as lion and dragon dances, martial arts displays, Chinese opera and stilt-walkers. 
+The vibrant street market offered a rich variety of wonderful items like dragon candles, street opera masks, traditional clothing and Chinese calligraphy. A stroll into another age with items from the past, contemporary street fashion and modern jewellery packed up in more than 200 market stalls, live performances such as lion and dragon dances, martial arts displays, Chinese opera and stilt-walkers.
 
-River Hongbao, a floating platform at Marina Bay showcasing the Chinese horoscope predictions for the upcoming year, presented a truly unique Chinese cultural experience for Singaporeans and tourists. Large lantern displays, intricate handicrafts and Yunnan province performers from China treated your senses to an extravaganza of lights, sights, sounds. A myriad of fringe activities for the entire family including 40 varieties of local and regional delicacies. 
+River Hongbao, a floating platform at Marina Bay showcasing the Chinese horoscope predictions for the upcoming year, presented a truly unique Chinese cultural experience for Singaporeans and tourists. Large lantern displays, intricate handicrafts and Yunnan province performers from China treated your senses to an extravaganza of lights, sights, sounds. A myriad of fringe activities for the entire family including 40 varieties of local and regional delicacies.
 
-Chingay parade with 3000+ performers, is the largest street parade in Asia. Chingay means "the art of costume and masquerade" in the Hokkien dialect. Highlights included Ballet Dance by 350 young girls from Singapore, two 360 meter-long knitted and batik art pieces, Indian Bollywood-themed Performance, Malay dances, Gelar Tari Topeng from Indonesia and performers from China, Japan, Italy, South Korea, Malaysia and Philippines. 
+Chingay parade with 3000+ performers, is the largest street parade in Asia. Chingay means "the art of costume and masquerade" in the Hokkien dialect. Highlights included Ballet Dance by 350 young girls from Singapore, two 360 meter-long knitted and batik art pieces, Indian Bollywood-themed Performance, Malay dances, Gelar Tari Topeng from Indonesia and performers from China, Japan, Italy, South Korea, Malaysia and Philippines.
 
-{% responsive_image path: uploads/2014/02/140129-photographer-rokma-5159.jpg %} 
+{% responsive_image path: uploads/2014/02/140129-photographer-rokma-5159.jpg %}
 88 horses pointing East will bring you heaps of luck to kick start the new year.
 
 {% responsive_image path: uploads/2014/02/140202-photographer-rokma-5353.jpg %}
@@ -86,4 +84,3 @@ River Hongbao main stage.
 
 {% responsive_image path: uploads/2014/02/140131-photographer-rokma-5299.jpg %}
 A very modest firework show culminated the countdown to welcome the new year.
-

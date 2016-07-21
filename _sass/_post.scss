@@ -8,7 +8,7 @@
   margin-top: $spacing_unit*1.5;
   margin-bottom: $spacing_unit;
 
-  hr{
+  hr {
     margin: 2rem auto;
     border: 0;
     height: 2px;
@@ -17,13 +17,12 @@
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0));
   }
 
-  ul{
+  ul {
     margin-left: 1rem;
     list-style-type: none;
   }
 
   p,
-  blockquote,
   h2,
   h3,
   h4,
@@ -32,7 +31,7 @@
     margin-left:10%;
     margin-right:10%;
     li &{ margin-left:0;}
-    @include media( "screen", ">minWidth"){
+    @include media( "screen", ">minWidth") {
       margin-left:20%;
       margin-right:10%;
     }
@@ -41,20 +40,34 @@
     margin-top: $spacing_unit*2;
   }
 
-  p::first-line{font-size: 120%;}
+  blockquote {
+    margin-left:20%;
+    margin-right:10%;
+    p {margin-left: 5%;}
+    li &{ margin-left:0;}
+    @include media( "screen", ">minWidth") {
+      margin-left:30%;
+      margin-right:10%;
+      p { margin-left: 5%;}
+    }
+  }
 
-  img{ width: 100%; max-width: 100%;}
+  p::first-line { font-size: 120%;}
+
+  img { width: 100%; max-width: 100%;}
 }
 
 .post__license {
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-
+  -webkit-box-align:center;
   -webkit-align-items:center;
   -ms-flex-align:center;
   align-items:center;
@@ -65,32 +78,29 @@
   margin-right: .5rem;
   position: relative;
 
-  .ico{
+  .ico {
     margin-bottom: 1rem;
     width:5vw;
     height:5vw;
     min-width:70px;
     min-height:70px;
   }
-  .license_details{text-align:center;}
+  .license_details {text-align:center;}
 
-  @include media( "screen", ">minWidth"){
+  @include media( "screen", ">minWidth") {
     margin-left: 16%;
 
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;    -webkit-box-direction: normal;    -webkit-flex-direction: row;    -ms-flex-direction: row;
     flex-direction: row;
 
-    .license_details{text-align:left;}
-    .ico{
+    .license_details {text-align:left;}
+    .ico {
       margin-bottom: 0;
       margin-right: .5rem;
     }
   }
 
-
-
-  h5{
+  h5 {
     margin-bottom: 0;
     line-height: $base_line_height;
   }
@@ -125,34 +135,42 @@
     fill: $icon_color;
   }
 
-  @include media( "screen", ">minWidth"){
+  @include media( "screen", ">minWidth") {
     margin-left: 3rem;
     margin-right: 3rem;
   }
-  @include media( "screen", ">bp1Width"){
+  @include media( "screen", ">bp1Width") {
     margin-left: 6rem;
     margin-right: 6rem;
   }
 }
-.post-meta{
+
+.post-meta {
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-
+  -webkit-box-align:center;
   -webkit-align-items:center;
   -ms-flex-align:center;
+  -ms-grid-row-align:center;
   align-items:center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
 
   padding-top: $spacing_unit / 6;
   padding-bottom: $spacing_unit / 6;
+  &.tags {
+    -webkit-box-align:start;  -webkit-align-items:flex-start;  -ms-flex-align:start;  -ms-grid-row-align:flex-start;  align-items:flex-start;
+  }
 
-  p, h1{margin:0;}
+  p, h1 {margin:0;}
 }
 
-.ico{
-  -webkit-flex-basis:$icon_size;
-  -ms-flex-preferred-size:$icon_size;
-  flex-basis:$icon_size;
+.ico {
+  -webkit-flex-basis:$icon_size;  -ms-flex-preferred-size:$icon_size;  flex-basis:$icon_size;
   min-width:$icon_size;
   width:$icon_size/1.65;
   height: $icon_size/1.65;
@@ -162,7 +180,7 @@
   font-size: $base_font_size * 1.5;
   letter-spacing: -1px;
 
-  @include media( "screen", ">maxWidth"){
+  @include media( "screen", ">maxWidth") {
     font-size: $base_font_size * 2;
   }
 }
@@ -170,8 +188,11 @@
 .curator,
 .categories,
 .tags,
-.date{
+.date {
   line-height: 1.5;
 }
+
 .readmore:first-letter,
-.curator:first-letter {text-transform: uppercase!important;}
+.curator:first-letter {
+  text-transform: uppercase!important;
+}

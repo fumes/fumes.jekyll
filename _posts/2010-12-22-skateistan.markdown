@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Skateistan
 curator: Valerie Plesch
-wordpress_id: 1081
-wordpress_url: http://fumes.dev/?p=1081
 date: '2010-12-22 18:13:44 +0100'
 categories: inspiring
 tags:
@@ -22,23 +20,23 @@ tags:
 license:
 thumb: skateistan.jpg
 ---
-Skateistan, a documentary film by Orlando Einsiedel on a skatepark project for the kids of Kabul, Afghanistan. 
+Skateistan, a documentary film by Orlando Einsiedel on a skatepark project for the kids of Kabul, Afghanistan.
 
-I was thrilled to learn that Skatistan was created in Kabul. It is a unique outlet for the youth to boost confidence and learn something completely new in a fun and safe way. 
+I was thrilled to learn that Skatistan was created in Kabul. It is a unique outlet for the youth to boost confidence and learn something completely new in a fun and safe way.
 
-I live in Kabul and work for an international development consulting firm and believe that many types of development projects can be successful and have impact on the people in Afghanistan, such as the Skatistan project. 
+I live in Kabul and work for an international development consulting firm and believe that many types of development projects can be successful and have impact on the people in Afghanistan, such as the Skatistan project.
 
-I commend the organization for helping young girls and boys lead happy and healthy lives in a very challenging setting. 
+I commend the organization for helping young girls and boys lead happy and healthy lives in a very challenging setting.
 
-_Valerie Plesch_ 
+_Valerie Plesch_
 
 {% video //www.youtube.com/embed/h8dYtWXCYE8 width=740 height=416 %}
 
-_Check the project's website:_ <a href="http://skateistan.org" target="_blank"> skateistan.org</a> 
+_Check the project's website:_ <a href="http://skateistan.org" target="_blank"> skateistan.org</a>
 
 _Current project:_ DIY Skatepark for Kabul.
 
-_SKATEISTAN says:_ 
+_SKATEISTAN says:_
 
 <blockquote>"We're more than halfway to funding our DIY Skatepark! Would love your help in meeting our goal of $5,000! (at the end of january 2012 we raised already 2,726$)"</blockquote>
 

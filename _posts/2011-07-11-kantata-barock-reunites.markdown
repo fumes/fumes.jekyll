@@ -5,8 +5,6 @@ published: true
 title: 'Music for a Peace: Kantata Barock'
 curator: Alejandro Plesch
 photographer: alejandro
-wordpress_id: 1607
-wordpress_url: http://fumes.dev/?p=1607
 date: '2011-07-11 18:57:45 +0200'
 categories: photo-journalism
 tags:
@@ -24,14 +22,14 @@ tags:
 license:
 thumb: kantata.jpg
 ---
- 
+
 <strong>Kantata Barock</strong> reunites Indonesian legends<strong> Iwan Fals</strong>, <strong>Sawung Jabo</strong>, and <strong>Setiawan Djody</strong>.
 
-Comprising the former members of Kantata Takwa, this new music collaboration continues in their tradition of writing socially charged music for which they are so revered for in Indonesia. 
+Comprising the former members of Kantata Takwa, this new music collaboration continues in their tradition of writing socially charged music for which they are so revered for in Indonesia.
 
-Jamming for the press, family and friends at the residence of Setiawan Djody. Kantata Barock anounced their agenda to take on issues like deforestation, protection of traditional cultures, global warming, and conflict resolution through music. 
+Jamming for the press, family and friends at the residence of Setiawan Djody. Kantata Barock anounced their agenda to take on issues like deforestation, protection of traditional cultures, global warming, and conflict resolution through music.
 
-Opening with protest song "<strong>Bongkar</strong>" (Break Apart), they showed that their music is timely and relevant, not just to the struggles that Indonesians face but to global issues. 
+Opening with protest song "<strong>Bongkar</strong>" (Break Apart), they showed that their music is timely and relevant, not just to the struggles that Indonesians face but to global issues.
 
 
 {% responsive_image path: uploads/2011/07/110711-kantata-barock-alejandro-plesch-01.jpg %}

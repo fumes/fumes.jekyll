@@ -5,8 +5,6 @@ published: true
 title: Thailand election posters
 curator: rokma
 photographer: rokma
-wordpress_id: 1528
-wordpress_url: http://fumes.dev/?p=1528
 date: '2011-06-30 16:25:11 +0200'
 categories: photo-journalism
 tags:
@@ -24,19 +22,19 @@ license: CC_BY
 thumb: thai-elections.jpg
 ---
 
-After six years of often bloody political protests, Thai citizens are going to vote this weekend. 
+After six years of often bloody political protests, Thai citizens are going to vote this weekend.
 
 {% responsive_image path: uploads/2011/06/110630-photographer-rokma-thai-election-1642.jpg %}
 Some Thailand election posters are as big as this unfinished skyscraper.
 
 Fumes is offering a glimpse of the styles and subjects used in campaigns during this general election. Fumes attempts to translate the various campaign slogans that reveal candidates' platforms and agendas.
 
-In Thailand, the members of the House of Representatives get elected not by winner takes all, but by proportional representation. Since there are multiple parties on the ballot, voters are free to check as many boxes as they wish, either "yes" or "no". 
+In Thailand, the members of the House of Representatives get elected not by winner takes all, but by proportional representation. Since there are multiple parties on the ballot, voters are free to check as many boxes as they wish, either "yes" or "no".
 
 
 
 {% responsive_image path: uploads/2011/06/110630-photographer-rokma-thai-election-1636.jpg %}
-"Run (Tiger)"... "Meet (Alligator)"... "If you don't want either one of them, mark X near the NO". 
+"Run (Tiger)"... "Meet (Alligator)"... "If you don't want either one of them, mark X near the NO".
 
 {% responsive_image path: uploads/2011/06/110630-photographer-rokma-thai-election-1610.jpg %}
 Election polls are being held on the 3rd of July, 2554 (which corresponds to the Gregorian year 2011).
@@ -93,4 +91,4 @@ _read more about Thailand's general election:_{:class="readmore"}
 
 - Bbc <a href="http://www.bbc.co.uk/news/world-asia-pacific-14000629" target="_blank">"Thailand election: Final rallies ahead of Sunday vote"</a>
 
-- The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html" target="_blank">"Thailand braces for uncertain future"</a> 
+- The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html" target="_blank">"Thailand braces for uncertain future"</a>

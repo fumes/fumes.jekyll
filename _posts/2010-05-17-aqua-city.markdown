@@ -5,8 +5,6 @@ published: true
 title: Aqua City
 curator: rokma
 photographer: rokma
-wordpress_id: 10
-wordpress_url: http://fumes.dev/?p=10
 date: '2010-05-17 23:01:57 +0200'
 categories: art
 tags:
@@ -45,7 +43,7 @@ Mediolanum ipsum est.
 
 Quod a nobis factum est.
 
-Sic ne ullus verbum neque ullus imago satis est. 
+Sic ne ullus verbum neque ullus imago satis est.
 
 
 _translation_
@@ -54,7 +52,7 @@ mediolanum (milano) ipsum (itself) est (is).
 
 Quod (which) a (a) nobis (noble) factum (fact) est (is).
 
-Sic (so) ne (not) ullus (any) verbum (word) neque (nor) ullus (any) imago (image)  satis (enough) est (is). 
+Sic (so) ne (not) ullus (any) verbum (word) neque (nor) ullus (any) imago (image)  satis (enough) est (is).
 
 
 _english_
@@ -64,4 +62,3 @@ Milano itself is.
 Which is a noble fact.
 
 So not any word or any image is enough.
-

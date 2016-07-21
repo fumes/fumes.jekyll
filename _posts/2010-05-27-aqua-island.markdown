@@ -5,8 +5,6 @@ published: true
 title: Aqua Island
 curator: rokma
 photographer: rokma
-wordpress_id: 984
-wordpress_url: http://fumes.dev/?p=984
 date: '2010-05-27 02:47:56 +0200'
 categories: art
 tags:
