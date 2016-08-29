@@ -21,11 +21,12 @@ tags:
 - performance
 license: CC_BY
 thumb: snaking.jpg
+extract: 2013 Snake year celebration parade is being held in Milano Chinatown. Clean winter sky, a warm shy sun to celebrate cultural identity with ease.
 ---
 
 2013 Snake year celebration parade is being held in Milano Chinatown. Clean winter sky, a warm shy sun to celebrate cultural identity with ease.
 
-Lions and Dragons dance, drums and happy colors outfits. Youngs and olds parading for a couple of hours outdoor during a sunday and the city. A family thing...
+Lions and Dragons dance, drums and happy colors outfits. Young and old ones parading for a couple of hours outdoor during a Sunday and the city. A family thing...
 
 
 {% responsive_image path: uploads/2013/02/130210-rokma-photo-1805.jpg %}

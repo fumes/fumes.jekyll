@@ -22,6 +22,7 @@ tags:
 - expat
 license: CC_BY
 thumb: nigeria.jpg
+extract: A West African community gathers at Sunday for a energetic gospel session. The goal is to build unity, faith and happiness in every man and woman.
 ---
 
 This West African community gathers at Sunday for a energetic gospel session.
@@ -41,7 +42,7 @@ Drums, chants, dances, choruses, sermons and outing session.
 
 
 {% responsive_image path: uploads/2011/02/110208-photographer-rokma-nigerian-sunday-6621.jpg %}
- Mountain of Liberty Ministry is a community, lead by Pastor Ruben, bringing people together spiritually.
+Mountain of Liberty Ministry is a community, lead by Pastor Ruben, bringing people together spiritually.
 
 {% responsive_image path: uploads/2011/02/110208-photographer-rokma-nigerian-sunday-6947.jpg %}
 The goal is to build unity, faith and happiness in every man and woman.

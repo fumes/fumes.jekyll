@@ -20,6 +20,7 @@ tags:
 - water
 license: CC_BY
 thumb: aquaisland.jpg
+extract: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
 ---
 
 

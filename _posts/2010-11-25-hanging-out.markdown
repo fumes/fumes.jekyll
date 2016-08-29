@@ -21,7 +21,6 @@ tags:
 - performance
 - ritual
 - pain
-license:
 thumb: hanging-out.jpg
 ---
 A suspension is the act of suspending a human body from hooks that have been put through body piercings. These piercings are temporary and are performed just prior to the actual suspension.

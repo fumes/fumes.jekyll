@@ -7,7 +7,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The current release of Fumes Project website
-version: v3.9.6
+version: v3.9.7
 
 # Site owner
 owner:
@@ -40,7 +40,7 @@ url: http://fumes.junglestar.org
 sass:
   sass_dir: _sass
   style: :expanded # To minify use :compressed
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 permalink: /:categories/:title/
 
 # collect for me please...
@@ -118,51 +118,3 @@ responsive_image:
   #   %{height}    Height of the resized image
   #
   output_path_format: assets/i/%{width}/%{basename}
-
-
-
-
-
-
-
-
-#### ------------ SOME defaults list. ------------ ####
-# --- useful to override stuff
-
-# # Where things are
-# source:      .
-# destination: ./_site
-# plugins:     ./_plugins
-# layouts:     ./_layouts
-# data_source: ./_data
-# collections: null
-
-# # Handling Reading
-# safe:         false
-# include:      [".htaccess"]
-# exclude:      []
-# keep_files:   [".git", ".svn"]
-# encoding:     "utf-8"
-# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# # Filtering Content
-# show_drafts: null
-# limit_posts: 0
-# future:      true
-# unpublished: false
-
-# # Plugins
-# whitelist: []
-# gems:      []
-
-# # Conversion
-# markdown:    kramdown
-# highlighter: rouge
-# lsi:         false
-# excerpt_separator: "\n\n"
-
-# # Serving
-# detach:  false
-# port:    4000
-# host:    127.0.0.1
-# baseurl: "" # does not include hostname

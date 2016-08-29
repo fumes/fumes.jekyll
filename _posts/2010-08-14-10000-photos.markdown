@@ -18,6 +18,7 @@ tags:
 - Hongkong
 license:
 thumb: timelapse.jpg
+extract: A Time Lapse journey from USA to Hong Kong to Indonesia. Shot in full HD. 
 ---
 
 {% responsive_image path: uploads/2010/08/100814-alejandro-plesch-timelapse.jpg %}

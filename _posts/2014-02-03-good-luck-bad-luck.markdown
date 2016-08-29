@@ -22,7 +22,7 @@ thumb: good-luck.jpg
 ---
 
 
-Welcoming the Year of the Horse 2014 the Lunar New Year celebration in Singapore is a whole array of events. In Chinatown 88 illuminated lantern sculptures of horses galloping towards prosperity and countless gold coins suspended along the street. This year light-up, blending traditions and modern design, was conceptualised by Singapore University of Technology and Design.
+Welcoming the Year of the Horse 2014 the Lunar New Year celebration in Singapore is a whole array of events. In Chinatown 88 illuminated lantern sculptures of horses galloping towards prosperity and countless gold coins suspended along the street. This year light-up, blending traditions and modern design, was conceptualized by Singapore University of Technology and Design.
 
 The vibrant street market offered a rich variety of wonderful items like dragon candles, street opera masks, traditional clothing and Chinese calligraphy. A stroll into another age with items from the past, contemporary street fashion and modern jewellery packed up in more than 200 market stalls, live performances such as lion and dragon dances, martial arts displays, Chinese opera and stilt-walkers.
 

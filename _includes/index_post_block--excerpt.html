@@ -2,7 +2,7 @@
 
   <a class="post-link {{ post.categories }}" href="{{ post.url | prepend: site.baseurl }}">
 
-    <h2>{{ post.title }}</h2>
+    <h2>{{ post.title}}</h2>
 
     <div class="thumb">
 
@@ -13,6 +13,16 @@
       {% endif %}
 
     </div>
+
+    {% if post.extract %}
+    <div class="excerpt">
+      {{ post.extract | truncate: 160 }}
+    </div>
+    {% else %}
+    <div class="excerpt">
+      {{ post.excerpt | strip_html | truncate: 160 }}
+    </div>
+    {% endif %}
 
   </a>
 

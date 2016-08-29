@@ -93,6 +93,11 @@
       width:100%;
     }
   }
+  .excerpt {
+    padding-top: $spacing_unit;
+    padding-bottom: $spacing_unit;
+    font-size: 1rem;
+  }
 }
 
 .post-link {

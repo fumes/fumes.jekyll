@@ -17,6 +17,7 @@ tags:
 - water
 license:
 thumb: beach.jpg
+extract: Fashion photography is constant research. It's taming the unseen. Provoke emotions. Here is a study with model Widika Sidmore.
 ---
 
 {% responsive_image path: uploads/2010/09/100915-photographer-alejandro-plesch-beach-study-01.jpg %}

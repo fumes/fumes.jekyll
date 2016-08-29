@@ -23,8 +23,8 @@ tags:
 - eruption
 - animism
 - stunts
-license:
 thumb: yogya.jpg
+extract: The 2010 eruptions of Mount Merapi began in late October 2010 when Mount Merapi in Central Java, Indonesia began an increasingly violent series of eruptions that continued into November, culminating in repeated outbursts of lava and ashes.
 ---
 
 

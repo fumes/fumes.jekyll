@@ -26,6 +26,7 @@ tags:
 - report
 license:
 thumb: mah.jpg
+extract: Marionettes of Spirits, The Mah Song. On an early morning in October, a crowd of men and women from Phuket's Thai-Chinese community gather in silence at the temple.
 ---
 Marionettes of Spirits, The Mah Song.
 

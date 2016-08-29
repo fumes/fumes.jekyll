@@ -17,6 +17,7 @@ tags:
 - water
 license: CC_BY
 thumb: aquaprovince.jpg
+extract: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
 ---
 
 {% responsive_image path: uploads/2010/05/100508-photographer-rokma-aquaprovince-01.jpg %}
