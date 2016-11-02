@@ -1,29 +1,14 @@
-## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia.__Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
-♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
-- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master). Compiled locally and synced via rake script.- Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) and its basically used for development and source.- More **working branches** maybe present at times...## To do##### Urgent:
-
-- [ ] licenses management: use licenses.yml
-- [ ] icons slim diet
-- [ ] https- [ ] publish some content!##### Sometime soon:- [ ] get rid of jquery
-- [ ] refactor using Imager.js + gulp grinder, drop responsive_image.rb
-- [ ] compress html
-- [ ] improve gulp tasks with un  CSS
-##### One day:
-- [ ] install service workers
-- [ ] disqus
-- [ ] print.css
-- [ ] mailchimp
-- [ ] merchandise
-- [ ] PDF | ebook## Fumes website features- [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  - [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  - [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] post thumbs. Front-matter declared.  - [x] chrome standalone web app functionality (android only :().  - [x] photographer indexes and navigation.   - [x] open graph.  
+## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia.__Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
+♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This will bloom greener fumes soon...## StructureLooks like this is the only option, for now:
+- Compiled jekyll **_site** (yup, we still need plugins here..) in [Master branch](https://github.com/fumes/fumes.github.io/tree/master). Compiled locally and synced via rake script.- Real **jekyll master** lives in the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) and its basically used for development and source.- More **working branches** maybe present at times...## Fumes website features- [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  - [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  - [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] post thumbs. Front-matter declared.  - [x] chrome standalone web app functionality (android only :().  - [x] photographer indexes and navigation.   - [x] open graph.  
 - [x] attribution footnotes ["APPEND to copy action"](https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/) via inlined vanilla js.  
 - [x] twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator)).  - [x] CNAME.  - [x] handy prev-next articles navigation.
 
-not yet:
+Not yet:
 - [ ] print.css  - [ ] disqus comments (importing old ones from wp...)  - [ ] [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  - [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  - [ ] service workers.  - [ ] No plugins dependencies.
 
 ### Fumes development technologies
 Stuff for development. Its happens in [Source branch](https://github.com/fumes/fumes.github.io/tree/source):
-
 
 - Nmp
 - Gulp
@@ -68,7 +53,6 @@ npm install
 ##### 0. cd in local project dir
 ```sh
 cdf
-
 ```
 
 ##### 1. Run Jekyll
@@ -76,7 +60,7 @@ cdf
 bundle exec jekyll serve
 ```
 
-##### 2. Run gulp
+##### 2. Run gulp (optional)
 Open a new terminal window and
 
 ```sh
@@ -87,14 +71,14 @@ gulp
 
 - gem 'rake'
 - gem 'rmagick'
-- gem 'jekyll', '~> 3.0'
+- gem 'jekyll', '3.0.1'
 - gem 'jekyll-sitemap'
 - gem ['jekyll-video-tag'](https://github.com/danbee/jekyll-video-tag ) , '~> 0.1.0'
 - gem ['jekyll-responsive_image'](https://github.com/wildlyinaccurate/jekyll-responsive-image)### Plugins dependencies:
 - [categories_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [tags_generator.rb](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html)
 - [responsive_image.rb](https://github.com/wildlyinaccurate/jekyll-responsive-image)
-- [imager.js](https://github.com/BBC-News/Imager.js/)### More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)
+- [imager.js](https://github.com/BBC-News/Imager.js/)### More credits- [github setup tips](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html)## To do##### Urgent:- [ ] licenses management: use licenses.yml- [ ] icons slim diet- [ ] https- [ ] publish some content!##### Sometime soon:- [ ] get rid of jquery- [ ] refactor using Imager.js + gulp grinder, drop responsive_image.rb- [ ] compress html##### One day:- [ ] install service workers- [ ] disqus- [ ] print.css- [ ] mailchimp- [ ] merchandise- [ ] PDF | ebook
 
 ## Purpose of open sourcing this project
 
