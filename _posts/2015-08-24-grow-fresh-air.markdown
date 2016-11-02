@@ -20,6 +20,7 @@ tags:
 - lifestyle
 - city
 - awareness
+- nature
 - global-warming
 license:
 thumb: growfreshair.jpg

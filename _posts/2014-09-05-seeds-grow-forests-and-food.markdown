@@ -18,6 +18,7 @@ tags:
 - technology
 - plants
 - awareness
+- nature
 - global-warming
 license:
 thumb: seeds.jpg

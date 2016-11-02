@@ -21,6 +21,7 @@ tags:
 - Indonesian-heroes
 - lifestyle
 - ritual
+- people
 - report
 license:
 thumb: sumba.jpg

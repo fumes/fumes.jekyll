@@ -17,6 +17,7 @@ tags:
 - legends
 - celebration
 - documentary
+- people
 - Indonesian-heroes
 - report
 license:

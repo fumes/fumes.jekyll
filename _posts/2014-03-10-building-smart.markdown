@@ -15,6 +15,7 @@ tags:
 - news
 - review
 - sustainability
+- simplicity
 - useful
 - technology
 - awareness

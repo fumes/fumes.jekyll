@@ -20,6 +20,7 @@ tags:
 - awareness
 - performance
 - ritual
+- people
 - pain
 thumb: hanging-out.jpg
 ---

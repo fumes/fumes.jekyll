@@ -20,6 +20,7 @@ tags:
 - lifestyle
 - rural
 - report
+- people
 license:
 thumb: mentawaii.jpg
 ---

@@ -25,6 +25,7 @@ tags:
 - culture
 - tradition
 - unity
+- people
 - Java
 - Gods
 license: CC_BY

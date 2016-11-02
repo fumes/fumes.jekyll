@@ -18,7 +18,7 @@ tags:
 - documentary
 - Italy
 - reflect
-- Mediterrenean
+- Mediterranean
 license: CC_BY
 thumb: dolcevita.jpg
 ---

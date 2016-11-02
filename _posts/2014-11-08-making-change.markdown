@@ -18,6 +18,7 @@ tags:
 - reflect
 - review
 - slum
+- people
 - street-art
 - useful
 - visual

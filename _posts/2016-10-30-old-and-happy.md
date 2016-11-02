@@ -16,6 +16,12 @@ tags:
 - documentary
 - Indonesia
 - India
+- Bali
+- Mentawai
+- Timor
+- rural
+- archipelago
+- reflect
 license: CC_BY
 thumb: oldandhappy.jpg
 ---

@@ -22,6 +22,7 @@ tags:
 - hardcore
 - Gods
 - pain
+- people
 - documentary
 - report
 license:

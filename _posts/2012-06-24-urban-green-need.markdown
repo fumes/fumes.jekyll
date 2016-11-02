@@ -16,6 +16,7 @@ tags:
 - documentary
 - photography
 - community
+- people
 - clever
 - tradition
 - street-art
