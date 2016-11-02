@@ -2,13 +2,12 @@
 layout: post
 status: publish
 published: true
-title: There is a beginning 
+title: There is a beginning
 curator: rokma
 date: '2015-09-29 07:37:55 +0300'
 categories: balance
-tags: 
+tags:
 - clever
-- balance
 - reflect
 - review
 - simplicity
@@ -28,7 +27,7 @@ Zhuang Zhou, often written Chuang Tzu, known for Zhuangzi ("Master Zhuang")[1] w
 
 He is credited with writing the Zhuangzi book, which expresses a philosophy of skepticism.
 
-He made "The Old Fisherman," "The Robber Chih," and "The Cutting open Satchels," to satirize and expose the disciples of Confucius, and clearly exhibit the sentiments of Lao. 
+He made "The Old Fisherman," "The Robber Chih," and "The Cutting open Satchels," to satirize and expose the disciples of Confucius, and clearly exhibit the sentiments of Lao.
 
 
 _know more:_{:class="readmore"}

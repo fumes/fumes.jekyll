@@ -73,7 +73,7 @@ cdf
 
 ##### 1. Run Jekyll
 ```sh
-jekyll serve --incremental
+bundle exec jekyll serve
 ```
 
 ##### 2. Run gulp

@@ -2,14 +2,13 @@
 layout: post
 status: publish
 published: true
-title: How to grow fresh air! 
+title: How to grow fresh air!
 curator: rokma
 date: '2015-08-24 13:37:55 +0200'
 categories: balance
-tags: 
+tags:
 - clever
 - design
-- balance
 - news
 - reflect
 - review

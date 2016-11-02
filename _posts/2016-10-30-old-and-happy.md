@@ -28,35 +28,48 @@ From the desert of Rajasthan in India to the remote islands of Mentawai, Sumba a
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-00.jpg %}
 
+Happiness is surrounding herself with the creations she sees in her dreams. She is never alone.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-01.jpg %}
 
+Happiness is making music together while pounding the rice.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-02.jpg %}
 
-
+Happiness is dancing with a sexy dancer.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-03.jpg %}
 
-
+Happiness is feeling beautiful with filed teeth.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-04.jpg %}
 
+Happiness is sharing a smile with the last great-granddaughter.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-06.jpg %}
 
+Happiness is a pouch full of tobacco and a communal meal.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-05.jpg %}
 
+Happiness is being able to still laugh together.
+
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-07.jpg %}
 
+Happiness is being surrounded by a loving family and get to be 90 without needing spectacles.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-08.jpg %}
 
+Happiness is selling all the fruit and take some money home to the grandchildren.
+
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-09.jpg %}
 
+Happiness is feeling free like a bird even in the kitchen.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-10.jpg %}
 
+Happiness is soothing the tears of a grandchild.
 
 {% responsive_image path: uploads/2016/10/161031-old-and-happy-by-luci-ferrero-11.jpg %}
+
+Happiness is feeling at peace with the universe.

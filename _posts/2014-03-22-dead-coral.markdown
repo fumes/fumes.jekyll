@@ -12,7 +12,6 @@ tags:
 - design
 - nature
 - photography
-- balance
 - documentary
 - sustainability
 - water-problems

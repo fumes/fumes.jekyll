@@ -12,27 +12,15 @@ version: v3.9.7
 # Site owner
 owner:
   name: Fumes
-  avatar_url:
   email: fumesmag@gmail.com
   link: http://fumes.junglestar.org
-  disqus-shortname:
   twitter: fumesvoice
   facebook: fumesmagazine
   github: fumes
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  soundcloud: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
   google:
     plus: #username
     analytics: UA-16659805-1
     verify: google32e66f1a5601ec40
-    ad-client:
-    ad-slot:
-  bing-verify:
-
 
 # BUILD SETTINGS
 baseurl: ""
@@ -41,11 +29,12 @@ sass:
   sass_dir: _sass
   style: :expanded # To minify use :compressed
 #excerpt_separator: <!--more-->
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
+
 
 # collect for me please...
 collections:
- - socialicons
+  - socialicons
 
 # Exclude these files from your production _site
 exclude:
@@ -61,29 +50,33 @@ exclude:
   - rakefile
 
 
-gems: 
-  - jekyll-feed
+defaults:
+  -
+   scope:
+     type: pages
+   values:
+     permalink: /:path/:basename:output_ext
+  -
+   scope:
+     type: posts
+   values:
+     permalink: /:categories/:title/
 
-  # http://jekyllrb.com/docs/pagination/
-  - jekyll-paginate
+
+gems:
+  - jekyll-feed
 
   - jekyll-sitemap
 
   # https://github.com/danbee/jekyll-video-tag
   - jekyll_video_tag
 
+  # https://github.com/wildlyinaccurate/jekyll-responsive-image
   # this one throw error so i just use plugin.rb instead of gem!
-  # - jekyll-responsive_image
   # - [jekyll/responsive_image]
-
 
   # put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
   # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
-
-
-## CONFIG
-paginate: 5
-#paginate_path: "/blog/page:num/"
 
 
 ## ADDONS / PLUGINS /.rb

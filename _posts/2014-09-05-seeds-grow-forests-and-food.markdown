@@ -7,7 +7,6 @@ curator: rokma
 date: '2014-09-05 16:55:51 +0200'
 categories: balance
 tags:
-- balance
 - lifestyle
 - useful
 - sustainability
