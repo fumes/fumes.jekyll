@@ -21,7 +21,7 @@ tags:
 - open-source
 - technology
 - awareness
-- opensource
+- open-source
 - global-warming
 license:
 thumb: thinking.jpg

@@ -36,7 +36,7 @@ People from Genova still live "la Dolce Vita". And they're still very "Superb" a
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-01.jpg %}
 
-Genova, located in a natural bay facing south in the north Mediterrenean sea, is and old city grown around his lighthouse.
+Genova, located in a natural bay facing south in the north Mediterranean sea, is and old city grown around his lighthouse.
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-02.jpg %}
 
