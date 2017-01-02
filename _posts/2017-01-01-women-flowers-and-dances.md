@@ -27,7 +27,7 @@ license: CC_BY
 thumb: women-flowers-dances.jpg
 ---
 
-An head full of flowers carefully prepared in the shape of an hat.
+An head full of flowers carefully prepared in the shape of an headdress.
 
 Once a year the young girls of the village carry it for a whole afternoon performing a slow dance.
 
