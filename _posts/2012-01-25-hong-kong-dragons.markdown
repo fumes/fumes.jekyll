@@ -23,7 +23,7 @@ tags:
 - hongkong
 - dragons
 - SAR
-- China
+- Chinese
 - fun
 - Gods
 - lifestyle

@@ -15,6 +15,7 @@ tags:
 - community
 - tradition
 - ritual
+- Buddhist
 - celebration
 - culture
 - Thailand

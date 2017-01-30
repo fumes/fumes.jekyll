@@ -16,7 +16,7 @@ tags:
 - educational
 - artist
 - performance
-- China
+- Chinese
 - review
 license:
 thumb: hetain-patel.jpg

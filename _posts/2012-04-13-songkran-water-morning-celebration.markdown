@@ -15,6 +15,7 @@ tags:
 - community
 - aqua
 - religion
+- Buddhist
 - ritual
 - tradition
 - Thailand

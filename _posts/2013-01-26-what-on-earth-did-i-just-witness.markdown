@@ -17,6 +17,7 @@ tags:
 - artist
 - visual
 - China
+- Chinese
 - design
 - animation
 - illustrations

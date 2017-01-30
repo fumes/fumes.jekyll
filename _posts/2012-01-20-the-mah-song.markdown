@@ -16,7 +16,7 @@ tags:
 - vegetarian
 - trance
 - Phuket
-- China
+- Chinese
 - possession
 - altered-consciousness
 - hardcore

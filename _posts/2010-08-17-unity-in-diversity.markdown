@@ -10,28 +10,32 @@ categories: photo-journalism
 tags:
 - lifestyle
 - black-and-white
-- Indonesia
-- Bali
 - under-covered
 - photography
 - documentary
 - community
-- Lombok
 - archipelago
 - differences
 - harmony
 - Pancasila
 - religion
+- Buddhist
+- Christian
+- Hindu
+- Muslim
 - culture
 - tradition
-- unity
-- people
+- Indonesia
+- Bali
+- Lombok
 - Java
 - Gods
+- unity
+- people
 license: CC_BY
 thumb: unity.jpg
 ---
-Indonesia's experience in pushing harmony and acceptance of differences lays his roots in the Pancasila principles.   
+Indonesia's experience in pushing harmony and acceptance of differences lays his roots in the [Pancasila principles](https://en.wikipedia.org/wiki/Pancasila_(politics)).   
 
 {% responsive_image path: uploads/2010/08/100817-rokma_photo_2008__MG_0901.jpg %}
 

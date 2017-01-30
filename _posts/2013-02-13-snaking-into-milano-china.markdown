@@ -16,9 +16,10 @@ tags:
 - tradition
 - ritual
 - celebration
-- China
+- Chinese
 - culture
 - report
+- Italy
 - performance
 license: CC_BY
 thumb: snaking.jpg
