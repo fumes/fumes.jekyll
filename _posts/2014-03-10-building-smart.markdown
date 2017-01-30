@@ -19,6 +19,7 @@ tags:
 - useful
 - technology
 - awareness
+- educational
 - rural
 - global-warming
 license:

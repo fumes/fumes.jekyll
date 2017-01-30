@@ -10,6 +10,7 @@ tags:
 - clever
 - community
 - news
+- educational
 - review
 - sustainability
 - useful

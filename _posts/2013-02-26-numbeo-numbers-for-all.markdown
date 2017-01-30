@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 'Numbeo: Numbers for all'
 curator: rokma
-photographer: 
+photographer:
 date: '2013-02-26 05:24:39 +0100'
 date_gmt: '2013-02-25 22:24:39 +0100'
 categories: studies
@@ -16,6 +16,7 @@ tags:
 - community
 - clever
 - technology
+- educational
 - global-warming
 license:
 thumb: numbeo.jpg

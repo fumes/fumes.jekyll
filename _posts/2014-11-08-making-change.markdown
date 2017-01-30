@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Making a change
 curator: rokma
-wordpress_id: 2794
-wordpress_url: http://fumes.dev/?p=2794
 date: '2014-11-08 16:55:51 +0200'
 categories: inspiring
 tags:

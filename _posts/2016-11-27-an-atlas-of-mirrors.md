@@ -12,6 +12,7 @@ tags:
 - art
 - photography
 - Singapore
+- educational
 - soft-power
 - show
 - news

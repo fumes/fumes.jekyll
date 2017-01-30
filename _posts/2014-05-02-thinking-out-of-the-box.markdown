@@ -13,6 +13,7 @@ tags:
 - news
 - reflect
 - under-covered
+- educational
 - clever
 - artist
 - geek

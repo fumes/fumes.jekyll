@@ -12,6 +12,7 @@ tags:
 - reflect
 - clever
 - artist
+- educational
 - New-York
 - street-art
 - visual

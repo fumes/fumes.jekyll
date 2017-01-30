@@ -12,6 +12,7 @@ tags:
 - reflect
 - under-covered
 - Congo
+- educational
 - Africa
 - pain
 - hardcore

@@ -10,6 +10,7 @@ categories: photo-journalism
 tags:
 - fun
 - photography
+- black-and-white
 - sport
 - show
 - pain

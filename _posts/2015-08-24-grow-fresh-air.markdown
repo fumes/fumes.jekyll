@@ -13,6 +13,7 @@ tags:
 - reflect
 - review
 - simplicity
+- educational
 - useful
 - technology
 - sustainability

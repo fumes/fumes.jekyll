@@ -12,6 +12,9 @@ tags:
 - review
 - simplicity
 - useful
+- educational
+- life
+- smart
 - sustainability
 - lifestyle
 - awareness

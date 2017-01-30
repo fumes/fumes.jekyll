@@ -12,6 +12,7 @@ tags:
 - drawings
 - fun
 - illustrations
+- educational
 - news
 - reflect
 - review

@@ -17,6 +17,7 @@ tags:
 - women
 - rural
 - visual
+- people
 - simplicity
 license:
 thumb: jr.jpg

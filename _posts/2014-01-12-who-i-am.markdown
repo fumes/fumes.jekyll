@@ -13,6 +13,7 @@ tags:
 - under-covered
 - community
 - clever
+- educational
 - artist
 - performance
 - China

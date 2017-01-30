@@ -14,6 +14,7 @@ tags:
 - photography
 - city
 - awareness
+- culture
 - community
 - documentary
 - Italy

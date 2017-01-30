@@ -15,8 +15,10 @@ tags:
 - performance
 - festival
 - celebration
+- Singapore
 - China
 - report
+- ritual
 license:
 thumb: good-luck.jpg
 ---

@@ -19,6 +19,7 @@ tags:
 - performance
 - celebration
 - ritual
+- culture
 - hongkong
 - dragons
 - SAR

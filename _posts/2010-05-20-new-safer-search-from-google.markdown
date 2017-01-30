@@ -10,6 +10,7 @@ tags:
 - useful
 - news
 - nerd
+- educational
 - geek
 - clever
 - internet-services

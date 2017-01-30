@@ -13,6 +13,7 @@ tags:
 - Bangkok
 - Thailand
 - advertising
+- educational
 - visual
 - vote
 - Phuket

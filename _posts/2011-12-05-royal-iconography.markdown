@@ -14,6 +14,7 @@ tags:
 - Thailand
 - advertising
 - visual
+- culture
 - soft-power
 - celebration
 - documentary

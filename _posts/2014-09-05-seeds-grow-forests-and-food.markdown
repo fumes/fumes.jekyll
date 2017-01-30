@@ -15,6 +15,7 @@ tags:
 - reflect
 - under-covered
 - clever
+- educational
 - technology
 - plants
 - awareness

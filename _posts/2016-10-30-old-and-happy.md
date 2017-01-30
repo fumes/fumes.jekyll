@@ -20,6 +20,7 @@ tags:
 - Mentawai
 - Timor
 - rural
+- fun
 - archipelago
 - reflect
 license: CC_BY

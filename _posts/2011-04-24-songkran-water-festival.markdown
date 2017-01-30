@@ -16,6 +16,7 @@ tags:
 - tradition
 - ritual
 - celebration
+- culture
 - Thailand
 - water
 - festival
@@ -24,7 +25,7 @@ tags:
 - report
 license: CC_BY
 thumb: songkran-festival.jpg
-extract: Songkran is the traditional New Year's Day in Thailand. It is a time for spiritual cleansing and renewal. Typically the day starts with a visit to the temple where people will collect the water used for bathing the statues of Buddha. 
+extract: Songkran is the traditional New Year's Day in Thailand. It is a time for spiritual cleansing and renewal. Typically the day starts with a visit to the temple where people will collect the water used for bathing the statues of Buddha.
 ---
 
 {% responsive_image path: uploads/2011/04/110424-photographer-rokma-songkran-water-8811.jpg %}

@@ -15,6 +15,7 @@ tags:
 - documentary
 - sustainability
 - water-problems
+- archipelago
 - awareness
 - Bali
 - Indonesia

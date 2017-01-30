@@ -22,6 +22,8 @@ tags:
 - Hindu
 - community
 - culture
+- black-and-white
+- celebration
 - women
 license: CC_BY
 thumb: women-flowers-dances.jpg

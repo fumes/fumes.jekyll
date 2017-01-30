@@ -17,6 +17,7 @@ tags:
 - ritual
 - celebration
 - China
+- culture
 - report
 - performance
 license: CC_BY
