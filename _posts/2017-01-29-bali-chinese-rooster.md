@@ -32,7 +32,7 @@ The year of the Rooster just started with the traditional festivities that the B
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_8993.jpg %}
 
 This is the beautiful [Benoa Chinese temple](https://goo.gl/maps/73w2HJNjw2w) built in Bali in 2012.  
-After [troubled year](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966) ethnic Chinese can openly celebrate their culture again.
+After [troubled years](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966) ethnic Chinese can now openly celebrate their culture again.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_9053.jpg %}
 
@@ -40,7 +40,7 @@ The long history of Chinese influence in Indonesia dates back to the [Majapahit 
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_9005.jpg %}
 
-Long time has passed since [ethnic Chinese in Indonesia](https://en.wikipedia.org/wiki/Chinese_Indonesians) kinda try to [live low key and don't get noticed](https://en.wikipedia.org/wiki/Discrimination_against_Chinese_Indonesians). Ten years ago still, the main temple in Kuta was kinda hidden and barely visible from outside. This new Benoa facility is big and spacey, definitely visible from the road, has a decent parking lot and its really clean, even providing a public place for people to wash in the garden.
+Long time has passed since [ethnic Chinese in Indonesia](https://en.wikipedia.org/wiki/Chinese_Indonesians) try to [live low key and not get noticed](https://en.wikipedia.org/wiki/Discrimination_against_Chinese_Indonesians). Ten years ago still, the main temple in Kuta was sort of hidden and barely visible from outside. This new Benoa facility is big and spacey, definitely visible from the main road. It has a decent parking lot and it's really clean. There is even a place to wash your feet after walking barefoot to the altars.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_9013.jpg %}
 
@@ -48,7 +48,7 @@ The baroque decorations are really well done, mostly tridimensional and meaningf
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_9069.jpg %}
 
-So event during this new lunar year celebrations there is plenty of room to take your turn and [light up your pack of incenses](http://www.dailymail.co.uk/health/article-3210400/Could-incense-toxic-cigarette-smoke-burn-sticks-release-compounds-linked-cancer.html), while sporting your sober red outfit.
+So even during this new lunar year celebrations there is plenty of room to take your turn and [light up your pack of incenses](http://www.dailymail.co.uk/health/article-3210400/Could-incense-toxic-cigarette-smoke-burn-sticks-release-compounds-linked-cancer.html), while sporting your sober red outfit.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_9073.jpg %}
 
@@ -56,11 +56,11 @@ Most of visitors don't just [burn a couple of sticks](https://en.wikipedia.org/w
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_MG_8989.jpg %}
 
-While in western [iconography dragons](https://en.wikipedia.org/wiki/List_of_dragons_in_mythology_and_folklore) are mostly depicted as monsters on the way to be slaughtered by some celebrated king or warrior, in [Chinese culture dragons](https://en.wikipedia.org/wiki/Chinese_dragon) are auspicious of good luck and protection.
+While in western iconography [dragons](https://en.wikipedia.org/wiki/List_of_dragons_in_mythology_and_folklore) are mostly depicted as monsters about to be slaughtered by some king or warrior, in [Chinese culture dragons](https://en.wikipedia.org/wiki/Chinese_dragon) are auspicious of good luck and protection.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_20170128_105845.jpg %}
 
-This old wood carving scene it's the only item that's not brand new here. It gives a good feeling of tradition preserved.
+This old wood carving scene is the only item that's not brand new here. It gives a feeling of tradition preserved.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_20170128_105903.jpg %}
 
@@ -72,7 +72,7 @@ And everybody queue up, for their ritual performance, locals and foreigners alik
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_20170128_111602.jpg %}
 
-The architecture is really well thought, with big opening to let air and light in, so even the inside part of this Benoa temple fells roomy and grandiose.
+The architecture is really well thought, with big openings to let air and light in, so even the inside part of this Benoa temple feels roomy and grandiose.
 
 {% responsive_image path: uploads/2017/01/170128_photo_rokma_20170128_113215.jpg %}
 
