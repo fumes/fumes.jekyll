@@ -108,7 +108,7 @@ pre {
 .capitalize > *{text-transform: capitalize; }
 
 //hide stuff
-.hide{display: none;}
+.hide {display: none!important;}
 
 .hidden_for_itemprop {
   display: block;
