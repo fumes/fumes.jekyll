@@ -11,7 +11,7 @@
 
 .header__title {
     font-size: $base_font_size * 4;
-    text-transform: uppercase; 
+    text-transform: uppercase;
     font-weight: 100;
     line-height: $small_line_height;
     letter-spacing: -1px;
@@ -25,7 +25,7 @@
     margin-bottom: 0;
 
     &:visited {color: darken($white, 15%);}
-    
+
     &:hover,
     &:visited:hover {color: lighten($grey_color, 15%);}
 }
@@ -35,10 +35,11 @@
     line-height: $base_line_height;
     text-align: center;
     width:100%;
+    color: red;
 }
 
 
-.fumes{ 
+.fumes{
   background-color: transparent;
   font-family: "Open-sans", Helvetica;
   text-align: center;
@@ -60,7 +61,7 @@
   @include media( "screen", ">maxWidth"){
       line-height: 10vw;
       font-size: 33vh;
-      > * { margin: 0 -5vw; } 
+      > * { margin: 0 -5vw; }
   }
 
   > * {
@@ -78,15 +79,15 @@
   -webkit-transform: rotateX(180deg);
   -moz-transform: rotateX(180deg);
   -ms-transform: rotateX(180deg);
-  
+
   -webkit-transform-origin: 50% 47%;
   -ms-transform-origin: 50% 47%;
   transform-origin: 50% 47%;
-    
+
   -webkit-backface-visibility: visible;
   -moz-backface-visibility:    visible;
   -ms-backface-visibility:     visible;
-    
+
   &:hover{
     color: orange;
     color: hsla(12, 100%, 50%, 1);
@@ -105,11 +106,11 @@
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
-    
+
   -webkit-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
-  
+
   -webkit-backface-visibility: visible;
   -moz-backface-visibility:    visible;
   -ms-backface-visibility:     visible;
@@ -120,5 +121,5 @@
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
-  }  
+  }
 }
