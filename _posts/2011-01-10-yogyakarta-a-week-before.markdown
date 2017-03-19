@@ -26,10 +26,29 @@ tags:
 thumb: yogya.jpg
 extract: The 2010 eruptions of Mount Merapi began in late October 2010 when Mount Merapi in Central Java, Indonesia began an increasingly violent series of eruptions that continued into November, culminating in repeated outbursts of lava and ashes.
 ---
-
+The 2010 eruptions of Mount Merapi began in late October 2010 when Mount Merapi in Central Java, Indonesia began an increasingly violent series of eruptions that continued into November, culminating in repeated outbursts of lava and ashes.
 
 {% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-01.jpg %}
+
 Yogyakarta, a week before Merapi erupted.
 
 {% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-02.jpg %}
-Yogya Street Art
+
+Yogya Street Art.
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-03.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-04.jpg %}
+
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-05.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-06.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-07.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-08.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-09.jpg %}
+
+{% responsive_image path: uploads/2011/01/110110-alejandro-plesch-yogya-10.jpg %}

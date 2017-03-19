@@ -26,10 +26,13 @@ thumb: hanging-out.jpg
 ---
 A suspension is the act of suspending a human body from hooks that have been put through body piercings. These piercings are temporary and are performed just prior to the actual suspension.
 
+
+{% responsive_image path: uploads/2010/11/101125-alejandro-plesch-hanging-out-01.jpg %}
+
 Photographer Alejandro Plesch has been hangin' out at the event: **Unique Body Art** that took place in Bali the past 26th, November- 2010
 
 
-{% responsive_image path: uploads/2010/11/101125-alejandro-plesch-hanging-out.jpg %}
+{% responsive_image path: uploads/2010/11/101125-alejandro-plesch-hanging-out-02.jpg %}
 
 _From Wikipedia, the free encyclopedia:_
 

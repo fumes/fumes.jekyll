@@ -29,4 +29,8 @@ Fumes caught up with some fishermen in an afternoon pickup game in the Thai prov
 
 In this modern Sepak Takraw the court is the same size as a badminton court, the rules are the same as in volleyball, only using one's hands is not allowed.  
 
+
+{% responsive_image path: uploads/2011/03/110326-photo-alejandro-plesch-sepak-02.jpg %}
+
+
 This is the new style Sepak Takraw, the traditional one is quite different. In the old way there are no teams competing, but players form a circle and help each other. The goal a very high basket-like target. Its all focused on style and control, on how acrobatic and peculiar your move is.

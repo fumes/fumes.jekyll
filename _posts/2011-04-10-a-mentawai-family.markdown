@@ -38,3 +38,13 @@ They do so in order to continue their ancient way of life in communion with the 
 Aman is a shaman, or healer who has sensitivities with the spirits.
 
 {% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-04.jpg %}
+
+{% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-05.jpg %}
+
+{% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-06.jpg %}
+
+{% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-07.jpg %}
+
+{% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-08.jpg %}
+
+{% responsive_image path: uploads/2011/04/110410-alejandro-plesch-alaia-09.jpg %}
