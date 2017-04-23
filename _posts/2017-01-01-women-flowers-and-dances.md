@@ -41,7 +41,7 @@ It is called Rejang and it's part of the Hindu traditional rites that Majapahit 
 
 {% responsive_image path: uploads/2017/01/161114_photo_rokma_MG_7625.jpg %}
 
-All these photos where captured in the villages of Karangsari and Santi in the Karangasem district.
+All these photos where captured in the villages of Karangsari and Santi in the Karangasem district of Bali, Indonesia.
 
 {% responsive_image path: uploads/2017/01/161114_photo_rokma_MG_7242.jpg %}
 
