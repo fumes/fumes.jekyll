@@ -39,19 +39,24 @@ Kamal Meattle has a vision to reshape commercial building in India using princip
 Meattle has long been a environmental activist in India. In the 1980s he helped India's apple industry develop less-wasteful packaging to help save acres of trees. He then began a campaign to help India's millions of scooter drivers use less oil. His next plan is to develop a larger version of PBC-STIP, making a green office accessible to more businesses in New Delhi and serving as an example of low-cost, low-energy office life.
 
 
-_know more:_{:class="readmore"}
+_Know more about these life saving plants:_{:class="readmore"}
 
 - about the author: [Kamal Meattle Full bio](http://www.ted.com/speakers/kamal_meattle)
 
-- [LEED certified buildings](http://www.usgbc.org/leed)
+- LEED [certified buildings](http://www.usgbc.org/leed)
 
-- [Certified Green Building](http://greenspaces.in/greenbuilding.php)
-
-
-_...more about these life saving plants:_{:class="readmore"}
+- Certified [Green Building](http://greenspaces.in/greenbuilding.php)
 
 - Areca Palm [Chrysalidocarpus Lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens)
 
 - Mother-in-law Tongue [Sansevieria Trifasciata](https://en.wikipedia.org/wiki/Sansevieria_trifasciata)
 
 - Money Plant [Epipremnum Aureum](https://en.wikipedia.org/wiki/Epipremnum_aureum)
+
+- Golden Pothos Care – [Growing the Devil’s Ivy plant](http://www.epicgardening.com/golden-pothos-devils-ivy/)
+
+- Plants that [increase your productivity](http://www.epicgardening.com/houseplants-that-increase-productivity/)
+
+- Plants in offices [increase happiness and productivity ](https://www.theguardian.com/money/2014/aug/31/plants-offices-workers-productive-minimalist-employees)
+
+- PDF: [The Relative Merits of Lean, Enriched, and Empowered Offices](https://adobe99u.files.wordpress.com/2013/07/2010+jep+space+experiments.pdf)
