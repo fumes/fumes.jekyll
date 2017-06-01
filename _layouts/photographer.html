@@ -142,3 +142,15 @@ layout: default
   {% endfor %}
 </div>
 {% endif %}
+
+
+
+{% if page.photographer == 'melinda' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'melinda' %}
+      {% include index_post_block--excerpt.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
