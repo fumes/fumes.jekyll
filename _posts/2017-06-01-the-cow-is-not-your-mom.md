@@ -9,8 +9,6 @@ date: '2017-06-01 07:01:01 +0700'
 categories: art
 tags:
 - design
-- report
-- advertising
 - drawings
 - food
 - illustrations
@@ -18,7 +16,6 @@ tags:
 - visual
 - artist
 - awareness
-- clever
 - educational
 - harmony
 - injustices
