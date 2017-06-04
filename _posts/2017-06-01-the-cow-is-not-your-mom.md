@@ -53,3 +53,5 @@ She has the ability to craft simple ironic memes and the courage to speak out of
 "My favorite vegan artist is definitely Dana Ellyn. She is incredibly talented and I find her art very very capturing. The facial expressions of the characters on her paintings just speak for themselves, there is no more need for words. Another inspiration is Ruby Roth, the author of the children's book "V is for vegan". One of the reasons why I really like her work is because she is able to approach this important issue with humor."
 
 "I want to encourage fellow vegans to try to find their own creative voice for the animals... We ...are all talented in one way or another... you will find your own voice with which you can help raise awareness and advocate equality for all species on this planet."
+
+Wanna know more about Melinda? [here are her links]({{ site.url }}/photographer/melinda-hegedus/)
