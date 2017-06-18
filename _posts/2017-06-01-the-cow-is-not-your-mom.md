@@ -3,8 +3,8 @@ layout: post
 status: publish
 published: true
 title: The cow is not your mom
+images_author: melinda
 curator: rokma
-photographer: melinda
 date: '2017-06-01 07:01:01 +0700'
 categories: art
 tags:

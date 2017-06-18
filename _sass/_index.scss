@@ -152,7 +152,8 @@
 // in the future with js toogle will be prefixed by
 // call something like this ".photographer_info_showing".
 //...
-.photographer__metas{
+.photographer__metas,
+.author__metas{
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -175,27 +176,28 @@
     display: none;
     @include media( "screen", ">maxWidth") {display: inline;}
   }
-
-  a:hover{
-    .destination {display: inline;}
+  
+  a {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align:center;
+    -webkit-align-items:center;
+    -ms-flex-align:center;
+    align-items:center;
+    -webkit-box-pack:center;
+    -webkit-justify-content:center;
+    -ms-flex-pack:center;
+    justify-content:center;
+    &:hover{
+      .destination {display: inline;}
+    }
   }
 
   .ico{float:left;}
 }
-.photographer__meta a{
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align:center;
-  -webkit-align-items:center;
-  -ms-flex-align:center;
-  align-items:center;
-  -webkit-box-pack:center;
-  -webkit-justify-content:center;
-  -ms-flex-pack:center;
-  justify-content:center;
-}
+
 
 .looper__links {
   display: flex;

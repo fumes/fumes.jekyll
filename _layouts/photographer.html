@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign photographer = site.data.photographers[page.photographer] %}
+{% assign photographer = site.data.authors[page.photographer] %}
 
 <div class="tagpage tagpage__title">
 
@@ -142,7 +142,6 @@ layout: default
   {% endfor %}
 </div>
 {% endif %}
-
 
 
 {% if page.photographer == 'melinda' %}

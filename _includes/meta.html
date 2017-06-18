@@ -13,9 +13,42 @@
 
     <p class="photog">
       <span class="hide">Photography: </span>
-      {% assign photographer = site.data.photographers[page.photographer] %}
+      {% assign photographer = site.data.authors[page.photographer] %}
 
       <a title="Photography by:" href="{{site.baseurl}}/photographer/{{ photographer.name | downcase | replace: ' ', '-' }}/">{{ photographer.name }}</a>
+    </p>
+
+  </div>
+  {% endif %}
+
+
+  {% if page.images_author %}
+  <div class="post-meta author">
+
+    <div class="ico">{% include svg/use.html id="icn--photographer" class="photographer" title="photographer" %}</div>
+
+    <p class="photog">
+      <span class="hide">Images author: </span>
+      {% assign images_author = site.data.authors[page.images_author] %}
+
+      <a title="Images author:" href="{{site.baseurl}}/author/{{ images_author.name | downcase | replace: ' ', '-' }}/">{{ images_author.name }}</a>
+    </p>
+
+  </div>
+  {% endif %}
+
+
+
+  {% if page.text_author %}
+  <div class="post-meta author">
+
+    <div class="ico">{% include svg/use.html id="icn--speech" class="text author" title="text author" %}</div>
+
+    <p class="photog">
+      <span class="hide">Text Author: </span>
+      {% assign text_author = site.data.authors[page.text_author] %}
+
+      <a title="text author:" href="{{site.baseurl}}/author/{{ text_author.name | downcase | replace: ' ', '-' }}/">{{ text_author.name }}</a>
     </p>
 
   </div>
