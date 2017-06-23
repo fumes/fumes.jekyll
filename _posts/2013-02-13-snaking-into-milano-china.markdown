@@ -23,7 +23,7 @@ tags:
 - performance
 license: CC_BY
 thumb: snaking.jpg
-extract: 2013 Snake year celebration parade is being held in Milano Chinatown. Clean winter sky, a warm shy sun to celebrate cultural identity with ease.
+excerpt: 2013 Snake year celebration parade is being held in Milano Chinatown. Clean winter sky, a warm shy sun to celebrate cultural identity with ease.
 ---
 
 2013 Snake year celebration parade is being held in Milano Chinatown. Clean winter sky, a warm shy sun to celebrate cultural identity with ease.

@@ -14,11 +14,7 @@
 
     </div>
 
-    {% if post.extract %}
-    <div class="excerpt">
-      {{ post.extract | truncate: 160 }}
-    </div>
-    {% else %}
+    {% if post.excerpt %}
     <div class="excerpt">
       {{ post.excerpt | strip_html | truncate: 160 }}
     </div>

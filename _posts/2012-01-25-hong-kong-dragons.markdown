@@ -30,7 +30,7 @@ tags:
 - city
 license: CC_BY
 thumb: dragons.jpg
-extract: 2012 year of the Dragon. Here is a visual journey of the new year's celebrations in Hongkong. A big Parade and massive fireworks which is hard to miss.
+excerpt: 2012 year of the Dragon. Here is a visual journey of the new year's celebrations in Hongkong. A big Parade and massive fireworks which is hard to miss.
 ---
 
 2012 year of the dragon. Here is a visual journey of the new year's celebrations in Hongkong.

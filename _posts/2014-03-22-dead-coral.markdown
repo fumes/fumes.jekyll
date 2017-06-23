@@ -22,7 +22,7 @@ tags:
 - global-warming
 license: CC_BY
 thumb: dead-coral.jpg
-extract: An amazing variety of forms and shapes washed ashore during high tides. Once alive and full of colors, when dead corals slowly turn to white.
+excerpt: An amazing variety of forms and shapes washed ashore during high tides. Once alive and full of colors, when dead corals slowly turn to white.
 ---
 
 

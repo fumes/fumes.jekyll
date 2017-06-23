@@ -24,7 +24,7 @@ tags:
 - sustainability
 license: CC_BY
 thumb: red-bag.jpg
-extract: The red bag race is a competition to collect trash. It takes place during surf contests organized by Volcom Indonesia. It aims at educating kids on acting about environmental pollution.   
+excerpt: The red bag race is a competition to collect trash. It takes place during surf contests organized by Volcom Indonesia. It aims at educating kids on acting about environmental pollution.   
 ---
 The red bag race is a competition to collect trash.
 

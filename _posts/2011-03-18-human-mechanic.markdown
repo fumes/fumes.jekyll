@@ -18,7 +18,7 @@ tags:
 - black-and-white
 - people
 thumb: urut.jpg
-extract: Urut massage is perhaps the most sophisticated of all the Indonesian healing arts and can only be found in Bali and in Java, where the Majapahit Kingdom flourished and was influenced from Arab, Chinese and Indian traders.
+excerpt: Urut massage is perhaps the most sophisticated of all the Indonesian healing arts and can only be found in Bali and in Java, where the Majapahit Kingdom flourished and was influenced from Arab, Chinese and Indian traders.
 ---
 Pak Mat Djabin is a traditional javanese healer specializing in "Urut" massage.
 
