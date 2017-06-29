@@ -26,18 +26,22 @@
 
 //Page content
 .content {
-    background-color: $background_color;
-    padding: $spacing_unit 0;
+  background-color: $background_color;
+  padding: $spacing_unit 0;
 }
 
 //Universal components
 .ico {
-    width: $icon_size;
-    height: $icon_size;
-    position: relative;
-    svg{
-        position: absolute;
-        top:0;
-        left:0;
-    }
+  width: $icon_size;
+  height: $icon_size;
+  position: relative;
+  svg {
+    position: absolute;
+    top:0;
+    left:0;
+  }
+}
+
+.author__meta svg.email {
+  width: 40px;
 }

@@ -174,9 +174,12 @@
 
   .destination{
     display: none;
-    @include media( "screen", ">maxWidth") {display: inline;}
+    @include media( "screen", ">maxWidth") {
+      display: inline;
+      padding-right: $spacing_unit;
+    }
   }
-  
+
   a {
     display: -webkit-box;
     display: -webkit-flex;
