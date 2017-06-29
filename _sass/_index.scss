@@ -176,7 +176,7 @@
     display: none;
     @include media( "screen", ">maxWidth") {
       display: inline;
-      padding-right: $spacing_unit;
+      padding-right: $spacing_unit/2;
     }
   }
 
