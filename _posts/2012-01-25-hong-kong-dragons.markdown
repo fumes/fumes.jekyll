@@ -20,7 +20,7 @@ tags:
 - celebration
 - ritual
 - culture
-- hongkong
+- Hongkong
 - dragons
 - SAR
 - Chinese

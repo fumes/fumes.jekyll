@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="tagpage tagpage__title">
-  
+
   <span class="tagpage__ico" title="tag">{% include svg/use.html id="icn--tag" %}</span>
-  
+
   <h1 class="page__title">{{ page.tag | capitalize }}</h1>
 
 </div>
@@ -13,8 +13,8 @@ layout: default
   {% if site.tags[page.tag] %}
     {% for post in site.tags[page.tag] %}
      <div class="home__post" >
-      
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> 
+
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
 
         <h2>{{ post.title }}</h2>
 
@@ -27,6 +27,12 @@ layout: default
           {% endif %}
 
         </div>
+
+        {% if post.excerpt %}
+        <div class="excerpt">
+          {{ post.excerpt | strip_html | truncate: 160 }}
+        </div>
+        {% endif %}
 
       </a>
 
