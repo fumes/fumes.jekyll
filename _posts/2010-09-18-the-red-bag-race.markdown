@@ -19,6 +19,7 @@ tags:
 - clever
 - trash
 - educational
+- smart
 - report
 - non-profit
 - sustainability

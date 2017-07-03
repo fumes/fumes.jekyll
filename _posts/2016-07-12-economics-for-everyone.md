@@ -11,10 +11,13 @@ tags:
 - community
 - news
 - educational
+- culture
 - review
 - sustainability
 - useful
 - awareness
+- smart
+- life
 license:
 thumb: economics.jpg
 ---

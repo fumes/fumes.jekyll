@@ -21,6 +21,7 @@ tags:
 - awareness
 - educational
 - rural
+- smart
 - global-warming
 license:
 thumb: building-smart.jpg

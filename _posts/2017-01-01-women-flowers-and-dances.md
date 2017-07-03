@@ -16,6 +16,7 @@ tags:
 - Indonesia
 - rural
 - Bali
+- life
 - tradition
 - performance
 - religion

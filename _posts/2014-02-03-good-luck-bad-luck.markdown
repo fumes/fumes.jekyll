@@ -17,6 +17,7 @@ tags:
 - celebration
 - Singapore
 - Chinese
+- culture
 - report
 - ritual
 license:

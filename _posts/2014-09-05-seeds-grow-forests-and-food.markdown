@@ -20,6 +20,7 @@ tags:
 - plants
 - awareness
 - nature
+- smart
 - global-warming
 license:
 thumb: seeds.jpg

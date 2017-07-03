@@ -21,6 +21,7 @@ tags:
 - useful
 - visual
 - awareness
+- culture
 - drawings
 - city
 license:

@@ -18,8 +18,10 @@ tags:
 - celebration
 - Chinese
 - culture
+- lifestyle
 - report
 - Italy
+- life
 - performance
 license: CC_BY
 thumb: snaking.jpg

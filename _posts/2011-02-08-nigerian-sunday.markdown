@@ -20,6 +20,7 @@ tags:
 - ritual
 - Italy
 - expat
+- life
 - people
 license: CC_BY
 thumb: nigeria.jpg

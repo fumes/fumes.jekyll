@@ -21,6 +21,7 @@ tags:
 - Timor
 - rural
 - fun
+- life
 - archipelago
 - reflect
 license: CC_BY

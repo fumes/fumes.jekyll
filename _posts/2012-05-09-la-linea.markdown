@@ -13,6 +13,7 @@ tags:
 - reflect
 - clever
 - artist
+- life
 - visual
 - design
 - simplicity

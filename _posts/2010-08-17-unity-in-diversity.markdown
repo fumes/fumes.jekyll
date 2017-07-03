@@ -27,6 +27,7 @@ tags:
 - tradition
 - Indonesia
 - Bali
+- life
 - Lombok
 - Java
 - Gods

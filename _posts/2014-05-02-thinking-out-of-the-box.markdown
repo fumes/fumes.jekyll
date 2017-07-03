@@ -19,6 +19,7 @@ tags:
 - geek
 - visual
 - design
+- smart
 - open-source
 - technology
 - awareness

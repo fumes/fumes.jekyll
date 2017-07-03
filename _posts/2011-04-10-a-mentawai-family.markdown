@@ -19,6 +19,7 @@ tags:
 - hardcore
 - lifestyle
 - rural
+- life
 - report
 - people
 license:

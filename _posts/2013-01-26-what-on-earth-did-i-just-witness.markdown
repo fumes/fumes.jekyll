@@ -24,6 +24,7 @@ tags:
 - drawings
 - sustainability
 - awareness
+- life
 - global-warming
 license:
 thumb: big-hands.jpg

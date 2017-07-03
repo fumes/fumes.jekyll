@@ -16,6 +16,8 @@ tags:
 - community
 - clever
 - technology
+- smart
+- life
 - educational
 - global-warming
 license:

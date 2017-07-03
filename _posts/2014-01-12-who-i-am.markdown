@@ -17,6 +17,7 @@ tags:
 - artist
 - performance
 - Chinese
+- smart
 - review
 license:
 thumb: hetain-patel.jpg

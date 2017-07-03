@@ -16,6 +16,7 @@ tags:
 - vegetarian
 - trance
 - Phuket
+- life
 - Chinese
 - possession
 - altered-consciousness

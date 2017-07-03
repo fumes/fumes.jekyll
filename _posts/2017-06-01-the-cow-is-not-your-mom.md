@@ -11,6 +11,7 @@ tags:
 - design
 - drawings
 - food
+- lifestyle
 - illustrations
 - smart
 - visual
@@ -18,6 +19,7 @@ tags:
 - awareness
 - educational
 - harmony
+- culture
 - injustices
 - reflect
 - sustainability

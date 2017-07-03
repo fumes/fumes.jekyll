@@ -21,6 +21,7 @@ tags:
 - animation
 - lifestyle
 - awareness
+- smart
 - technology
 license:
 thumb: motivations.jpg

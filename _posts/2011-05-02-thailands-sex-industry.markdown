@@ -15,6 +15,7 @@ tags:
 - tourism
 - plastic-surgery
 - Phuket
+- life
 - hardcore
 - lifestyle
 - expat

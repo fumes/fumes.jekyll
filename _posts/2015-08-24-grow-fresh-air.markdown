@@ -22,6 +22,7 @@ tags:
 - city
 - awareness
 - nature
+- smart
 - global-warming
 license:
 thumb: growfreshair.jpg
