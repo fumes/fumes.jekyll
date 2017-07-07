@@ -23,7 +23,7 @@ tags:
 - black-and-white
 license: CC_BY
 thumb: dont-believe-in-beliefs.jpg
-excerpt: The concept of meaning starts with emptiness. It is like an empty bowl. You may fill an empty bowl with whatever you may wish – whether it be rice, fruit or soup – and yet it is impartial to its contents. And after you fill your bowl you soon empty it again. You ingest its contents, let them nourish you, and then the next day fill your bowl with something else and repeat the process all over again.
+excerpt: Don’t believe in beliefs. When mystery presents itself people want answers. And when there are none, they cling to beliefs. As the function of a belief is to provide simple answers to the deepest of questions, beliefs provide a sense of safety from the depths of mystery. The beauty of a belief is that it can never be refuted, for it has no base in reality. The dark side of belief is that different people may have different beliefs, yielding different explanations for the same mystery.
 ---
 
 
