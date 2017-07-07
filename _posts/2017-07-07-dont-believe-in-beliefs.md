@@ -27,11 +27,11 @@ excerpt: Don’t believe in beliefs. When mystery presents itself people want an
 ---
 
 
-Don’t believe in beliefs.
+Don’t believe in beliefs. When mystery presents itself people want answers.
 
 {% responsive_image path: uploads/2017/07/120123_photo_rokma_7626.jpg %}
 
-When mystery presents itself people want answers. And when there are none, they cling to beliefs.
+And when there are none, they cling to beliefs.
 
 {% responsive_image path: uploads/2017/07/120126_photo_rokma_8523.jpg %}
 
@@ -61,10 +61,17 @@ Thus beliefs draw lines in the sand, dividing into distinct groups those who hav
 
 People then take refuge within the confines of their group designated by their beliefs, and derive a sense of identity from it. But the best of all is to have no beliefs.
 
-{% responsive_image path: uploads/2017/07/080612_photo_rokma_5731.jpg %}
+{% responsive_image path: uploads/2017/07/120311_photo_rokma_9520.jpg %}
 
-Not non-belief, but the absence of the concept of belief altogether. Be comfortable in the presence of mystery. Not every question has an answer. Move beyond the concept of explanation.
+Not non-belief, but the absence of the concept of belief altogether.
+
+Be comfortable in the presence of mystery. Not every question has an answer. Move beyond the concept of explanation.
 
 {% responsive_image path: uploads/2017/07/100330_photo_rokma_4289.jpg %}
 
 And upon discarding your beliefs you will see that carrying around beliefs is like carrying around a bag of rocks for protection. The rocks not only protect you from nothing, but they weigh you down as well.
+
+
+{% responsive_image path: uploads/2017/07/080612_photo_rokma_5731.jpg %}
+
+In the absence of belief we have ideas. The beauty of ideas is that they can never be contradictory. Ideas we can pass back and forth, like exchanging chopsticks for a fork and spoon.
