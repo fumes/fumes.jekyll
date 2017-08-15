@@ -86,7 +86,7 @@ The energy created by the skin stretching is released outward in varying sizes o
 
 In a complex interaction between skin tension and elasticity, these energy pulses overwhelm the skin tension / jelly dynamic upon their initial release and for a lack of a better description 'shorts the system'. When this happens the energy re-orders itself backwards into the centre of the disturbed area, phase shifts into wave form and then pulses outward in 'manageable' energy packets or wave envelopes, being the most efficient way for the energy created to travel through the skin to a place of lower concentration. The waves that make up the energy packets or wave envelopes consist of combination waves, within the transverse waves are oscillating compression waves.
 
-{% responsive_image path: uploads/2012/01/120105-photo-lance_slabbert-10.jpg %}
+{% responsive_image path: uploads/2012/01/120105-photo-lance_slabbert10.jpg %}
 
 As the energy packet moving through the skin of the jelly medium approaches the beach, it senses (because it's aware) the solid mass or denser immovable medium of the earth below, and changes it's shape according to the varying environments it encounters. As this dynamic becomes critical the skin distorts and bends around the shape of the earth (reef or sandbank), forming the 'wave'.
 
