@@ -43,7 +43,7 @@ And after you fill your bowl you soon empty it again.
 
 
 
-{% responsive_image path: uploads/2017/06/170615_photo_rokma_surfPlease.jpg %}
+{% responsive_image path: uploads/2017/06/170615_photo_rokma_surf_please.jpg %}
 
 You ingest its contents, let them nourish you, and then the next day fill your bowl with something else and repeat the process all over again.
 
