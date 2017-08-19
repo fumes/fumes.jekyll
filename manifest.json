@@ -1,5 +1,6 @@
 {
     "name": "Fumes",
+    "short_name": "Fumes",
     "icons": [
         {
             "src": "/android-chrome-36x36.png?v=2017",
