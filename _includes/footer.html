@@ -10,7 +10,7 @@
     <div class="footer__socialicons">
     {% for svg in site.socialicons %}
 
-      <a target="_blank" href="{{ svg.gourl }}" title="{{ svg.name }}">{{ svg.content }}</a>
+      <a href="{{ svg.gourl }}" title="connect using {{ svg.name }}">{{ svg.content }}</a>
 
     {% endfor %}
 

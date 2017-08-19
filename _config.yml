@@ -8,7 +8,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The current release of Fumes Project website
-version: v3.11.2
+version: v3.12.0
 
 # Site owner
 owner:
@@ -64,7 +64,7 @@ defaults:
      permalink: /:categories/:title/
 
 
-gems:
+plugins:
   - jekyll-feed
 
   - jekyll-sitemap
@@ -97,7 +97,7 @@ responsive_image:
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
-    - width: 480  # [Required] How wide the resized image will be.
+    - width: 480  # [Required] How wide resized image will be.
       quality: 80 # [Optional] Overrides default_quality for this size.
     - width: 960
       quality: 50
