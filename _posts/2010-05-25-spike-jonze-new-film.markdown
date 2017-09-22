@@ -18,17 +18,18 @@ tags:
 license:
 thumb: lazzarus.jpg
 ---
-On May 24th, <a traget="_blank" title="see The Lazarus Effect movie on youtube" href="https://www.youtube.com/embed/l16YH6xCN4c?rel=0?autoplay=1">"The Lazarus Effect" by director Lance Bangs and executive producer Spike Jonze </a> premieres on HBO, YouTube and Channel 4 (UK).
+On May 24th, <a title="see The Lazarus Effect movie on youtube" href="https://www.youtube.com/embed/l16YH6xCN4c?rel=0?autoplay=1">"The Lazarus Effect" by director Lance Bangs and executive producer Spike Jonze </a> premieres on HBO, YouTube and Channel 4 (UK).
 
 The 30 minute film illustrates the transformative effect of life-saving antiretroviral medicine through the stories of four HIV+ people in Zambia - Connie, Paul, Constance and Bwalya. By taking the ARV medicine &ndash; 2 life-saving pills that cost around 40 cents a day &ndash; in as few as 40 days, the medicine can help bring people back to life.
 
-{% video //www.youtube.com/embed/l16YH6xCN4c?autoplay=1 width=740 height=416 %}
+{% include video.html url="https://www.youtube.com/embed/l16YH6xCN4c?autoplay=1" width="740" height="416" %}
+
 
 HIV/AIDS is a preventable and treatable disease yet it has killed more than 20 million people in Africa. In 2002 only 50,000 people had access to the medication  due to its high cost.  
 
 Today, thanks to reduced costs and increased access, more than 3 million people in Africa are now receiving treatment. Still, 3,800 people die every day in sub-Saharan Africa from AIDS. &ldquo;The Lazarus Effect&rdquo; film shows that this needn't be the case.
 
-_The director in an interview (<a href="http://www.hbo.com/documentaries/the-lazarus-effect/interview/lance-bangs.html" target="_blank">here</a>) tell us:_
+_The director in an interview (<a href="http://www.hbo.com/documentaries/the-lazarus-effect/interview/lance-bangs.html"  >here</a>) tell us:_
 
 <blockquote>"After all the relief efforts around the world that have had problems with mismanagement, corruption, graft, or ineffectiveness over the years it is tremendous to see something that works" </blockquote>
 

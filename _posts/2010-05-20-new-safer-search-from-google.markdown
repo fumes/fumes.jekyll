@@ -32,7 +32,7 @@ Google's encryption extends beyond login passwords to the entire service.
 
 An new encrypted connection is created between your browser and Google when you use:
 
-<a href="https://www.google.com" target="_blank">https://www.google.com</a>
+<a href="https://www.google.com"  >https://www.google.com</a>
 
 This secured channel helps protect your search terms and your search results pages <strong>from being intercepted</strong> by a third party on your network.
 
@@ -40,6 +40,6 @@ Google will still maintain search data to improve your search quality and to pro
 
 _know more:_{:class="readmore"}
 
-- <a href="http://googleblog.blogspot.com/2010/05/search-more-securely-with-encrypted.html" target="_blank">Quick overlook here</a>
+- <a href="http://googleblog.blogspot.com/2010/05/search-more-securely-with-encrypted.html"  >Quick overlook here</a>
 
-- <a href="http://www.google.com/support/websearch/bin/answer.py?answer=173733&amp;hl=en" target="_blank">Full details here</a>
+- <a href="http://www.google.com/support/websearch/bin/answer.py?answer=173733&amp;hl=en"  >Full details here</a>

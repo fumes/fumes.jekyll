@@ -8,7 +8,7 @@ projectimage: assets/i/t/fumesyousuck_thumb.png
 license: CC0
 
 # The current release of Fumes Project website
-version: v3.12.0
+version: v3.13.0
 
 # Site owner
 owner:
@@ -64,13 +64,10 @@ defaults:
      permalink: /:categories/:title/
 
 
-plugins:
+plugins_dir:
   - jekyll-feed
 
   - jekyll-sitemap
-
-  # https://github.com/danbee/jekyll-video-tag
-  - jekyll_video_tag
 
   # https://github.com/wildlyinaccurate/jekyll-responsive-image
   # this one throw error so i just use plugin.rb instead of gem!

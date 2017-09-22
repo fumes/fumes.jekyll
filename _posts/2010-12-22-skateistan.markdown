@@ -30,9 +30,9 @@ I commend the organization for helping young girls and boys lead happy and healt
 
 _Valerie Plesch_
 
-{% video //www.youtube.com/embed/h8dYtWXCYE8 width=740 height=416 %}
+{% include video.html url="https://www.youtube.com/embed/h8dYtWXCYE8" width="740" height="416" %}
 
-_Check the project's website:_ <a href="http://skateistan.org" target="_blank"> skateistan.org</a>
+_Check the project's website:_ <a href="https://skateistan.org"> skateistan.org</a>
 
 _Current project:_ DIY Skatepark for Kabul.
 
@@ -42,4 +42,4 @@ _SKATEISTAN says:_
 
 <blockquote>"We need: $10 per bag of cement (total $1,500 for all cement ramps), $200 for reinforcing bar, $300 for tools and other necessary supplies, $3,000 to have a flat smooth concrete slab laid, including labor (about 350 sq meter)."</blockquote>
 
-<blockquote>"See if <a title="DIY Skatepark for Kabul" href="$10 per bag of cement (total $1,500 for all cement ramps) $200 for reinforcing bar $300 for tools and other necessary supplies $3,000 to have a flat smooth concrete slab laid, including labor (about 350 sq meter)" target="_blank"> you can help...</a> "</blockquote>
+<blockquote>"See if you can help...</a> "</blockquote>

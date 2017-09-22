@@ -48,7 +48,6 @@ The illustrated talk is a good way for visual minds to get a high understanding 
 _More frames from the video_
 
 
-
 {% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-04.jpg %}
 
 {% responsive_image path: uploads/2016/07/RSAeconomics-for-everyone-05.jpg %}
@@ -71,7 +70,7 @@ _More frames from the video_
 
 <br>
 
-{% video //www.youtube.com/embed/NdbbcO35arw?rel=fumes?autoplay=0 width=740 height=480 %}
+{% include video.html url="https://www.youtube.com/embed/NdbbcO35arw?rel=fumes?autoplay=0" width="740" height="480" %}
 
 <br>
 

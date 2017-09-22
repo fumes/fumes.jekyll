@@ -90,6 +90,6 @@ Extreme poverty is still rife, especially in big cities like Bangkok.
 
 _read more about Thailand's general election:_{:class="readmore"}
 
-- Bbc <a href="http://www.bbc.co.uk/news/world-asia-pacific-14000629" target="_blank">"Thailand election: Final rallies ahead of Sunday vote"</a>
+- Bbc <a href="http://www.bbc.co.uk/news/world-asia-pacific-14000629"  >"Thailand election: Final rallies ahead of Sunday vote"</a>
 
-- The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html" target="_blank">"Thailand braces for uncertain future"</a>
+- The Independent <a href="http://www.independent.co.uk/news/world/asia/thailand-braces-for-uncertain-future-2306067.html"  >"Thailand braces for uncertain future"</a>

@@ -1,19 +1,61 @@
-## What?_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia.__Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
-♡ Fumes website is now refactored.  ☯ Articles are structured as `photographer`|`curator` symbiotic work.  ✿ This will bloom greener fumes soon...## Structure
-- Now using the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) to automagically deploy to Netlify CDN at every update.
+## What?
 
-- **(this was for gh-pages so now it's not used anymore)** Compiled jekyll **_site**  in [Master branch](https://github.com/fumes/fumes.github.io/tree/master). Compiled locally and synced via rake script .
+_Fumes is an online photography magazine broadcasting human interest stories mainly from South East Asia.__Fumes project was started by two photographers. A metaphor to play with, delivering ideas via images._
 
-- More **working branches** maybe present at times...## Fumes website features- [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  - [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  - [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  - [x] post thumbs. Front-matter declared.  - [x] chrome standalone web app functionality (android only :().  - [x] photographer indexes and navigation.   - [x] open graph.  
+♡ Fumes website is now refactored.  
+
+☯ Articles are structured as `photographer`|`curator` symbiotic work.  
+
+✿ This will bloom greener fumes soon...## Structure
+
+- Now using the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) for development. 'Master branch' is compiled locally and deployed via rake script then automagically pushed to Netlify CDN at every update.
+
+- More **working branches** maybe present at times...
+
+## Fumes website features
+
+- [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)
+
+- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  
+
+- [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  
+
+- [x] smart [inline svg icons](https://github.com/eduardoboucas/eduardoboucas.github.io/tree/master/_includes/svg).  
+
+- [x] auto [tag](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  
+
+- [x] auto [category](http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html) navigation.  
+
+- [x] post thumbs. Front-matter declared.  
+
+- [x] chrome standalone web app functionality (android only :().  
+
+- [x] photographer indexes and navigation.   
+
+- [x] open graph.  
 
 - [x] attribution footnotes ["APPEND to copy action"](https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/) via inlined vanilla js.  
 
 - [x] twitter [cards](https://github.com/merlos/jekyll-auto-image#example-using-twitter-cards) ([tested here..](https://cards-dev.twitter.com/validator)).   - [x] handy prev-next articles navigation.
 
-- [x] SSL/https thanks to Netlify. 
+- [x] SSL/https thanks to Netlify.
+
+- [x] responsive videos without plugins thanks to [eduardo boucas](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
 
 Not yet:
-- [ ] print.css  - [ ] disqus comments (importing old ones from wp...)  - [ ] [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  - [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  - [ ] service workers.  - [ ] No plugins dependencies.
+
+- [ ] print.css  
+
+- [ ] [google authors](http://milanaryal.com/2015/integrating-social-meta-tags-into-jekyll/#integrating-google-authorship-into-jekyll)  
+
+- [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  
+
+- [ ] service workers.
+
+- [ ] No plugins dependencies.
+
+- [ ] disqus (or better, lighter alternative) comments (importing old ones from wp?!)  
+
 
 
 ### Fumes development technologies
@@ -52,7 +94,7 @@ gem install bundler```
 npm install --global gulp
 ```
 
-#### Dev time prerequisites:
+#### Dev prerequisites:
 
 ##### 3. cd into local project's dir
 
@@ -64,6 +106,7 @@ cdf
 ```sh
 bundle install
 ```
+
 ##### 1. Install node dependencies into project's local dir
 
 ```sh
@@ -85,6 +128,7 @@ bundle exec jekyll serve
 ```
 
 ##### 2. Run gulp (optional)
+
 Open a new terminal window and
 
 ```sh
@@ -100,8 +144,6 @@ gulp
 - gem 'jekyll', '3.0.1'
 
 - gem 'jekyll-sitemap'
-
-- gem ['jekyll-video-tag'](https://github.com/danbee/jekyll-video-tag ) , '~> 0.1.0'
 
 - gem ['jekyll-responsive_image'](https://github.com/wildlyinaccurate/jekyll-responsive-image)### Plugins dependencies:
 
@@ -138,10 +180,9 @@ This project creates static HTML files using [Jekyll](http://jekyllrb.com/). The
 
 Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them.
 
-Please, ask for permission first by contacting us: _info@junglestar.org_
+Please, ask for permission first by contacting us: [_info@junglestar.org_](mailto:info@junglestar.org)
 
 Thanks, Junglestar team.
-
 
 ## Photo rights
 

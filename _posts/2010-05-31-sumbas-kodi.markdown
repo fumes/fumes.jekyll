@@ -49,7 +49,7 @@ The Sumbanese are a fierce and noble people, abiding to an old world code of pri
 {% responsive_image path: uploads/2010/05/100531-photographer-alejandro-plesch-sumba-06.jpg %}
 The Lestari Mandorak Foundation was born after three years of field experience: since 2006, a relief project had been initiated by European and Indonesian travelers in Mandorak County, on the Western part of the island of Sumba.
 
-_See<a href="http://mandorak.org" target="_blank"> Lestari Mandorak website</a>_
+_See<a href="http://mandorak.org"  > Lestari Mandorak website</a>_
 
 
 {% responsive_image path: uploads/2010/05/100531-photographer-alejandro-plesch-sumba-08.jpg %}

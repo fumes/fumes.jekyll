@@ -32,7 +32,11 @@ excerpt: Songkran is the traditional New Year's Day in Thailand. It is a time fo
 {% responsive_image path: uploads/2011/04/110424-photographer-rokma-songkran-water-8811.jpg %}
 
 
-Songkran is the traditional New Year's Day in Thailand. It is a time for spiritual cleansing and renewal. Typically the day starts with a visit to the temple where people will collect the water used for bathing the statues of Buddha. Water from a bowl is poured over family, friends and elders as a show of respect and to bless one another with good fortune. As Songkran falls on the hottest day of the year, bowls have been replaced by buckets, hoses, water cannons and water guns. Its wet fun for everyone and everyone gets a fresh start for the New Year.
+Songkran is the traditional New Year's Day in Thailand. It is a time for spiritual cleansing and renewal. Typically the day starts with a visit to the temple where people will collect the water used for bathing the statues of Buddha.
+
+Water from a bowl is poured over family, friends and elders as a show of respect and to bless one another with good fortune.
+
+As Songkran falls on the hottest day of the year, bowls have been replaced by buckets, hoses, water cannons and water guns. Its wet fun for everyone and everyone gets a fresh start for the New Year.
 
 {% responsive_image path: uploads/2011/04/110424-photographer-rokma-songkran-water-8953.jpg %}
 
@@ -68,5 +72,6 @@ Songkran is the traditional New Year's Day in Thailand. It is a time for spiritu
 
 
 
-#####Related post
+##### Related post
+
 [Songkran 2555, the Water Morning ]({% post_url 2012-04-13-songkran-water-morning-celebration %}) is Fumes new post focused on the Event Traditional morning at the Chalong Temple of Phuket.

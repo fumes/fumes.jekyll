@@ -47,6 +47,6 @@ I selectively place these graphics around New york to highlight the unexpected c
 
 _know more:_{:class="readmore"}
 
-- <a target="_blank" href="http://aakashnihalani.com/">Aakash Nihilani personal website</a>
+- <a   href="http://aakashnihalani.com/">Aakash Nihilani personal website</a>
 
 - &nbsp;

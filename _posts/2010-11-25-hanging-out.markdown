@@ -53,6 +53,6 @@ Historically, suspension rituals were performed by the Mandan tribe, located alo
 
 _Read more:_{:class="readmore"}
 
-- <a href="http://en.wikipedia.org/wiki/Suspension_(body_modification)" target="_blank">Read more on suspensions...</a>
+- <a href="http://en.wikipedia.org/wiki/Suspension_(body_modification)"  >Read more on suspensions...</a>
 
-- <a href="http://en.wikipedia.org/wiki/Performance_art" target="_blank">Read more on performance art...</a>
+- <a href="http://en.wikipedia.org/wiki/Performance_art"  >Read more on performance art...</a>

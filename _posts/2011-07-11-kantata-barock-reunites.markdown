@@ -60,4 +60,4 @@ Setiawan Djody is listed by Rolling Stone Magazine as one of Asia's best guitari
 
 {% responsive_image path: uploads/2011/07/110711-kantata-barock-alejandro-plesch-12.jpg %}
 
-<!-- <a title="an international cultural initiative of the State Government of Queensland, Australia, through Events Queensland, to honour and promote the films, actors, directors, and cultures of Asia-Pacific to a global audience and to realise the objectives of UNESCO to promote and preserve the respective cultures through the influential medium of film. " href="http://en.wikipedia.org/wiki/Asia_Pacific_Screen_Awards" target="_blank"></a>  -->
+<!-- <a title="an international cultural initiative of the State Government of Queensland, Australia, through Events Queensland, to honour and promote the films, actors, directors, and cultures of Asia-Pacific to a global audience and to realise the objectives of UNESCO to promote and preserve the respective cultures through the influential medium of film. " href="http://en.wikipedia.org/wiki/Asia_Pacific_Screen_Awards"  ></a>  -->

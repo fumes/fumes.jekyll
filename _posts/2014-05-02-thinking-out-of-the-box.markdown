@@ -31,21 +31,21 @@ thumb: thinking.jpg
 
 Pranav Mistry is a real source of inspirations for his "Thinking out of the box".
 
-Inventor of SixthSense, Pranav Mistry, here at TedIndia demos several tools that help the physical world interact with the world of data. He works at MIT and published SixthSense as <a target="_blank" title="open source code sixthsense" href="https://code.google.com/p/sixthsense/">open source</a>. In 2014 after 12 million views on <a target="_blank" title="TED Ideas worth spreading" href="http://www.ted.com">Ted</a> and 5 years online, this speech still sounds pretty incredible, check it out...
+Inventor of SixthSense, Pranav Mistry, here at TedIndia demos several tools that help the physical world interact with the world of data. He works at MIT and published SixthSense as <a title="open source code sixthsense" href="https://code.google.com/p/sixthsense/">open source</a>. In 2014 after 12 million views on <a title="TED Ideas worth spreading" href="http://www.ted.com">Ted</a> and 5 years online, this speech still sounds pretty incredible, check it out...
 
 
-{% video //embed.ted.com/talks/lang/id/pranav_mistry_the_thrilling_potential_of_sixthsense_technology.html width=740 height=416 %}
+{% include video.html url="https://embed.ted.com/talks/lang/id/pranav_mistry_the_thrilling_potential_of_sixthsense_technology.html" width="740" height="416" %}
 
 Subtitles available in 41 languages, start the video and change language in the bottom right corner.
 
 
-• _Why you should listen_
+_Why you should listen_
 
 Pranav Mistry is a PhD student in the Fluid Interfaces Group at MIT's Media Lab. Before his studies at MIT, he worked with Microsoft as a UX researcher; he's a graduate of IIT. Mistry is passionate about integrating the digital informational experience with our real-world interactions.
 
 Some previous projects from Mistry's work at MIT includes intelligent sticky notes, Quickies, that can be searched and can send reminders; a pen that draws in 3D; and TaPuMa, a tangible public map that can act as Google of physical world. His research interests also include Gestural and Tangible Interaction, Ubiquitous Computing, AI, Machine Vision, Collective Intelligence and Robotics.
 
-• _Excerpt from Ted's transcript_
+_Excerpt from Ted's transcript_
 
 Chris Anderson
 
@@ -83,10 +83,10 @@ Pranav Mistry
 
 _Read more:_{:class="readmore"}
 
-- <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript" target="_blank">Interactive transcript of this speech (41 languages)</a>
+- <a title="multi language transcript of this speech on ted.com" href="http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology/transcript"  >Interactive transcript of this speech (41 languages)</a>
 
-- <a title="pranav mistry website" href="http://www.pranavmistry.com/" target="_blank">Pranav Mistry website</a>
+- <a title="pranav mistry website" href="http://www.pranavmistry.com/"  >Pranav Mistry website</a>
 
-- <a title="code sixthsense" href="https://code.google.com/p/sixthsense/" target="_blank">SixthSense code</a>
+- <a title="code sixthsense" href="https://code.google.com/p/sixthsense/"  >SixthSense code</a>
 
-- <a title="read more on Pranav Mistry " href="http://en.wikipedia.org/wiki/Pranav_Mistry" target="_blank">Pranav Mistry on Wikipedia</a>
+- <a title="read more on Pranav Mistry " href="http://en.wikipedia.org/wiki/Pranav_Mistry"  >Pranav Mistry on Wikipedia</a>

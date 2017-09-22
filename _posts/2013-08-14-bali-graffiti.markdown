@@ -60,4 +60,4 @@ Stop and read your message, it is wiser.
 Beware stranger... this ain't your home!
 
 Like it?!
-Check other works from Luci Ferrero on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!" target="_blank">luciferrero.asia</a>
+Check other works from Luci Ferrero on her blog: <a href="http://luciferrero.asia" title="check Luci's works on her blog!"  >luciferrero.asia</a>

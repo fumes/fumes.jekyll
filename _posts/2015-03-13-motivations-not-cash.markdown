@@ -31,10 +31,8 @@ What motivate us? This inspiring illustrated talk inquiries how motivations driv
 
 Adapted from Dan Pink's talk at the RSA, this video illustrates some hidden truths behind what really motivates us at home and in the workplace. Animation by Cognitive Media. Produced by RSA Animate.
 
-{% video //www.youtube.com/embed/u6XAPnuFjJc width=740 height=416 %}
+{% include video.html url="https://www.youtube.com/embed/u6XAPnuFjJc" width="740" height="416" %}
 
 _know more:_{:class="readmore"}
 
-- <a target="_blank" href="https://www.thersa.org/discover/videos/rsa-animate/">RSA animate</a>
-
-- &nbsp;
+- <a href="https://www.thersa.org/discover/videos/rsa-animate/">RSA animate</a>
