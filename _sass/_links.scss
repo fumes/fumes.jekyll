@@ -1,14 +1,22 @@
 //Links
+
 a {
   color: $alert_color;
   text-decoration: none;
 
-  svg{fill: darken($alert_color, 30%);}
+  svg {
+    fill: darken($alert_color, 30%);
+  }
 
   &:hover {
+    cursor: pointer;
     color: darken($alert_color, 20%);
-    svg {fill: $alert_color;}
+
+    svg {
+      fill: $alert_color;
+    }
   }
+
   &:visited {
     color: darken($alert_color, 50%);
   }
@@ -18,7 +26,6 @@ a {
   }
 }
 
-
-svg .tblack{
+svg .tblack {
   fill: rgba(22,22,22,.75);
 }

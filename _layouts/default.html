@@ -3,22 +3,43 @@
 
   {% include head.html %}
 
-  <body class="has_default_license">
+  <body {% if page.role != 'home' %}class="has_default_license"{% endif %}>
 
     {% include header.html %}
 
-    {% include belly.html %}
+    <main class="main" role="main" id="main">
 
-    {% include nav--posts-all.html %}
+      <div class="content {%if page.categories%}{{ page.categories }}{%else%}index{%endif%}">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </div>
 
-    {% include nav--tags.html %}
+      {% if page.role != 'home' %}
+        {% include nav--posts-all.html %}
+      {% else %}
+        {% include nav--posts.html %}
+      {% endif %}
+
+      {% include nav--tags.html %}
+
+    </main>
+
+    {% if page.layout == 'post' %}
+      {% include nav--horizzo-titled.html %}
+    {% endif %}
 
     {% include footer.html %}
 
-
     {% include scripts_microdata.html %}
 
-    {% include scripts.html %}
+    {% include script_fade_on_nav_hover.html %}
+
+    {% include script_ext_link.html %}
+
+    {% include script_append_to_copy.html %}
+
+    {% include script_analytics.html %}
 
   </body>
 

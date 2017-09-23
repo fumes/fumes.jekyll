@@ -1,56 +1,57 @@
-.fumes{ 
+.fumes {
   background-color: transparent;
   font-family: Helvetica;
   text-align: center;
   line-height: 10vw;
-  font-size: 400px;//fallback
+  font-size: 400px; //fallback
   font-size: 43vh;
   font-weight: 600;
   position: absolute;
-  top:0;
-  width:100%;
+  top: 0;
+  width: 100%;
   padding: 3rem;
-
-  @include media( "screen", "<minWidth"){
+  @include media( "screen", "<minWidth") {
     top: 4vh;
     line-height: 10vw;
     font-size: 33vh;
   }
-
-  @include media( "screen", ">maxWidth"){
+  @include media( "screen", ">maxWidth") {
     line-height: 10vw;
     font-size: 33vh;
-    > * { margin: 0 -5vw; } 
+
+    > * {
+      margin: 0 -5vw;
+    }
   }
 
   > * {
     display: inline-block;
-    padding:0;
+    padding: 0;
     margin: 0 -4vw;
     color: $brand_color;
-    opacity: .2;
+    opacity: 0.2;
   }
 }
 
 .u {
-  color: orange;//fallback
+  color: orange; //fallback
   color: hsla(0, 100%, 100%, 0.5);
   -webkit-transform: rotateX(180deg);
   -moz-transform: rotateX(180deg);
   -ms-transform: rotateX(180deg);
-  
   -webkit-transform-origin: 50% 47%;
   -ms-transform-origin: 50% 47%;
   transform-origin: 50% 47%;
-    
   -webkit-backface-visibility: visible;
-  -moz-backface-visibility:    visible;
-  -ms-backface-visibility:     visible;
-    
-  &:hover{
-    color: orange;//fallback
+  -moz-backface-visibility: visible;
+  -ms-backface-visibility: visible;
+
+  &:hover {
+    color: orange; //fallback
     color: hsla(12, 100%, 50%, .9);
-    opacity:1;
+    opacity: 1;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
@@ -58,39 +59,43 @@
 }
 
 .e {
-  color: $white;//fallback
+  color: $white; //fallback
   color: hsla(0, 100%, 100%, .5);
-
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
-    
   -webkit-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
-  
   -webkit-backface-visibility: visible;
-  -moz-backface-visibility:    visible;
-  -ms-backface-visibility:     visible;
-  &:hover{
-    color:yellow;//fallback
+  -moz-backface-visibility: visible;
+  -ms-backface-visibility: visible;
+
+  &:hover {
+    color: yellow; //fallback
     color: hsla(12, 100%, 50%, .9);
-    opacity:1;
+    opacity: 1;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
-  }  
-}
-
-.f, .s, {
-  &:hover{
-    color: $black;
-    opacity: .5;
   }
 }
 
-.m:hover{
-  color: $black;
-  opacity:1;
+.f,
+.s {
+  &:hover {
+    color: $black;
+    opacity: 0.5;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+  }
 }
 
+.m:hover {
+  color: $black;
+  opacity: 1;
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s;
+}

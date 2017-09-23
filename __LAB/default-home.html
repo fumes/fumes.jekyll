@@ -7,7 +7,12 @@
 
     {% include header.html %}
 
-    {% include belly.html %}
+    <div class="content {%if page.categories%}{{ page.categories }}{%else%}index{%endif%}" role="main" >
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
 
     {% include nav--posts.html %}
 

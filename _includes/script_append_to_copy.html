@@ -1,24 +1,4 @@
 {% comment %}
-open external link in new window
-
-can also be: links[i].hostname != 'subdomain.example.com'
-{% endcomment %}
-<script>
-(function() {
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-
-    if (links[i].hostname != window.location.hostname) {
-      links[i].target = '_blank';
-      links[i].className += ' externalLink';
-      // add rel="noopener" too, dude...
-      links[i].rel += "noopener";
-    }
-  }
-})();
-</script>
-
-{% comment %}
 APPEND to copy action
 https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-pasted-text/
 {% endcomment %}
@@ -53,24 +33,3 @@ https://www.jitbit.com/alexblog/230-javascript-injecting-extra-info-to-copy-past
   document.oncopy = addLink;
 
 </script>
-
-
-
-
-{% if site.owner.google.analytics %}
-  <script>
-
-    var _gaq = _gaq || [];
-    var pluginUrl =
-   '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-    _gaq.push(['_setAccount', '{{ site.owner.google.analytics }}']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-{% endif %}
