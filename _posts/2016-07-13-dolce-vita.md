@@ -31,13 +31,13 @@ Genova, an Italian harbour city was once a city state, an independent republic b
 
 People perception and customs sometimes don't quite follow reality changes. Most of us just keep on repeating the past. Even when past conditions are not here anymore. We call it tradition and it's perceived as safer than striving for better. Because it always worked like that, we tend to suppose it will always will.
 
-People from Genova still live "la Dolce Vita". And they're still very "Superb" about it. So la dolce vita, the sweet life, what is it? Here, today it has the decadent sounds of separation stubbornness solitude. See for yourself...
+People from Genova still live "la Dolce Vita". And they're still very "Superb" about it. But la dolce vita, the sweet life, what is it? Here, today it has the decadent sounds of separation, stubbornness, solitude. See for yourself...
 
 
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-01.jpg %}
 
-Genova, located in a natural bay facing south in the north Mediterranean sea, is and old city grown around his lighthouse.
+Genova, located in a natural bay facing south in the north part of the Mediterranean sea, is and old city grown around his lighthouse.
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-02.jpg %}
 
@@ -49,7 +49,7 @@ Literally "here we live well".
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-04.jpg %}
 
-Since 1971, Genova has lost more than a quarter of inhabitants, while it is still the major Italian port with 42,4 million tons of traffic.
+Since 1971, Genova has lost more than a quarter of inhabitants, while it is still the major Italian port with 51.6 million tonnes of traffic yearly in 2013.
 
 Kids are few. People have no time for them. People don't see value in having children here. When they arrive, kids are raised to be diligent taxi customers, used to buckle up and be quiet since young age. Rely on dogs for companionship. Learn that!
 
@@ -63,7 +63,7 @@ Locals are mostly elders and retired.
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-08.jpg %}
 
-Youth and outdoor lovers have plenty of cheap summer fun. The sea still play a big role in people lives here. Its really easily accessible.
+Youth and outdoor lovers have plenty of cheap summer fun. The sea still play a big role in people lives here. It's really easily accessible.
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-09.jpg %}
 
@@ -99,7 +99,7 @@ Sometimes it looks like a sad life, even if it's actually pretty good, at least 
 
 {% responsive_image path: uploads/2016/07/160713-photographer-francesco-mancini-zena-13.jpg %}
 
-Fact is that problems don't go away by simply ignoring them. Resisting is what they have always done here, like their speciality, besides Pesto.
+Fact is, that problems don't go away by simply ignoring them. Resisting is what they have always done here, like their speciality, alongside with Pesto.
 
 Most people lock themselves up and worry. And that's really, nothing new.
 
