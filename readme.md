@@ -8,7 +8,9 @@ _Fumes is an online photography magazine broadcasting human interest stories mai
 
 ✿ This will bloom greener fumes soon...## Structure
 
-- Now using the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) for development. 'Master branch' is compiled locally and deployed via rake script then automagically pushed to Netlify CDN at every update.
+- Now using the [Source branch](https://github.com/fumes/fumes.github.io/tree/source) for development which is then deployed automagically to Netlify CDN at every update.
+
+- 'Master branch' is redundant now. It's just the locally compiled ```_site``` folder pushed via rake script (not useful, just a compiled copy without source files... just an exercise, might even delete it someday!)
 
 - More **working branches** maybe present at times...
 
@@ -16,7 +18,7 @@ _Fumes is an online photography magazine broadcasting human interest stories mai
 
 - [x] microformats. [example test here](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffumes.junglestar.org%2Fstudies%2Fform)
 
-- [x] serious [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  
+- [x] serious, maybe dated,  [responsive](https://github.com/wildlyinaccurate/jekyll-responsive-image) [image](https://github.com/BBC-News/Imager.js/).  
 
 - [x] ultra simple [codepen-geek](http://codepen.io/rokma/full/pJBXbg/) responsive logo.  
 
