@@ -4,7 +4,7 @@
 
     <p class="footer__description">{{ site.description }}</p>
 
-    <p class="footer__description">There are currently {{ site.posts | size }} Fumes articles.</p>
+    <p class="footer__description">{% if page.layout==default %}Copyright © 2010 - {{ "now" | date: "%Y" }} <a href="https://junglestar.org">Junglestar</a> - {% endif %}There are currently {{ site.posts | size }} Fumes articles.</p>
 
 
     <div class="footer__socialicons">
