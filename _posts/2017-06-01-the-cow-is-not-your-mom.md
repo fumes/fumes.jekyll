@@ -56,4 +56,4 @@ She has the ability to craft simple ironic memes and the courage to speak out of
 
 "I want to encourage fellow vegans to try to find their own creative voice for the animals... We ...are all talented in one way or another... you will find your own voice with which you can help raise awareness and advocate equality for all species on this planet."
 
-Wanna know more about Melinda? [here are her links]({{ site.url }}/photographer/melinda-hegedus/)
+Wanna know more about Melinda? [Here are her links]({{ site.url }}/photographer/melinda-hegedus/)
