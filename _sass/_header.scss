@@ -1,75 +1,80 @@
 //header block
+
 .header {
-    background-color: $background_color;
-    border-bottom: 1px solid $grey_color_dark;
-    min-height: 56px;
-    // Positioning context for future mobile navigation icon
-    position: relative;
-    padding-top: 1rem;
-    overflow: hidden;
+  background-color: $background_color;
+  border-bottom: 1px solid $grey_color_dark;
+  min-height: 56px;
+  // Positioning context for future mobile navigation icon
+  position: relative;
+  padding-top: 1rem;
+  overflow: hidden;
 }
 
 .header__title {
-    font-size: $base_font_size * 4;
-    text-transform: uppercase;
-    font-weight: 100;
-    line-height: $small_line_height;
-    letter-spacing: -1px;
-    color: $white;
-    display: block;
-    position: relative;
-    left:0;
-    min-height:270px;
-    margin-top: 2rem;
-    padding-top: 2rem;
-    margin-bottom: 0;
+  font-size: $base_font_size * 4;
+  text-transform: uppercase;
+  font-weight: 100;
+  line-height: $small_line_height;
+  letter-spacing: -1px;
+  color: $white;
+  display: block;
+  position: relative;
+  left: 0;
+  min-height: 270px;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  margin-bottom: 0;
 
-    &:visited {color: darken($white, 15%);}
+  &:visited {
+    color: darken($white, 15%);
+  }
 
-    &:hover,
-    &:visited:hover {color: lighten($grey_color, 15%);}
+  &:hover,
+  &:visited:hover {
+    color: lighten($grey_color, 15%);
+  }
 }
 
-.header__subtitle{
-    font-size: $base_font_size*1.2;
-    line-height: $base_line_height;
-    text-align: center;
-    width:100%;
-    color: red;
+.header__subtitle {
+  font-size: $base_font_size*1.2;
+  line-height: $base_line_height;
+  text-align: center;
+  width: 100%;
+  color: red;
 }
 
-
-.fumes{
+.fumes {
   background-color: transparent;
   font-family: "Open-sans", Helvetica;
   text-align: center;
   line-height: 10vw;
-  font-size: 400px;//fallback
+  font-size: 400px; //fallback
   font-size: 43vh;
   font-weight: 600;
   position: absolute;
-  top:0;
-  width:100%;
+  top: 0;
+  width: 100%;
   padding: 3rem;
-
-  @include media( "screen", "<minWidth"){
-      top: 4vh;
-      line-height: 10vw;
-      font-size: 33vh;
+  @include media("screen", "<minWidth") {
+    top: 4vh;
+    line-height: 10vw;
+    font-size: 33vh;
   }
+  @include media("screen", ">maxWidth") {
+    line-height: 10vw;
+    font-size: 33vh;
 
-  @include media( "screen", ">maxWidth"){
-      line-height: 10vw;
-      font-size: 33vh;
-      > * { margin: 0 -5vw; }
+    > * {
+      margin: 0 -5vw;
+    }
   }
 
   > * {
-      display: inline-block;
-      padding:0;
-      margin: 0 -4vw;
-      color: #555;
-      opacity: .2;
+    display: inline-block;
+    padding: 0;
+    margin: 0 -4vw;
+    color: #555;
+    opacity: 0.2;
   }
 }
 
@@ -79,19 +84,17 @@
   -webkit-transform: rotateX(180deg);
   -moz-transform: rotateX(180deg);
   -ms-transform: rotateX(180deg);
-
   -webkit-transform-origin: 50% 47%;
   -ms-transform-origin: 50% 47%;
   transform-origin: 50% 47%;
-
   -webkit-backface-visibility: visible;
-  -moz-backface-visibility:    visible;
-  -ms-backface-visibility:     visible;
+  -moz-backface-visibility: visible;
+  -ms-backface-visibility: visible;
 
-  &:hover{
+  &:hover {
     color: orange;
     color: hsla(12, 100%, 50%, 1);
-    opacity:1;
+    opacity: 1;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
@@ -102,22 +105,20 @@
   color: $white;
   color: hsla(0, 100%, 50%, .5);
   color: hsla(0, 100%, 100%, 0.5);
-
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
-
   -webkit-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
-
   -webkit-backface-visibility: visible;
-  -moz-backface-visibility:    visible;
-  -ms-backface-visibility:     visible;
-  &:hover{
-    color:yellow;
+  -moz-backface-visibility: visible;
+  -ms-backface-visibility: visible;
+
+  &:hover {
+    color: yellow;
     color: hsla(12, 100%, 50%, 1);
-    opacity:1;
+    opacity: 1;
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);

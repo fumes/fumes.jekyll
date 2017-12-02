@@ -7,10 +7,11 @@
     clear: both;
   }
 }
-
 //Placeholders 
 // use: ( @extend %no_select; )
-.no_select, %no_select {
+
+%no_select,
+.no_select {
   -webkit-touch-callout: none!important;
   -webkit-user-select: none!important;
   -khtml-user-select: none!important;
@@ -18,12 +19,11 @@
   -ms-user-select: none!important;
   user-select: none!important;
 }
-
 //user events utils
-.kill_mouse_touch, %kill_mouse_touch{ 
+%kill_mouse_touch,
+.kill_mouse_touch {
   pointer-events: none!important;
 }
-
 //prevent select + copy action?
 // [alt],
 // [title],

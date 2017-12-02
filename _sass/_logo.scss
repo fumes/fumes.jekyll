@@ -10,12 +10,12 @@
   top: 0;
   width: 100%;
   padding: 3rem;
-  @include media( "screen", "<minWidth") {
+  @include media("screen", "<minWidth") {
     top: 4vh;
     line-height: 10vw;
     font-size: 33vh;
   }
-  @include media( "screen", ">maxWidth") {
+  @include media("screen", ">maxWidth") {
     line-height: 10vw;
     font-size: 33vh;
 

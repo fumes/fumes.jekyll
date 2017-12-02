@@ -1,18 +1,19 @@
 //footer block
+
 .footer {
   background-color: $background_color;
   border-top: 1px solid $grey_color_dark;
   padding: $spacing_unit 0;
-  color:$grey_color;
+  color: $grey_color;
 }
 
-.footer__description{
-  text-align:center;
-  width:100%;
-  display:block;
+.footer__description {
+  text-align: center;
+  width: 100%;
+  display: block;
 }
 
-.footer__socialicons{
+.footer__socialicons {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -32,36 +33,38 @@
   align-items: center;
   margin: 0 auto;
   max-width: 25%;
-  @include media( "screen", ">minWidth") {
-    -webkit-box-orient: horizontal;    -webkit-box-direction: normal;    -webkit-flex-direction: row;
+  @include media("screen", ">minWidth") {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
     max-width: 75%;
   }
-  @include media( "screen", ">bp1Width") {
+  @include media("screen", ">bp1Width") {
     max-width: 50%;
   }
 
-  svg{
+  svg {
     width: $icon_size;
     height: $icon_size;
   }
 
   a {
-    -webkit-flex-basis: auto;    -ms-flex-preferred-size: auto;
+    -webkit-flex-basis: auto;
+    -ms-flex-preferred-size: auto;
     flex-basis: auto;
-
-    @include media( "screen", ">minWidth") {
+    @include media("screen", ">minWidth") {
       -webkit-flex-basis: 130px;
       -ms-flex-preferred-size: 130px;
       flex-basis: 130px;
     }
-
     display: block;
-    margin:1rem 0;
+    margin: 1rem 0;
     padding: 0 1vw;
 
-    &:hover svg { fill: $alert_color;}
-
+    &:hover svg {
+      fill: $alert_color;
+    }
   }
 }

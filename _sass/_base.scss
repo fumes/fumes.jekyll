@@ -27,6 +27,7 @@ ul {
   padding: 0;
 }
 // Basic styling
+
 html {
   font-size: $base_font_size;
   background-color: red;
@@ -58,6 +59,7 @@ a::selection {
   color: orange;
 }
 //Set `margin-bottom` to maintain vertical rhythm
+
 %vertical_rhythm,
 blockquote,
 dl,
@@ -75,12 +77,16 @@ ul {
   margin-bottom: $spacing_unit / 2;
 }
 //Images
+
 img {
   vertical-align: middle;
   margin-top: $spacing_unit;
   margin-bottom: $spacing_unit / 2;
+  // chrome improved images
+  image-rendering: -webkit-optimize-contrast;
 }
 // Figures
+
 figure > img {
   display: block;
 }
@@ -89,18 +95,20 @@ figcaption {
   font-size: $small_font_size;
 }
 //Lists
+
 ol,
 ul {
   margin-left: $spacing_unit;
 }
 
 li {
-   > ol,
-  > ul {
+  > ul,
+  > ol {
     margin-bottom: 0;
   }
 }
 //Blockquotes
+
 blockquote {
   border-left: 3px solid $grey_color_dark;
   padding-left: $spacing_unit / 2;
@@ -113,6 +121,7 @@ blockquote {
   }
 }
 //SVGs
+
 svg {
   display: block;
   width: 100%;
@@ -124,6 +133,7 @@ svg {
   }
 }
 //Code formatting
+
 code,
 pre {
   font-size: $base_font_size * 1.1;
@@ -152,6 +162,7 @@ pre {
   text-transform: capitalize;
 }
 //hide stuff
+
 .hide {
   display: none!important;
 }
@@ -164,6 +175,7 @@ pre {
   margin: 0;
 }
 //future print styles
+
 .qrcode {
   display: none;
 }
@@ -178,6 +190,7 @@ pre {
   }
 }
 //all external links inside content block, not the footer ones!
+
 .content a[target="_blank"]:before {
   content: "";
   position: relative;
