@@ -218,3 +218,12 @@
 .readmore:first-letter {
   text-transform: uppercase!important;
 }
+
+.reading_time {
+  font-size: 1rem;
+  color: $grey_color;
+  line-height: .5;
+  em {
+
+  }
+}

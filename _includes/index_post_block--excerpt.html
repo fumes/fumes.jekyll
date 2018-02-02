@@ -12,7 +12,13 @@
       <img class="nothumb" src="{{site.baseur}}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
       {% endif %}
 
+      {% capture time %}{{ post.content | reading_time }}{% endcapture %}
+      <div class="reading_time">
+        <em>Read in {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}</em>
+      </div>
+
     </div>
+
 
     {% if post.excerpt %}
     <div class="excerpt">

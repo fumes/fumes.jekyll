@@ -44,6 +44,9 @@ _Fumes is an online photography magazine broadcasting human interest stories mai
 
 - [x] responsive videos without plugins thanks to [eduardo boucas](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
 
+- [x] Reading time estimates. Using this gem [liquid_reading_time](https://github.com/bdesham/reading_time)
+
+
 Not yet:
 
 - [ ] print.css  
@@ -53,8 +56,6 @@ Not yet:
 - [ ] [Google Author Rich Snippets](http://davidensinger.com/2013/05/setting-up-google-author-rich-snippets/)  
 
 - [ ] service workers.
-
-- [ ] No plugins dependencies.
 
 - [ ] disqus (or better, lighter alternative) comments (importing old ones from wp?!)  
 
@@ -146,6 +147,8 @@ gulp
 - gem 'jekyll', '3.0.1'
 
 - gem 'jekyll-sitemap'
+
+- gem 'liquid_reading_time'
 
 - gem ['jekyll-responsive_image'](https://github.com/wildlyinaccurate/jekyll-responsive-image)### Plugins dependencies:
 

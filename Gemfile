@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '0.11.0'
   gem 'jekyll-responsive-image'
   gem 'jekyll-feed'
+  gem 'liquid_reading_time'
 end

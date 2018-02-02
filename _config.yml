@@ -75,6 +75,8 @@ plugins_dir:
   # put back jekyll-tag gem. or use  _plugins/categories_tags_generator.rb!
   # http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html
 
+  - liquid_reading_time
+
 
 ## ADDONS / PLUGINS /.rb
 
