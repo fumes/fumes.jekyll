@@ -72,6 +72,6 @@ As Songkran falls on the hottest day of the year, bowls have been replaced by bu
 
 
 
-##### Related post
+### Related post
 
 [Songkran 2555, the Water Morning ]({% post_url 2012-04-13-songkran-water-morning-celebration %}) is Fumes new post focused on the Event Traditional morning at the Chalong Temple of Phuket.

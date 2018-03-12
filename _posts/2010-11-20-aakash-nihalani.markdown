@@ -22,7 +22,7 @@ tags:
 license:
 thumb: Aakash-Nihilani.jpg
 ---
-### Aakash Nihilani
+## Aakash Nihilani
 
 {% responsive_image path: uploads/2010/11/101120-Aakash-Nihilani-review-04.jpg %}
 "My street work consists mostly of isometric rectangles and squares.

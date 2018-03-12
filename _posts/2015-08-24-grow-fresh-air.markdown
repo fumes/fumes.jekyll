@@ -35,7 +35,7 @@ Researcher Kamal Meattle shows how an arrangement of three common houseplants, u
 
 With its air-filtering plants and sustainable architecture, Kamal Meattle's office park in New Delhi is a model of green business. Meattle himself is a longtime activist for cleaning up India's air.
 
-### Why listen
+## Why listen
 
 Kamal Meattle has a vision to reshape commercial building in India using principles of green architecture and sustainable upkeep (including an air-cleaning system that involves massive banks of plants instead of massive banks of HVAC equipment). He started the Paharpur Business Centre and Software Technology Incubator Park (PBC-STIP), in New Delhi, in 1990 to provide "instant office" space to technology companies. PBC-STIP's website publishes its air quality index every day, and tracks its compliance to the 10 principles of the UN Global Compact, a corporate-citizenship initiative.
 

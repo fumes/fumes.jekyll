@@ -45,7 +45,7 @@ So I want you to forget all of that. IT IS CRAP. There is **no reason to learn h
 
 Try asking them things like, **What was that like?'** **'How did that feel?'** Because then they might have to stop for a moment and think about it, and you're going to get a much more interesting response."
 
-### Why listen
+## Why listen
 
 Celeste Headlee hosts a daily news/talk show, On Second Thought, on Georgia Public Broadcasting.
 

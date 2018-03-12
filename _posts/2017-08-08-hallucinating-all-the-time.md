@@ -33,7 +33,7 @@ According to neuroscientist [Anil Seth](https://www.ted.com/speakers/anil_seth),
 "So our experiences of the world around us and ourselves within it -- well, they're kinds of controlled hallucinations that have been shaped over millions of years of evolution to keep us alive in worlds full of danger and opportunity. We predict ourselves into existence."
 
 
-### Why listen
+## Why listen
 
 In his groundbreaking research, Anil Seth seeks to understand consciousness in health and in disease. As founding co-director of the University of [Sussex’s Sackler Centre for Consciousness Science](http://www.sussex.ac.uk/sackler), his research bridges neuroscience, mathematics, artificial intelligence, computer science, psychology, philosophy and psychiatry.
 

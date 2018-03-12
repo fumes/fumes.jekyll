@@ -11,7 +11,7 @@ tags:
 - black-and-white
 - Indonesia
 - personal-works
-- review
+- Indonesia
 - H2O
 - Bali
 - photography

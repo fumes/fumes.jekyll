@@ -79,7 +79,7 @@ Heringer uses low-tech materials like mud and bamboo to create structures from C
 "All around us, and just below our feet ... are wonderful natural building materials. Let's use them. And I deeply believe our homes, our work spaces, our cities would become more healthy and sustainable and more humane and beautiful."
 
 
-### Why listen
+## Why listen
 
 Before she became an architect, a visit to a small village in Bangladesh immediately hooked Anna Heringer on an ancient and yet neglected building material, earth. With its easy availability, durability and endless recyclability, she realized, there was a reason its use has persisted for thousands of years.
 
