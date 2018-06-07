@@ -35,7 +35,7 @@ Organized geographically offer infos on cost of living, housing, health care, tr
 {% responsive_image path: uploads/2013/02/130225-numbeo-review-02.jpg %}
 Check it out for your self, and if you find it incorrect or incomplete consider posting some updated prices from your area, we are one world!
 
-<a href="http://munbeo.com" title="munbeo - wisdom of the crowd "  >Numbeo</a>
+<a href="http://www.munbeo.com" title="munbeo - wisdom of the crowd "  >Numbeo</a>
 
 <a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp" title="Quality of Life Index for Country for 2013"  >Quality of life Index</a>
 
