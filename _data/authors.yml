@@ -20,7 +20,7 @@ lance:
 
 rokma:
   name: Rokma
-  web: rokma.com
+  web: https://rokma.com
   gplus: rokma
   twitter: rokmatwit
   fbPage: rokmaphotography
@@ -28,7 +28,7 @@ rokma:
 
 melinda:
   name: Melinda Hegedus
-  web: melindahegedus.com
+  web: https://melindahegedus.com
   tumblr: memememelinda
   instagram: memememelinda
   fbProfile: memememelinda
@@ -37,4 +37,9 @@ melinda:
 james:
   name: James Fullwood
   email: indescrybable@gmail.com
-  web: hkumath.hku.hk/~fullwood/
+  web: http://hkumath.hku.hk/~fullwood/
+
+andrea:
+  name: Andrea Capello
+  email: andreacapello106@hotmail.com
+  instagram: andrea.capello.27

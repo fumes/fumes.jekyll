@@ -79,9 +79,18 @@ layout: default
 
     {% if photographer.web %}
     <div class="photographer__meta">
-      <a rel="author" href="http://{{ photographer.web }}" title="{{ photographer.name }}" target="_blank" rel="noopener">
+      <a rel="author" href="{{ photographer.web }}" title="{{ photographer.name }}" target="_blank" rel="noopener">
         <div class="ico link">{% include svg/use.html id="icn--link" class="link" %}</div>
         <span class="destination">{{ photographer.web }}</span>
+      </a>
+    </div>
+    {% endif %}
+
+    {% if photographer.email %}
+    <div class="author__meta">
+      <a rel="author" href="mailto:{{ photographer.email }}" title="{{ photographer.email }}" target="_blank" rel="noopener">
+        <div class="ico link">{% include svg/use.html id="icn--mail" class="email" %}</div>
+        <span class="destination">{{ photographer.email }}</span>
       </a>
     </div>
     {% endif %}
@@ -148,6 +157,18 @@ layout: default
 <div class="home__posts">
   {% for post in site.posts %}
     {% if post.photographer == 'melinda' %}
+      {% include index_post_block--excerpt.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+
+
+{% if page.photographer == 'andrea' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.photographer == 'andrea' %}
       {% include index_post_block--excerpt.html %}
     {% endif %}
   {% endfor %}
