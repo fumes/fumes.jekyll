@@ -30,11 +30,15 @@ excerpt:
 
 We live in a society of consumerism and globalization, everything nowadays is available. We eat, consume, buy, travel, and drink. We want to own more and more things, getting rid of the old and make space for the new.
 
-Despite efforts made by governments and local communities, mountains of garbage are growing every day around the globe, with landfills being the most popular destination for solid waste, by a wide margin. According to World Bank researchers, the world generates at least 3.5 million tons of solid waste a day, 10 times the amount of a century ago, and If nothing is done, that figure will grow to 11 million tons by the end of the century.
+Despite efforts made by governments and local communities, mountains of garbage are growing every day around the globe, with landfills being the most popular destination for solid waste, by a wide margin.
+
+According to World Bank researchers, the world generates at least 3.5 million tons of solid waste a day, 10 times the amount of a century ago, and If nothing is done, that figure will grow to 11 million tons by the end of the century.
 
 The increase in the world population and growth of many economies also made this problem a worldwide emergency especially with dumps, as they release methane, a potent greenhouse gas that traps heat in the atmosphere.
 
-In Bali, as tourism grown more and more every year, the trash at the Suwung Waste Disposal Area made mountains of rubbish that dominate the landscape. It’s a 30 Hectare Trash Mountain Site, with some of this garbage hills up to 30 meters high. Excavators, bulldozers and green trucks dump, move and bury more than 5000 tons of rubbish every day. Suwung is where all the tourist rubbish ends up.
+In Bali, as tourism grown more and more every year, the trash at the Suwung Waste Disposal Area made mountains of rubbish that dominate the landscape. It’s a 30 Hectare Trash Mountain Site, with some of this garbage hills up to 30 meters high.
+
+Excavators, bulldozers and green trucks dump, move and bury more than 5000 tons of rubbish every day. Suwung is where all the tourist rubbish ends up.
 
 As these mountains grown, water gets contaminated and rivers of rubbish and waste eventually reach the sea. While tourist comes and go, remaining clueless as to where their waste ends up, this corner of Bali represents a worldwide problem of our insatiable appetite for consumerism.
 
