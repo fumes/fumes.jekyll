@@ -3,7 +3,7 @@ name: Fumes project is now open source, see our code on github
 gourl: https://github.com/fumes
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 800 800">
+<svg xmlns="https://www.w3.org/2000/svg" viewBox="-5 -5 800 800">
 
   <g shape-rendering="geometricPrecision" fill-rule="evenodd" clip-rule="evenodd">
 

@@ -2,7 +2,7 @@
 name: connect using email
 gourl: mailto:fumesmag@gmail.com
 ---
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16">
+<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 22 16">
     <g shape-rendering="crispEdges" fill-rule="evenodd" clip-rule="evenodd">
         <path d="M22 0H0v2l11 9 11-9V0zm-1 1.36L11 9.646 1 1.36V1h20v.36z"/>
         <path d="M22 16l-6.51-7-.896.814 4.833 5.108H2.46l4.936-5.108L6.5 9 0 16M22 14.396V3.45l-1 .7v9.338M0 14.25l1-.984V4.08l-1-.702"/>
