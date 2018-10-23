@@ -19,7 +19,7 @@ tags:
 - photography
 license: CC_BY
 thumb: products-are-people.jpg
-excerpt:
+excerpt: Products are people and they're looking at me. – Anthropomorphism, the innate human tendency to attribute human or human-like characteristics, motives and behaviors to non-human forms, objects, natural phenomena and events, describes human thoughts and actions.
 ---
 
 >Products are people and they're looking at me.
