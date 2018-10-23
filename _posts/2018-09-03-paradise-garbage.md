@@ -13,16 +13,13 @@ tags:
 - educational
 - life
 - people
-- ritual
 - reflect
-- tradition
 - slum
 - under-covered
 - preventable
 - Bali
 - Indonesia
 - photography
-- black-and-white
 license: CC_BY
 thumb: paradise-garbage.jpg
 excerpt:
