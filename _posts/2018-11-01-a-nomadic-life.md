@@ -19,7 +19,7 @@ tags:
 - photography
 license: CC_BY
 thumb: nomadic-life.jpg
-excerpt:
+excerpt: As an old tradition, Khampas from all over the Tibetan Plateau come to celebrate The Litang Horse Festival every August in Litang County, Sichuan province, China.
 ---
 
 As an old tradition, Khampas from all over the Tibetan Plateau come to trade, celebrate and ride at The Litang Horse Festival every August. A cultural event held in Litang County, Sichuan province, China.
