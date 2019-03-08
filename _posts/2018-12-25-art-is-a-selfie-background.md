@@ -20,7 +20,7 @@ tags:
 - photography
 license: CC_BY
 thumb: art-is-a-selfie-background.jpg
-excerpt:
+excerpt: Art, formerly considered an high end cultural extravaganza, is now entering a new perception phase. Forget the eye opening art-critic comment, the interview with author, the art piece title, just click...
 ---
 
 Art, formerly considered an high end cultural extravaganza, is now entering a new perception phase.
