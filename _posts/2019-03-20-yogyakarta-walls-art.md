@@ -39,35 +39,46 @@ excerpt: The strong nationalism and artistic talent of this city’s young peopl
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-01.jpg %}
 
 
-Yogyakarta on the island of Java is the capital of the Yogyakarta Special Region.
+Yogyakarta, on the island of Java, is the capital of the Yogyakarta Special Region.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-02.jpg %}
 
 
-It is a city with a great ancient past, a city of artists, learning, culture and from 1945 to 1949 Yogyakarta was the capital of the newly formed Republic of Indonesia.
-
+It is a city with a great ancient past, a city of artists, learning and culture.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-03.jpg %}
 
-The strong nationalism and artistic talent of this city’s young people is reflected in these murals that appeared all over the on the eve of the 73 year celebration of Indonesia independence.
+From 1945 to 1949 Yogyakarta was the capital of the newly formed Republic of Indonesia.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-04.jpg %}
 
-Drawing for their inspiration on the mythological heroes of the past, the Garuda as the nation’s symbol and Pancasila as the underlying philosophy of the nation young artists are expressing in these colourful visual offerings their love, concern and loyalty for their country.
+The strong nationalism and artistic talent of this city’s youth is reflected on the city wall art.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-05.jpg %}
 
 
-Indonesia as a unitary state, the five principles of Pancasila and diversity in unity are being celebrated on the walls of Yogyakarta.
+These murals appeared all over the city on the eve of the 73rd celebration of Indonesia independence.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-06.jpg %}
 
-Long live Indonesia.
 
+Young artists are drawing inspired by mythological heroes of the past.
 
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-07.jpg %}
+
+
+The Garuda nation’s symbol and the Pancasila, the founding philosophy of this young nation, are expressed as visual offerings, and political propaganda...
+
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-08.jpg %}
+
+A tribute of love, concern and loyalty for their country, a demonstration of good citizenship.
+
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-09.jpg %}
+
+Indonesia as a united archipelago, the five principles of Pancasila, declaring unity in diversity, are a relatively new concepts, for this developing nation, and definitely still in need of divulgation and celebration, as here, on these walls of Yogyakarta.
+
+
+
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-10.jpg %}
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-11.jpg %}
 {% responsive_image path: uploads/2019/03/190330_photo_luciferrero-12.jpg %}
