@@ -18,7 +18,7 @@ tags:
 - Java
 - photography
 - under-covered
-- visuall
+- visual
 - report
 - street-art
 - slum
