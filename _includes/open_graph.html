@@ -9,12 +9,12 @@
 
 	{% if page.photographer %}
 
-	<meta property="og:title" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% if page.text_author %} and {{text_author.name}}{% endif %} {% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% if page.text_author %}{% if page.text_author != page.photographer %} and {{text_author.name}}{% endif %}{% endif %} {% else %}{{ site.title }}{% endif %}">
 
 	{% else %}
 	{% if page.images_author %}
 
-	<meta property="og:title" content="{% if page.title %}{{ page.title }} by {{images_author.name}}{% if page.text_author %} and {{text_author.name}}{% endif %} {% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} by {{images_author.name}}{% if page.text_author %}{% if page.images_author != page.text_author %} and {{text_author.name}}{% endif %}%{% endif %} {% else %}{{ site.title }}{% endif %}">
 
 	{% endif %}
 
@@ -40,12 +40,12 @@
 <!-- Twitter Cards -->
 	{% if page.photographer %}
 
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% if page.text_author %} and {{text_author.name}}{% endif %} {% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} by {{photographer.name}}{% if page.text_author %}{% if page.text_author != page.photographer %} and {{text_author.name}}{% endif %}{% endif %} {% else %}{{ site.title }}{% endif %}">
 
 	{% else %}
 	{% if page.images_author %}
 
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} by {{images_author.name}}{% if page.text_author %} and {{text_author.name}}{% endif %} {% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} by {{images_author.name}}{% if page.text_author %}{% if page.images_author != page.text_author %} and {{text_author.name}}{% endif %}%{% endif %} {% else %}{{ site.title }}{% endif %}">
 
 	{% endif %}
 

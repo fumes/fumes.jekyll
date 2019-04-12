@@ -26,7 +26,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: bob_kerr.jpg
-excerpt:
+excerpt: Whitespace located in Auckland, Ponsonby is currently showing Bob Kerr. Directors Deborah White and Kenneth Johnson represent many of New Zealand’s senior artists alongside outstanding emerging and mid-career talent.
 ---
 **Whitespace** is situated in a converted warehouse in Ponsonby on the city fringe in Auckland. Directors Deborah White and Kenneth Johnson represent many of New Zealand’s senior artists alongside outstanding emerging and mid-career talent.
 

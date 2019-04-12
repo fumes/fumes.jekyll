@@ -26,7 +26,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: marti_friedlander_fhe.jpg
-excerpt:
+excerpt: In the panorama of the Auckland art scene FHE galleries definitely sticks out. Perfect attention for detail and an excellent presentational refinement are their trademarks. Currently showing Images from the life of photographer Marti Friedlander.
 ---
 
 **FHE GALLERIES** (Fogarty, Hojsgaard, Entwistle) is a private dealer gallery established in 1995.

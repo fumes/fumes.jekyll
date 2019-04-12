@@ -27,11 +27,11 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: christina_pataialii.jpg
-excerpt:
+excerpt: Tim Melville is currently presenting On the Lam, Christina Pataialii’s first exhibition with the gallery.
 ---
 
 
-Tim Melville is currently present On the Lam, Christina Pataialii’s first exhibition with the gallery.
+Tim Melville is currently presenting On the Lam, Christina Pataialii’s first exhibition with the gallery.
 
 {% responsive_image path: uploads/2019/04/190410_photo_rokma_christina_pataialii_01.jpg %}
 
@@ -54,8 +54,6 @@ Pataialii uses motifs from urban and rural landscapes – rugby posts, picket fe
 
 In a review of Pataialii’s critically acclaimed 2018 exhibition, Solid Gold, at Te Tuhi, ArtAsiaPacific writer Wei Hao Qi described the artist’s imagery as not only highlighting the sociocultural narratives that exclude certain groups, but also as being an exploration of diversity, community and the contemporary politics of nationalism.
 
->"To stand close to them in the boxy exhibition space was to fall into them, to have every painting reduced to whatever part was closest to you at the time..." _Christina Pataialii_
-
 {% responsive_image path: uploads/2019/04/190410_photo_rokma_christina_pataialii_05.jpg %}
 
 
@@ -71,7 +69,7 @@ Colour attracts the eye, but unsettles the viewer with unexpected imagery […] 
 {% responsive_image path: uploads/2019/04/190410_photo_rokma_christina_pataialii_07.jpg %}
 
 
-Christina Pataialii (b.1988, Auckland) graduated with a BFA (2015) and an MFA (2018) from Whitecliffe College of Arts and design.
+Christina Pataialii was born in 1988 in Auckland, graduated with a BFA in 2015 and an MFA in 2018 from Whitecliffe College of Arts and design.
 
 **More infos**
 

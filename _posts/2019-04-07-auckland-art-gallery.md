@@ -32,7 +32,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: aucklandartgallery.jpg
-excerpt: Auckland Art Gallery, Toi o Tāmaki, is New Zealand’s largest and most inspiring visual arts experience. Four floors of exhibitions, right in the heart of Auckland city. The perfect place to discover New Zealand and international art.
+excerpt: Auckland Art Gallery, Toi o Tāmaki, is New Zealand’s largest and most inspiring visual arts experience. Four floors of exhibitions, right in the heart of Auckland city. The perfect place to discover New Zealand art.
 ---
 
 AUCKLAND ART GALLERY, TOI O TĀMAKI, is New Zealand’s largest and most inspiring visual arts experience.

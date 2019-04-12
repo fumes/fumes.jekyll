@@ -26,14 +26,14 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: aucklandstudioone.jpg
-excerpt:
+excerpt: Studio One Toi Tū offers more ways for Aucklanders to meet and share ideas, skills and practices, with each other and visitors. Now showing Ego Morpheus, a collective featuring several artists among which the work of Don Chooi.
 ---
 
 **Studio One Toi Tū** offers more ways for Aucklanders to meet and share ideas, skills and practices, with each other and visitors. Whether you’re a beginner or experienced, a maker a resident or a visitor, creativity can become part of your life in Auckland.
 
 They keen to hear from makers and innovators with ideas for events, activities and exhibitions or those with studio or space enquiries and proposals.
 
-When we visited, one of the shows that was on was titled **Ego Morpheus**. A collective featuring few artist among which the work of **_Don Chooi_** was very noticeable for his graphical impact and the subject it dealt with.
+When we visited, one of the shows that was on was titled **Ego Morpheus**. A collective featuring several artists among which the work of **_Don Chooi_** was very noticeable for his graphical impact and the subject it dealt with.
 
 {% responsive_image path: uploads/2019/04/190410_photo_rokma_aucklandstudioone_02.jpg %}
 
