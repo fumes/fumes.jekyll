@@ -31,11 +31,11 @@ excerpt:
 
 **FHE GALLERIES** (Fogarty, Hojsgaard, Entwistle) is a private dealer gallery established in 1995.
 
-In the panorama of the city art scene this gallery definitely sticks out. Perfect attention for detail and an excellent presentational refinement are their trademarks.
+In the panorama of the Auckland art scene FHE galleries definitely sticks out. Perfect attention for detail and an excellent presentational refinement are their trademarks.
 
-Here the selection and the arrangements of the art on display is really well curated. They covers a wide variety of artworks , collectable objects, interesting architectural projects and important photography works.
+Here the selection and the arrangements of the art on display, are really well curated. Covering a wide variety of artworks, collectable objects, interesting architectural projects and important photography works, FHE Galleries is surely a must-visit spot.
 
-FHE Galleries is for sure a must visit spot. The gallery presents individual works of excellence from New Zealand, the Pacific and other cultures. They also offer services in informed design for private and corporate interiors.
+The gallery presents individual works of excellence from New Zealand, the Pacific and other cultures. They also offer services in informed design for private and corporate interiors.
 
  _Images from the life of photographer Marti Friedlander._ is one of the current show.
 
@@ -55,8 +55,6 @@ She was the first photographer to celebrate the extent to which visual and liter
 _Moko:_ Maori Tattooing in the 20th Century (with Michael King) has been continuously in print since it was first published in 1972, and is arguably one of the most important photo essays produced in post-war New Zealand. All 47 original prints in the Moko suite were gifted to Te Papa: Museum of New Zealand.
 
 {% responsive_image path: uploads/2019/04/190410_photo_rokma_marti_friedlander_fhe_03.jpg %}
-
-
 
 
 Friedlander has documented her adopted country from within her personal experience of diaspora, as a Jewish artist. This experience has also informed her insight into the way New Zealand has established a more complex and compelling identity within two generations.

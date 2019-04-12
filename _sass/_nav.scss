@@ -28,7 +28,10 @@ nav {
     text-align: center;
     line-height: $small_line_height;
 
-    [style="font-size:86%"] {
+    [style="font-size: 86%"],
+    [style="font-size: 85%"],
+    [style="font-size: 91%"],
+    [style="font-size: 97%"], {
       display: none;
     }
   }
