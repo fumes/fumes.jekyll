@@ -27,7 +27,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: christina_pataialii.jpg
-excerpt: Tim Melville is currently presenting On the Lam, Christina Pataialii’s first exhibition with the gallery.
+excerpt: Auckland gallery Tim Melville is currently presenting On the Lam, Christina Pataialii’s first exhibition with them. In this suite of a dozen paintings in acrylic and house-paint on canvas drop-cloth the artist examines her experience growing up in working class migrant communities in Auckland’s western and central suburbs.
 ---
 
 
