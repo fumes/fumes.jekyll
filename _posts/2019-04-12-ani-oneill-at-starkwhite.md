@@ -6,7 +6,7 @@ title: Ani O'Neill at Starkwhite
 text_author: rokma
 photographer: rokma
 curator: rokma
-date: '2019-04-11 10:10:10 +1000'
+date: '2019-04-12 10:10:10 +1000'
 categories: photo-journalism
 tags:
 - art
@@ -26,7 +26,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: anioneillatstarkwhite.jpg
-excerpt:
+excerpt: "Located on Auckland’s Karangahape Road, Starkwhite offers a programme of solo and group shows by represented and guest artists, along with independently curated exhibitions. The gallery is focusing on artists with a strong track record of participation in international art fairs and or representation in national and international exhibitions. Ani O'Neill, born 1971, is a New Zealand artist of Cook Island and Irish descent. She is one of the core members of a group of artists of Pasifika descent who brought contemporary Pacific art to national prominence and international acceptance."
 ---
 
 Located on Auckland’s Karangahape Road, **Starkwhite** offers a programme of solo and group shows by represented and guest artists, along with independently curated exhibitions. The gallery is focusing on artists with a strong track record of participation in international art fairs and or representation in national and international exhibitions.
@@ -71,4 +71,4 @@ With colourful, crochet materials, **Ani O'Neill**’s work reconciles the influ
 
 [Ani O'Neill on Wikipedia](https://en.wikipedia.org/wiki/Ani_O'Neill)
 
-[Ami O'Neill Instagram](https://www.instagram.com/anioneill/)
+[Ani O'Neill Instagram](https://www.instagram.com/anioneill/)
