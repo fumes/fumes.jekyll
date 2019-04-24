@@ -53,6 +53,8 @@ His paintings have an illustrative and narrative quality, which reflects Bob's p
 
 Bob Kerr was born in Wellington, and has a DipFA (Hons) from The University of Auckland. He has written and illustrated a number of children's books, receiving the Best First Children's Book Award in 1993 for The Optimist (1992).
 
+{% responsive_image path: uploads/2019/04/190424_photo_rokma_bob_kerr_06.jpg %}
+
 His paintings are held in private collections across New Zealand and overseas, with his best-known work appropriately appearing on the cover of Michael King's book The Penguin History of New Zealand (2003).
 
 {% responsive_image path: uploads/2019/04/190424_photo_rokma_bob_kerr_05.jpg %}
