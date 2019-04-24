@@ -17,11 +17,10 @@ tags:
 - culture
 - educational
 - fun
-- illustrations
-- New Zealand
+- New-Zealand
 - people
-- photography
-- report
+- fashion
+- painting
 - review
 - visual
 license: CC_BY_NC_ND

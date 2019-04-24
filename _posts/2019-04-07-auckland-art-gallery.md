@@ -12,17 +12,17 @@ tags:
 - art
 - artist
 - awareness
-- beauty
+- clever
 - Auckland
 - city
-- clever
+- painting
 - culture
 - design
 - documentary
 - educational
 - fun
 - illustrations
-- New Zealand
+- New-Zealand
 - people
 - photography
 - report

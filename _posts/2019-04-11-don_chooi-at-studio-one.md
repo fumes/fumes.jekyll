@@ -17,10 +17,9 @@ tags:
 - culture
 - educational
 - fun
-- illustrations
-- New Zealand
+- painting
+- New-Zealand
 - people
-- photography
 - report
 - review
 - visual

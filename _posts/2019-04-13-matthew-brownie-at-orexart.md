@@ -11,16 +11,13 @@ categories: photo-journalism
 tags:
 - art
 - artist
-- awareness
+- abstract
 - Auckland
 - city
 - culture
 - educational
-- fun
-- illustrations
-- New Zealand
-- people
-- photography
+- painting
+- New-Zealand
 - report
 - review
 - visual

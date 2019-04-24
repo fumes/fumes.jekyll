@@ -15,7 +15,7 @@ tags:
 - city
 - culture
 - educational
-- New Zealand
+- New-Zealand
 - abstract
 - photography
 - report

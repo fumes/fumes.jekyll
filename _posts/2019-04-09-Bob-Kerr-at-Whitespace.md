@@ -18,9 +18,9 @@ tags:
 - educational
 - fun
 - illustrations
-- New Zealand
+- New-Zealand
 - people
-- photography
+- painting
 - report
 - review
 - visual
