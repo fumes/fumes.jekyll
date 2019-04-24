@@ -32,13 +32,11 @@ The pilot announced “We’re about to land in the beautiful island of Bali…�
 
 Let the tourists think they are coming to paradise and they will think so. That’s how priming works right? Put in the mind of people a prefabricated definition of what they are about to live and they will describe the experience using exactly those words.
 
-
 {% responsive_image path: uploads/2018/07/100405_photo_rokma_burn_trash_4596.jpg %}
 
 Fact is that, behind the beauty of flowers and infinite pools postcard image, which this island manage to spread, there are a few huge problems still without a will to be resolved.
 
 The island still lack a serious sewage system, I am not talking about rocket science, Romans built aqueducts and sewage systems all over the mediterranean some 2000 years ago.
-
 
 {% responsive_image path: uploads/2018/07/100405_photo_rokma_burn_trash_4583.jpg %}
 
