@@ -23,7 +23,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: gretchen-albrecht-at-two-rooms.jpg
-excerpt: Two Rooms, is a contemporary art gallery located in a converted warehouse in Central Auckland, New Zealand. When we visited, Gretchen Albrecht latest work ,"Between gesture and geometry", was on.
+excerpt: Two Rooms, is a contemporary art gallery located in a converted warehouse in Central Auckland. When we visited, Gretchen Albrecht latest work,"Between gesture and geometry", was on.
 
 ---
 **Two Rooms**, is a contemporary art gallery located in a converted warehouse in Central Auckland, New Zealand.
