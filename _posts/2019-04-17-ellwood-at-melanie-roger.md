@@ -23,7 +23,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: matt-ellwood-at-melanie-roger-gallery.jpg
-excerpt:
+excerpt: Melanie Roger works with and represents some of New Zealand's most exciting artists, newcomers and established, across all mediums. They run a changing exhibition schedule on a monthly basis and as well carry works by each of the artists within our comprehensive stockroom.
 ---
 
 **Melanie Roger Gallery** works with and represents some of New Zealand's most exciting artists, newcomers and established, across all mediums. They run a changing exhibition schedule on a monthly basis and as well carry works by each of the artists within our comprehensive stockroom.
@@ -60,6 +60,8 @@ One work in the exhibition, depicts, in part, the bombing of the Kurdish town of
 {% responsive_image path: uploads/2019/04/190410-matt-ellwood-at-melanie-roger-gallery-03.jpg %}
 
 Besides the inherent historical and current cultural, religious and political ideologies tied up in this particular image, _"Autumn/Winter (Kobani)"_ also touches obliquely on the atrocity committed in our very own country this month.
+
+{% responsive_image path: uploads/2019/04/190410-matt-ellwood-at-melanie-roger-gallery-06.jpg %}
 
 In discussion with the artist we have kept the work in the show. Our heartfelt sadness and sympathy is however, with the families and Muslim community in Christchurch and a portion of proceeds from the sale of this work will be donated by the artist and Melanie Roger Gallery to the Christchurch Victims Support Fund.
 
