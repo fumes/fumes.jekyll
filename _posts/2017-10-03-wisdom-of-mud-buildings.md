@@ -20,6 +20,7 @@ tags:
 - nature
 - rural
 - shape
+- video
 - simplicity
 - sustainability
 - under-covered

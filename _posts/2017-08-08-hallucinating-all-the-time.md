@@ -16,6 +16,7 @@ tags:
 - awareness
 - smart
 - life
+- video
 - meditation
 license:
 thumb: hallucinating.jpg

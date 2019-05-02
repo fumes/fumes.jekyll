@@ -18,6 +18,7 @@ tags:
 - educational
 - fun
 - painting
+- contemporary-art
 - New-Zealand
 - people
 - report

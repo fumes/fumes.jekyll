@@ -17,6 +17,7 @@ tags:
 - educational
 - New-Zealand
 - abstract
+- contemporary-art
 - painting
 - report
 - review

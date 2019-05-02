@@ -11,7 +11,7 @@ categories: photo-journalism
 tags:
 - art   
 - artist
-- Auckland
+- Wellington
 - city
 - culture
 - educational

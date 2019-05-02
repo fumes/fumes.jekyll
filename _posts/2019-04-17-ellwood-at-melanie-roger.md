@@ -18,6 +18,7 @@ tags:
 - New-Zealand
 - abstract
 - conceptual
+- contemporary-art
 - report
 - review
 - visual

@@ -19,6 +19,7 @@ tags:
 - fun
 - illustrations
 - New-Zealand
+- contemporary-art
 - people
 - photography
 - report

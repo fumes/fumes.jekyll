@@ -24,6 +24,7 @@ tags:
 - reflect
 - sustainability
 - vegetarian
+- vegan
 license: CC_BY
 thumb: protein-deficient.jpg
 ---

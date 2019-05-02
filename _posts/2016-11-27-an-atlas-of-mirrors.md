@@ -19,6 +19,7 @@ tags:
 - culture
 - form
 - artist
+- contemporary-art
 - reflect
 license: CC_BY
 thumb: atlasofmirrors.jpg

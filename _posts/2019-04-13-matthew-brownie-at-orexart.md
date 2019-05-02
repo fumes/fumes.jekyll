@@ -17,6 +17,7 @@ tags:
 - culture
 - educational
 - painting
+- contemporary-art
 - New-Zealand
 - report
 - review

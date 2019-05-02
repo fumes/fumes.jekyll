@@ -22,6 +22,7 @@ tags:
 - educational
 - fun
 - illustrations
+- contemporary-art
 - New-Zealand
 - people
 - photography
