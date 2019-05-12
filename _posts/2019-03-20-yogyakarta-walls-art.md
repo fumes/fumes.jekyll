@@ -25,7 +25,6 @@ tags:
 - people
 - Pancasila
 - art
-- artist
 - awareness
 - city
 - illustrations
