@@ -24,12 +24,12 @@ tags:
 - nature
 license: CC_BY_NC_ND
 thumb: herb-foley-at-warwick-henderson.jpg
-excerpt:
+excerpt: Warwick Henderson Gallery specialises in contemporary and 20th century New Zealand Art. They represent many prominent New Zealand artists and have staged over 300 exhibitions. The exhibition reviewed here includes the extensive portfolio of works of  Herb Foley, Among Trees.
 ---
 
 Warwick Henderson Gallery specialises in contemporary and 20th century New Zealand Art. They offer a range of fine art services, from pre-purchase advice, to art consultation, art valuation, secondary sales and artwork installation.
 
-Warwick Henderson represents many prominent New Zealand artists and have staged over 300 exhibitions. The exhibition reviewed here includes the last years extensive portfolio of works of **Herb Foley** titled _“Among Trees”._
+Warwick Henderson represents many prominent New Zealand artists and have staged over 300 exhibitions. The show reviewed here includes the extensive portfolio of works of **Herb Foley** titled _“Among Trees”._
 
 {% responsive_image path: uploads/2019/05/herb-foley-at-warwick-henderson-01.jpg %}
 
