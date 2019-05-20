@@ -26,7 +26,7 @@ Early Works is a new black and white series. Focusing ephemerally on the modern 
 
 {% responsive_image path: uploads/2019/05/190519-photo-rokma-early-works-02.jpg %}
 
-{% responsive_image path: uploads/2019/05/190519-photo-rokma-early-works-11.jpg %}
+{% responsive_image path: uploads/2019/05/190519-photo-rokma-early-works-12.jpg %}
 
 {% responsive_image path: uploads/2019/05/190519-photo-rokma-early-works-03.jpg %}
 
