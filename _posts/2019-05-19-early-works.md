@@ -18,7 +18,7 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: early-works.jpg
-excerpt: Early Works is a new black and white work by Rokma. It focuses ephemerally on the modern living, its physical and mental spaces, the uncertainties of present time life. Loosely rendered life experiences of many of us.
+excerpt: Early Works is a new black and white work by Rokma. It focuses ephemerally on modern living, its physical and mental spaces, the uncertainties of present time life. Loosely rendered life experiences of many of us.
 ---
 Early Works is a new black and white series. Focusing ephemerally on the modern living, its physical and mental spaces, the uncertainties of present time life, it loosely rendered life experiences of many of us.
 
