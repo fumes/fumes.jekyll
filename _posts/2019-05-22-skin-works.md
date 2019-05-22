@@ -25,10 +25,10 @@ tags:
 - visual
 license: CC_BY_NC_ND
 thumb: skin-works.jpg
-excerpt: Skin Works is a new black-and-white work by Rokma. While your summer might be pink, we emotionally feel black and white. Shades of grey smoothly attract. Not surviving alone in the jungle, we are driven to seek contact. We see with our hands. We feel the importance. Gravitating culturally around beauty, skin works exploring the vibe.
+excerpt: Skin Works is a new black-and-white work by Rokma. While your summer might look pink, you can feel black and white. Shades of grey smoothly attract. Not surviving alone in the jungle, we are moved to seek contact. See with our hands. Feel the importance. Acknowledge. Gravitating culturally around beauty, skin works exploring the vibe, no light needed.
 ---
 
-Skin Works is a new black-and-white work by Rokma. While your summer might be pink, we emotionally feel black and white. Shades of grey smoothly attract. Not surviving alone in the jungle, we are driven to seek contact. We see with our hands. We feel the importance. Gravitating culturally around beauty, skin works exploring the vibe.
+Skin Works is a new black-and-white work by Rokma. While your summer might look pink, you can feel black and white. Shades of grey smoothly attract. Not surviving alone in the jungle, we are moved to seek contact. See with our hands. Feel the importance. Acknowledge. Gravitating culturally around beauty, skin works exploring the vibe, no light needed.
 
 {% responsive_image path: uploads/2019/05/190522-photo-rokma-skin-works-01.jpg %}
 
