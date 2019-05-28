@@ -9,7 +9,7 @@
 
     <main class="main" role="main" id="main">
 
-      <div class="content {%if page.categories%}{{ page.categories }}{%else%}index{%endif%}">
+      <div class="content {% if page.categories %}{{ page.categories }}{% else %}index{% endif %} {% if page.css_override_white_bg %}css_override_white_bg{% endif %}">
         <div class="wrapper">
           {{ content }}
         </div>
