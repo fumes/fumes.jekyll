@@ -191,13 +191,17 @@ pre {
 }
 
 
-.main.fade {
-  -webkit-transition: opacity 0.3s ease-out;
-  transition: opacity 0.3s ease-out;
-  -webkit-transition-delay: 0.1s;
-  transition-delay: 0.1s;
-  opacity: 0.2;
+.main {
+  overflow: hidden;
+  .fade {
+    -webkit-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease-out;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+    opacity: 0.2;
+  }
 }
+
 
 strong {
   font-weight: 500;

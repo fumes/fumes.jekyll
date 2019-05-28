@@ -7,13 +7,20 @@
 
     {% include header.html %}
 
-    <main class="main" role="main" id="main">
+    <main class="main {% if page.offwhite %}offwhite{% endif %}" role="main" id="main">
 
-      <div class="content {% if page.categories %}{{ page.categories }}{% else %}index{% endif %} {% if page.css_override_white_bg %}css_override_white_bg{% endif %}">
+      <div class="content {% if page.categories %}{{ page.categories }}{% else %}index{% endif %} {% if page.offwhite %}offwhite_content{% endif %}">
         <div class="wrapper">
           {{ content }}
         </div>
+
+        {% if page.fineartprints %}
+         {% include fineartprints_block.html %}
+        {% endif %}
+
       </div>
+
+
 
       {% if page.role != 'home' %}
         {% include nav--posts-all.html %}
@@ -28,6 +35,8 @@
     {% if page.layout == 'post' %}
       {% include nav--horizzo-titled.html %}
     {% endif %}
+
+
 
     {% include footer.html %}
 

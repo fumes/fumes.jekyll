@@ -85,8 +85,11 @@
     <div class="ico">
       {% include svg/use.html id="icn--tags" class="tag"  title="tags" %}
     </div>
-    <p class="tags" title="keywords: "><span class="hide">Keywords: </span>{% for tag in page.tags %}
-      <a href="{{site.baseurl}}/{{tag|downcase|slugize}}/">{{tag}}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}
+    <p class="tags" title="keywords: ">
+      <span class="hide">Keywords: </span>
+      {% for tag in page.tags %}
+        <a href="{{site.baseurl}}/{{tag|downcase|slugize}}/">{{tag}}</a>
+      {% endfor %}
     </p>
   </div>
 

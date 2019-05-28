@@ -13,9 +13,11 @@ $small_line_height: 1.15;
 $spacing_unit     : $base_font_size * 2; //36px
 
 $alert_color:      white;
+$alert_blue:       hsla(220, 100%, 50%, 1);
 $brand_color:      #555; //logo base color, ++ _logo.scss
 
-$offwhite: rgba(250,250,250,.75);
+$offwhite:         rgba(251, 254, 254, 0.9);
+$border-radius:    5px;
 
 $text_color:       darken(white, 20%);
 $background_color: #161616; // = rgba(22,22,22,1) or hsla(0, 0%, 9%, 1)
@@ -30,7 +32,7 @@ $white:            #FFF;
 // Max width of the content area
 $content_width:    1400px;
 // lets have uniform icons
-$icon_size:    4rem;
+$icon_size:        4rem;
 $icon_color:  darken(white, 60%);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -50,5 +52,6 @@ $icon_color:  darken(white, 60%);
         "progress",
         "footer",
         "button",
-        "offwhite"
+        "offwhite",
+        "fineartprints"
 ;

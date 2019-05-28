@@ -235,3 +235,34 @@
 
   }
 }
+
+
+.post-meta a {
+  border: solid 1px $grey_color_dark;
+  border-radius: 5px;
+  font-size: 100%;
+  font-weight: unset;
+  color: $offwhite;
+  padding: 1px 10px 1px 10px;
+  display: inline-block;
+  margin: 4px 3px 4px 3px;
+}
+
+.post__license a {
+  border: solid 1px $grey_color_dark;
+  border-radius: 5px;
+  font-size: 100%;
+  font-weight: unset;
+  color: $offwhite;
+  padding: 1px 10px 1px 10px;
+  display: inline-block;
+  margin: 4px 3px 4px 3px;
+  line-height: 2rem;
+  &:before {
+    display: none;
+  }
+  &:hover {
+    color: $grey_color_light;
+    border: solid 1px $grey_color;
+  }
+}

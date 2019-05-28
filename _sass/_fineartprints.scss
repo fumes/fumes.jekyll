@@ -1,0 +1,144 @@
+.fineartprint_block_wrap {
+  position: relative;
+  padding-top: 7rem;
+  //padding-bottom: 7rem;
+}
+.fineartprint_block {
+  margin-top: 7rem;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  @include media("screen", ">bp1Width") {
+   flex-direction: row;
+   align-items: center;
+
+  }
+
+  .wrapper {
+    text-align: center;
+  }
+}
+
+.fineartprint_block_title {
+  line-height: unset;
+  line-height: 3;
+  font-size: 200%;
+  font-weight: 500;
+}
+
+.fineartprint_image_row {
+
+}
+
+.fineartprint_image_block {
+  &:nth-child(1){
+    .fineartprint_image {
+      max-width: 38vw;
+      transform: rotate(-25deg);
+      @include media("screen", ">minWidth") {
+        left: 3rem;
+        max-width: 38vw;
+      }
+      @include media("screen", ">bp1Width") {
+        max-width: 20vw;
+      }
+    }
+  }
+  &:nth-child(2){
+    .fineartprint_image {
+      max-width: 45vw;
+      transform: rotate(-30deg);
+      @include media("screen", ">minWidth") {
+        max-width: 45vw;
+      }
+      @include media("screen", ">bp1Width") {
+        max-width: 30vw;
+      }
+    }
+  }
+  &:nth-child(3){
+    .fineartprint_image {
+      max-width: 35vw;
+      transform: rotate(35deg);
+      @include media("screen", ">minWidth") {
+        max-width: 35vw;
+      }
+      @include media("screen", ">bp1Width") {
+        max-width: 25vw;
+      }
+    }
+  }
+}
+
+
+
+.fineartprint_image {//img
+  max-width: 27vw;
+  position: relative;
+  transform: rotate(45deg);
+  display: block;
+  -webkit-box-shadow: -11px 10px 21px 0px rgba(135,128,135,1);
+  -moz-box-shadow: -11px 10px 21px 0px rgba(135,128,135,1);
+  box-shadow: -11px 10px 21px 0px rgba(135,128,135,1);
+
+
+}
+
+
+.fineartprint_images {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+  &.top {
+    top: -5rem;
+  }
+
+  &.bottom {
+    bottom: -7rem;
+  }
+
+  @include media("screen", ">minWidth") {
+    &.bottom {
+     bottom: -12rem;
+   }
+  }
+
+  @include media("screen", ">bp1Width") {
+   flex-direction: column;
+
+   &.top {
+     top: 0;
+     left: -5rem;
+   }
+
+   &.bottom {
+     top: 0;
+     right: -5rem;
+   }
+  }
+
+
+}
+
+
+
+
+.fineartprint_block_button {
+  margin-top: $spacing_unit;
+  a {
+    display: block;
+    min-height: 42px;
+    line-height: unset;
+    padding: 1rem;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a[target="_blank"]:before {
+    display: none!important;
+  }
+}
