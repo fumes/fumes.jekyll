@@ -21,6 +21,15 @@ tags:
 license: CC_BY
 thumb: aquasunday.jpg
 excerpt: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
+offwhite: true # true or empty
+fineartprints:
+- 190205-photographer-rokma-aquasunday-01.jpg
+- 190205-photographer-rokma-aquasunday-02.jpg
+- 190205-photographer-rokma-aquasunday-03.jpg
+- 190205-photographer-rokma-aquasunday-04.jpg
+- 190205-photographer-rokma-aquasunday-05.jpg
+- 190205-photographer-rokma-aquasunday-06.jpg
+
 ---
 
 {% responsive_image path: uploads/2019/02/190205-photographer-rokma-aquasunday-01.jpg %}

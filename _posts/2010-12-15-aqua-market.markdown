@@ -20,6 +20,14 @@ tags:
 license: CC_BY
 thumb: aquamarket.jpg
 excerpt: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
+offwhite: true # true or empty
+fineartprints:
+- 101215-photographer-rokma-aquamarket-6347.jpg
+- 101215-photographer-rokma-aquamarket-6377.jpg
+- 101215-photographer-rokma-aquamarket-6391.jpg
+- 101215-photographer-rokma-aquamarket-6411.jpg
+- 101215-photographer-rokma-aquamarket-6376.jpg
+- 101215-photographer-rokma-aquamarket-6375.jpg
 ---
 
 {% responsive_image path: uploads/2010/12/101215-photographer-rokma-aquamarket-6347.jpg %}

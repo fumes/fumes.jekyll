@@ -20,6 +20,14 @@ tags:
 license: CC_BY
 thumb: aquacity.jpg
 excerpt: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
+offwhite: true # true or empty
+fineartprints:
+- 100517-photographer-rokma-aquacity-1.jpg
+- 100517-photographer-rokma-aquacity-3.jpg
+- 100517-photographer-rokma-aquacity-2.jpg
+- 100517-photographer-rokma-aquacity-5.jpg
+- 100517-photographer-rokma-aquacity-4.jpg
+- 100517-photographer-rokma-aquacity-7.jpg
 ---
 
 {% responsive_image path: uploads/2010/05/100517-photographer-rokma-aquacity-1.jpg %}
