@@ -61,7 +61,7 @@ $bg_shadow: rgba(135,128,135,1);
       left: 1rem;
 
       .top & {top: -2rem;}
-      .bottom & {bottom: -2rem;}
+      .bottom & {bottom: -20vw;}
 
       @include media("screen", ">minWidth") {
 
@@ -71,6 +71,7 @@ $bg_shadow: rgba(135,128,135,1);
       @include media("screen", ">bp1Width") {
         left: auto;
         max-width: 50vw;
+        .bottom & {bottom: 0;}
       }
     }
   }
@@ -151,7 +152,7 @@ $bg_shadow: rgba(135,128,135,1);
   }
 
   &.bottom {
-    bottom: -7rem;
+    bottom: 0;
   }
 
   @include media("screen", ">minWidth") {

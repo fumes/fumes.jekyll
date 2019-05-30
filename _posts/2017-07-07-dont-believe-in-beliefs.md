@@ -27,12 +27,14 @@ thumb: dont-believe-in-beliefs.jpg
 excerpt: Don’t believe in beliefs. When mystery presents itself people want answers. And when there are none, they cling to beliefs. As the function of a belief is to provide simple answers to the deepest of questions, beliefs provide a sense of safety from the depths of mystery. The beauty of a belief is that it can never be refuted, for it has no base in reality. The dark side of belief is that different people may have different beliefs, yielding different explanations for the same mystery.
 offwhite: true # true or empty
 fineartprints:
-- 120123_photo_rokma_7626.jpg
 - 080715_photo_rokma_7940.jpg
+- 120123_photo_rokma_7626.jpg
 - 120126_photo_rokma_8523.jpg
-- 100514_photo_rokma_7880.jpg
+# - 100514_photo_rokma_7880.jpg
+- 090717_photo_rokma_8069.jpg
+- 080612_photo_rokma_5731.jpg
 - 100502_photo_rokma_6123.jpg
-- 100428_photo_rokma_5088.jpg
+# - 100428_photo_rokma_5088.jpg
 ---
 
 
@@ -48,7 +50,9 @@ As the function of a belief is to provide simple answers to the deepest of quest
 
 {% responsive_image path: uploads/2017/07/080715_photo_rokma_7940.jpg %}
 
-The beauty of a belief is that it can never be refuted, for it has no base in reality.
+The beauty of a belief is that it can never be refuted, for it has
+
+no base in reality.
 
 {% responsive_image path: uploads/2017/07/100514_photo_rokma_7880.jpg %}
 
@@ -64,7 +68,8 @@ When people feel unsafe they become unstable, and when people become unstable th
 
 {% responsive_image path: uploads/2017/07/100502_photo_rokma_6123.jpg %}
 
-Thus beliefs draw lines in the sand, dividing into distinct groups those who have uncon- tradictory beliefs.
+Thus beliefs draw lines in the sand,   
+dividing into distinct groups those who have un-contradictory beliefs.
 
 {% responsive_image path: uploads/2017/07/090717_photo_rokma_8069.jpg %}
 
