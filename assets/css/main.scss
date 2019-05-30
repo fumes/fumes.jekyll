@@ -14,6 +14,8 @@ $spacing_unit     : $base_font_size * 2; //36px
 
 $alert_color:      white;
 $alert_blue:       hsla(220, 100%, 50%, 1);
+$brand_blue:       $alert_blue;
+$brand_red:        red;
 $brand_color:      #555; //logo base color, ++ _logo.scss
 
 $offwhite:         rgba(251, 254, 254, 0.9);
@@ -29,6 +31,7 @@ $tblack50:         rgba(0,0,0,.5);
 $twhite50:         rgba(255,255,255,.5);
 $black:            #000;
 $white:            #FFF;
+
 // Max width of the content area
 $content_width:    1400px;
 // lets have uniform icons

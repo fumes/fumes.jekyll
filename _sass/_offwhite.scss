@@ -8,7 +8,7 @@
     color: $black;
   }
   strong {color: $black; }
-  
+
   .post-metas {
     color: lighten($black, 20);
   }
@@ -24,6 +24,10 @@
     padding: 1px 10px 1px 10px;
     display: inline-block;
     margin: 4px 3px 4px 3px;
+    &:hover {
+      color: $brand_red;
+      border: solid 1px $brand_red;
+    }
   }
 
   .post__license a {

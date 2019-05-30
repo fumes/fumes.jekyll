@@ -26,13 +26,13 @@ license: CC_BY
 thumb: treasures-of-meaning.jpg
 excerpt: The concept of meaning starts with emptiness. It is like an empty bowl. You may fill an empty bowl with whatever you may wish – whether it be rice, fruit or soup – and yet it is impartial to its contents. And after you fill your bowl you soon empty it again. You ingest its contents, let them nourish you, and then the next day fill your bowl with something else and repeat the process all over again.
 offwhite: true # true or empty
-fineartprints:
-- 110604_photo_rokma__MG_1109.jpg
+fineartprints: # max 6
+- 100604_photo_rokma__MG_9207.jpg
 - 110515_photo_rokma__MG_0889.jpg
 - 110716_photo_rokma__MG_2172.jpg
 - 080224_photo_rokma__MG_2093.jpg
-- 161209_photo_rokma__MG_8782.jpg
 - 170615_photo_rokma_surf_please.jpg
+- 090711_photo_rokma__MG_7851.jpg
 
 ---
 {% responsive_image path: uploads/2017/06/110515_photo_rokma__MG_0889.jpg %}
