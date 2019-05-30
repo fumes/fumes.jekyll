@@ -16,6 +16,7 @@ tags:
 - lifestyle
 - photography
 - visual
+- fine-art-prints
 license: CC_BY_NC_ND
 thumb: early-works.jpg
 excerpt: Early Works is a new black and white work by Rokma. It focuses ephemerally on modern living, its physical and mental spaces, the uncertainties of present time life. Loosely rendered life experiences of many of us.

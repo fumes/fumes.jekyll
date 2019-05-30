@@ -23,6 +23,7 @@ tags:
 - Indonesia
 - photography
 - black-and-white
+- fine-art-prints
 license: CC_BY
 thumb: burn-trash.jpg
 excerpt: I had always thought that's just the poor people who clean their yard by burning the rubbish, but I had to change my mind. I spoke recently with a rich kid from an high status family in Sanur, as I had discovered that in the back of their land they have a trash dump with evident signs of their trash burning habit...

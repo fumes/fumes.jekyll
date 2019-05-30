@@ -34,6 +34,12 @@ $content_width:    1400px;
 // lets have uniform icons
 $icon_size:        4rem;
 $icon_color:  darken(white, 60%);
+
+//// Predefined Break-points
+$mediaMinWidth: 600px;
+$mediaBp1Width: 960px;
+$mediaMaxWidth: 1260px;
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "normalize",

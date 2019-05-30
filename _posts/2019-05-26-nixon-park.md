@@ -13,7 +13,6 @@ tags:
 - celebration
 - fun
 - life
-- fine-art-prints
 - culture
 - beauty
 - lifestyle
@@ -22,6 +21,7 @@ tags:
 - skateboarding
 - street-art
 - visual
+- fine-art-prints
 license: CC_BY_NC_ND
 thumb: nixon-park.jpg
 excerpt: "The bowly cement patch, you can see from Google Earth, in Nixon Park in Auckland, is every kid daily Skatepark. Went there, shot some action... Check it out!"

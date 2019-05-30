@@ -17,6 +17,7 @@ tags:
 - photography
 - aqua
 - water
+- fine-art-prints
 license: CC_BY
 thumb: aquacity.jpg
 excerpt: Perception is what reality reflects. What we know about the world has come to us bouncing his way into our senses.
@@ -46,28 +47,30 @@ fineartprints:
 
 
 
-_latin_
+### Latin
 
-Mediolanum ipsum est.
+_Mediolanum ipsum est._
 
-Quod a nobis factum est.
+_Quod a nobis factum est._
 
-Sic ne ullus verbum neque ullus imago satis est.
+_Sic ne ullus verbum neque ullus imago satis est._
 
+<br>
 
-_translation_
+### Translation
 
-mediolanum (milano) ipsum (itself) est (is).
+_mediolanum (milano) ipsum (itself) est (is)._
 
-Quod (which) a (a) nobis (noble) factum (fact) est (is).
+_Quod (which) a (a) nobis (noble) factum (fact) est (is)._
 
-Sic (so) ne (not) ullus (any) verbum (word) neque (nor) ullus (any) imago (image)  satis (enough) est (is).
+_Sic (so) ne (not) ullus (any) verbum (word) neque (nor) ullus (any) imago (image)  satis (enough) est (is)._
 
+<br>
 
-_english_
+### English
 
-Milano itself is.
+_Milano itself is._
 
-Which is a noble fact.
+_Which is a noble fact._
 
-So not any word or any image is enough.
+_So not any word or any image is enough._
