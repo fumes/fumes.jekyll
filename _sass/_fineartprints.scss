@@ -1,7 +1,10 @@
 .fineartprint_block_wrap {
   position: relative;
   padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-bottom: 0;
+  @include media("screen", ">minWidth") {
+   padding-bottom: 7rem;
+  }
   @include media("screen", ">bp1Width") {
    padding-bottom: 0;
   }
@@ -58,7 +61,7 @@ $bg_shadow: rgba(135,128,135,1);
       left: 1rem;
 
       .top & {top: -2rem;}
-      .bottom & {bottom: -1rem;}
+      .bottom & {bottom: -2rem;}
 
       @include media("screen", ">minWidth") {
 
@@ -82,7 +85,7 @@ $bg_shadow: rgba(135,128,135,1);
       box-shadow: -21px 20px 21px 2px rgba(135,128,135,1);
 
       .top & {top: -2rem;}
-      .bottom & {bottom: -2rem;}
+      .bottom & {bottom: -3rem;}
 
 
       @include media("screen", ">minWidth") {
@@ -116,6 +119,9 @@ $bg_shadow: rgba(135,128,135,1);
       max-width: 40vw;
       transform: rotate(35deg);
       right: 2rem;
+
+      .bottom & {bottom: -5rem;}
+
       @include media("screen", ">minWidth") {
         max-width: 35vw;
         right: 1rem;
