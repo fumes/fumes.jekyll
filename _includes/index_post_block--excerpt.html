@@ -7,9 +7,9 @@
     <div class="thumb">
 
       {% if post.thumb %}
-      <img src="{{site.baseur}}/assets/i/t/{{ post.thumb }}" alt="{{ post.title }}">
+      <img loading="lazy" src="{{site.baseur}}/assets/i/t/{{ post.thumb }}" alt="{{ post.title }}">
       {% else %}
-      <img class="nothumb" src="{{site.baseur}}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+      <img loading="lazy" class="nothumb" src="{{site.baseur}}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
       {% endif %}
 
       {% capture time %}{{ post.content | reading_time }}{% endcapture %}

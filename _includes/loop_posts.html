@@ -1,5 +1,5 @@
 <!-- post-looper 32-->
-<div class="looper" >
+<div class="looper looper_32" >
   <label>posts</label>
   <div class="looper__ico" title="posts">
     {% include svg/use.html id="icn--posts" class="posts" %}
@@ -12,9 +12,9 @@
       <div class="small thumb">
 
         {% if page.thumb %}
-        <img src="{{site.baseur}}/assets/i/tt/{{ page.thumb }}" alt="{{ page.title }}">
+        <img loading="lazy" src="{{site.baseur}}/assets/i/tt/{{ page.thumb }}" alt="{{ page.title }}">
         {% else %}
-        <img class="nothumb" src="{{site.baseur}}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ page.title }}">
+        <img loading="lazy" class="nothumb" src="{{site.baseur}}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ page.title }}">
         {% endif %}
 
       </div>

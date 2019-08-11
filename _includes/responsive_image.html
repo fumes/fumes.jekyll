@@ -7,7 +7,7 @@
 {%endcomment%}
 
 <div class="responsive-image {{page.photographer}}">
-  <img class="responsive-image__placeholder" src="/{{ smallest.path }}" alt="Fumes - Art, Photography, Ideas - {{ original.basename | remove:'.jpg' | replace:'-',' ' | upcase }}">
+  <img loading="lazy" class="responsive-image__placeholder" src="/{{ smallest.path }}" alt="Fumes - Art, Photography, Ideas - {{ original.basename | remove:'.jpg' | replace:'-',' ' | upcase }}">
   <div class="responsive-image__delayed" data-src="/{{site.baseurl}}assets/i/{width}/{{ original.basename }}" data-alt="Fumes - Art, Photography, Ideas - {{ original.basename | remove:'.jpg' | replace:'-',' ' | upcase }}"></div>
 </div>
 

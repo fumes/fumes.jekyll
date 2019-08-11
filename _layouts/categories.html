@@ -10,17 +10,17 @@ layout: default
   {% if site.categories[page.category] %}
     {% for post in site.categories[page.category] %}
      <div class="home__post" >
-      
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> 
+
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
 
         <h2>{{ post.title }}</h2>
 
         <div class="thumb">
 
           {% if post.thumb %}
-          <img src="{{ site.baseurl }}/assets/i/t/{{ post.thumb }}" alt="{{post.title}}">
+          <img loading="lazy" src="{{ site.baseurl }}/assets/i/t/{{ post.thumb }}" alt="{{post.title}}">
           {% else %}
-          <img class="nothumb" src="{{ site.baseurl }}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
+          <img loading="lazy" class="nothumb" src="{{ site.baseurl }}/assets/i/t/fumesyousuck_thumb.svg" alt="{{ post.title }}">
           {% endif %}
 
         </div>
