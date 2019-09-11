@@ -22,11 +22,11 @@ tags:
 - erotic
 license: CC_BY_NC_ND
 thumb: love-and-erotic-art-in-bali.jpg
-excerpt: "Jean Couteau presented at Udsada space in Ubud, Bali - Balinese love and sexuality - from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the mountain god to impregnate your wife, the role of the motorbike in sexual imaginary and more."
+excerpt: "Jean Couteau presented at Usada space in Ubud, Bali - Balinese love and sexuality - from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the mountain god to impregnate your wife, the role of the motorbike in sexual imaginary and more."
 ---
 {% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-01.jpg %}
 
-Jean Couteau presented at Udsada space in Ubud, Bali, "Balinese love and sexuality" from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the god of the mountain to impregnate your wife, the role of the motorbike in sexual imaginary and more.
+Jean Couteau presented at Usada in Ubud, Bali, "Balinese love and sexuality" from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the god of the mountain to impregnate your wife, the role of the motorbike in sexual imaginary and more.
 
 Jean Couteau is a writer, historian and columnist specialised in Balinese culture, art, myths and history. Living in Indonesia in 1972, Jean got captured by Bali through its complex and enthralling history and culture.
 
