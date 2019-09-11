@@ -14,7 +14,7 @@ tags:
 - Bali
 - culture
 - educational
-- Indonesai
+- Indonesia
 - contemporary-art
 - painting
 - report
