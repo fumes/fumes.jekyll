@@ -59,15 +59,6 @@ layout: default
     </div>
     {% endif %}
 
-    {% if text_author.gplus %}
-    <div class="author__meta">
-      <a href="https://plus.google.com/{{ text_author.gplus }}" title="g+" target="_blank" rel="noopener">
-        <div class="ico gplus">{% include svg/use.html id="icn--gplus" class="gplus" %}</div>
-        <span class="destination">{{ text_author.gplus}}</span>
-      </a>
-    </div>
-    {% endif %}
-
     {% if text_author.github %}
     <div class="author__meta">
       <a href="https://github.com/{{ text_author.github }}" title="github" target="_blank" rel="noopener">
@@ -125,6 +116,17 @@ layout: default
 <div class="home__posts">
   {% for post in site.posts %}
     {% if post.text_author == 'andrea' %}
+      {% include index_post_block--excerpt.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+
+{% if page.text_author == 'jean' %}
+<div class="home__posts">
+  {% for post in site.posts %}
+    {% if post.text_author == 'jean' %}
       {% include index_post_block--excerpt.html %}
     {% endif %}
   {% endfor %}

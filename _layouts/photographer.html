@@ -59,15 +59,6 @@ layout: default
     </div>
     {% endif %}
 
-    {% if photographer.gplus %}
-    <div class="photographer__meta">
-      <a href="https://plus.google.com/{{ photographer.gplus }}" title="g+" target="_blank" rel="noopener">
-        <div class="ico gplus">{% include svg/use.html id="icn--gplus" class="gplus" %}</div>
-        <span class="destination">{{ photographer.gplus}}</span>
-      </a>
-    </div>
-    {% endif %}
-
     {% if photographer.github %}
     <div class="photographer__meta">
       <a href="https://github.com/{{ photographer.github }}" title="github" target="_blank" rel="noopener">
@@ -162,7 +153,6 @@ layout: default
   {% endfor %}
 </div>
 {% endif %}
-
 
 
 {% if page.photographer == 'andrea' %}
