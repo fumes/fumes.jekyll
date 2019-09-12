@@ -30,7 +30,7 @@ Jean Couteau presented at Usada in Ubud, Bali, "Balinese love and sexuality" fro
 
 Jean Couteau is a writer, historian and columnist specialised in Balinese culture, art, myths and history. Living in Indonesia in 1972, Jean got captured by Bali through its complex and enthralling history and culture.
 
-Growing up in a family which was strongly influenced by art and culture, Jean developed his own perspective about humanity in terms of history, culture, tradition and art. In 1986, Jean received a doctoral degree for his thesis of art history and iconographic art of Bali.
+Growing up in a family which was strongly influenced by art and culture, Jean developed his own perspective about humanity in terms of history, culture, tradition and art. In 1986,  Jean received a doctoral degree for his thesis of art history and iconographic art of Bali.
 
 From his perspective, art is the pinnacle of personal expression, it is a way to speak out about personal feeling or social problems by promoting subjectivity.
 
@@ -258,7 +258,9 @@ could be lurking around the corner with total engine failure in store.
 
 **More infos**
 
-[Buy Bali’s Myth, Magic and Mystery by J.Couteau](http://phoenix.co.id/book/)
+[read about Bali’s Myth, Magic and Mystery](https://nowbali.co.id/new-book-launched-myth-magic-and-mystery-in-bali/)
+
+[Buy Bali’s Myth, Magic and Mystery by J.Couteau](https://www.tokopedia.com/phoenixcomm/myth-magic-and-mystery-in-bali-by-jean-couteau-2018)
 
 [Love and Erotic Art - Usada website](https://usadabali.com/events_category/special-events/page/3/)
 
