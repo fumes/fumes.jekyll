@@ -277,7 +277,7 @@ could be lurking around the corner with total engine failure in store.
 
 **More infos**
 
-[read about Bali’s Myth, Magic and Mystery](https://nowbali.co.id/new-book-launched-myth-magic-and-mystery-in-bali/)
+[Read about Bali’s Myth, Magic and Mystery](https://nowbali.co.id/new-book-launched-myth-magic-and-mystery-in-bali/)
 
 [Buy Bali’s Myth, Magic and Mystery by J.Couteau](https://www.tokopedia.com/phoenixcomm/myth-magic-and-mystery-in-bali-by-jean-couteau-2018)
 
