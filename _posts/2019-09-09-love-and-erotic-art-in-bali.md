@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Love and Erotic Art"
-text_author: rokma
+text_author: jean
 photographer: rokma
 curator: rokma
 date: '2019-09-09 09:09:09 +0900'
@@ -22,7 +22,7 @@ tags:
 - erotic
 license: CC_BY_NC_ND
 thumb: love-and-erotic-art-in-bali.jpg
-excerpt: "Jean Couteau presented at Usada space in Ubud, Bali - Balinese love and sexuality - from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the mountain god to impregnate your wife, the role of the motorbike in sexual imaginary and more."
+excerpt: "Jean Couteau presented at Usada in Ubud, Bali - Balinese love and sexuality - from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the mountain god to impregnate your wife, the role of the motorbike in sexual imaginary and more."
 ---
 {% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-01.jpg %}
 
@@ -46,7 +46,9 @@ In most societies, when you make love, you keep busy with yourself and your part
 
 You want to unite, to merge in your partner, because it is the purpose of the whole thing. You don't make a lot of fuss about it. You just carry on, happen what may!
 
-In Bali, however, things are different. Making love, uniting with your partner, takes a different meaning. First, and you may not like it, when you make love, you are never alone. Your love making involves not only both of you, and the not un-frequent peeping crowd, but also the cosmic forces your action is unwittingly activating. Don't forget that you are a microcosm within the macrocosm.
+In Bali, however, things are different. Making love, uniting with your partner, takes a different meaning. First, and you may not like it, when you make love, you are never alone.
+
+Your love making involves not only both of you, and the not un-frequent peeping crowd, but also the cosmic forces your action is unwittingly activating. Don't forget that you are a microcosm within the macrocosm.
 
 >"When you are in the act, the god of love, _Asmara_, is also in the act with his beloved the goddess of the moon, somewhere over there."
 
@@ -56,15 +58,21 @@ So you better behave, lest you cause some disruption in their relationship. This
 {% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-03.jpg %}
 
 
-For example there are days and moments where you should abstain. One does not make love during the Balinese week dedicated to the incestuous son _Watugunung_, the Balinese equivalent of _Oedipus_ which happened to be the week of Trump's inauguration. Making love during this week would besmirch the cleansing under way. I wonder whether Trump took this into account. It might explain a few things.
+For example there are days and moments where you should abstain. One does not make love during the Balinese week dedicated to the incestuous son _Watugunung_, the Balinese equivalent of _Oedipus_ which happened to be the week of Trump's inauguration.
+
+Making love during this week would besmirch the cleansing under way. I wonder whether Trump took this into account. It might explain a few things.
 
 There are other taboos as well though. Some are related to time as calendar days, or moments of the day. For example you may not make love at day junctions: sunrise, midday and sunset, for the demonic _butas_ are out, and you may fall prey to them, which means your offspring will turn out to be a small demonic being.
 
 For similar reasons you should take into account the place where you perform. Don't make love in a garbage disposal. It will have consequence on the body odour of the upcoming child.
 
-All this due to _karma_. Yet, there are, as always, exceptions. For example one of the best ways to become a _leyak_ is to go to a cemetery in the middle of the night, to exhume a 'fresh' woman's corpse and to make love to her. With the proper _mantras_, of course. Or else. If you manage to do that properly, your powers will go unchallenged by anyone for a long time.
+All this due to _karma_. Yet, there are, as always, exceptions. For example one of the best ways to become a _leyak_ is to go to a cemetery in the middle of the night, to exhume a 'fresh' woman's corpse and to make love to her.
 
-To put back things in the right order, and not become overly lewd in my writing, I must add that love making should not be gratuitous. It has a meaning, to keep things in balance during one's life between the goals of life: _artha-accumulation_ of earthly goods, _dharma_ or virtue and _kama_ or pleasure, in order to achieve the fourth and ultimate goal, _moksa_, merging into the cosmic whole even though there is a good change that you will miss it and come back to earth after a long or short punishment into Balinese hell.
+With the proper _mantras_, of course. Or else. If you manage to do that properly, your powers will go unchallenged by anyone for a long time.
+
+To put back things in the right order, and not become overly lewd in my writing, I must add that love making should not be gratuitous.
+
+It has a meaning, to keep things in balance during one's life between the goals of life: _artha-accumulation_ of earthly goods, _dharma_ or virtue and _kama_ or pleasure, in order to achieve the fourth and ultimate goal, _moksa_, merging into the cosmic whole even though there is a good change that you will miss it and come back to earth after a long or short punishment into Balinese hell.
 
 Once there, I warn you... if as a man you had many lovers, you will be sentenced to shoulder-carry pierced coconuts. But if you are a woman it is much worse... a demon may insert a burning torch into your genitals or worse.
 
@@ -82,13 +90,15 @@ Then you go back home, and you do what you have to do, not forgetting to utter a
 
 Never ever forget it, because the little bastards are very nasty. If you mistreat them, they may turn you impotent, if you are a man of course.
 
-But let us go back to what you did: when making love, you united what the Balinese call the _kama petak_, white _kama_ and the  _kama bang_, red _kama_ the cosmic forces at the origin of human life.
+But let us go back to what you did: when making love, you united what the Balinese call the _kama petak_, white _kama_ and the _kama bang_, red _kama_ the cosmic forces at the origin of human life.
 
 The next day, when you and your wife go to the ancestors temple, she may well shudder all of a sudden: the sign that an ancestor is coming down to incarnate, a little _dewa_ god the Balinese will say.
 
 The rest will be a matter of proper behaviour and right offering. And be relieved, the partner you find in your life may well be a soul you got indebted to while both of your souls were in hell. Karma is creating karma.
 
-But warn you. There is nothing romantic in Balinese traditional love. You will be told to beware of women. After all, their vagina is bluntly quoted in classical literature as being a "year-long incurable sore, which causes the world to go "banana." And they are "eight times more resistant in love making.
+But warn you. There is nothing romantic in Balinese traditional love. You will be told to beware of women.
+
+After all, their vagina is bluntly quoted in classical literature as being a "year-long incurable sore, which causes the world to go "banana." And they are "eight times more resistant in love making.
 
 But, forgetting the nasty side of it, perhaps it is the reason to make another try at it, at the right time, in the right place, and the right _kamasutra_ cosmic positioning. Of course.
 
@@ -100,7 +110,11 @@ Sex in Bali is closely linked to the agrarian tradition of fertility. A sexual e
 
 It starts very soon in the nickname given to a new-born baby before any 'official' name is attributed to him or her.
 
-Thus boys are often called _I Butuh_ or _I Kocong_, 'testicles' whereas girls are called _Ni Lueng_, _Ni Kembung_, names that refer to female parts. Those nicknames, which connote nudity, are often taken over by the parents, who end up being called _Men Butuh_ 'Testides Mother' or _Nang Lecir_ 'the Erected One's father'. For some reason, today's Balinese don't use those names any more. But the Ubud of _Lempad_ days still ignored state sponsored 'moralisation' of the kind that exists since the New Order days.
+Thus boys are often called _I Butuh_ or _I Kocong_, 'testicles' whereas girls are called _Ni Lueng_, _Ni Kembung_, names that refer to female parts.
+
+Those nicknames, which connote nudity, are often taken over by the parents, who end up being called _Men Butuh_ 'Testides Mother' or _Nang Lecir_ 'the Erected One's father'.
+
+For some reason, today's Balinese don't use those names any more. But the Ubud of _Lempad_ days still ignored state sponsored 'moralisation' of the kind that exists since the New Order days.
 
 This awareness of sexuality is deeply rooted, through symbolism, in the mentalities of old. As in other agrarian societies, Earth is the Mother Goddess, _Pertiwi_, provider of food and symbol of fertility.
 
@@ -110,11 +124,13 @@ The Balinese peasants who intend to plant vegetables may stick a stump of wood i
 
 In some villages it was until recently common practice for unmarried women to lie on their back and implore Father _Akasa_ to bestow upon them a mate, as it was for women to lie on their belly and address _Mother Pertiwi_. As if there were a union of men and women with their cosmic partners.
 
-Those social symbols and behaviours have a long story behind them. Archeologists have discovered in Bali sarcophagi shaped after women in the coital position. On the famous nekara bronze drum of _Pejeng_, next to _Bedulu_, one finds the etching of a frog with a similar female symbolism.
+Those social symbols and behaviours have a long story behind them. Archeologists have discovered in Bali sarcophagi shaped after women in the coital position. On the famous _nekara_ bronze drum of _Pejeng_, next to _Bedulu_, one finds the etching of a frog with a similar female symbolism.
 
-And everywhere there are phallic menhirs and stones whose symbolism is clearly pre-Hindu, usually set side by side with an object -a split stone for instance-that symbolizes the female component.
+And everywhere there are phallic menhirs and stones whose symbolism is clearly pre-Hindu, usually set side by side with an object -a split stone for instance-that symbolises the female component.
 
-Many of these objects have been integrated within the paraphernalia of Balinese temples as part of local cults of fertility. They are worshipped in relation to agricultural events or when a patient is beseeching forgiveness or healing from the world from beyond". The sexual connotation of these objects is usually made very obvious.
+Many of these objects have been integrated within the paraphernalia of Balinese temples as part of local cults of fertility.
+
+They are worshipped in relation to agricultural events or when a patient is beseeching forgiveness or healing from the world from beyond". The sexual connotation of these objects is usually made very obvious.
 
 The village of _Kayu Putih_, for example, has a "deity" shaped as a 25cm penis and called by the blunt name of "Dewa Gede C.K Kontong, this name being the Balinese expletive for the male organ.
 
@@ -122,7 +138,9 @@ The village of _Kayu Putih_, for example, has a "deity" shaped as a 25cm penis a
 
 Worth noticing is that this tradition has not been eradicated by Balinese Hinduism, but integrated as part of its symbolic corpus. _Shaivite Hinduism_, is practiced in Bali since the end of the first millennium, also uses phallic and vaginal symbols.
 
-_Pertiwi_ and _Akasa_, as explained earlier, are names of Hindu gods indeed, even though the cult of the earth and sky certainly predates their naming by Sanskrit names. But Shivaism, although it broadly uses sexual symbols: the lingam and the yoni, the sea and the mountain, sets them in the midst of a highly sophisticated cosmology and philosophy.
+_Pertiwi_ and _Akasa_, as explained earlier, are names of Hindu gods indeed, even though the cult of the earth and sky certainly predates their naming by Sanskrit names.
+
+But Shivaism, although it broadly uses sexual symbols: the lingam and the yoni, the sea and the mountain, sets them in the midst of a highly sophisticated cosmology and philosophy.
 
 The Universe _Bhwana Agung_, according to _Shaivism_, stems from the union of the _Purusa_, 'the shiva linga' and of the _Pradana_, 'the yoni'. Symbols of spirit and matter, of male and female, of the necessary union of _Rwabhinneda_,'cosmic opposites' that generates the movement of the cosmic Unity.
 
@@ -130,7 +148,7 @@ Thus sexuality, in Ball, like elsewhere, goes well beyond sex. Beyond those symb
 
 On the Balinese side, and the 'negative' aspect of it-one must note that sex was not always romance, nor symbols. There is for example a long tradition of sexual violence, usually as _pele gondang/nganjuk_, 'abduction/rape' followed by marriage.
 
-While disapproving it, one Balinese informant justified it to the writer as a necessity inherent to the _Rwabhinneda_. Reffering to literary sources, Vickers assesses that sexuality and power often go together the language of sex is one of war and conquest-of piercing' and 'stabbing with love arrows' so that the woman 'dies'.
+While disapproving it, one Balinese informant justified it to the writer as a necessity inherent to the _Rwabhinneda_. Referring to literary sources, Vickers assesses that sexuality and power often go together the language of sex is one of war and conquest-of piercing' and 'stabbing with love arrows' so that the woman 'dies'.
 
 
 {% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-07.jpg %}
@@ -145,15 +163,21 @@ Adrian Vickers indeed further confirms that 'On Bali homosexuality was not a mat
 
 Even though this is not in itself linked to homosexual behaviour, it is indeed an established fact that Balinese men and women, are used to intensely communicating with one another through touching and hugging in ways that might sometimes lead to homosexuality.
 
-Yet, if one believes the writer's best informant, _Lempad_'s great-nephew _Gusti Nyoman Darta_, who was a young palace servant in _Lempad_'s old days, one cannot conclude that both sexual violence and homosexuality are considered 'normal' nor escaped social control. They might be deemed philosophically 'necessary and hence justified as reality', but they are nevertheless perceived as signs of _gumi sane wayah_ 'loss of balance in the world' and hence _leten_, 'impurity'.
+Yet, if one believes the writer's best informant, _Lempad_'s great-nephew _Gusti Nyoman Darta_, who was a young palace servant in _Lempad_'s old days, one cannot conclude that both sexual violence and homosexuality are considered 'normal' nor escaped social control.
+
+They might be deemed philosophically 'necessary and hence justified as reality', but they are nevertheless perceived as signs of _gumi sane wayah_ 'loss of balance in the world' and hence _leten_, 'impurity'.
 
 Sexuality is indeed part of the complex system of Hindu-Balinese cosmic order, and it involves the relation between the _Bhwana Agung_ 'Universe as a whole' and the _Bhuana Alit_, 'human microcosm'.
 
-The _Rwabhinneda_ principle of complementarity of opposites applies to the complementarity of male and female as well as to the complementarity of the 'positive' and the 'negative'. If there are prayers to properly accompany it, there are cleansing offerings together with _mantras_, to exorcise its "negative aspects and thus restore the disturbed cosmic balance.
+The _Rwabhinneda_ principle of complementarity of opposites applies to the complementarity of male and female as well as to the complementarity of the 'positive' and the 'negative'.
+
+If there are prayers to properly accompany it, there are cleansing offerings together with _mantras_, to exorcise its "negative aspects and thus restore the disturbed cosmic balance.
 
 In _Lempad_'s time, the perceived existing imbalance was not anymore simply that of Bali and and one caused by the deeds of the Balinese.
 
-The Western-run world at large now directly impinged on the world such as traditionally known to the Balinese. There had been the political intrusion of the Dutch at the beginning of the century, which had shaken the balance of power and was modifying the way the economy was run and culture was thought.
+The Western-run world at large now directly impinged on the world such as traditionally known to the Balinese.
+
+There had been the political intrusion of the Dutch at the beginning of the century, which had shaken the balance of power and was modifying the way the economy was run and culture was thought.
 
 Then, the 1917 earthquake, qualified by the Balinese as the _laier qumi Bali_ ,'shaking of the world', had been a godly sign of cosmic disturbance.
 
@@ -165,7 +189,7 @@ It is in this context of _Rwabhinneda_'s principle of reality as both complement
 
 His works show it as it is, either bluntly or metaphorically. He can show bamboo pole or a squirrel making a hole to a betel nut, but he can also be cruder, like in the 'book' of erotic drawings he made for our prince just to arouse the latter's deflated sexual organ.
 
-He made the drawings, but it was I who was entrusted with the preparation of the concoctions," he concludes with a laugh, obviously recalling his youth years as a palace attendant, when he was in regular contact with the old artist.
+"He made the drawings, but it was I who was entrusted with the preparation of the concoctions," he concludes with a laugh, obviously recalling his youth years as a palace attendant, when he was in regular contact with the old artist.
 
 He can show a monkey masturbating with a bamboo pole or a squirrel making a hole in a betel nut, but he can be also cruder, like in the book of erotic drawings he made for the prince just to arouse his deflated organ.
 
@@ -175,8 +199,7 @@ Regarding the violent and homosexual side of _Lempad_'s drawings, Adrian Vickers
 
 '_Lempad_, at least in part, is connecting homosexual acts with the age of instability in which he found himself. It was not morally wrong at least in the Western sense of the word, JC, but its public importance was a symptom of an age of indulgence where the moral order was changes undergoing rapid changes'.
 
-Summing up things, we can say that _Lempad_ was a witness of his days and culture, with a
-philosophical Balinese slant and a new, modern look at reality.
+Summing up things, we can say that _Lempad_ was a witness of his days and culture, with a philosophical Balinese slant and a new, modern look at reality.
 
 _What about style? He certainly drew representation found in lontar _Kama Tatwa_ manuscripts as well as in classical temple reliefs and paintings-such as those one can see at the series, the form is here more varied freer and much more realistic.
 
@@ -184,8 +207,7 @@ On the whole, _Lempad_ goes well beyond the traditional patterning of that chara
 
 _Kerta Gosa_ Hall of Justice in _Klungkung_. But, as in his other series, the form is here more varied, freer and mnore realistic. On the whole, _Lempad_ goes well beyond the traditional patterns of images that characterises pre-colonial Balinese art to enter an individual kind of expression the questioning of form and theme of which already announced the onset of modernism.
 
-The expressions of the characters show perfectly well their specific roles, lesbians with masculine attitude, homosexual men with large phalluses as exaggerated clitoris in a more
-focus of their pleasure, aggressive erotic gestures infringing subtle pain such as biting and wiping or the use of objects like mirrors or substances such as opium to enhance the pleasure.
+The expressions of the characters show perfectly well their specific roles, lesbians with masculine attitude, homosexual men with large phalluses as exaggerated clitoris in a more focus of their pleasure, aggressive erotic gestures infringing subtle pain such as biting and wiping or the use of objects like mirrors or substances such as opium to enhance the pleasure.
 
 Some of these drawings show beauty characteristic of the master. Once confronted for the first time to some of these drawings, one cannot but be struck by their artistic quality, has to first unnoticed and only slowly discover the subject per se.
 
@@ -198,8 +220,7 @@ The empty space around the figures, which is a recurrent feature in _Lempad_'s w
 ### SEX AND MOTOR BIKE
 
 
-Picture this. Hot day in Denpasar. Heavy traffic. Motorcyclists weaving their way between
-cars, anxious to turn up at the office on time, then the drivers waiting at a traffic light including me.
+Picture this. Hot day in Denpasar. Heavy traffic. Motorcyclists weaving their way between cars, anxious to turn up at the office on time, then the drivers waiting at a traffic light including me.
 
 A small Honda pulled up alongside my car and I recognised the rider immediately. Komang A, an acquaintance of mine who lectures at one of the numerous private universities scattered around town. In fact, he lectures in English. A good indication of his frame of mind: modern.
 
@@ -207,17 +228,13 @@ A small Honda pulled up alongside my car and I recognised the rider immediately.
 
 "_Cang kar ganti olie_", 'the oil needs changing' replied Komang, with a broad smile across his face.
 
-At first, I didn't quite get what ne meant. The bike look brand new and well serviced. With a sense of propriety I'd acquired since I live in Bali, I gave him a wink and asked humorously, "_Kenken, Mang? Apa usak monitor ci-e ?_", 'is your bike in such a bad
-condition?'.
+At first, I didn't quite get what ne meant. The bike look brand new and well serviced. With a sense of propriety I'd acquired since I live in Bali, I gave him a wink and asked humorously, "_Kenken, Mang? Apa usak monitor ci-e ?_", 'Is your bike in such a bad condition?'.
 
-He laughed and, as the light turned green, he blurted out "_Apa Kadek sing ngerti
-? Cang kar ngetap oli. Cang lakar ngalih cewek di KUD._", "_Don't you understand? I'm on my
-way to "change the oil". I'm visiting a prostitute at the Cooperative_" - a notorious
-brothel. Wise words and before I could say anything else, Komang was gone in a trail
-of smoke, chasing the dubious pleasure of love purchased.
+He laughed and, as the light turned green, he blurted out "_Apa Kadek sing ngerti? Cang kar ngetap oli. Cang lakar ngalih cewek di KUD._", "_Don't you understand? I'm on my way to "change the oil". I'm visiting a prostitute at the Cooperative_" - a notorious brothel.
 
-Komang's straightforwardness did not actually surprise me. After all, in villages young boys
-are casually called _butuh_, 'little balls' and young girls _songkeg_, 'little vagina'.
+Wise words and before I could say anything else, Komang was gone in a trail of smoke, chasing the dubious pleasure of love purchased.
+
+Komang's straightforwardness did not actually surprise me. After all, in villages young boys are casually called _butuh_, 'little balls' and young girls _songkeg_, 'little vagina'.
 
 On several occasion as I was peeling a banana, I felt embarrassed when young and innocent girls asked me if my 'thing' was as big as the fruit "_Aune duwen Bapak?_".
 
@@ -243,7 +260,9 @@ increaser in motor traffic.
 
 Balinese short stories of the seventies are full of beaus riding a bike with a village petite in tow, rushing to the city. She would come back home, almost invariably pregnant, with tears of regret in her eyes. Eventually, some order was reestablished.
 
-Now the use of a bike and of its stand - has been generalised. And with it the nature and the tempo of village love affairs have been radically modified. In the days of yore, boys and girls would meet at temple festivals and court in the open and with the knowledge of their peers.
+Now the use of a bike and of its stand - has been generalised. And with it the nature and the tempo of village love affairs have been radically modified.
+
+In the days of yore, boys and girls would meet at temple festivals and court in the open and with the knowledge of their peers.
 
 There was winking and pinching and, for the lucky ones, some hugging here and there or a
 furtive embrace.
