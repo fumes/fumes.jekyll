@@ -78,6 +78,7 @@ Once there, I warn you... if as a man you had many lovers, you will be sentenced
 
 {% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-04.jpg %}
 
+
 There is patriarchy even in Balinese hell. How to bring feminism to hell and empower women there?
 
 Once a soul is in hell or, after punishment, it is not clear-waiting somewhere, as an ancestor, in the 'Old Country' above the mountain, it has to come down to earth for another attempt at achieving _moksa_... For that, things should be organised properly on earth, in the so-called 'Middle-World', and by your descendants.
@@ -98,11 +99,14 @@ The rest will be a matter of proper behaviour and right offering. And be relieve
 
 But warn you. There is nothing romantic in Balinese traditional love. You will be told to beware of women.
 
-After all, their vagina is bluntly quoted in classical literature as being a "year-long incurable sore, which causes the world to go "banana." And they are "eight times more resistant in love making.
+After all, their vagina is bluntly quoted in classical literature as being a "year-long incurable sore, which causes the world to go "banana". And they are "eight times more resistant" in love making.
 
 But, forgetting the nasty side of it, perhaps it is the reason to make another try at it, at the right time, in the right place, and the right _kamasutra_ cosmic positioning. Of course.
 
-{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-05.jpg %}
+
+
+{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-08.jpg %}
+
 
 ### SEX IN BALI
 
@@ -134,13 +138,15 @@ They are worshipped in relation to agricultural events or when a patient is bese
 
 The village of _Kayu Putih_, for example, has a "deity" shaped as a 25cm penis and called by the blunt name of "Dewa Gede C.K Kontong, this name being the Balinese expletive for the male organ.
 
-{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-06.jpg %}
 
 Worth noticing is that this tradition has not been eradicated by Balinese Hinduism, but integrated as part of its symbolic corpus. _Shaivite Hinduism_, is practiced in Bali since the end of the first millennium, also uses phallic and vaginal symbols.
 
 _Pertiwi_ and _Akasa_, as explained earlier, are names of Hindu gods indeed, even though the cult of the earth and sky certainly predates their naming by Sanskrit names.
 
 But Shivaism, although it broadly uses sexual symbols: the lingam and the yoni, the sea and the mountain, sets them in the midst of a highly sophisticated cosmology and philosophy.
+
+
+{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-07.jpg %}
 
 The Universe _Bhwana Agung_, according to _Shaivism_, stems from the union of the _Purusa_, 'the shiva linga' and of the _Pradana_, 'the yoni'. Symbols of spirit and matter, of male and female, of the necessary union of _Rwabhinneda_,'cosmic opposites' that generates the movement of the cosmic Unity.
 
@@ -151,7 +157,6 @@ On the Balinese side, and the 'negative' aspect of it-one must note that sex was
 While disapproving it, one Balinese informant justified it to the writer as a necessity inherent to the _Rwabhinneda_. Referring to literary sources, Vickers assesses that sexuality and power often go together the language of sex is one of war and conquest-of piercing' and 'stabbing with love arrows' so that the woman 'dies'.
 
 
-{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-07.jpg %}
 
 At another level, and whether they liked it or not, it was the custom for pretty girls, until at least the first decades of the 20 century, to become female attendants _penyeroan_ at the local _puri_ palace, where they would unavoidably end up as princes' concubines. This happened to the daughter of _Lempad_, who had a famous fall out with _Tjokorda Raka Sukawati_ on the subject.
 
@@ -179,6 +184,7 @@ The Western-run world at large now directly impinged on the world such as tradit
 
 There had been the political intrusion of the Dutch at the beginning of the century, which had shaken the balance of power and was modifying the way the economy was run and culture was thought.
 
+
 Then, the 1917 earthquake, qualified by the Balinese as the _laier qumi Bali_ ,'shaking of the world', had been a godly sign of cosmic disturbance.
 
 And now there were all those foreigners men, and even some women, coming to Bali with their sexual mores and demands.
@@ -199,6 +205,7 @@ Regarding the violent and homosexual side of _Lempad_'s drawings, Adrian Vickers
 
 '_Lempad_, at least in part, is connecting homosexual acts with the age of instability in which he found himself. It was not morally wrong at least in the Western sense of the word, JC, but its public importance was a symptom of an age of indulgence where the moral order was changes undergoing rapid changes'.
 
+
 Summing up things, we can say that _Lempad_ was a witness of his days and culture, with a philosophical Balinese slant and a new, modern look at reality.
 
 _What about style? He certainly drew representation found in lontar _Kama Tatwa_ manuscripts as well as in classical temple reliefs and paintings-such as those one can see at the series, the form is here more varied freer and much more realistic.
@@ -209,13 +216,15 @@ _Kerta Gosa_ Hall of Justice in _Klungkung_. But, as in his other series, the fo
 
 The expressions of the characters show perfectly well their specific roles, lesbians with masculine attitude, homosexual men with large phalluses as exaggerated clitoris in a more focus of their pleasure, aggressive erotic gestures infringing subtle pain such as biting and wiping or the use of objects like mirrors or substances such as opium to enhance the pleasure.
 
+
 Some of these drawings show beauty characteristic of the master. Once confronted for the first time to some of these drawings, one cannot but be struck by their artistic quality, has to first unnoticed and only slowly discover the subject per se.
 
 This is especially true in the master piece, 'Two Women Interacting' Pt number 167, where the composition of the two characters intermingle in perfect balance with the character on top performing an aerial almost dance posture that gives movement and beauty to the act and thus counterbalances the exaggerated female sexual attributes.
 
 The empty space around the figures, which is a recurrent feature in _Lempad_'s work, further enhances this wonderful in gravity sensation and a pureness seldom seen in Balinese paintings.
 
-{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-08.jpg %}
+
+{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-10.jpg %}
 
 ### SEX AND MOTOR BIKE
 
@@ -233,6 +242,9 @@ At first, I didn't quite get what ne meant. The bike look brand new and well ser
 He laughed and, as the light turned green, he blurted out "_Apa Kadek sing ngerti? Cang kar ngetap oli. Cang lakar ngalih cewek di KUD._", "_Don't you understand? I'm on my way to "change the oil". I'm visiting a prostitute at the Cooperative_" - a notorious brothel.
 
 Wise words and before I could say anything else, Komang was gone in a trail of smoke, chasing the dubious pleasure of love purchased.
+
+
+{% responsive_image path: uploads/2019/09/love-and-erotic-art-in-bali-09.jpg %}
 
 Komang's straightforwardness did not actually surprise me. After all, in villages young boys are casually called _butuh_, 'little balls' and young girls _songkeg_, 'little vagina'.
 
@@ -263,6 +275,8 @@ Balinese short stories of the seventies are full of beaus riding a bike with a v
 Now the use of a bike and of its stand - has been generalised. And with it the nature and the tempo of village love affairs have been radically modified.
 
 In the days of yore, boys and girls would meet at temple festivals and court in the open and with the knowledge of their peers.
+
+
 
 There was winking and pinching and, for the lucky ones, some hugging here and there or a
 furtive embrace.
