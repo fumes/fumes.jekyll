@@ -7,16 +7,18 @@ curator: Alejandro Plesch
 date: '2010-09-07 19:42:30 +0200'
 categories: photo-journalism
 tags:
-- review
-- news
-- reflect
-- under-covered
-- Congo
-- educational
 - Africa
-- pain
-- hardcore
 - awareness
+- Congo
+- news
+- educational
+- hardcore
+- pain
+- preventable
+- review
+- reflect
+- technology
+- under-covered
 license:
 thumb: congo.jpg
 ---

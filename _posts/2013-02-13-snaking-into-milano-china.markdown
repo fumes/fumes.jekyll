@@ -10,18 +10,19 @@ date: '2013-02-13 01:59:27 +0100'
 categories: photo-journalism
 tags:
 - city
-- Milano
-- news
-- photography
-- tradition
-- ritual
+- festival
+- Italy
 - celebration
 - Chinese
 - culture
 - lifestyle
-- report
-- Italy
 - life
+- Milano
+- news
+- photography
+- report
+- ritual
+- tradition
 - performance
 license: CC_BY
 thumb: snaking.jpg

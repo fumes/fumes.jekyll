@@ -7,17 +7,18 @@ curator: rokma
 date: '2017-08-08 11:11:55 +1100'
 categories: inspiring
 tags:
+- awareness
 - clever
+- educational
+- geek
+- life
+- meditation
 - news
+- smart
 - reflect
 - review
-- educational
 - useful
-- awareness
-- smart
-- life
 - video
-- meditation
 license:
 thumb: hallucinating.jpg
 ---

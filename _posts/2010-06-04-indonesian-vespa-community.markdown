@@ -8,25 +8,27 @@ photographer: alejandro
 date: '2010-06-04 15:42:35 +0200'
 categories: photo-journalism
 tags:
-- lifestyle
 - black-and-white
-- Indonesia
-- personal-works
 - Bali
-- under-covered
-- photography
+- community
+- celebration
 - documentary
-- vespa
-- Slankers
+- festival
+- fun
+- hardcore
+- Indonesia
+- lifestyle
 - movement
 - motorcycles
-- scooter
-- community
+- music
+- personal-works
+- photography
 - rasta
-- hardcore
-- celebration
-- fun
 - report
+- scooter
+- Slankers
+- under-covered
+- vespa
 license:
 thumb: vespa.jpg
 ---

@@ -13,11 +13,13 @@ tags:
 - artist
 - abstract
 - Auckland
+- beauty
 - city
 - culture
+- conceptual
+- contemporary-art
 - educational
 - painting
-- contemporary-art
 - New-Zealand
 - report
 - review

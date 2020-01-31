@@ -12,6 +12,7 @@ tags:
 - reflect
 - review
 - educational
+- geek
 - useful
 - awareness
 - smart

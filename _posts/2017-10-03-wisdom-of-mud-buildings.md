@@ -7,23 +7,24 @@ curator: rokma
 date: '2017-10-03- 11:22:33 +1234'
 categories: inspiring
 tags:
-- clever
+- awareness
 - architecture
+- clever
+- educational
+- design
 - news
+- nature
 - reflect
 - review
-- educational
-- useful
-- awareness
-- smart
-- design
-- nature
 - rural
 - shape
-- video
 - simplicity
+- smart
 - sustainability
+- technology
 - under-covered
+- useful
+- video
 license:
 thumb: mud-wisdom.jpg
 ---

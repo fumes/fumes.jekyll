@@ -8,21 +8,22 @@ date: '2010-05-21 17:37:16 +0200'
 date_gmt: '2010-05-21 10:37:16 +0200'
 categories: balance
 tags:
-- useful
-- review
-- news
-- reflect
-- plants
-- trash
-- clever
-- rivers
 - artist
-- water-problems
-- solar-panels
-- water
-- nature
-- sustainability
+- clever
 - design
+- nature
+- news
+- plants
+- reflect
+- rivers
+- review
+- solar-panels
+- sustainability
+- technology
+- trash
+- useful
+- water
+- water-problems
 license:
 thumb: plantas-nomadas.jpg
 ---

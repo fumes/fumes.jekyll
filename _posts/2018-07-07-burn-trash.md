@@ -10,20 +10,20 @@ date: '2018-07-07 07:07:07 +0700'
 categories: photo-journalism
 tags:
 - awareness
+- Bali
+- black-and-white
+- Indonesia
 - educational
+- fine-art-prints
 - life
 - people
-- ritual
-- reflect
-- tradition
-- slum
-- under-covered
 - preventable
-- Bali
-- Indonesia
 - photography
-- black-and-white
-- fine-art-prints
+- reflect
+- ritual
+- slum
+- tradition
+- under-covered
 license: CC_BY
 thumb: burn-trash.jpg
 excerpt: I had always thought that's just the poor people who clean their yard by burning the rubbish, but I had to change my mind. I spoke recently with a rich kid from an high status family in Sanur, as I had discovered that in the back of their land they have a trash dump with evident signs of their trash burning habit...

@@ -9,15 +9,17 @@ curator: rokma
 date: '2019-04-15 10:10:10 +1000'
 categories: photo-journalism
 tags:
+- abstract
 - art
 - artist
 - Auckland
+- beauty
+- contemporary-art
 - city
+- conceptual
 - culture
 - educational
 - New-Zealand
-- abstract
-- contemporary-art
 - painting
 - report
 - review

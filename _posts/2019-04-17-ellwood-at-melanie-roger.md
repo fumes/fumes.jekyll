@@ -12,6 +12,7 @@ tags:
 - art
 - artist
 - Auckland
+- beauty
 - city
 - culture
 - educational

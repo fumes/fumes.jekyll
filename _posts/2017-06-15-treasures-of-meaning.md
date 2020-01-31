@@ -12,6 +12,7 @@ tags:
 - awareness
 - educational
 - clever
+- conceptual
 - life
 - people
 - meditation

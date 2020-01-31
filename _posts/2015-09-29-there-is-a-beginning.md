@@ -7,17 +7,19 @@ curator: rokma
 date: '2015-09-29 07:37:55 +0300'
 categories: balance
 tags:
+- awareness
 - clever
+- conceptual
+- educational
+- geek
+- life
+- lifestyle
 - reflect
 - review
 - simplicity
-- useful
-- educational
-- life
 - smart
 - sustainability
-- lifestyle
-- awareness
+- useful
 license:
 thumb: there-is-a-beginning.jpg
 ---

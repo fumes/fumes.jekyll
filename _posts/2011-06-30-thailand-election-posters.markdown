@@ -8,17 +8,18 @@ photographer: rokma
 date: '2011-06-30 16:25:11 +0200'
 categories: photo-journalism
 tags:
-- documentary
-- photography
-- Bangkok
-- Thailand
 - advertising
+- Bangkok
+- city
+- documentary
 - educational
+- Phuket
+- photography
+- report
+- Thailand
+- technology
 - visual
 - vote
-- Phuket
-- city
-- report
 license: CC_BY
 thumb: thai-elections.jpg
 ---

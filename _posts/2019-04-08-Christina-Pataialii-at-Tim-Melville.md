@@ -13,6 +13,7 @@ tags:
 - artist
 - awareness
 - Auckland
+- beauty
 - city
 - culture
 - educational

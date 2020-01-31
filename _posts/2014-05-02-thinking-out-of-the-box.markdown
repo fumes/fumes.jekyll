@@ -7,24 +7,23 @@ curator: rokma
 date: '2014-05-02 16:55:51 +0200'
 categories: inspiring
 tags:
-- fun
-- useful
-- review
-- news
-- reflect
-- under-covered
-- educational
-- clever
-- artist
-- geek
-- visual
-- design
-- smart
-- open-source
-- technology
 - awareness
-- open-source
+- artist
+- clever
+- design
+- educational
+- fun
+- geek
 - global-warming
+- news
+- open-source
+- review
+- reflect
+- smart
+- technology
+- under-covered
+- useful
+- visual
 license:
 thumb: thinking.jpg
 ---

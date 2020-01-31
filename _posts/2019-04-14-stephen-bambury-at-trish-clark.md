@@ -11,13 +11,15 @@ categories: photo-journalism
 tags:
 - art
 - artist
+- abstract
 - Auckland
+- beauty
+- contemporary-art
 - city
 - culture
+- conceptual
 - educational
 - New-Zealand
-- abstract
-- contemporary-art
 - photography
 - report
 - review

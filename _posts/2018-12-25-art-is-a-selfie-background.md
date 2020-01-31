@@ -10,14 +10,15 @@ date: '2018-12-25 01:01:01 +0100'
 categories: photo-journalism
 tags:
 - awareness
+- Bali
 - educational
+- Indonesia
+- geek
 - life
 - people
+- photography
 - reflect
 - under-covered
-- Bali
-- Indonesia
-- photography
 license: CC_BY
 thumb: art-is-a-selfie-background.jpg
 excerpt: Art, formerly considered an high end cultural extravaganza, is now entering a new perception phase. Forget the eye opening art-critic comment, the interview with author, the art piece title, just click...

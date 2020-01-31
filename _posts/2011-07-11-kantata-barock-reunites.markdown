@@ -8,18 +8,17 @@ photographer: alejandro
 date: '2011-07-11 18:57:45 +0200'
 categories: photo-journalism
 tags:
+- celebration
+- culture
+- documentary
+- global-warming
 - Indonesia
 - photography
-- Java
-- global-warming
-- peace-concert
-- folk-music
 - legends
-- celebration
-- documentary
+- music
 - people
-- Indonesian-heroes
 - report
+- Java
 license:
 thumb: kantata.jpg
 ---

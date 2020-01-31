@@ -8,18 +8,18 @@ photographer: rokma
 date: '2014-02-03 12:49:00 +0100'
 categories: photo-journalism
 tags:
-- fun
-- lifestyle
-- city
-- tradition
-- performance
-- festival
 - celebration
-- Singapore
+- city
 - Chinese
 - culture
+- fun
+- festival
+- lifestyle
+- performance
+- Singapore
 - report
 - ritual
+- tradition
 license:
 thumb: good-luck.jpg
 ---

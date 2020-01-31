@@ -11,7 +11,7 @@ categories: photo-journalism
 tags:
 - art   
 - artist
-- Wellington
+- beauty
 - city
 - culture
 - educational
@@ -20,6 +20,7 @@ tags:
 - report
 - review
 - visual
+- Wellington
 license: CC_BY_NC_ND
 thumb: maori-art-at-te-papa.jpg
 excerpt: Te Papas vision for the future is to change hearts, minds, and lives being a forum for the nation to present, explore, and preserve the heritage of its cultures and knowledge of the natural environment.

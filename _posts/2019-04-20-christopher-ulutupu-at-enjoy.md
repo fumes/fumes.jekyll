@@ -11,16 +11,18 @@ categories: photo-journalism
 tags:
 - art   
 - artist
-- Wellington
+- beauty
+- contemporary-art
 - city
 - culture
 - educational
+- glamour
 - New-Zealand
-- contemporary-art
 - report
 - review
 - visual
 - video
+- Wellington
 license: CC_BY_NC_ND
 thumb: christopher-ulutupu-at-enjoy.jpg
 excerpt: Established in June 2000 as an artist-run initiative, Enjoy Public Art Gallery is a leading independent contemporary art space located in Te Whanganui-a-Tara Wellington, Aotearoa New Zealand. Dreaming of Lulu is a solo exhibition by Poneke-based artist Christopher Ulutupu.
