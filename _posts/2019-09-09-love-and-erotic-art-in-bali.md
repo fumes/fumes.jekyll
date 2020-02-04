@@ -13,13 +13,14 @@ tags:
 - love
 - Bali
 - culture
+- erotic
 - educational
 - Indonesia
 - contemporary-art
 - lifestyle
 - report
 - review
-- erotic
+- sex
 license: CC_BY_NC_ND
 thumb: love-and-erotic-art-in-bali.jpg
 excerpt: "Jean Couteau presented at Usada in Ubud, Bali - Balinese love and sexuality - from a philosophical and social point of view, enlightened by reference to stories and erotic illustrations. He challenges all ideas you have had to this day regarding love and sex. Love as a cosmic moment. Peeping, sex to enable the mountain god to impregnate your wife, the role of the motorbike in sexual imaginary and more."

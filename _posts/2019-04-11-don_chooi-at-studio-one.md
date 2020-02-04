@@ -15,15 +15,16 @@ tags:
 - Auckland
 - beauty
 - city
+- contemporary-art
 - culture
 - educational
 - fun
 - painting
-- contemporary-art
 - New-Zealand
 - people
 - report
 - review
+- sex
 - visual
 license: CC_BY_NC_ND
 thumb: aucklandstudioone.jpg

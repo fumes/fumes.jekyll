@@ -8,17 +8,17 @@ photographer: alejandro
 date: '2011-05-02 18:32:32 +0200'
 categories: photo-journalism
 tags:
+- expat
+- hardcore
+- life
+- lifestyle
 - photography
-- Thailand
 - prostitution
-- sex
-- tourism
 - plastic-surgery
 - Phuket
-- life
-- hardcore
-- lifestyle
-- expat
+- Thailand
+- tourism
+- sex
 license:
 thumb: thai-sex.jpg
 ---
