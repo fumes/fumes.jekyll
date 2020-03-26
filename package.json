@@ -4,11 +4,11 @@
   "description": "gulp + ruby-sass + brosync + jekyll = gail!",
   "main": "gulpfile.js",
   "devDependencies": {
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.0",
     "gulp-filter": "^3.0.1",
     "gulp-ruby-sass": "^3.0.0",
-    "gulp-svgmin": "^1.2.0"
+    "gulp-svgmin": "^2.2.0"
   },
   "dependencies": {
     "imager.js": "^0.5.0"
