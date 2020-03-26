@@ -1,27 +1,86 @@
-<footer class="footer" role="contentinfo">
+<footer class="footer group" role="contentinfo">
 
   <div class="wrapper">
 
-    <p class="footer__description">{{ site.description }}</p>
+    <div class="footer__description">
 
-    <p class="footer__description">{% if page.layout==default %}Copyright © 2010 - {{ "now" | date: "%Y" }} <a href="https://junglestar.org">Junglestar</a> - {% endif %}There are currently {{ site.posts | size }} Fumes articles.</p>
+      <h3 class="center">Fumes is an Online Art magazine covering mostly Asia Pacific.<br>Fumes project was started by two photographers in 2010.</h3>
 
-
-    <div class="footer__socialicons">
-    {% for svg in site.socialicons %}
-
-      <a href="{{ svg.gourl }}" title="connect using {{ svg.name }}">{{ svg.content }}</a>
-
-    {% endfor %}
-
-      <a href="#top" title="back to page top">
-
-        {% include svg/use.html id="icn--top" class="top" %}
-
-      </a>
+      <h3 class="center">{% if page.layout==default %}Copyright © 2010 - {{ "now" | date: "%Y" }} <a href="https://junglestar.org">Junglestar</a> - {% endif %}There are currently {{ site.posts | size }} Fumes articles.</h3>
 
     </div>
 
+    <div class="footer__socialicons">
+
+      {% if site.qr %}
+      <div class="footer_icon qr">
+          <span>
+            {% include svg/use.html id="icn--qr" class="qr" %}
+          </span>
+          <span class="hide_on_phones">&nbsp;</span>
+      </div>
+      {% endif %}
+
+      {% if site.owner.github %}
+      <div class="footer_icon github">
+        <a class="menu_item" role="menuitem" href="{{site.owner.github}}" title="{{site.owner.github}} Github">
+          <span>
+            {% include svg/use.html id="icn--github" class="github" %}
+          </span>
+          <span class="hide_on_phones">{{site.owner.github | replace: "https://github.com/", "" }}</span>
+        </a>
+      </div>
+      {% endif %}
+
+
+      {% if site.owner.facebook %}
+      <div class="footer_icon facebook">
+        <a class="menu_item" role="menuitem" href="{{site.owner.facebook}}" title="{{site.owner.facebook}} Facebook page">
+          <span>
+            {% include svg/use.html id="icn--facebook" class="facebook" %}
+          </span>
+          <span class="hide_on_phones">{{site.owner.facebook | replace: "https://web.facebook.com/", "" }}</span>
+        </a>
+      </div>
+      {% endif %}
+
+      {% if site.owner.twitter %}
+      <div class="footer_icon twitter">
+        <a class="menu_item" role="menuitem" href="{site.owner.twitter}}" title="{{site.owner.twitter}} at twitter">
+          <span>
+            {% include svg/use.html id="icn--twitter" class="twitter" %}
+          </span>
+          <span class="hide_on_phones">{{site.owner.twitter | replace: "https://twitter.com/", "" }}</span>
+        </a>
+      </div>
+      {% endif %}
+
+      {% if site.owner.email %}
+      <div class="footer_icon email">
+        <a class="menu_item" role="menuitem" class="" href="mailto:{{site.owner.email}}" title="{{site.owner.email}}">
+          <span>
+            {% include svg/use.html id="icn--email" class="email" %}
+          </span>
+          <span itemprop="email">
+            <span class="hide_on_phones">{{site.owner.email}}</span></span>
+        </a>
+      </div>
+      {% endif %}
+
+      {% if site.owner.instagram %}
+      <div class="footer_icon instagram">
+        <a class="menu_item" role="menuitem" href="{{site.owner.instagram}}" title="{{site.owner.instagram}} on Instagram">
+          <span>
+            {% include svg/use.html id="icn--instagram" class="instagram" %}
+          </span>
+          <span class="hide_on_phones">{{site.owner.instagram | replace: "https://www.instagram.com/", "" }}</span>
+        </a>
+      </div>
+      {% endif %}
+
+
+
+    </div>
 
   </div>
 

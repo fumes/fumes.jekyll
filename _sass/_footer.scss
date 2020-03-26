@@ -1,10 +1,14 @@
 //footer block
 
 .footer {
-  background-color: $background_color;
+  //background-color: $background_color;
   border-top: 1px solid $grey_color_dark;
   padding: $spacing_unit 0;
-  color: $grey_color;
+  color: $black;
+
+  position: sticky;
+  bottom: 0;
+
 }
 
 .footer__description {
@@ -14,57 +18,58 @@
 }
 
 .footer__socialicons {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
+  flex-direction: row;
   justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
   align-items: center;
   margin: 0 auto;
-  max-width: 25%;
-  @include media("screen", ">minWidth") {
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    max-width: 75%;
+  max-width: 80%;
+  .qr  {
+    margin-top: 0;
+    margin-right: $vertical_rhythm--small/8;
   }
   @include media("screen", ">bp1Width") {
     max-width: 50%;
+    .qr  {
+      margin-top: $vertical_rhythm--small/2;
+      margin-right: $vertical_rhythm--small/2;
+    }
   }
 
   svg {
-    width: $icon_size;
-    height: $icon_size;
+    width: $icon_size/1.5;
+    height: $icon_size/1.5;
+    fill: $black;
+    @include media("screen", ">minWidth") {
+      width: $icon_size;
+      height: $icon_size;
+    }
+
+
   }
 
   a {
-    -webkit-flex-basis: auto;
-    -ms-flex-preferred-size: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     flex-basis: auto;
     @include media("screen", ">minWidth") {
-      -webkit-flex-basis: 130px;
-      -ms-flex-preferred-size: 130px;
       flex-basis: 130px;
     }
-    display: block;
+
     margin: 1rem 0;
     padding: 0 1vw;
 
-    &:hover svg {
-      fill: $alert_color;
+    font-size: $base_font_size/9*7;
+    color:  $black;
+
+    &:hover {
+      color:  $background_color;
+      svg {
+        fill:  $background_color;
+      }
     }
+
   }
 }

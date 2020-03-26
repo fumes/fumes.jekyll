@@ -1,13 +1,14 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-.sass-cache/
+.jekyll-cache
 # *.css.map
 
 # IMAGES SOURCES files, well lets store 'em online anyway...#
 # uploads/*.*
 
 # more DEV files #
+__LAB
 logs
 _svg/
 *.log
@@ -19,6 +20,7 @@ npm-debug.log*
 
 # ROK files #
 .jekyll
+.workinprogress
 .imagerJS
 
 # OS generated files #
@@ -43,14 +45,3 @@ npm-debug.log*
 *.rar
 *.tar
 *.zip
-
-
-
-
-_svg/sources/instagram.ai
-
-_svg/sources/instagram19.svg
-
-_svg/sources/instagram.svg
-
-_site/assets/css/main.css

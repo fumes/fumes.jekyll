@@ -57,9 +57,6 @@ Not yet:
 
 - [ ] service workers.
 
-- [ ] disqus (or better, lighter alternative) comments (importing old ones from wp?!)  
-
-
 
 ### Fumes development technologies
 
@@ -75,14 +72,6 @@ Stuff for development. Its happens in [Source branch](https://github.com/fumes/f
 
 - Netlify CND and SSL/https.
 
-#### Old deploy stuff
-
-- [rake publish](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) script to automate publishing to Master branch. From project local root, enter:
-
-```sh
-rake publish
-```
-The script get the content of `_site` folder and `git push origin master --force`
 
 #### Prerequisites, first setup:
 
