@@ -2,7 +2,7 @@
 
 .footer {
   //background-color: $background_color;
-  border-top: 1px solid $grey_color_dark;
+  //border-top: 1px solid $grey_color_dark;
   padding: $spacing_unit 0;
   color: $black;
 
@@ -10,6 +10,7 @@
   bottom: 0;
 
 }
+
 
 .footer__description {
   text-align: center;
@@ -36,7 +37,7 @@
     }
   }
 
-  svg {
+  svg:not(.vulcanologo) {
     width: $icon_size/1.5;
     height: $icon_size/1.5;
     fill: $black;

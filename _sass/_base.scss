@@ -120,9 +120,8 @@ blockquote {
     margin-bottom: 0;
   }
 }
-//SVGs
 
-svg {
+svg:not(.vulcanologo) {
   display: block;
   width: 100%;
   height: 100%;
